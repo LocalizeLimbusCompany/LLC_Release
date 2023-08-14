@@ -4436,7 +4436,7 @@
         {
           "level": 1,
           "name": "泯灭咒符",
-          "desc": "指定复贴的咒符 层数最多的单位\n[EndBattle] 消耗目标所有复贴的咒符 ",
+          "desc": "指定复贴的咒符 层数最高的单位\n[EndBattle] 消耗目标所有复贴的咒符 ",
           "coinlist": [
             {
               "coindescs": [
@@ -4481,7 +4481,7 @@
         {
           "level": 1,
           "name": "泯灭咒符",
-          "desc": "指定复贴的咒符 层数最多的单位\n[EndBattle] 消耗目标所有复贴的咒符 ",
+          "desc": "指定复贴的咒符 层数最高的单位\n[EndBattle] 消耗目标所有复贴的咒符 ",
           "coinlist": [
             {
               "coindescs": [
