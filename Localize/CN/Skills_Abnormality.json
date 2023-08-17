@@ -2507,13 +2507,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咕咕！",
-          "desc": "若自身在上回合未受到伤害，则使本技能的硬币威力+3",
+          "name": "끄끄끅!",
+          "desc": "이전 턴에 피해를 입지 않았다면 코인 위력 +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身获得3层迅捷 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 신속 3 얻음"
                 }
               ]
             }
@@ -2526,17 +2526,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咕咕呜！",
-          "desc": "若自身上回合未受到伤害，则使本技能的硬币威力+3",
+          "name": "끄끄옥!",
+          "desc": "이전 턴에 피해를 입지 않았다면 코인 위력 +3",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复7点体力"
+                  "desc": "[OnSucceedAttack] 체력 7 회복"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加2层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 다음 턴에 마비 2 부여"
                 }
               ]
             }
