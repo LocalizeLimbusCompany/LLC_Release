@@ -724,14 +724,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "도약",
+          "name": "腾跃速攻",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전을 3 소모하여 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttack] 消耗3层充能 并在下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -739,14 +739,14 @@
         },
         {
           "level": 2,
-          "name": "도약",
+          "name": "腾跃速攻",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전을 3 소모하여 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttack] 消耗3层充能 并在下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -754,20 +754,20 @@
         },
         {
           "level": 4,
-          "name": "도약",
-          "desc": "[WhenUse] 자신의 충전 횟수 3 증가",
+          "name": "腾跃速攻",
+          "desc": "[WhenUse] 使自身获得3层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 충전 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得3层充能 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전을 3 소모하여 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttack] 消耗3层充能 并在下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -780,7 +780,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "과충전",
+          "name": "过度充能",
           "desc": "",
           "coinlist": [
             {},
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전을 5 소모하여 다음 턴에 공격 위력 감소 2 부여. 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 消耗5层充能 并在下回合对目标施加2层虚弱 与3层麻痹 "
                 }
               ]
             }
@@ -796,15 +796,15 @@
         },
         {
           "level": 4,
-          "name": "과충전",
-          "desc": "충전 횟수가 5 이상이면, 합 위력 +2",
+          "name": "过度充能",
+          "desc": "若自身的充能 层数不低于5层，则使本技能的拼点威力+2",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전을 5 소모하여 다음 턴에 공격 위력 감소 2 부여. 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 消耗5层充能 并在下回合对目标施加2层虚弱 与3层麻痹 "
                 }
               ]
             }
@@ -969,14 +969,14 @@
       "levelList": [
         {
           "level": 3,
-          "name": "기회 노리기",
-          "desc": "이전 턴에 피해를 입지 않았다면 코인 위력 +3",
+          "name": "伺机而动",
+          "desc": "若自身在上回合未受到伤害，则使本技能的硬币威力+3",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 파열 5 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加5级破裂 强度"
                 }
               ]
             }
@@ -2513,20 +2513,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "이연격",
+          "name": "双击",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 침잠 1 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 파열 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
                 }
               ]
             }
@@ -2534,20 +2534,20 @@
         },
         {
           "level": 2,
-          "name": "이연격",
-          "desc": "이전 턴에 피해를 입지 않았다면 코인 위력 +1",
+          "name": "双击",
+          "desc": "若上回合自身未受到伤害，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -2555,20 +2555,20 @@
         },
         {
           "level": 4,
-          "name": "이연격",
-          "desc": "이전 턴에 피해를 입지 않았다면 코인 위력 +1",
+          "name": "双击",
+          "desc": "若上回合自身未受到伤害，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 }
               ]
             }
@@ -2581,14 +2581,14 @@
       "levelList": [
         {
           "level": 3,
-          "name": "선풍",
-          "desc": "이전 턴에 피해를 입지 않았다면 코인 위력 +2",
+          "name": "旋风",
+          "desc": "若上回合自身未受到伤害，则使本技能的硬币威力+2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层虚弱 "
                 }
               ]
             }
@@ -2596,20 +2596,20 @@
         },
         {
           "level": 4,
-          "name": "선풍",
-          "desc": "이전 턴에 피해를 입지 않았다면 코인 위력 +2",
+          "name": "旋风",
+          "desc": "若上回合自身未受到伤害，则使本技能的硬币威力+2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 파열 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 }
               ]
             }
@@ -8801,44 +8801,44 @@
       "levelList": [
         {
           "level": 3,
-          "name": "마무리 가속",
+          "name": "加速收工",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 충전 횟수 1 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得1层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 충전 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 충전 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발\n진동 폭발 시 진동 횟수 3 감소, 충전을 전부 소모하여 (소모한 충전 횟수 X 5)% 만큼 진동 폭발의 흐트러짐 피해량이 증가함 (최대 50%)",
-                  "summary": "[OnSucceedAttack] 진동 폭발. 진동 횟수 3 감소. 충전을 소모하여 흐트러짐 피해량이 증가"
+                  "desc": "[OnSucceedAttack] 引爆目标的震颤 \n引爆震颤 时，使目标的震颤 层数减少3层。消耗所有充能 层数并使震颤 引爆时混乱阈值的前移量增加(所消耗充能 层数×5)%（最多+50%）",
+                  "summary": "[OnSucceedAttack] 引爆震颤 ，并使目标的震颤 层数减少3层。消耗充能 层数，并使混乱阈值的前移量增加"
                 }
               ]
             }
@@ -8846,44 +8846,44 @@
         },
         {
           "level": 4,
-          "name": "마무리 가속",
-          "desc": "대상의 진동 횟수가 10 이상이면, 코인 위력 +1",
+          "name": "加速收工",
+          "desc": "若目标的震颤 层数不低于10层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 충전 횟수 1 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得1层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 충전 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 충전 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발\n진동 폭발 시 진동 횟수 3 감소, 충전을 전부 소모하여 (소모한 충전 횟수 X 5)% 만큼 진동 폭발의 흐트러짐 피해량이 증가함 (최대 50%)",
-                  "summary": "[OnSucceedAttack] 진동 폭발. 진동 횟수 3 감소. 충전을 소모하여 흐트러짐 피해량이 증가"
+                  "desc": "[OnSucceedAttack] 引爆目标的震颤 。\n引爆震颤 时，使目标的震颤 层数减少3层。消耗所有充能 层数，并使震颤 引爆时混乱阈值的前移量增加(所消耗充能 层数×5)%（最多+50%）",
+                  "summary": "[OnSucceedAttack] 引爆震颤 ，并使目标的震颤 层数减少3层。消耗充能 层数，并使混乱阈值的前移量增加"
                 }
               ]
             }
@@ -10540,32 +10540,32 @@
       "levelList": [
         {
           "level": 1,
-          "name": "코뿔소 돌진",
-          "desc": "[WhenUse] 충전 횟수가 10 이상이면, 코인 위력 +1",
+          "name": "犀角突击",
+          "desc": "[WhenUse] 若自身的充能 层数不低于10层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 2 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗2层充能 ，并对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 3 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗3层充能 ，并对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 2 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗2层充能 ，并对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 3 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗3层充能 ，并对目标施加1层流血 "
                 }
               ]
             },
@@ -10574,32 +10574,32 @@
         },
         {
           "level": 4,
-          "name": "코뿔소 돌진",
-          "desc": "[WhenUse] 충전 횟수가 10 이상이면, 코인 위력 +2",
+          "name": "犀角突击",
+          "desc": "[WhenUse] 若自身的充能 层数不低于10层，则使本技能的硬币威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 2 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗2层充能 ，并对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 3 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗3层充能 ，并对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 2 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗2层充能 ，并对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 충전 3 소모. 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 消耗3层充能 ，并对目标施加1层流血 "
                 }
               ]
             },
@@ -10702,21 +10702,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "집중 방어",
-          "desc": "[WhenUse] 자신의 보호막이 15 이상이면, 호흡 횟수 2 증가",
+          "name": "专注防御",
+          "desc": "[WhenUse] 若自身的护盾不低于15点，则使自身获得2层呼吸法 ",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 2,
-          "name": "집중 방어",
-          "desc": "[WhenUse] 자신의 보호막이 15 이상이면, 호흡 횟수 2 증가",
+          "name": "专注防御",
+          "desc": "[WhenUse] 若自身的护盾不低于15点，则使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层呼吸法 "
                 }
               ]
             },
@@ -10725,13 +10725,13 @@
         },
         {
           "level": 4,
-          "name": "집중 방어",
-          "desc": "[WhenUse] 자신의 보호막이 15 이상이면, 호흡 횟수 2 증가\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 4 증가\n[WhenUse] 호흡 횟수 2 증가",
+          "name": "专注防御",
+          "desc": "[WhenUse] 若自身的护盾不低于15点，则使自身获得2层呼吸法 \n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +4\n[WhenUse] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层呼吸法 "
                 }
               ]
             },
