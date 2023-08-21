@@ -3508,7 +3508,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 引爆目标的震颤 ；对其施加1层打击易损 "
+                  "desc": "[OnSucceedAttack] 引爆目标的震颤 ；对目标施加1层打击易损 "
                 }
               ]
             }
