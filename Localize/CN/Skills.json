@@ -5183,7 +5183,7 @@
         {
           "level": 3,
           "name": "突然袭击",
-          "desc": "[WhenUse] 使体力最低的友方单位获得1层守护 ",
+          "desc": "[WhenUse] 下回合使体力最低的友方单位获得1层守护 ",
           "coinlist": [
             {
               "coindescs": [
