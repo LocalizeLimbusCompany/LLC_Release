@@ -2186,7 +2186,7 @@
                   "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加4层破绽 "
+                  "desc": "[OnSucceedAttackHead] 对目标施加4层破绽 "
                 }
               ]
             }
@@ -2278,7 +2278,7 @@
                   "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合对目标施加4层破绽 "
+                  "desc": "[OnSucceedAttackHead] 对目标施加4层破绽 "
                 }
               ]
             }
