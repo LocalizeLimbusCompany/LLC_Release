@@ -2,6 +2,9 @@ param(
     [string]$Authorization
 )
 
+Remove-Item -Path "Localize" -Recurse
+Copy-Item -Path LocalizeLimbusCompany/Localize . -Force -Recurse
+
 $ErrorFile = "./Error.txt"
 if ((Test-Path -Path $ErrorFile)) {
 Remove-Item $ErrorFile
@@ -30,7 +33,7 @@ if (Test-Path -Path "./Error.txt") {
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add Localize/*
-          $commitMessage = $(Get-Date -Format "MM-dd")+" ParaToGitWrok"
+          $commitMessage = $(Get-Date -Format "MM-dd")+" AutoUpdate"
           git commit -m $commitMessage
           git push https://github-actions[bot]:${ secrets.GH_TOKEN }@github.com/LocalizeLimbusCompany/LLC_Release
           }
