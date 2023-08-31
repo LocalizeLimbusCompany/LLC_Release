@@ -539,6 +539,70 @@
     {
       "id": "introduce_sentence_68",
       "content": "如何，汝仍认为吾{0}吗？"
+    },
+    {
+      "id": "introduce_word_69",
+      "content": "无谓的抵抗"
+    },
+    {
+      "id": "introduce_sentence_69",
+      "content": "老实点别动……不要做{0}！"
+    },
+    {
+      "id": "introduce_word_70",
+      "content": "焊接"
+    },
+    {
+      "id": "introduce_sentence_70",
+      "content": "好的……接下来是{0}……"
+    },
+    {
+      "id": "introduce_word_71",
+      "content": "变身"
+    },
+    {
+      "id": "introduce_sentence_71",
+      "content": "好~{0}完成！"
+    },
+    {
+      "id": "introduce_word_72",
+      "content": "放心"
+    },
+    {
+      "id": "introduce_sentence_72",
+      "content": "来，所有人把嘴张开。{0}地喝下去吧，呵呵。"
+    },
+    {
+      "id": "introduce_word_73",
+      "content": "大叔"
+    },
+    {
+      "id": "introduce_sentence_73",
+      "content": "{0}？是不是有点太过了……"
+    },
+    {
+      "id": "introduce_word_74",
+      "content": "观察"
+    },
+    {
+      "id": "introduce_sentence_74",
+      "content": "我并不是{0}目标……"
+    },
+    {
+      "id": "introduce_word_75",
+      "content": "培训"
+    },
+    {
+      "id": "introduce_sentence_75",
+      "content": "荒谬。竟然让我去{0}。"
+    },
+    {
+      "id": "introduce_word_76",
+      "content": "WARP列车"
+    },
+    {
+      "id": "introduce_sentence_76",
+      "content": "那些{0}里往往相当拥挤，您不这么觉得吗？"
     }
   ]
 }

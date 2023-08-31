@@ -419,6 +419,48 @@
       "name": "堂吉诃德",
       "nameWithTitle": "堂吉诃德",
       "desc": "堂吉诃德的第5人格"
+    },
+    {
+      "id": 10807,
+      "title": "臼齿修船厂\n收尾人",
+      "name": "以实玛利",
+      "nameWithTitle": "以实玛利",
+      "desc": "以实玛利的第7人格"
+    },
+    {
+      "id": 11007,
+      "title": "臼齿修船厂\n收尾人",
+      "name": "辛克莱",
+      "nameWithTitle": "辛克莱",
+      "desc": "辛克莱的第7人格"
+    },
+    {
+      "id": 11206,
+      "title": "Zwei协会\n南部4科",
+      "name": "格里高尔",
+      "nameWithTitle": "格里高尔",
+      "desc": "格里高尔的第6人格"
+    },
+    {
+      "id": 10205,
+      "title": "Zwei协会\n南部4科",
+      "name": "浮士德",
+      "nameWithTitle": "浮士德",
+      "desc": "浮士德的第5人格"
+    },
+    {
+      "id": 10405,
+      "title": "W公司 3级\n清扫人员",
+      "name": "良秀",
+      "nameWithTitle": "良秀",
+      "desc": "良秀的第5人格"
+    },
+    {
+      "id": 10606,
+      "title": "W公司 2级\n清扫人员",
+      "name": "鸿璐",
+      "nameWithTitle": "鸿璐",
+      "desc": "鸿璐的第6人格"
     }
   ]
 }

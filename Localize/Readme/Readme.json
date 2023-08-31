@@ -1,0 +1,44 @@
+{
+  "noticeList": [
+    {
+      "id": 1192,
+      "version": 0,
+      "type": 1,
+      "startDate": "2023-03-20T00:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Github",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"Github\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"如果喜欢的话请点个Star吧\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"作者 Bright#1192\"},{\"formatKey\":\"Image\",\"formatValue\":\"Readme_ModAuthor\"}]}"
+    },
+    {
+      "id": 1193,
+      "version": 0,
+      "type": 1,
+      "startDate": "2023-03-20T00:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "反馈/上报问题/QQ群",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"上报问题请提供游戏目录下的 '游戏日志.log',不提供将大概率不受理\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues>LocalizeLimbusCompany/Issues</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"这些日志文件每次关闭游戏都会刷新，请确保正确且有效\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"QQ群\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://jq.qq.com/?_wv=1027&k=5NE6Kvg2\"},{\"formatKey\":\"Image\",\"formatValue\":\"Readme_LocalizeLimbusCompany_Group\"}]}"
+    },
+    {
+      "id": 1194,
+      "version": 0,
+      "type": 1,
+      "startDate": "2023-03-20T00:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "汉化组\n中文WIKI\nLLC 官网",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"都市零协会汉化组\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://space.bilibili.com/1247764479\"},{\"formatKey\":\"Text\",\"formatValue\":\"边狱公司中文WIKI\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://limbuscompany.huijiwiki.com\"},{\"formatKey\":\"Text\",\"formatValue\":\"LLC 官网\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://www.zeroasso.top\"}]}"
+    },
+    {
+      "id": 2911,
+      "version": 0,
+      "type": 0,
+      "startDate": "2023-08-24T08:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Mod V0.6.0\n<color=red>MelonLoader版本已不再维护\n请及时更新</color>",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"安装器链接\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox\"},{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.0\\n- 改进\\n  - 增加BepinEx模组框架的兼容版本以修复MelonLoader加载时白屏可能带来的非预期用户行为\\n  - 安装器已更新，现在他将默认卸载ML版并安装BIE版模组\\n  - MelonLoader兼容版本已不再维护\\n- 汉化内容跟进\\n  - W公司 良秀&鸿璐 的汉化内容更新\\n  - 其他内容跟进\"}]}"
+    }
+  ]
+}

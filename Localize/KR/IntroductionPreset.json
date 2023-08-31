@@ -539,6 +539,70 @@
     {
       "id": "introduce_sentence_68",
       "content": "어때, 아직도 {0}한가?"
+    },
+    {
+      "id": "introduce_word_69",
+      "content": "헛짓거리"
+    },
+    {
+      "id": "introduce_sentence_69",
+      "content": "가만히 있어라… {0}하지 말고!"
+    },
+    {
+      "id": "introduce_word_70",
+      "content": "용접"
+    },
+    {
+      "id": "introduce_sentence_70",
+      "content": "좋아… 다음은 {0}…"
+    },
+    {
+      "id": "introduce_word_71",
+      "content": "변신"
+    },
+    {
+      "id": "introduce_sentence_71",
+      "content": "자아~ {0} 완료!"
+    },
+    {
+      "id": "introduce_word_72",
+      "content": "안심"
+    },
+    {
+      "id": "introduce_sentence_72",
+      "content": "자, 다들 아가리 벌려. {0}하고 쳐마셔보라고, 후후."
+    },
+    {
+      "id": "introduce_word_73",
+      "content": "아저씨"
+    },
+    {
+      "id": "introduce_sentence_73",
+      "content": "{0}(이)라니, 말이 심하시네…"
+    },
+    {
+      "id": "introduce_word_74",
+      "content": "관찰"
+    },
+    {
+      "id": "introduce_sentence_74",
+      "content": "저는 {0} 대상이 아닙니다만…"
+    },
+    {
+      "id": "introduce_word_75",
+      "content": "교육"
+    },
+    {
+      "id": "introduce_sentence_75",
+      "content": "어이가 없군. {0}(이)나 하고 있으라니."
+    },
+    {
+      "id": "introduce_word_76",
+      "content": "워프 열차"
+    },
+    {
+      "id": "introduce_sentence_76",
+      "content": "{0}(이)라는 거, 생각보다 좁던데요?"
     }
   ]
 }

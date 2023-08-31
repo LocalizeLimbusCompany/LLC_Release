@@ -533,7 +533,7 @@
     {
       "id": "Choice_901007",
       "name": "Gentle Sendoff",
-      "desc": "Turn Start: Heal 10 HP and SP.",
+      "desc": "Turn Start: Heal 10 HP and SP. (Up to 3 turns)",
       "summary": "HP & SP +10"
     },
     {
@@ -576,7 +576,7 @@
     {
       "id": "Assemble",
       "name": "Fanatic",
-      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn."
+      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
     },
     {
       "id": "Nail",
@@ -696,7 +696,7 @@
     {
       "id": "AssemblePersonality",
       "name": "Fanatic",
-      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn."
+      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
     },
     {
       "id": "MarkOfHeresy",
@@ -1193,6 +1193,41 @@
       "id": "Aggro",
       "name": "Aggro",
       "desc": "In focused encounters, slots with higher Aggro values are more likely to be targeted by enemies."
+    },
+    {
+      "id": "BurstVulnerable",
+      "name": "Rupture Fragility",
+      "desc": "Take +1 damage per Count from Rupture effects for one turn."
+    },
+    {
+      "id": "EmergencyFeed",
+      "name": "Emergency Nutrient Supply",
+      "desc": "At the end of the turn, if this unit has healed 15% of Max HP or more, the body is restored next turn."
+    },
+    {
+      "id": "Bullet_Crab",
+      "name": "Molted Shell Shot",
+      "desc": "Resource used by certain skills for additional effects."
+    },
+    {
+      "id": "SinkingVulnerable",
+      "name": "Sinking Fragility",
+      "desc": "Take +1 damage per Count from Sinking effects for one turn."
+    },
+    {
+      "id": "BurstProtection",
+      "name": "Rupture Protection",
+      "desc": "Take -1 damage per Count from Rupture effects for one turn."
+    },
+    {
+      "id": "PseudoLastBoss_KingCrap",
+      "name": "Crab Rage",
+      "desc": "At the start of the turn, apply Attack Power Up to all other allied crabs, and gain 2 Protection if its Shell isn't broken.\n-5 SP to target when using a skill.\nAt 50%- HP, every part gains 2 Attack Power Up and 2 Fragile."
+    },
+    {
+      "id": "ChargeForceField",
+      "name": "Charge Barrier",
+      "desc": "- Gain (Charge Barrier # x 3) Shield.\n- Lose 1 Charge Barrier after losing (Charge Barrier # x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Charge Barrier effects activate at (Charge Barrier # x 5) instead of at (Charge Barrier # x 3))\n- Turn End: Gain a Charge Count for each Charge Barrier #, and Charge Barrier and Shield gained from Charge Barrier expire completely next turn"
     }
   ]
 }

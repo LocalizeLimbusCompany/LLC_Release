@@ -35,7 +35,11 @@
     "HellsChicken",
     "DailyLoginEvent",
     "MirrorDungeonUI_2",
-    "MainUIText_UPDATE_ON_0720"
+    "MainUIText_UPDATE_ON_0720",
+    "EventCommonText",
+    "EventUmidaText",
+    "RailwayDungeonUI_2",
+    "FormationNameFilterUI"
   ],
   "bgmLyrics": [
     "BgmLyrics_Credit",
@@ -52,16 +56,43 @@
   ],
   "enemy": [
     "Enemies",
-    "Enemies_Refraction"
+    "Enemies_Refraction",
+    "Enemies91-4"
   ],
   "ego": [
     "Egos"
   ],
   "skill": [
     "Skills",
+    "Skills_personality-01",
+    "Skills_personality-02",
+    "Skills_personality-03",
+    "Skills_personality-04",
+    "Skills_personality-05",
+    "Skills_personality-06",
+    "Skills_personality-07",
+    "Skills_personality-08",
+    "Skills_personality-09",
+    "Skills_personality-10",
+    "Skills_personality-11",
+    "Skills_personality-12",
     "Skills_Ego",
+    "Skills_Ego_Personality-01",
+    "Skills_Ego_Personality-02",
+    "Skills_Ego_Personality-03",
+    "Skills_Ego_Personality-04",
+    "Skills_Ego_Personality-05",
+    "Skills_Ego_Personality-06",
+    "Skills_Ego_Personality-07",
+    "Skills_Ego_Personality-08",
+    "Skills_Ego_Personality-09",
+    "Skills_Ego_Personality-10",
+    "Skills_Ego_Personality-11",
+    "Skills_Ego_Personality-12",
     "Skills_Enemy",
+    "Skills_Enemy91-4",
     "Skills_Abnormality",
+    "Skills_Abnormality91-4",
     "Skills_Abnormality_Refraction",
     "Skills_Abnormality_Mirror",
     "Skills_Tutorial"
@@ -70,12 +101,17 @@
     "Passives",
     "Passives_check4",
     "Passives_Enemy",
+    "Passives_Enemy91-4",
     "Passives_Abnormality",
     "Passives_Abnormality_Refraction",
+    "Passives_Abnormality91-4",
     "Passive_Ego"
   ],
   "buf": [
     "Bufs"
+  ],
+  "buffAbilities": [
+    "BuffAbilities"
   ],
   "item": [
     "Items"
@@ -134,7 +170,8 @@
     "StageNode1-2",
     "StageNode1-3",
     "StageNode91-3",
-    "StageNode1-4"
+    "StageNode1-4",
+    "StageNode91-4"
   ],
   "dungeonNodeInfo": [
     "MirrorDungeonNode1-1",
@@ -152,6 +189,9 @@
   ],
   "railwayDungeonNodeInfo": [
     "RailwayDungeonNode1-1"
+  ],
+  "railwayDungeonBuff": [
+    "RailwayDungeonBuff"
   ],
   "quest": [
     "Quest"
@@ -245,7 +285,13 @@
     "Voice_Ishmael_LiuAsso4_10806",
     "Voice_Meursault_Rcorp_10506",
     "Voice_Rodion_Zwei_10906",
-    "Voice_Donquixote_Cinq_10305"
+    "Voice_Donquixote_Cinq_10305",
+    "Voice_Ishmael_Ucorp_10807",
+    "Voice_Sinclair_Ucorp_11007",
+    "Voice_Gregor_Zwei_11206",
+    "Voice_Faust_Zwei_10205",
+    "Voice_Ryoshu_Wcorp_10405",
+    "Voice_Honglu_Wcorp_10606"
   ],
   "announcer": [
     "Announcer"
@@ -309,7 +355,8 @@
     "ThreadDungeon"
   ],
   "railwayDungeonStationName": [
-    "RailwayDungeonStationName1-1"
+    "RailwayDungeonStationName1-1",
+    "RailwayDungeonStationName2"
   ],
   "dungeonName": [
     "DungeonName_Event"

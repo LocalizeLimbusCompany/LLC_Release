@@ -146,7 +146,7 @@
     },
     {
       "id": "tutorial_403_20",
-      "content": "In regular combat, an enemy is only attacked once by an AoE skill, even if the unit is taking up multiple targets."
+      "content": "In regular encounters, an enemy is only attacked once by an AoE skill, even if the unit is taking up multiple targets."
     },
     {
       "id": "tutorial_403_21",
@@ -198,7 +198,7 @@
     },
     {
       "id": "tutorial_404_10",
-      "content": "For regular combat, auto-chaining is only available on stages where you’ve cleared the EX Conditions.\nAuto-chaining can always be used for Focused Encounters.\nNote that auto-chains are not necessarily the guaranteed optimal solution."
+      "content": "For regular encounters, auto-chaining is only available on stages where you’ve cleared the EX Conditions.\nAuto-chaining can always be used for Focused Encounters.\nNote that auto-chains are not necessarily the guaranteed optimal solution."
     },
     {
       "id": "tutorial_ego_overclock_title",
@@ -227,6 +227,22 @@
     {
       "id": "tutorial_ego_overclock_6",
       "content": "Unstable overclocked skills carry the risk of targeting indiscriminately and have the same effects and values as the corrosion skill."
+    },
+    {
+      "id": "tutorial_403_06_New",
+      "content": "<E.G.O Skills> must be generated on the Dashboard, much like defensive skills. Press and hold the highlighted portrait."
+    },
+    {
+      "id": "tutorial_403_07_New",
+      "content": "Press the icon of the <E.G.O> you want to use."
+    },
+    {
+      "id": "tutorial_403_07_1",
+      "content": "Consume E.G.O Resources to generate an E.G.O. Skill icon on the Dashboard."
+    },
+    {
+      "id": "tutorial_403_07_2",
+      "content": "E.G.O. Skills can be canceled by tapping on the portrait twice once they are added to the Dashboard. The E.G.O. skill will be canceled and your resources will be refunded."
     }
   ]
 }
