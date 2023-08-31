@@ -11,12 +11,23 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v3
-    - name: Checkout
-      uses: actions/checkout@v3
-      with:
-        repository: 'LocalizeLimbusCompany/LocalizeLimbusCompany'
-        path: LocalizeLimbusCompany
+    - name: CheckUpdate
+      id: check_update
+      run: |
+        $response = Invoke-WebRequest -Uri https://paratranz.cn/api/projects/6860 -Method Get
+        $content = $response.Content | ConvertFrom-Json
+        if ($content.stats.tp -eq 1) {
+            echo "has_updater=true" >> $env:GITHUB_OUTPUT
+        } else {
+            echo "no updater"
+        }
+#    - name: Checkout
+#      uses: actions/checkout@v3
+#      with:
+#        repository: 'LocalizeLimbusCompany/LocalizeLimbusCompany'
+#        path: LocalizeLimbusCompany
     - name: Run build script
+      if: steps.check_update.outputs.has_update == 'true'
       id: check_error
       run: |
         ./Download.ps1 ${{ secrets.PARATRANZ_ROOT }}
