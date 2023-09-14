@@ -34,11 +34,11 @@
     },
     {
       "id": "ADD",
-      "content": "더하기"
+      "content": "加算"
     },
     {
       "id": "SUB",
-      "content": "빼기"
+      "content": "减算"
     }
   ]
 }

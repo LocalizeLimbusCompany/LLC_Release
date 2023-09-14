@@ -6,7 +6,7 @@
     },
     {
       "id": "GiveBuffOnSucceedAttack",
-      "desc": "적중 시 {0} {1} 부여"
+      "desc": "命中时对目标施加{0}{1}"
     },
     {
       "id": "MaxHpMultiplierByStack",
