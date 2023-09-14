@@ -27,7 +27,7 @@ jobs:
 #        repository: 'LocalizeLimbusCompany/LocalizeLimbusCompany'
 #        path: LocalizeLimbusCompany
     - name: Run build script
-      if: steps.check_update.outputs.has_update == 'true'
+      if: steps.check_update.outputs.has_updater == 'true'
       id: check_error
       run: |
         ./Download.ps1 ${{ secrets.PARATRANZ_ROOT }}
