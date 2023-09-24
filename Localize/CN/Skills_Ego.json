@@ -3608,7 +3608,7 @@
           "level": 1,
           "name": "狐雨",
           "abName": "流浪狐狸",
-          "desc": "[CantIdentify]\n指定场上体力值最低的单位\n[BeforeAttack] 使自身获得5层呼吸法 ",
+          "desc": "[CantIdentify]\n指定场上体力最低的单位\n[BeforeAttack] 使自身获得5层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3626,7 +3626,7 @@
           "level": 3,
           "name": "狐雨",
           "abName": "流浪狐狸",
-          "desc": "[CantIdentify]\n指定场上体力值最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
+          "desc": "[CantIdentify]\n指定场上体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3650,7 +3650,7 @@
           "level": 4,
           "name": "狐雨",
           "abName": "流浪狐狸",
-          "desc": "[CantIdentify]\n指定场上体力值最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
+          "desc": "[CantIdentify]\n指定场上体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
