@@ -3959,7 +3959,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 若自自身现存体力不高于25%，则使自身恢复本硬币伤害量100%的体力"
+                  "desc": "[CriticalOnSucceedAttack] 若自身现存体力不高于25%，则使自身恢复本硬币伤害量100%的体力"
                 }
               ]
             }
