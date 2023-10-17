@@ -162,7 +162,7 @@
     },
     {
       "id": "introduce_sentence_1",
-      "content": "我可以{0}吗？"
+      "content": "{0}，可以吗？"
     },
     {
       "id": "introduce_sentence_2",
@@ -178,7 +178,7 @@
     },
     {
       "id": "introduce_sentence_5",
-      "content": "{0}，到了之后叫醒我。"
+      "content": "{0}，到了之后来个人叫醒我。"
     },
     {
       "id": "introduce_sentence_6",
@@ -210,7 +210,7 @@
     },
     {
       "id": "introduce_sentence_13",
-      "content": "我决定从今以后只专注于{0}！"
+      "content": "我只能专注于{0}的生活了！"
     },
     {
       "id": "introduce_sentence_14",
