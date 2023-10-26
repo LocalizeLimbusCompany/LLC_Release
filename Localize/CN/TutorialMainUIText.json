@@ -10,39 +10,39 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_title_01",
-      "content": "人格替换"
+      "content": "编队（罪人界面）"
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_desc_01",
-      "content": "点击罪人时，能够展示所选罪人的人格列表，并进行人格的替换。"
+      "content": "在罪人界面选择罪人后，将会展示该罪人的人格列表并替换编队内人格。"
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_title_01",
-      "content": "选择播报员"
+      "content": "编队（战斗内容）"
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_desc_01",
-      "content": "选择后能够展示播报员一览。"
+      "content": "在各战斗内容相关的编队窗口中，选择人格图像的上半部分将显示该罪人的人格列表，并从中替换编队人格。"
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_desc_02",
-      "content": "可以在此处更改战斗中使用的播报员。"
+      "content": "전투 중에 사용할 아나운서를 변경할 수 있습니다."
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_title_01",
-      "content": "编队列表"
+      "content": "편성 목록"
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_desc_01",
-      "content": "总计能够组建20个编队。"
+      "content": "在各战斗内容相关的编队窗口中，选择人格图像的下半部分将使该人格参与战斗。"
     },
     {
       "id": "tutorial_mainui_01_selection_page_05_title_01",
-      "content": "罪孽碎片"
+      "content": "E.G.O 자원"
     },
     {
       "id": "tutorial_mainui_01_selection_page_05_desc_01",
-      "content": "能够确认该编队在战斗中所能获取的罪孽碎片的种类与数量。"
+      "content": "在部分无法更改编队的战斗内容中，选择对应人格即可使该人格参与战斗。"
     },
     {
       "id": "tutorial_mainui_02_identityandegolist",
@@ -106,59 +106,59 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
-      "content": "能力值"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
-      "content": "显示该人格的体力，速度值范围以及防御等级。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
-      "content": "物理抗性"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
-      "content": "显示该人格对于斩击，突刺，打击的抗性数值。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
-      "content": "人格故事"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
-      "content": "能够阅读该人格的故事。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
-      "content": "更改插画"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
-      "content": "能够更改人格的插画。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_title_03",
-      "content": "放大插画"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_02_desc_03",
-      "content": "能够将当前插画全屏显示。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
-      "content": "同步阶段"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
-      "content": "随着同步阶段的提高，您将获得更强力的技能。"
-    },
-    {
-      "id": "tutorial_mainui_03_identityinfo_page_03_title_02",
       "content": "等级"
     },
     {
+      "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
+      "content": "等级越高，人格能力值越得以强化。"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
+      "content": "同步阶段"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
+      "content": "同步阶段越高，人格技能效果越得以强化，也能获得新的技能。"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
+      "content": "能力值"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
+      "content": "显示该人格的体力，速度值范围以及防御等级及变动值。"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
+      "content": "耐性信息"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
+      "content": "能够显示人格的耐性信息。"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_title_03",
+      "content": "일러스트 확대"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_02_desc_03",
+      "content": "현재 일러스트를 전체 화면으로 확대합니다."
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
+      "content": "人格信息缩略"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
+      "content": "能够确认人格装备的E.G.O以及所持技能。"
+    },
+    {
+      "id": "tutorial_mainui_03_identityinfo_page_03_title_02",
+      "content": "레벨"
+    },
+    {
       "id": "tutorial_mainui_03_identityinfo_page_03_desc_02",
-      "content": "等级越高，人格就越强。"
+      "content": "레벨이 높아질수록 인격이 강화됩니다."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
@@ -170,83 +170,83 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_title_01",
-      "content": "攻击类型"
+      "content": "공격 유형"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
-      "content": "分为斩击，突刺，打击三类。"
+      "content": "参与战斗的人格能够使用战斗被动技能。每回合开始时，若满足条件则会触发相应战斗被动技能。"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_title_02",
-      "content": "硬币个数"
+      "content": "코인 개수"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_desc_02",
-      "content": "显示技能所持硬币的个数。"
+      "content": "코인의 개수를 표시합니다."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_title_03",
-      "content": "数量"
+      "content": "수량"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_desc_03",
-      "content": "显示该人格在其技能列表中拥有多少该技能。"
+      "content": "인격이 해당 스킬을 얼마나 보유하고 있는 지를 나타냅니다."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_title_04",
-      "content": "罪孽属性"
+      "content": "죄악 속성"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_desc_04",
-      "content": "分为暴怒、色欲、怠惰、暴食、忧郁、傲慢、嫉妒，且通过各自的颜色加以区分。"
+      "content": "분노, 색욕, 나태, 탐식, 우울, 오만, 질투로 나뉘며 각각 고유한 색으로 구분할 수 있습니다."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_title_01",
-      "content": "攻击等级"
+      "content": "공격 레벨"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
-      "content": "攻击等级与被攻击一方的防御等级间的差距越大，伤害量的增减越为明显。"
+      "content": "未参与战斗的人格能够使用支援被动技能。每回合开始时，若满足条件则会触发相应支援被动技能。"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_title_02",
-      "content": "技能威力"
+      "content": "스킬 위력"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_02",
-      "content": "显示技能的基础威力。"
+      "content": "스킬의 기본 위력을 표시합니다."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_title_03",
-      "content": "硬币威力"
+      "content": "코인 위력"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_03",
-      "content": "显示硬币的数值及其生效时的演算方法，演算方法分为加算，减算，乘算。"
+      "content": "코인의 값과 연산되는 방식을 나타내며, 연산 방식에는 더하기, 빼기, 곱하기가 있습니다."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_title_04",
-      "content": "攻击容量"
+      "content": "공격 가중치"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_04",
-      "content": "该技能所指定的行动槽数量。根据目标的行动槽容量不同，容量高于1的行动槽可能消耗1以上的攻击容量。"
+      "content": "스킬이 타겟팅하는 슬롯의 수입니다. 피격자의 슬롯 가중치에 따라 공격 가중치가 슬롯에 1개 이상 소모될 수 있습니다."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
-      "content": "技能效果"
+      "content": "技能图标"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_desc_01",
-      "content": "满足一定条件时将会发动的技能效果。"
+      "content": "通过技能图标的颜色可以区分其罪孽属性。罪孽属性被分为暴怒，色欲，怠惰，暴食，忧郁，傲慢，嫉妒七种颜色。"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_title_02",
-      "content": "硬币效果"
+      "content": "코인별 효과"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_desc_02",
-      "content": "满足硬币条件时将会发动的效果。拼点判定失败的硬币效果将无法发动。"
+      "content": "코인에 따른 조건을 만족할 경우 발동하는 스킬의 효과입니다. 판정에 실패한 코인의 효과는 발동되지 않습니다."
     },
     {
       "id": "tutorial_mainui_04_egoinfo",
@@ -254,115 +254,115 @@
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
-      "content": "罪孽抗性"
+      "content": "异想解析阶段"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
-      "content": "显示E.G.O对于暴怒，色欲，怠惰，暴食，忧郁，傲慢，嫉妒属性的抗性数值。"
+      "content": "异想解析阶段越高，技能效果越得以强化。"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_title_02",
-      "content": "放大插画"
+      "content": "일러스트 확대"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_desc_02",
-      "content": "能够将当前插画全屏显示。"
+      "content": "현재 일러스트를 전체 화면으로 확대합니다."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
-      "content": "资源消耗"
+      "content": "耐性信息"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
-      "content": "显示使用E.G.O技能时需要消耗的理智值以及罪孽碎片的种类和数量。"
+      "content": "能够显示E.G.O的耐性信息。人格使用E.G.O后，该人格的罪孽属性会被替换为E.G.O的罪孽属性。"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_title_01",
-      "content": "E.G.O异想解析阶段"
+      "content": "E.G.O技能"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_desc_01",
-      "content": "E.G.O异想解析阶段越高，所获得的技能越为强力。"
+      "content": "E.G.O拥有强大的技能效果与威力。能够确认E.G.O技能的详细信息。"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_title_02",
-      "content": "技能"
+      "content": "스킬"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_desc_02",
-      "content": "每个E.G.O都拥有不同的技能。可以确认技能详情。"
+      "content": "E.G.O는 저마다 다양한 스킬을 가지고 있습니다. 스킬에 대한 자세한 정보를 확인할 수 있습니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_title_01",
-      "content": "攻击类型"
+      "content": "공격 유형"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_desc_01",
-      "content": "分为斩击，突刺，打击三类。"
+      "content": "참격, 관통, 타격으로 나뉩니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_title_02",
-      "content": "硬币个数"
+      "content": "코인 개수"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_desc_02",
-      "content": "显示（技能所持）硬币的个数。"
+      "content": "코인의 개수를 표시합니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_title_03",
-      "content": "花费"
+      "content": "코스트"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_desc_03",
-      "content": "显示使用E.G.O技能时所需花费的资源。"
+      "content": "E.G.O 스킬을 사용하기 위한 비용을 나타냅니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_title_04",
-      "content": "罪孽属性"
+      "content": "죄악 속성"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_04_desc_04",
-      "content": "分为暴怒，色欲，怠惰，暴食，忧郁，傲慢，嫉妒，且通过各自的颜色加以区分。"
+      "content": "분노, 색욕, 나태, 탐식, 우울, 오만, 질투로 나뉘며 각각 고유한 색으로 구분할 수 있습니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_05_title_01",
-      "content": "攻击等级"
+      "content": "공격 레벨"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_05_desc_01",
-      "content": "攻击等级与被攻击一方的防御等级间的差距越大，伤害量的增减越为明显。E.G.O的攻击等级由人格等级决定。"
+      "content": "스킬의 공격 레벨과 피격자의 방어 레벨 간의 격차가 클수록 피해량이 크게 증가하거나 혹은 감소합니다. E.G.O의 공격 레벨은 인격의 레벨에 따라 결정됩니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_05_title_02",
-      "content": "技能威力"
+      "content": "스킬 위력"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_05_desc_02",
-      "content": "显示技能的基础威力。"
+      "content": "스킬의 기본 위력을 표시합니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_05_title_03",
-      "content": "硬币威力"
+      "content": "코인 위력"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_05_desc_03",
-      "content": "显示硬币的数值及其生效时的计算方法，计算方法分为加算，减算，乘算。"
+      "content": "코인의 값과 연산되는 방식을 나타내며, 연산 방식에는 더하기, 빼기, 곱하기가 있습니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_06_title_01",
-      "content": "技能效果"
+      "content": "스킬 효과"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_06_desc_01",
-      "content": "满足一定条件时将会发动的技能效果。"
+      "content": "조건을 만족할 경우 발동하는 스킬의 효과입니다."
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_06_title_02",
-      "content": "硬币效果"
+      "content": "코인별 효과"
     },
     {
       "id": "tutorial_mainui_04_identityinfo_page_06_desc_02",
-      "content": "满足硬币条件时将会发动的效果。判定失败的硬币效果将无法发动。"
+      "content": "코인에 따른 조건을 만족할 경우 발동하는 스킬의 효과입니다. 판정에 실패한 코인의 효과는 발동되지 않습니다."
     },
     {
       "id": "tutorial_mainui_05_storymain",
@@ -518,7 +518,7 @@
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_05_title_01",
-      "content": "选择战斗成员"
+      "content": "战斗参与人数"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_05_desc_01",
@@ -1354,7 +1354,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_08",
-      "content": "使用预设，能够加载之前用于镜像迷宫的人格和E.G.O设置。"
+      "content": "使用预设时，可以载入在罪人界面设定的人格与E.G.O。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_09",
