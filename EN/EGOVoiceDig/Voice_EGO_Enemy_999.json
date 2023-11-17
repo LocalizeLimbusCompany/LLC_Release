@@ -1,0 +1,54 @@
+{
+  "dataList": [
+    {
+      "id": "battle_8099_s4_1-02",
+      "desc": "Skill Activation",
+      "dlg": "Enough games."
+    },
+    {
+      "id": "battle_8099_s2_2-01",
+      "desc": "Skill Activation",
+      "dlg": "Complete and total..."
+    },
+    {
+      "id": "battle_8099_s2_2-02",
+      "desc": "Skill Activation",
+      "dlg": "Extermination!"
+    },
+    {
+      "id": "battle_ak_8105_1-02",
+      "desc": "Skill Activation",
+      "dlg": "I am the Captain of this Lake... of the City...\nI shall seize this beast's heart and sever the evil from its roots!"
+    },
+    {
+      "id": "battle_selection1_8105_1",
+      "desc": "Skill Activation",
+      "dlg": "Yes... Break my heart open and impale my skull, Ishmael!"
+    },
+    {
+      "id": "battle_selection2_8105_1",
+      "desc": "Skill Activation",
+      "dlg": "Once an Ahab... shall be Ahab evermore...!"
+    },
+    {
+      "id": "battle_sacrifice_8106_1",
+      "desc": "Phase Start",
+      "dlg": "Now, carve yourself in my stead!"
+    },
+    {
+      "id": "battle_sacrifice_8106_2",
+      "desc": "Phase Start",
+      "dlg": "The time is finally upon us, my dear crew!"
+    },
+    {
+      "id": "battle_order_attack_8106",
+      "desc": "Assist Attack",
+      "dlg": "Cover me!"
+    },
+    {
+      "id": "battle_order_defence_8106",
+      "desc": "Assist Defense",
+      "dlg": "Defend me now!"
+    }
+  ]
+}
