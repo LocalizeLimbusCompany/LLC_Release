@@ -1,0 +1,1 @@
+# LLC_Release 自动更新汉化

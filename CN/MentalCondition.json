@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "拼点胜利后根据拼点次数按比例增加\n<size=95%>（增加量的基础值为{0}，首次拼点之后每次拼点增加{1}%）</size>",
+      "min": "拼点失败后根据拼点次数按比例减少\n<size=95%>（减少量的基础值为{0}，首次拼点之后每次拼点增加{1}%）</size>"
+    },
+    {
+      "id": "OnKillEnemyAsLevelRatioMultiply",
+      "add": "若击败了等级高于自身的敌方单位，则增加{0}",
+      "min": "若击败了等级低于自身的敌方单位，则减少{0}"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
+      "add": "若友方单位击杀的敌方单位等级高于自身等级，则增加{0}",
+      "min": "若击败友方单位的敌方单位等级低于自身，则增加{0}"
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "拼点失败时，根据拼点次数按比例增加\n<size=95%>（增加量：基础值为{0}，从第二次拼点起，每次拼点增加{1}%）</size>",
+      "min": "拼点失败时，根据拼点次数按比例减少\n<size=95%>（减少量：基础值为{0}，从第二次拼点起，每次拼点增加{1}%）</size>"
+    },
+    {
+      "id": "OnDieAllyAsLevelRatio",
+      "add": "阵亡的友方单位等级高于自身等级时，\n根据等级差相应距相应增加\n<size=95%>（增加量：基础值为{0}，根据等级差相应相应增加{0}）</size>",
+      "min": "阵亡的友方单位等级高于自身等级时，\n根据等级差相应距相应减少\n<size=95%>（减少量：基础值为{0}，根据等级差相应相应增加{0}）</size>"
+    },
+    {
+      "id": "OnRoundStartAfterEvent",
+      "add": "回合开始时，理智值增加{0}",
+      "min": "回合开始时，理智值减少{0}"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_21201_1",
+      "desc": "E.G.O觉醒",
+      "dlg": "我的手臂……发生了变化。"
+    },
+    {
+      "id": "battle_awaken_21202_1",
+      "desc": "E.G.O觉醒",
+      "dlg": "听着，你有自信能抗住这一招吗？"
+    },
+    {
+      "id": "battle_erosion_21202_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "我们一起……腐烂吧。"
+    },
+    {
+      "id": "battle_awaken_21203_1",
+      "desc": "E.G.O觉醒",
+      "dlg": "我给你读一则童话故事怎么样？"
+    },
+    {
+      "id": "battle_erosion_21203_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "所有人都已经……被迷惑了。"
+    },
+    {
+      "id": "battle_awaken_21204_1",
+      "desc": "E.G.O觉醒",
+      "dlg": "来啊，撑过这个试试……我会刚好把你炸死。"
+    },
+    {
+      "id": "battle_erosion_21204_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "唔呵呵呵呵……你就是新的实验体吗？"
+    }
+  ]
+}

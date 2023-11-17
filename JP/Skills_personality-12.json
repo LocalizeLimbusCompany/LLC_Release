@@ -1,0 +1,442 @@
+{
+  "dataList": [
+    {
+      "id": 1120601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "立ち向かう",
+          "desc": "[WhenUse] 防御レベル増加 2を得る",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 次のターンにクイック 1を得る"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "立ち向かう",
+          "desc": "[WhenUse] 防御レベル増加 2を得る\n[DefeatDuel] (自分の防御レベル増加 × 3)だけバリアを得る。次のターンに防御レベル増加 1を得る。",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンにクイック 1を得る"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "立ち向かう",
+          "desc": "[WhenUse] 防御レベル増加 2を得る\n[DefeatDuel] (自分の防御レベル増加 × 5)だけバリアを得る。次のターンに防御レベル増加 2を得る。",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンにクイック 2を得る"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "柔軟な制圧",
+          "desc": "[WhenUse] 防御レベル増加 2を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "自分の防御レベル増加 が6以上なら、ダメージ量 +20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "柔軟な制圧",
+          "desc": "[WhenUse] 防御レベル増加 3を得る\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が2増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "自分の防御レベル増加 が6以上なら、ダメージ量 +30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "柔軟な制圧",
+          "desc": "[WhenUse] 防御レベル増加 3を得る\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が3増加\n自分の防御レベル増加 が6以上なら、マッチ威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "自分の防御レベル増加 が6以上なら、ダメージ量 +40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "守護者",
+          "desc": "[WhenUse] 全味方へ守備威力増加 2, 防御レベル増加 3を付与。\n自分の防御レベル増加 が6以上なら、コイン威力 +1\n自分の防御レベル増加 が10以上なら、ダメージ量 +30%",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンにて全味方に防御レベル増加 3を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "守護者",
+          "desc": "[WhenUse] 全味方へ守備威力増加 2, 防御レベル増加 3を付与。\n自分の防御レベル増加 6につき、コイン威力 +1(最大3)\n自分の防御レベル増加 が10以上なら、ダメージ量 +50%",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンにて全味方に防御レベル増加 3を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "最善の防御",
+          "desc": "[StartBattle] (自分の防御レベル増加 × 2)だけバリアを得る",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "最善の防御",
+          "desc": "[StartBattle] (自分の防御レベル増加 × 2)だけバリアを得る\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が5増加",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "交渉開始",
+          "desc": "[WhenUse] 呼吸 2を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 自分の呼吸 回数が1増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "交渉開始",
+          "desc": "[WhenUse] 呼吸 3を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の呼吸 回数が1増加"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "交渉開始",
+          "desc": "[WhenUse] 呼吸 3を得る\n対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>が7以上なら、コイン威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の呼吸 回数が1増加"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "一方的ビジネス",
+          "desc": "[WhenUse] 自分の呼吸 回数が2増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 呼吸 3を得る"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 出血 3を付与"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "一方的ビジネス",
+          "desc": "[WhenUse] 自分の呼吸 回数が3増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 呼吸 4を得る"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 出血 3を付与"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                },
+                {
+                  "desc": "クリティカル発動時、ダメージ量 +30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "一方的ビジネス",
+          "desc": "対象の出血 7につき、コイン威力 +1(最大2)\n[WhenUse] 自分の呼吸 回数が3増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 呼吸 4を得る"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 出血 3を付与"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 2を付与"
+                },
+                {
+                  "desc": "クリティカル発動時、ダメージ量+50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "予定された決裂",
+          "desc": "[WhenUse] 対象の出血 3につき、呼吸1を得る(最大5)\n自分の<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></color></link></u>が7以上なら、コイン威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "弾丸 1を消耗"
+                },
+                {
+                  "desc": "クリティカル発動時、ダメージ量+50%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "予定された決裂",
+          "desc": "[WhenUse] 対象の出血3につき、呼吸1を得る(最大10)\n自分の<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></color></link></u>7につき、コイン威力+1(最大3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] 出血 回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "弾丸 1を消耗"
+                },
+                {
+                  "desc": "クリティカル発動時、ダメージ量+100%"
+                },
+                {
+                  "desc": "[EnemyKill] 次のターンに加算コイン強化 1を得る"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "一息つくか",
+          "desc": "[OnSucceedEvade] 呼吸 1を得る(1ターンにつき最大3)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "一息つくか",
+          "desc": "[OnSucceedEvade] 呼吸 1を得る(1ターンにつき最大5)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
