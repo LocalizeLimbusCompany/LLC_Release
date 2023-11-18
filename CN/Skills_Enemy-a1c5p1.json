@@ -108,7 +108,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "爪钩连续切割",
+          "name": "爪钩连割",
           "desc": "",
           "coinlist": [
             {
@@ -581,7 +581,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "看那里",
+          "name": "往那看",
           "desc": "",
           "coinlist": [
             {
@@ -639,7 +639,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使除自身以外的全体友方单位获得2层守护 ，1层强壮 "
+                  "desc": "[OnSucceedAttack] 下回合使除自身以外的全体友方单位获得2层守护 与1层强壮 "
                 }
               ]
             }
