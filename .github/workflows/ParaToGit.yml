@@ -12,17 +12,18 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
       with:
-         repository: 'LocalizeLimbusCompany/LocalizeLimbusCompany'
-         path: LocalizeLimbusCompany
-         token: ${{ secrets.ROOT }}
+         path: LocalizeLimbusCompany/Localize
     - name: Checkout
       uses: actions/checkout@v3
       with:
-         path: LocalizeLimbusCompany/Localize
+         repository: 'LocalizeLimbusCompany/LocalizeLimbusCompany'
+         path: Temp
+         token: ${{ secrets.ROOT }}
     - name: Run build script
       id: check_error
       run: |
-        ./LocalizeLimbusCompany/Localize/Download.ps1 ${{ secrets.PARATRANZ_ROOT }}
+        Get-ChildItem -Path ./Temp -Recurse -Force | Move-Item -Destination ./LocalizeLimbusCompany -Force
+        ./LocalizeLimbusCompany/Localize/Download.ps1 ${{ secrets.PARATRANZ_ROOT }} ${{ secrets.SERVER_AUTH }}
     - name: Upload Error.txt to artifact
       if: steps.check_error.outputs.has_error == 'true'
       uses: actions/upload-artifact@v2
@@ -35,8 +36,3 @@ jobs:
         echo "Error detected, cancelling workflow"
         echo ${{  steps.check_error.outputs.error  }}
         exit 1
-    - name: Upload BIE Full
-      uses: actions/upload-artifact@v3
-      with:
-        name: LimbusLocalize_BIE_Dev.7z
-        path: LocalizeLimbusCompany/Release/LimbusLocalize_BIE_Dev.7z

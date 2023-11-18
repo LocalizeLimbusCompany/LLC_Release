@@ -1,5 +1,6 @@
 param(
-    [string]$Authorization
+    [string]$Authorization,
+    [string]$ServerAuthorization
 )
 Set-Location "LocalizeLimbusCompany/Localize"
 
@@ -29,10 +30,14 @@ if (Test-Path -Path "./Error.txt") {
         } else {
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add CN/*
+          git add .
           $commitMessage = $(Get-Date -Format "MM-dd")+" AutoUpdate"
           git commit -m $commitMessage
           git push https://github-actions[bot]:${ secrets.GH_TOKEN }@github.com/LocalizeLimbusCompany/LLC_Release
           Set-Location "../"
           ./build.ps1 Dev
+          $upload_headers = @{
+              "Authorization" = "$ServerAuthorization"
+          }
+          curl -X POST http://45.158.169.136:4512/upload -F "file=@./Release/LimbusLocalize_BIE_Dev.7z" -H "Authorization: $ServerAuthorization"
         }
