@@ -1754,7 +1754,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使所有单位增加(暴怒共鸣数)级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使全体单位增加(暴怒共鸣数)级烧伤 强度"
                 }
               ]
             }
@@ -1769,7 +1769,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使所有单位增加(暴怒共鸣数x2)级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使全体单位增加(暴怒共鸣数×2)级烧伤 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的60%"
@@ -1787,7 +1787,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使所有单位增加(暴怒共鸣数)级烧伤 强度"
+                  "desc": "[EndSkill] 使全体单位增加(暴怒共鸣数×2)级烧伤 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的60%"
