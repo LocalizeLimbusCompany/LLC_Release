@@ -658,20 +658,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
-                },
-                {
-                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttackHead] 使目标增加4级流血 强度"
                 }
               ]
             },

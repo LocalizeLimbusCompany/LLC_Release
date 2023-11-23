@@ -1248,6 +1248,18 @@
       "id": "Unjust_Enrichment",
       "name": "不义之财",
       "desc": "- 正面命中带有流血 的目标时增加（最多4层）\n- 当被动 子弹很贵 触发时，清空该效果并追加相应伤害"
+    },
+    {
+      "id": "Resentment",
+      "name": "怨恨",
+      "desc": "击中带有<sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">复仇账簿</color></link></u>的目标时，攻击后解除该效果\n回合结束时解除本效果",
+      "undefined": "-"
+    },
+    {
+      "id": "RetaliationBook",
+      "name": "报复对象",
+      "desc": "施加给上回合内对单个友方单位造成技能伤害最多的敌方单位（最多1次）",
+      "undefined": "-"
     }
   ]
 }
