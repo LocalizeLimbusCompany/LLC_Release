@@ -6,7 +6,7 @@
     },
     {
       "id": "announcer_cheer_7_2",
-      "dlg": "无伤归还是最好的，都清楚吧？啊，虽然和你们关系不大。"
+      "dlg": "最好毫发无伤地归来，都清楚吧？啊，虽然和你们关系不大。"
     },
     {
       "id": "announcer_specialcheer_7_1",
@@ -14,7 +14,7 @@
     },
     {
       "id": "announcer_specialcheer_7_2",
-      "dlg": "啊，能听到吗？虽然感觉你们伤员有点太多了……是啊，都不知道能不能维持战斗能力。"
+      "dlg": "啊，能听到吗？虽然感觉你们伤员有点太多了……是啊，都不知道能不能维持作战能力。"
     },
     {
       "id": "announcer_enemy_break_7_1",
@@ -26,7 +26,7 @@
     },
     {
       "id": "announcer_killenemy_7_1",
-      "dlg": "确认目标无力化。我们会将成果上报给人事部门。"
+      "dlg": "确认目标已丧失行动能力。我们会将成果上报给人事部门。"
     },
     {
       "id": "announcer_ally_dead_7_1",
@@ -38,7 +38,7 @@
     },
     {
       "id": "announcer_ally_adv_7_1",
-      "dlg": "终于取得优势了。嗯……紧张感偶尔也是好事吧？"
+      "dlg": "终于取得优势了。嗯……压力也是动力，不是吗？"
     },
     {
       "id": "announcer_danger_7_1",
@@ -50,7 +50,7 @@
     },
     {
       "id": "announcer_enemy_specialgimmick_7_1",
-      "dlg": "怎么……雷达捕捉到了什么？是，气氛变了。请仔细观察现场情况。"
+      "dlg": "怎么……雷达捕捉到了什么？是，气氛有些诡异。请仔细观察现场情况。"
     },
     {
       "id": "announcer_advatk_physical_7_1",
@@ -94,7 +94,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_7_1",
-      "dlg": "哦，是爆炸了吗？我方遭受全方位打击！首先要掩护！"
+      "dlg": "哦，是爆炸了吗？我方遭受全方位打击！优先进行掩护！"
     },
     {
       "id": "announcer_round_takebigdmg_7_2",
