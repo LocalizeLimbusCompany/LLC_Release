@@ -32,7 +32,7 @@
         {
           "level": 1,
           "name": "铭记恐惧",
-          "desc": "[WinDuel] 使目标失去5点理智值，自身恢复10点体力",
+          "desc": "[WinDuel] 使目标失去5点理智值，并使自身恢复10点体力",
           "coinlist": [
             {
               "coindescs": [
@@ -143,7 +143,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加3层沉沦"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层沉沦 "
                 }
               ]
             }
