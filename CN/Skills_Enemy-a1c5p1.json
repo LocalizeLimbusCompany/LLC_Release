@@ -704,7 +704,7 @@
         {
           "level": 1,
           "name": "劫掠",
-          "desc": "[WinDuel] 复制并使用目标级别为3的技能的硬币威力与硬币数",
+          "desc": "[WinDuel] 复制并使用目标3技能的硬币威力与硬币数",
           "coinlist": [
             {
               "coindescs": [

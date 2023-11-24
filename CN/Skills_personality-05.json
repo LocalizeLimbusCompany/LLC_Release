@@ -27,7 +27,7 @@
         {
           "level": 2,
           "name": "铭记",
-          "desc": "[DefeatDuel] 下回合使自身获得1层嫉妒伤害强化",
+          "desc": "[DefeatDuel] 下回合使自身获得1层嫉妒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -48,7 +48,7 @@
         {
           "level": 4,
           "name": "铭记",
-          "desc": "[DefeatDuel] 下回合使自身获得1层嫉妒伤害强化",
+          "desc": "[DefeatDuel] 下回合使自身获得1层嫉妒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -168,7 +168,7 @@
         {
           "level": 4,
           "name": "铭刻",
-          "desc": "若嫉妒共鸣数不低于4，则使本技能的硬币威力+1\n若嫉妒共鸣数不低于6，则使本技能的硬币威力+1",
+          "desc": "若嫉妒共鸣数不低于4，则使本技能的硬币威力+1\n若嫉妒完全共鸣数不低于6，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
