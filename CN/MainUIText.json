@@ -1410,11 +1410,11 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "固定编成"
+      "content": "固定编入"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "必须固定编成"
+      "content": "需固定编入"
     },
     {
       "id": "formation_must_participate_specific_character",
