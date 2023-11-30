@@ -922,23 +922,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "他人之锁",
-          "abName": "默尔索",
+          "name": "타인의 사슬",
+          "abName": "뫼르소",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对自身施加3层束缚 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 얻음"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层虚弱 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对自身施加2层虚弱 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 얻음"
                 }
               ]
             }
@@ -946,26 +946,26 @@
         },
         {
           "level": 3,
-          "name": "他人之锁",
-          "abName": "默尔索",
+          "name": "타인의 사슬",
+          "abName": "뫼르소",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加5层束缚 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 5 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对自身施加5层束缚 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 5 얻음"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加4层虚弱 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对自身施加4层虚弱 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 4 얻음"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使自身获得2层守护 "
+                  "desc": "[OnSucceedAttackHead] 다음 턴에 보호 2 얻음"
                 }
               ]
             }
@@ -973,26 +973,26 @@
         },
         {
           "level": 4,
-          "name": "他人之锁",
-          "abName": "默尔索",
+          "name": "타인의 사슬",
+          "abName": "뫼르소",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加5层束缚 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 5 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对自身施加3层束缚 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 얻음"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加4层虚弱 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对自身施加3层虚弱 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 3 얻음"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合使自身获得2层守护 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 보호 2 얻음"
                 }
               ]
             }
