@@ -90,11 +90,11 @@
     },
     {
       "id": "dungeon_encounter_guide_stairs",
-      "content": "다음 구역 이동"
+      "content": "移动到下个区域"
     },
     {
       "id": "dungeon_encounter_guide_story",
-      "content": "이야기"
+      "content": "故事"
     }
   ]
 }

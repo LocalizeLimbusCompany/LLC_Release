@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "찌르기",
+          "name": "突刺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 출혈 4 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加4级流血 强度"
                 }
               ]
             }
@@ -24,27 +24,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "상처 헤집기",
-          "desc": "[WinDuel] 정신력 5 회복.\n대상의 [Laceration]당 피해량 +5%",
+          "name": "撕裂伤口",
+          "desc": "[WinDuel] 使自身恢复5点理智值\n目标每带有1级流血 强度，使本技能造成的伤害+5%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -57,46 +57,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "마을을 지켜!",
-          "desc": "[WhenUse] 호흡 5를 얻음",
+          "name": "保卫小镇！",
+          "desc": "[WhenUse] 使自身增加5级呼吸法 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值恢复"
                 }
               ]
             }
@@ -109,13 +109,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "투창",
-          "desc": "[WhenUse] 호흡 5, 호흡 횟수 2를 얻음",
+          "name": "标枪",
+          "desc": "[WhenUse] 使自身增加5级呼吸法 强度并获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2, 피해량 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 与2层伤害弱化 "
                 }
               ]
             }
@@ -128,8 +128,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "보호막이 있는 동안 피격 시, 다음 턴 공격 레벨 증가 1을 얻음.",
+          "name": "防御",
+          "desc": "若自身在带有护盾时受到攻击，则在下回合使自身获得1层攻击等级提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -147,20 +147,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "연속 찌르기",
+          "name": "连续突刺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 출혈 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttackHead] 对目标施加1层流血 "
                 }
               ]
             }
@@ -173,34 +173,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "상처 파고들기",
-          "desc": "[WinDuel] 정신력 5 회복.\n대상의 [Laceration]당 피해량 +5%",
+          "name": "刻下伤口",
+          "desc": "[WinDuel] 使自身恢复5点理智值\n目标每带有1级流血 强度，使本技能造成的伤害+5%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -213,46 +213,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "마을을 지켜!",
-          "desc": "[WhenUse] 호흡 5를 얻음",
+          "name": "保卫小镇！",
+          "desc": "[WhenUse] 使自身增加5级呼吸法 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 호흡 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值恢复"
                 }
               ]
             }
@@ -265,13 +265,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "투창",
-          "desc": "[WhenUse] 호흡 5, 호흡 횟수 2를 얻음",
+          "name": "标枪",
+          "desc": "[WhenUse] 使自身增加5级呼吸法 强度并获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2, 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 与2层易损 "
                 }
               ]
             }
@@ -284,8 +284,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "[OnSucceedEvade] 다음 턴에 공격 레벨 증가 1을 얻음 (최대 3)",
+          "name": "闪避",
+          "desc": "[OnSucceedEvade] 下回合使自身获得1层攻击等级提升 （最多3次）",
           "coinlist": [
             {
               "coindescs": [

@@ -4786,13 +4786,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "소화",
+          "name": "消化",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]당 자신의 전체 체력의 1%만큼 회복\n출혈 횟수 전부 소모"
+                  "desc": "[OnSucceedAttack] 目标每带有1级流血 强度，则使自身恢复体力上限1%的体力\n消耗所有流血 层数"
                 }
               ]
             }

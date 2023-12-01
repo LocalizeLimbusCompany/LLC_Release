@@ -158,11 +158,11 @@
     },
     {
       "id": "CantChangeTarget",
-      "name": "[대상 변경 불가]"
+      "name": "[无法改变拼点目标]"
     },
     {
       "id": "TurnStartBattle",
-      "name": "[턴 시작 시]"
+      "name": "[回合开始时]"
     }
   ]
 }
