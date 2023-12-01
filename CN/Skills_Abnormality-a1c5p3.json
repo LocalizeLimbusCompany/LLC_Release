@@ -584,7 +584,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack若目标带有荧光灯碎片 ，则对其施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 若目标带有荧光灯碎片 ，则对其施加2层沉沦 "
                 }
               ]
             }
@@ -921,7 +921,7 @@
         {
           "level": 1,
           "name": "狩猎开始",
-          "desc": "[StartBattle] 下回合召唤4名友方单位\n[WhenUse] 下回合对目标施加猎物标志 ",
+          "desc": "[StartBattle] 下回合召唤4名友方单位\n[WhenUse] 下回合对目标施加猎物标记 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1426,7 +1426,7 @@
         {
           "level": 1,
           "name": "追踪到底！",
-          "desc": "[StartBattle] 命令斯达巴克下回合进行援护攻击 \n[WhenUse] 下回合对目标施加1层猎物标志 ",
+          "desc": "[StartBattle] 命令斯达巴克下回合进行援护攻击 \n[WhenUse] 下回合对目标施加1层猎物标记 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1519,7 +1519,7 @@
         {
           "level": 1,
           "name": "呼气！",
-          "desc": "[WhenUse] 下回合对目标施加1层猎物标志 \n[WinDuel] 使自身增加4级呼吸法 强度",
+          "desc": "[WhenUse] 下回合对目标施加1层猎物标记 \n[WinDuel] 使自身增加4级呼吸法 强度",
           "coinlist": [
             {
               "coindescs": [
@@ -1741,7 +1741,7 @@
         {
           "level": 1,
           "name": "掩盖恐惧",
-          "desc": "[WhenUse] 对目标施加1层猎物标志 ",
+          "desc": "[WhenUse] 对目标施加1层猎物标记 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1763,7 +1763,7 @@
         {
           "level": 1,
           "name": "穿透软弱",
-          "desc": "[WhenUse] 下回合对目标施加1层猎物标志 ",
+          "desc": "[WhenUse] 下回合对目标施加1层猎物标记 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1785,7 +1785,7 @@
         {
           "level": 1,
           "name": "叹息回响",
-          "desc": "目标每带有1级流血 强度，使本技能造成的伤害+5%\n若目标未带有猎物标志 ，则使本技能的硬币威力+1\n[DefeatDuel] 使自身失去5点理智值",
+          "desc": "目标每带有1级流血 强度，使本技能造成的伤害+5%\n若目标未带有猎物标记 ，则使本技能的硬币威力+1\n[DefeatDuel] 使自身失去5点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -1850,7 +1850,7 @@
         {
           "level": 1,
           "name": "浑浊轨迹",
-          "desc": "[WhenUse] 下回合对目标施加1层猎物标志 ",
+          "desc": "[WhenUse] 下回合对目标施加1层猎物标记 ",
           "coinlist": [
             {
               "coindescs": [
