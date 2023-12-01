@@ -1820,7 +1820,7 @@
     },
     {
       "name": "퀴케그과거",
-      "krname": "魁魁格过去",
+      "krname": "魁魁格",
       "nickName": "裴廓德号",
       "enname": "Queequeg",
       "enNickName": "The Pequod",
@@ -1933,7 +1933,7 @@
     },
     {
       "name": "이스마엘과거",
-      "krname": "以实玛利过去",
+      "krname": "以实玛利",
       "jpname": "イシュメール",
       "enname": "Ishmael",
       "fileName": "Ishmael_Past",
@@ -1960,7 +1960,7 @@
     },
     {
       "name": "이스마엘과거2",
-      "krname": "以实玛利过去2",
+      "krname": "以实玛利",
       "jpname": "イシュメール",
       "enname": "Ishmael",
       "fileName": "Ishmael_Past",
@@ -1984,7 +1984,7 @@
     },
     {
       "name": "스텁그림자",
-      "krname": "斯塔布 影子",
+      "krname": "斯塔布",
       "nickName": "裴廓德号",
       "fileName": "Stubb_Shadow",
       "enname": "Stubb",
