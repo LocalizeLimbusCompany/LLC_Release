@@ -490,7 +490,7 @@
     },
     {
       "id": "Lack_Buff",
-      "content": "!缺少{0}!"
+      "content": "！缺少{0}！"
     },
     {
       "id": "received_the_golden_bough",
