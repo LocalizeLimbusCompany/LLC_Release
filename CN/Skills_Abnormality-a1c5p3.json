@@ -82,7 +82,7 @@
                   "desc": "[OnSucceedAttack] 使目标的体力上限减少10%"
                 },
                 {
-                  "desc": "[OnSucceedAttac使目标增加5级烧伤 强度并对其施加2层烧伤 "
+                  "desc": "[OnSucceedAttack] 使目标增加5级烧伤 强度并对其施加2层烧伤 "
                 }
               ]
             }
