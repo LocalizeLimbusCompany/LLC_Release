@@ -445,7 +445,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加4级[Sinking]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标拥有[AaCePcBb]，则对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 若目标带有[AaCePcBb]，则对目标施加2层沉沦 "
                 }
               ]
             },
@@ -455,7 +455,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加4级[Sinking]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标拥有[AaCePcBb]，则对目标施加2层沉沦 "
+                  "desc": "[OnSucceedAttack] 若目标带有[AaCePcBb]，则对目标施加2层沉沦 "
                 }
               ]
             }
