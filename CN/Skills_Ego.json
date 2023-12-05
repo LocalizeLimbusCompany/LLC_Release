@@ -1115,7 +1115,7 @@
           "level": 1,
           "name": "执行",
           "abName": "天之执行官的书吏",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 下回合对自身以外现存体力最低的2名友方单位施加1层易损 并使其获得2层伤害强化 ",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 对自身以外现存体力最低的2名友方单位在下回合施加1层易损 并使其获得2层伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1130,7 +1130,7 @@
           "level": 3,
           "name": "执行",
           "abName": "天之执行官的书吏",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 下回合对自身以外现存体力最低的2名友方单位施加2层易损 并使其获得3层伤害强化 ",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 对自身以外现存体力最低的2名友方单位在下回合施加2层易损 并使其获得3层伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
