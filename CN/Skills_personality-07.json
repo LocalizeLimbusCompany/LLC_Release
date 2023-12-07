@@ -149,7 +149,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级流血强度"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若现存体力不高于75%，则使目标增加1级流血 强度"
