@@ -72,7 +72,7 @@
           "level": 1,
           "name": "沸腾腐蚀",
           "abName": "陆行珍珠",
-          "desc": "[CantIdentify]\n指定体力最低的单位",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
