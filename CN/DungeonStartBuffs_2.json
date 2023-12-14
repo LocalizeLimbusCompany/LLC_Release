@@ -50,7 +50,7 @@
     },
     {
       "id": "MaxSpeedUpAdder",
-      "description": "最大速度值+{0}"
+      "description": "速度值上限+{0}"
     },
     {
       "id": "AttackDamageAdder",

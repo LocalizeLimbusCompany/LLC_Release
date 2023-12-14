@@ -790,11 +790,11 @@
     },
     {
       "id": "introduce_word_100",
-      "content": "집행"
+      "content": "执行"
     },
     {
       "id": "introduce_sentence_100",
-      "content": "그분이 적으신 대로, 모든 것을 {0}할테니."
+      "content": "因我将遵从那位所书写的内容，尽数{0}。"
     }
   ]
 }
