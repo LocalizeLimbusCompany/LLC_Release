@@ -226,7 +226,7 @@
     },
     {
       "id": "mainui_next",
-      "content": "下一个"
+      "content": "下一页"
     },
     {
       "id": "mainui_ego_list",
@@ -1570,11 +1570,11 @@
     },
     {
       "id": "ego_gift_effect_format",
-      "content": "E.G.O饰品 「{0}」效果"
+      "content": "E.G.O饰品 “{0}”效果"
     },
     {
       "id": "mainui_previous",
-      "content": "前页"
+      "content": "上一页"
     },
     {
       "id": "formation_force_abstain",

@@ -54,7 +54,7 @@
     },
     {
       "id": "mirror_dungeon3_normal_reward_info",
-      "content": "一般"
+      "content": "普通"
     },
     {
       "id": "mirror_dungeon3_hard_reward_info",
@@ -126,7 +126,7 @@
     },
     {
       "id": "mirror_dungeon_exploring",
-      "content": "！探索中！"
+      "content": "! 探索中 !"
     },
     {
       "id": "mirror_dungeon_progress_text_before",
@@ -138,7 +138,7 @@
     },
     {
       "id": "normal_difficulty_simple",
-      "content": "一般"
+      "content": "普通"
     },
     {
       "id": "hard_difficulty_simple",
