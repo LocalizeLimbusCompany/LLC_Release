@@ -188,7 +188,7 @@
     },
     {
       "id": 9009,
-      "name": "炽热羽毛",
+      "name": "炽热的羽毛",
       "desc": "使用色欲技能或施加烧伤 的技能对敌方单位造成伤害时，使目标增加3级烧伤 强度。\n\n回合开始时，使烧伤 强度不低于20级的全体敌方单位的烧伤 强度变为2倍。",
       "simpleDesc": [
         {
@@ -203,7 +203,7 @@
     },
     {
       "id": 19009,
-      "name": "炽热羽毛+",
+      "name": "炽热的羽毛+",
       "desc": "使用色欲技能或施加烧伤 的技能对敌方单位造成伤害时，使目标增加<style=\"upgradeHighlight\">4级烧伤 强度</style>。\n\n回合开始时，使烧伤 强度不低于20级的全体敌方单位的烧伤 强度变为2倍。",
       "simpleDesc": [
         {
@@ -218,7 +218,7 @@
     },
     {
       "id": 29009,
-      "name": "炽热羽毛++",
+      "name": "炽热的羽毛++",
       "desc": "使用色欲技能或施加烧伤 的技能对敌方单位造成伤害时，使目标增加4级烧伤 强度。\n\n回合开始时，使烧伤 强度不低于20级的全体敌方单位的<style=\"upgradeHighlight\">烧伤 强度变为2.5倍</style>。",
       "simpleDesc": [
         {
@@ -823,7 +823,7 @@
     {
       "id": 9035,
       "name": "巫毒娃娃",
-      "desc": "回合开始时，对全体敌方单位造成3点固定嫉妒伤害。\n\n对现存体力不高于33%的敌方单位施加1层虚弱 。",
+      "desc": "回合开始时，对全体敌方单位造成3点固定嫉妒伤害。\n\n对现存体力不高于33%的敌方单位施加1层威力降低 。",
       "simpleDesc": [
         {
           "abilityID": 9035,
@@ -831,14 +831,14 @@
         },
         {
           "abilityID": 90351,
-          "simpleDesc": "造成3点嫉妒伤害并施加1层虚弱 "
+          "simpleDesc": "造成3点嫉妒伤害并施加1层威力降低 "
         }
       ]
     },
     {
       "id": 19035,
       "name": "巫毒娃娃+",
-      "desc": "回合开始时，对全体敌方单位造成<style=\"upgradeHighlight\">4点固定嫉妒伤害</style>。\n\n对现存体力<style=\"upgradeHighlight\">不高于50%</style>的敌方单位施加1层虚弱 。",
+      "desc": "回合开始时，对全体敌方单位造成<style=\"upgradeHighlight\">4点固定嫉妒伤害</style>。\n\n对现存体力<style=\"upgradeHighlight\">不高于50%</style>的敌方单位施加1层威力降低 。",
       "simpleDesc": [
         {
           "abilityID": 19035,
@@ -846,14 +846,14 @@
         },
         {
           "abilityID": 190351,
-          "simpleDesc": "造成4点嫉妒伤害并施加1层虚弱 "
+          "simpleDesc": "造成4点嫉妒伤害并施加1层威力降低 "
         }
       ]
     },
     {
       "id": 29035,
       "name": "巫毒娃娃++",
-      "desc": "回合开始时，对全体敌方单位造成<style=\"upgradeHighlight\">5点固定嫉妒伤害</style>。\n\n对现存体力不高于50%的敌方单位施加<style=\"upgradeHighlight\">2层虚弱 </style>。",
+      "desc": "回合开始时，对全体敌方单位造成<style=\"upgradeHighlight\">5点固定嫉妒伤害</style>。\n\n对现存体力不高于50%的敌方单位施加<style=\"upgradeHighlight\">2层威力降低 </style>。",
       "simpleDesc": [
         {
           "abilityID": 29035,
@@ -861,7 +861,7 @@
         },
         {
           "abilityID": 290351,
-          "simpleDesc": "造成5点嫉妒伤害并施加2层虚弱 "
+          "simpleDesc": "造成5点嫉妒伤害并施加2层威力降低 "
         }
       ]
     },

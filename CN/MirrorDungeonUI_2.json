@@ -438,11 +438,11 @@
     },
     {
       "id": "mirror_dungeon_give_up_ego_gift_ask",
-      "content": "确定不选择E.G.O饰品，直接前进吗？"
+      "content": "确定不选择E.G.O饰品，直接继续吗？"
     },
     {
       "id": "mirror_dungeon_challenge_mode_description",
-      "content": "当激活挑战模式时，将会随机组成编队。\n直到领取奖励为止，无法更改编队。\n当以挑战模式通关时，所获得的奖励将会增加。"
+      "content": "挑战模式激活时，将会随机组成编队。\n直到领取奖励为止都无法更改编队。\n当以挑战模式通关时，所获得的奖励将会增加。"
     },
     {
       "id": "mirror_dungeon_challenge_mode_ask",
@@ -474,23 +474,23 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_using_hard_using_chance_desc",
-      "content": "要消耗剩余全部的<color=#a16a3b>每周加成</color>以及<color=#ff0000>困难难度 奖励</color>吗？"
+      "content": "要消耗全部剩余的<color=#a16a3b>每周加成</color>以及<color=#ff0000>困难难度 奖励</color>吗？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_using_hard_not_using_chance_desc",
-      "content": "仍有可以使用的<color=#a16a3b>每周加成</color>。\n\n确定只消耗<color=#ff0000>困难难度 奖励</color>来领取奖励吗？"
+      "content": "仍有可以使用的<color=#a16a3b>每周加成</color>。\n\n确定只消耗<color=#ff0000>困难难度 奖励</color>以领取奖励吗？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_using_hard_no_chance_desc",
-      "content": "要消耗<color=#ff0000>困难难度 奖励</color>来进行奖励领取吗？"
+      "content": "要消耗<color=#ff0000>困难难度 奖励</color>以进行奖励领取吗？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_using_chance_desc",
-      "content": "仍有可以使用的<color=#ff0000>困难难度 奖励</color>。\n\n确定只消耗<color=#a16a3b>每周加成</color>来领取奖励吗？"
+      "content": "仍有可以使用的<color=#ff0000>困难难度 奖励</color>。\n\n确定只消耗<color=#a16a3b>每周加成</color>以领取奖励吗？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_not_using_chance_desc",
-      "content": "仍有可以使用的<color=#a16a3b>每周加成</color>及<color=#ff0000>困难难度 奖励</color>。\n\n确定不使用加成来领取奖励吗？"
+      "content": "仍有可以使用的<color=#a16a3b>每周加成</color>及<color=#ff0000>困难难度 奖励</color>。\n\n确定不使用加成以领取奖励吗？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_not_using_hard_chance_no_chance_desc",
@@ -502,7 +502,7 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_no_hard_chance_not_using_chance_desc",
-      "content": "仍有可以使用的<color=#a16a3b>每周加成</color>。\n\n确定不使用加成来领取奖励吗？"
+      "content": "仍有可以使用的<color=#a16a3b>每周加成</color>。\n\n确定不使用加成以领取奖励吗？"
     },
     {
       "id": "mirrordungeon_acquire_rewards_no_hard_chance_no_chance_desc",
@@ -510,7 +510,7 @@
     },
     {
       "id": "mirrordungeon_hard_no_reward_desc",
-      "content": "<color=#ff0000>您已经获得了此奖励的内容，因此无法获得奖励。</color>"
+      "content": "<color=#ff0000>您已经领取过此奖励，因此无法获得奖励。</color>"
     },
     {
       "id": "mirror_dungeon_3_buffs_title_1",
