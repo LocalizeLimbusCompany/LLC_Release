@@ -1206,8 +1206,8 @@
     },
     {
       "id": "Bullet_Crab",
-      "name": "废弃蟹壳弹",
-      "desc": "使用特定技能时，消耗废弃蟹壳弹"
+      "name": "蟹壳废料弹",
+      "desc": "使用特定技能时，消耗蟹壳废料弹"
     },
     {
       "id": "SinkingVulnerable",
