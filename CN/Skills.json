@@ -4036,7 +4036,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 }
               ]
             }
