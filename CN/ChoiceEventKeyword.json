@@ -10,11 +10,11 @@
     },
     {
       "id": "IncludeSkillAttribute",
-      "content": "[ATTRIBUTES] 속성 공격 스킬을 보유한"
+      "content": "拥有[ATTRIBUTES]属性攻击技能的"
     },
     {
       "id": "NotIncludeSkillAttribute",
-      "content": "[ATTRIBUTES] 속성 공격 스킬을 보유하지 않은"
+      "content": "不拥有[ATTRIBUTES]属性攻击技能的"
     },
     {
       "id": "NextBattle",

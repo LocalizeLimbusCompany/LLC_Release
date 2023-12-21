@@ -325,22 +325,22 @@
       "levelList": [
         {
           "level": 1,
-          "name": "들끓는 녹색 점액",
-          "desc": "[StartBattle] [AaCePcBh]만큼 공격 가중치가 증가\n[StartBattle] [AaCePcBh]을 10 얻음.",
+          "name": "沸腾的绿色黏液",
+          "desc": "[StartBattle] 自身每带有1层绿色黏液 ，使本技能的攻击容量+1\n[StartBattle] 使自身获得10层绿色黏液 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 독 10 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加10层剧毒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 7 감소"
+                  "desc": "[OnSucceedAttack] 使目标失去7点理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 유충 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层幼虫 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 마비 1, 방어 레벨 감소 3 부여"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层麻痹 与3层防御等级降低 "
                 }
               ]
             }

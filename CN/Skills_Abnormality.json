@@ -2728,7 +2728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -2773,7 +2773,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -3520,7 +3520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的震颤 层数，相应震颤引爆 "
+                  "desc": "[OnSucceedAttack] 根据目标带有的震颤 层数，相应使其震颤引爆 "
                 }
               ]
             }
@@ -4662,16 +4662,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "드러난 심연",
+          "name": "显露的深渊",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상이 가지고 있는 파열만큼 진동 부여"
+                  "desc": "[OnSucceedAttack] 根据目标带有的破裂 强度，相应使其增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }

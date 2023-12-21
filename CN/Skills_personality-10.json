@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于10层，则消耗所有震颤 层数并对目标施加相同层数的震颤 \n[OnSucceedAttack] 若自身的震颤 层数低于10层，则使自身增加6级震颤 强度并引爆自身的震颤 \n对目标造成混乱阈值前移量的打击伤害"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于10层，则消耗所有震颤 层数并对目标施加相同层数的震颤 \n[OnSucceedAttack] 若自身的震颤 层数低于10层，则使自身增加6级震颤 强度并使自身震颤引爆 \n对目标造成混乱阈值前移量的打击伤害"
                 }
               ]
             }
@@ -158,7 +158,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于10层，则消耗所有震颤 层数并对目标施加相同层数的震颤 \n[OnSucceedAttack] 若自身的震颤 层数低于10层，则使自身增加10级震颤 强度并引爆自身的震颤 \n对目标造成混乱阈值前移量的打击伤害"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于10层，则消耗所有震颤 层数并对目标施加相同层数的震颤 \n[OnSucceedAttack] 若自身的震颤 层数低于10层，则使自身增加10级震颤 强度并使自身震颤引爆 \n对目标造成混乱阈值前移量的打击伤害"
                 }
               ]
             }
@@ -258,20 +258,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "앙가즈망",
-          "desc": "[WinDuel] 자신의 [Breath] 횟수 2 증가",
+          "name": "交战",
+          "desc": "[WinDuel] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得1层呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가"
+                  "desc": "[OnSucceedAttackHead] 使自身获得1层呼吸法 "
                 }
               ]
             },
@@ -280,20 +280,20 @@
         },
         {
           "level": 2,
-          "name": "앙가즈망",
-          "desc": "자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
+          "name": "交战",
+          "desc": "若自身的速度值高于目标2点及以上，则使本技能的硬币威力+1\n[WinDuel] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 }
               ]
             },
@@ -302,20 +302,20 @@
         },
         {
           "level": 4,
-          "name": "앙가즈망",
-          "desc": "자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 2)\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
+          "name": "交战",
+          "desc": "若自身的速度值高于目标，则每相差2点，使本技能的硬币威力+1（最多+2）\n[WinDuel] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层呼吸法 "
                 }
               ]
             },
@@ -329,13 +329,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "꽁트르 아따끄",
-          "desc": "자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1 \n[WinDuel] 자신의 [Breath] 횟수 10 소모. 소모한 [Breath] 횟수만큼 [Breath]을 얻음.\n[WinDuel] 적 슬롯의 공격 스킬과 [OneOnOneDuel]을 진행했으면, 적중 시 [Vulnerable] 1 부여 (턴 당 최대 2)",
+          "name": "反攻",
+          "desc": "若自身的速度值高于目标2点及以上，则使本技能的硬币威力+1\n[WinDuel] 消耗10层呼吸法 ，使自身增加（消耗呼吸法 层数）级呼吸法 强度\n[WinDuel] 若自身在指向目标行动槽中的攻击技能时触发了单挑决斗 ，则使本技能命中时对目标施加1层易损 （每回合最多2层）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DuelDeclaration_Sinclair] 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加决斗宣告-辛克莱 "
                 }
               ]
             },
@@ -343,7 +343,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "크리티컬 피해량 +30%"
+                  "desc": "使本硬币暴击时造成的伤害+30%"
                 }
               ]
             }
@@ -351,13 +351,13 @@
         },
         {
           "level": 4,
-          "name": "꽁트르 아따끄",
-          "desc": "자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 3)\n[WinDuel] 자신의 [Breath] 횟수 10 소모. 소모한 [Breath] 횟수만큼 [Breath]을 얻음. 대상이 [DuelDeclaration_Sinclair] 대상인 경우, 대신 (소모한 [Breath] 횟수 X 2)만큼 [Breath]을 얻음\n[WinDuel] 적 슬롯의 공격 스킬과 [OneOnOneDuel]을 진행했으면, 적중 시 [Vulnerable] 1 부여 (턴 당 최대 2)",
+          "name": "反攻",
+          "desc": "若自身的速度值高于目标，则每相差2点，使本技能的硬币威力+1（最多+3）\n[WinDuel] 消耗10层呼吸法 ，使自身增加（消耗呼吸法 层数）级呼吸法 强度。若目标带有决斗宣告-辛克莱 ，则改为增加（消耗呼吸法 层数×2）级呼吸法 强度\n[WinDuel] 若自身在指向目标行动槽中的攻击技能时触发了单挑决斗 ，则使本技能命中时对目标施加1层易损 （每回合最多2层）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DuelDeclaration_Sinclair] 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加决斗宣告-辛克莱 "
                 }
               ]
             },
@@ -365,7 +365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "크리티컬 피해량 +50%"
+                  "desc": "使本硬币暴击时造成的伤害+50%"
                 }
               ]
             }
@@ -378,7 +378,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "데팡시브",
+          "name": "防守闪避",
           "desc": "",
           "coinlist": [
             {
@@ -392,7 +392,7 @@
         },
         {
           "level": 4,
-          "name": "데팡시브",
+          "name": "防守闪避",
           "desc": "",
           "coinlist": [
             {

@@ -798,19 +798,19 @@
     },
     {
       "id": "introduce_word_101",
-      "content": "검"
+      "content": "剑"
     },
     {
       "id": "introduce_sentence_101",
-      "content": "{0} 끝을… 바라본다…"
+      "content": "凝视……{0}的末端……"
     },
     {
       "id": "introduce_word_102",
-      "content": "상대"
+      "content": "对手"
     },
     {
       "id": "introduce_sentence_102",
-      "content": "나의 {0}은(는), 어디 있는가!"
+      "content": "我的{0}，在哪里！"
     }
   ]
 }

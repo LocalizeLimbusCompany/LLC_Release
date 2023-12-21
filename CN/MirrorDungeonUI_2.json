@@ -42,7 +42,7 @@
     },
     {
       "id": "require_to_activate_former_buffs",
-      "content": "이전 단계 버프를\n별새김해야 합니다."
+      "content": "您需要先对上一阶段的增益进行镌星。"
     },
     {
       "id": "weekly_bonus_reward",
@@ -574,7 +574,7 @@
     },
     {
       "id": "mirror_dungeon_3_buffs_title_16",
-      "content": "准备状态"
+      "content": "事前准备"
     },
     {
       "id": "mirror_dungeon_3_buffs_title_17",
@@ -586,355 +586,355 @@
     },
     {
       "id": "md3_buffs_summaryDesc_101",
-      "content": "3등급 기프트 등장"
+      "content": "出现3级饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1011",
-      "content": "화상 기프트 출현 등급 상승"
+      "content": "出现烧伤类饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1012",
-      "content": "출혈 기프트 출현 등급 상승"
+      "content": "出现流血类饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1013",
-      "content": "진동 기프트 출현 등급 상승"
+      "content": "出现震颤类饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1014",
-      "content": "파열 기프트 출현 등급 상승"
+      "content": "出现破裂类饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1015",
-      "content": "침잠 기프트 출현 등급 상승"
+      "content": "出现沉沦类饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1016",
-      "content": "호흡 기프트 출현 등급 상승"
+      "content": "出现呼吸法类饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1017",
-      "content": "충전 기프트 출현 등급 상승"
+      "content": "出现充能类饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1018",
-      "content": "무작위 기프트 출현 등급 상승"
+      "content": "出现随机饰品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_102",
-      "content": "4등급 이상 기프트 등장 및 기프트 출현 등급 상승"
+      "content": "出现4级以上饰品&出现饰品等级提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1021",
-      "content": "기프트 출현 등급 상승"
+      "content": "出现饰品等级上升"
     },
     {
       "id": "md3_buffs_summaryDesc_1022",
-      "content": "기프트 출현 등급 상승"
+      "content": "出现饰品等级上升"
     },
     {
       "id": "md3_buffs_summaryDesc_1023",
-      "content": "기프트 출현 등급 상승"
+      "content": "出现饰品等级上升"
     },
     {
       "id": "md3_buffs_summaryDesc_103",
-      "content": "등장하는 기프트 수 +1"
+      "content": "出现的饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1031",
-      "content": "등장하는 기프트 수 +1"
+      "content": "出现的饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_104",
-      "content": "등장하는 기프트 수 +1"
+      "content": "出现的饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1041",
-      "content": "등장하는 화상 기프트 수 +1"
+      "content": "出现的烧伤类饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1042",
-      "content": "등장하는 출혈 기프트 수 +1"
+      "content": "出现的流血类饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1043",
-      "content": "등장하는 진동 기프트 수 +1"
+      "content": "出现的震颤类饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1044",
-      "content": "등장하는 파열 기프트 수 +1"
+      "content": "出现的破裂类饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1045",
-      "content": "등장하는 침잠 기프트 수 +1"
+      "content": "出现的沉沦类饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1046",
-      "content": "등장하는 호흡 기프트 수 +1"
+      "content": "出现的呼吸法类饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1047",
-      "content": "등장하는 충전 기프트 수 +1"
+      "content": "出现的充能类饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1048",
-      "content": "등장하는 무작위 기프트 수 +1"
+      "content": "出现的随机饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_105",
-      "content": "시작 코스트 50 획득"
+      "content": "获得50点初始经费"
     },
     {
       "id": "md3_buffs_summaryDesc_1051",
-      "content": "시작 코스트 +50"
+      "content": "初始经费+50"
     },
     {
       "id": "md3_buffs_summaryDesc_1052",
-      "content": "시작 코스트 +50"
+      "content": "初始经费+50"
     },
     {
       "id": "md3_buffs_summaryDesc_1053",
-      "content": "시작 코스트 +50"
+      "content": "初始经费+50"
     },
     {
       "id": "md3_buffs_summaryDesc_106",
-      "content": "기프트 3종 추가 등장"
+      "content": "追加出现3款饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1061",
-      "content": "화상 기프트 2종 추가 등장"
+      "content": "追加出现2款烧伤类饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1062",
-      "content": "출혈 기프트 2종 추가 등장"
+      "content": "追加出现2款流血类饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1063",
-      "content": "진동 기프트 2종 추가 등장"
+      "content": "追加出现2款震颤类饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1064",
-      "content": "파열 기프트 2종 추가 등장"
+      "content": "追加出现2款破裂类饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1065",
-      "content": "침잠 기프트 2종 추가 등장"
+      "content": "追加出现2款沉沦类饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1066",
-      "content": "호흡 기프트 2종 추가 등장"
+      "content": "追加出现2款呼吸法类饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_1067",
-      "content": "충전 기프트 2종 추가 등장"
+      "content": "追加出现2款充能类饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_107",
-      "content": "전투에서 획득하는 코스트 증가"
+      "content": "在战斗中获得的经费增加"
     },
     {
       "id": "md3_buffs_summaryDesc_1071",
-      "content": "일반 전투에서 획득하는 코스트 증가"
+      "content": "在常规遭遇战中获得的经费增加"
     },
     {
       "id": "md3_buffs_summaryDesc_1072",
-      "content": "집중 전투에서 획득하는 코스트 증가"
+      "content": "在集中遭遇战中获得的经费增加"
     },
     {
       "id": "md3_buffs_summaryDesc_1073",
-      "content": "위험 전투에서 획득하는 코스트 증가"
+      "content": "在危险遭遇战中获得的经费增加"
     },
     {
       "id": "md3_buffs_summaryDesc_1074",
-      "content": "층 보스 전투에서 획득하는 코스트 증가"
+      "content": "在阶层BOSS战中获得的经费增加"
     },
     {
       "id": "md3_buffs_summaryDesc_108",
-      "content": "기프트 선택 수 +1"
+      "content": "可选择饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_109",
-      "content": "새로고침 비용 감소"
+      "content": "刷新所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1091",
-      "content": "새로고침 비용 감소"
+      "content": "刷新所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1092",
-      "content": "낮은 확률로 새로 고침 비용 소모 없음"
+      "content": "较低概率免费进行刷新"
     },
     {
       "id": "md3_buffs_summaryDesc_1093",
-      "content": "스킬 교체 비용 감소"
+      "content": "技能替换所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1094",
-      "content": "스킬 교체 비용 감소"
+      "content": "技能替换所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_110",
-      "content": "강화 비용 감소"
+      "content": "强化所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1101",
-      "content": "낮은 확률로 강화 비용 소모 없음"
+      "content": "较低概率免费进行强化"
     },
     {
       "id": "md3_buffs_summaryDesc_1102",
-      "content": "화상 기프트 강화 비용 감소"
+      "content": "强化烧伤类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1103",
-      "content": "출혈 기프트 강화 비용 감소"
+      "content": "强化流血类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1104",
-      "content": "진동 기프트 강화 비용 감소"
+      "content": "强化震颤类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1105",
-      "content": "파열 기프트 강화 비용 감소"
+      "content": "强化破裂类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1106",
-      "content": "침잠 기프트 강화 비용 감소"
+      "content": "强化沉沦类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1107",
-      "content": "호흡 기프트 강화 비용 감소"
+      "content": "强化呼吸法类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1108",
-      "content": "충전 기프트 강화 비용 감소"
+      "content": "强化充能类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_111",
-      "content": "기프트 판매 비용 증가"
+      "content": "售卖饰品可获得的经费增加"
     },
     {
       "id": "md3_buffs_summaryDesc_1111",
-      "content": "기프트 판매 비용 증가"
+      "content": "售卖饰品可获得的经费增加"
     },
     {
       "id": "md3_buffs_summaryDesc_112",
-      "content": "기프트 구매 비용 감소"
+      "content": "购买饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1121",
-      "content": "화상 기프트 구매 비용 감소"
+      "content": "购买烧伤类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1122",
-      "content": "출혈 기프트 구매 비용 감소"
+      "content": "购买流血类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1123",
-      "content": "진동 기프트 구매 비용 감소"
+      "content": "购买震颤类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1124",
-      "content": "파열 기프트 구매 비용 감소"
+      "content": "购买破裂类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1125",
-      "content": "침잠 기프트 구매 비용 감소"
+      "content": "购买沉沦类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1126",
-      "content": "호흡 기프트 구매 비용 감소"
+      "content": "购买呼吸法类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1127",
-      "content": "충전 기프트 구매 비용 감소"
+      "content": "购买充能类饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_1128",
-      "content": "범용 기프트 구매 비용 감소"
+      "content": "购买泛用型饰品所需经费减少"
     },
     {
       "id": "md3_buffs_summaryDesc_151",
-      "content": "E.G.O 기프트 선택 수 +1"
+      "content": "可选择E.G.O饰品数量+1"
     },
     {
       "id": "md3_buffs_summaryDesc_152",
-      "content": "시작 코스트 + 250"
+      "content": "初始经费+250"
     },
     {
       "id": "md3_buffs_summaryDesc_153",
-      "content": "시작 단계에서 선택한 항목의 4등급 무작위 E.G.O 기프트를 추가로 획득"
+      "content": "额外获得初始阶段所选项目的4级随机E.G.O饰品"
     },
     {
       "id": "md3_buffs_summaryDesc_121",
-      "content": "모든 속성 E.G.O 자원 +1"
+      "content": "所有罪孽碎片+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1211",
-      "content": "모든 속성 E.G.O 자원 +1"
+      "content": "所有罪孽碎片+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1212",
-      "content": "속도 최댓값 +1"
+      "content": "速度值上限+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1213",
-      "content": "속도 최댓값 +1"
+      "content": "速度值上限+1"
     },
     {
       "id": "md3_buffs_summaryDesc_122",
-      "content": "가하는 피해량 3% 증가"
+      "content": "造成的伤害+3%"
     },
     {
       "id": "md3_buffs_summaryDesc_1221",
-      "content": "가하는 피해량 3% 증가"
+      "content": "造成的伤害+3%"
     },
     {
       "id": "md3_buffs_summaryDesc_1222",
-      "content": "공격 레벨 1 증가"
+      "content": "攻击等级+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1223",
-      "content": "공격 레벨 1 증가"
+      "content": "攻击等级+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1224",
-      "content": "가하는 참격 피해량 4% 증가"
+      "content": "斩击伤害+4%"
     },
     {
       "id": "md3_buffs_summaryDesc_1225",
-      "content": "가하는 관통 피해량 4% 증가"
+      "content": "突刺伤害+4%"
     },
     {
       "id": "md3_buffs_summaryDesc_1226",
-      "content": "가하는 타격 피해량 4% 증가"
+      "content": "打击伤害+4%"
     },
     {
       "id": "md3_buffs_summaryDesc_123",
-      "content": "받는 피해량 3% 감소"
+      "content": "受到的伤害-3%"
     },
     {
       "id": "md3_buffs_summaryDesc_1231",
-      "content": "받는 피해량 3% 감소"
+      "content": "受到的伤害-3%"
     },
     {
       "id": "md3_buffs_summaryDesc_1232",
-      "content": "방어 레벨 1 증가"
+      "content": "防御等级+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1233",
-      "content": "방어 레벨 2 증가"
+      "content": "防御等级+2"
     },
     {
       "id": "md3_buffs_summaryDesc_1234",
-      "content": "참격 내성 0.1만큼 감소"
+      "content": "斩击耐性0.1"
     },
     {
       "id": "md3_buffs_summaryDesc_1235",
-      "content": "관통 내성 0.1만큼 감소"
+      "content": "突刺耐性-0.1"
     },
     {
       "id": "md3_buffs_summaryDesc_1236",
-      "content": "타격 내성 0.1만큼 감소"
+      "content": "打击耐性-0.1"
     }
   ]
 }

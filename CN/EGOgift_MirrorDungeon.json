@@ -18,30 +18,30 @@
     {
       "id": 19001,
       "name": "炼狱炎蝶之梦+",
-      "desc": "[Combustion]에 걸린 적에게 스킬 효과로 [Combustion] 위력을 부여할 경우, 모든 적에게 <style=\"upgradeHighlight\">[Combustion] 위력 4</style> 무작위로 나누어 부여.\n\n분노 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 <style=\"upgradeHighlight\">[Combustion] 위력 6</style> 무작위로 나누어 부여.",
+      "desc": "通过技能效果使已带有烧伤 的敌方单位增加烧伤 强度时，随机使敌方单位增加共计4级烧伤 强度。\n\n激活暴怒完全共鸣时，战斗开始时，随机使敌方单位增加共计6级烧伤 强度。",
       "simpleDesc": [
         {
           "abilityID": 19001,
-          "simpleDesc": "[Combustion] 위력 4 무작위로 나누어 부여"
+          "simpleDesc": "随机增加4级烧伤 强度"
         },
         {
           "abilityID": 190011,
-          "simpleDesc": "[Combustion] 위력 6 무작위로 나누어 부여"
+          "simpleDesc": "随机增加6级烧伤 强度"
         }
       ]
     },
     {
       "id": 29001,
       "name": "炼狱炎蝶之梦++",
-      "desc": "[Combustion]에 걸린 적에게 스킬 효과로 [Combustion] 위력을 부여할 경우, 모든 적에게 <style=\"upgradeHighlight\">[Combustion] 5</style> 무작위로 나누어 부여.\n\n<style=\"upgradeHighlight\">분노 공명</style>을 발동하였다면 전투 시작 시, 모든 적에게 <style=\"upgradeHighlight\">[Combustion] 위력 8</style> 무작위로 나누어 부여.",
+      "desc": "通过技能效果使已带有烧伤 的敌方单位增加烧伤 强度时，随机使敌方单位增加共计5级烧伤 强度。\n\n激活暴怒共鸣时，战斗开始时，随机使敌方单位增加共计8级烧伤 强度。",
       "simpleDesc": [
         {
           "abilityID": 29001,
-          "simpleDesc": "[Combustion] 위력 5 무작위로 나누어 부여"
+          "simpleDesc": "随机增加5级烧伤 强度"
         },
         {
           "abilityID": 290011,
-          "simpleDesc": "[Combustion] 위력 8 무작위로 나누어 부여"
+          "simpleDesc": "随机增加8级烧伤 强度"
         }
       ]
     },
@@ -74,22 +74,22 @@
     {
       "id": 19003,
       "name": "尘归尘+",
-      "desc": "전투 시작 시 <style=\"upgradeHighlight\">[Combustion]에 걸린 적 전체(환상체일 경우, 모든 부위)에게</style> [Combustion] 위력 2 부여.",
+      "desc": "战斗开始时，使带有烧伤 的全体敌方单位（或所有异想体部位）增加2级烧伤 强度。",
       "simpleDesc": [
         {
           "abilityID": 19003,
-          "simpleDesc": "[Combustion] 위력 2 부여"
+          "simpleDesc": "增加2级烧伤 强度"
         }
       ]
     },
     {
       "id": 29003,
       "name": "尘归尘++",
-      "desc": "전투 시작 시 적 <style=\"upgradeHighlight\">전체(환상체일 경우, 모든 부위)에게 [Combustion] 위력 3</style> 부여.",
+      "desc": "战斗开始时，使全体敌方单位（或所有异想体部位）增加3级烧伤 强度。",
       "simpleDesc": [
         {
           "abilityID": 29003,
-          "simpleDesc": "[Combustion] 위력 3 부여"
+          "simpleDesc": "增加3级烧伤 强度"
         }
       ]
     },
@@ -122,22 +122,22 @@
     {
       "id": 19005,
       "name": "嗜伤甲虫+",
-      "desc": "<style=\"upgradeHighlight\">[Laceration] 위력을 부여하는 스킬 또는 분노 속성의 스킬</style>을 사용하여 적에게 적중 시, 대상에게 <style=\"upgradeHighlight\">[Laceration] 위력 5</style> 부여.",
+      "desc": "使用增加流血 强度的技能或暴怒技能对敌方单位造成伤害时，使目标增加5级流血 强度。",
       "simpleDesc": [
         {
           "abilityID": 19005,
-          "simpleDesc": "[Laceration] 위력 5 부여"
+          "simpleDesc": "增加5级流血 强度"
         }
       ]
     },
     {
       "id": 29005,
       "name": "嗜伤甲虫++",
-      "desc": "[Laceration] 위력을 부여하는 스킬 또는 분노 속성의 스킬을 사용하여 적에게 적중 시, 대상에게 [Laceration] 위력 5, <style=\"upgradeHighlight\">[Laceration] 횟수 1 부여.</style>",
+      "desc": "使用增加流血 强度的技能或暴怒技能对敌方单位造成伤害时，使目标增加5级流血 强度并对其施加1层流血 。",
       "simpleDesc": [
         {
           "abilityID": 29005,
-          "simpleDesc": "[Laceration] 위력 5, [Laceration] 횟수 1 부여"
+          "simpleDesc": "增加5级流血 强度并施加1层流血 "
         }
       ]
     },
@@ -178,56 +178,56 @@
       "simpleDesc": [
         {
           "abilityID": 9008,
-          "simpleDesc": "[Laceration] 위력 1 부여. 다음 턴까지 [DefenseDown] 2 부여"
+          "simpleDesc": "增加1级流血 强度并施加2层防御等级降低 直到下回合结束"
         },
         {
           "abilityID": 90081,
-          "simpleDesc": "[Laceration] 위력 3 부여"
+          "simpleDesc": "增加3级流血 强度"
         }
       ]
     },
     {
       "id": 9009,
       "name": "炽热的羽毛",
-      "desc": "[Combustion] 위력을 부여하는 스킬 또는 색욕 속성의 스킬을 사용하여 적에게 적중 시, 대상에게 [Combustion] 위력 3 부여.\n\n턴 시작 시 [Combustion] 위력 20 이상을 보유한 적의 경우, [Combustion] 위력이 2배로 증가.",
+      "desc": "使用色欲技能或增加烧伤 强度的技能对敌方单位造成伤害时，使目标增加3级烧伤 强度。\n\n回合开始时，使烧伤 强度不低于20级的全体敌方单位的烧伤 强度变为2倍。",
       "simpleDesc": [
         {
           "abilityID": 9009,
-          "simpleDesc": "[Combustion] 위력 3 부여"
+          "simpleDesc": "增加3级烧伤 强度"
         },
         {
           "abilityID": 90091,
-          "simpleDesc": "대상의 [Combustion] 위력이 2배로 증가"
+          "simpleDesc": "烧伤 强度变为2倍"
         }
       ]
     },
     {
       "id": 19009,
       "name": "炽热的羽毛+",
-      "desc": "[Combustion] 위력을 부여하는 스킬 또는 색욕 속성의 스킬을 사용하여 적에게 적중 시, 대상에게 <style=\"upgradeHighlight\">[Combustion] 위력 4</style> 부여.\n\n턴 시작 시 [Combustion] 위력 20 이상을 보유한 적의 경우, [Combustion] 위력이 2배로 증가.",
+      "desc": "使用色欲技能或增加烧伤 强度的技能对敌方单位造成伤害时，使目标增加4级烧伤 强度。\n\n回合开始时，使烧伤 强度不低于20级的全体敌方单位的烧伤 强度变为2倍。",
       "simpleDesc": [
         {
           "abilityID": 19009,
-          "simpleDesc": "[Combustion] 위력 4 부여"
+          "simpleDesc": "增加4级烧伤 强度"
         },
         {
           "abilityID": 190091,
-          "simpleDesc": "대상의 [Combustion] 위력이 2배로 증가"
+          "simpleDesc": "烧伤 强度变为2倍"
         }
       ]
     },
     {
       "id": 29009,
       "name": "炽热的羽毛++",
-      "desc": "[Combustion] 위력을 부여하는 스킬 또는 색욕 속성의 스킬을 사용하여 적에게 적중 시, 대상에게 [Combustion] 위력 4 부여.\n\n턴 시작 시 [Combustion] 위력 20 이상을 보유한 적의 경우, <style=\"upgradeHighlight\">[Combustion] 위력이 2.5배</style>로 증가.",
+      "desc": "使用色欲技能或增加烧伤 强度的技能对敌方单位造成伤害时，使目标增加4级烧伤 强度。\n\n回合开始时，使烧伤 强度不低于20级的全体敌方单位的烧伤 强度变为2.5倍。",
       "simpleDesc": [
         {
           "abilityID": 29009,
-          "simpleDesc": "[Combustion] 위력 4 부여"
+          "simpleDesc": "增加4级烧伤 强度"
         },
         {
           "abilityID": 290091,
-          "simpleDesc": "대상의 [Combustion] 위력이 2.5배로 증가"
+          "simpleDesc": "烧伤 强度变为2.5倍"
         }
       ]
     },
@@ -301,45 +301,45 @@
     {
       "id": 9013,
       "name": "成捆的符咒",
-      "desc": "스킬을 사용하여 적에게 적중 시 12 이상의 체력 피해를 입혔다면, 대상에게 [Burst] 위력 2 부여.\n\n참격 스킬을 사용할 경우, 효과가 강화되어 [Burst] 위력 4 부여.",
+      "desc": "使用单个技能造成不低于12点体力伤害时，使目标增加2级破裂 强度。\n\n若该技能为斩击技能，则改为增加4级破裂 强度。",
       "simpleDesc": [
         {
           "abilityID": 9013,
-          "simpleDesc": "[Burst] 위력 2 부여"
+          "simpleDesc": "增加2级破裂 强度"
         },
         {
           "abilityID": 90131,
-          "simpleDesc": "[Burst] 위력 4 부여"
+          "simpleDesc": "增加4级破裂 强度"
         }
       ]
     },
     {
       "id": 19013,
       "name": "成捆的符咒+",
-      "desc": "스킬을 사용하여 적에게 적중 시 12 이상의 체력 피해를 입혔다면, 대상에게 <style=\"upgradeHighlight\">[Burst] 위력 3</style> 부여.\n\n참격 스킬을 사용할 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Burst] 위력 5</style> 부여.",
+      "desc": "使用单个技能造成不低于12点体力伤害时，使目标增加3级破裂 强度。\n\n若该技能为斩击技能，则改为增加5级破裂 强度。",
       "simpleDesc": [
         {
           "abilityID": 19013,
-          "simpleDesc": "[Burst] 위력 3 부여"
+          "simpleDesc": "增加3级破裂 强度"
         },
         {
           "abilityID": 190131,
-          "simpleDesc": "[Burst] 위력 5 부여"
+          "simpleDesc": "增加5级破裂 强度 "
         }
       ]
     },
     {
       "id": 29013,
       "name": "成捆的符咒++",
-      "desc": "스킬을 사용하여 <style=\"upgradeHighlight\">적에게 적중 시 1 이상의 체력 피해를 입혔다면</style>, 대상에게 [Burst] 위력 3 부여.\n\n참격 스킬을 사용할 경우, 효과가 강화되어 [Burst] 위력 5 부여, <style=\"upgradeHighlight\">[Burst] 횟수 1 증가.</style>",
+      "desc": "使用单个技能造成不低于1点体力伤害时，使目标增加3级破裂 强度。\n\n若该技能为斩击技能，则改为增加5级破裂 强度并施加1层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 9013,
-          "simpleDesc": "[Burst] 위력 3 부여"
+          "simpleDesc": "增加3级破裂 强度"
         },
         {
           "abilityID": 90131,
-          "simpleDesc": "[Burst] 위력 5 부여, [Burst] 횟수 1 증가"
+          "simpleDesc": "增加5级破裂 强度并施加1层破裂 "
         }
       ]
     },
@@ -406,33 +406,33 @@
     {
       "id": 9016,
       "name": "绿光果实",
-      "desc": "흐트러짐 상태가 아닌 적에게 탐식 속성 스킬을 사용하여 적중하였거나 또는 스킬 효과로 [Vibration] 위력을 부여할 경우, 모든 적(환상체일 경우, 모든 부위)에게 [Vibration] 위력 4 무작위로 나누어 부여.",
+      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加震颤 强度时，随机使全体敌方单位（或所有异想体部位）增加共计4级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 9016,
-          "simpleDesc": "[Vibration] 위력 4 무작위로 나누어 부여"
+          "simpleDesc": "随机增加4级震颤 强度"
         }
       ]
     },
     {
       "id": 19016,
       "name": "绿光果实+",
-      "desc": "흐트러짐 상태가 아닌 적에게 탐식 속성 스킬을 사용하여 적중하였거나 또는 스킬 효과로 [Vibration] 위력을 부여할 경우, 모든 적(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Vibration] 위력 6</style> 무작위로 나누어 부여.",
+      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加震颤 强度时，随机使全体敌方单位（或所有异想体部位）增加共计6级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 19016,
-          "simpleDesc": "[Vibration] 위력 6 무작위로 나누어 부여"
+          "simpleDesc": "随机增加6级震颤 强度"
         }
       ]
     },
     {
       "id": 29016,
       "name": "绿光果实++",
-      "desc": "흐트러짐 상태가 아닌 적에게 탐식 속성 스킬을 사용하여 적중하였거나 또는 스킬 효과로 [Vibration] 위력을 부여할 경우, 모든 적(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Vibration] 위력 8</style> 무작위로 나누어 부여.",
+      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加震颤 强度时，随机使全体敌方单位（或所有异想体部位）增加共计8级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 29016,
-          "simpleDesc": "[Vibration] 위력 8 무작위로 나누어 부여"
+          "simpleDesc": "随机增加8级震颤 强度"
         }
       ]
     },
@@ -454,45 +454,45 @@
     {
       "id": 9018,
       "name": "玫瑰王冠",
-      "desc": "턴 시작 시, 무작위 적 하나(환상체일 경우, 모든 부위)에게 [Burst] 위력 4 부여.\n\n탐식 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 [Burst] 위력 2 부여.",
+      "desc": "回合开始时，随机使1名敌方单位（或所有异想体部位）增加4级破裂 强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位增加2级破裂 强度。",
       "simpleDesc": [
         {
           "abilityID": 9018,
-          "simpleDesc": "[Burst] 위력 4 부여"
+          "simpleDesc": "增加4级破裂 强度"
         },
         {
           "abilityID": 90181,
-          "simpleDesc": "[Burst] 위력 2 부여"
+          "simpleDesc": "增加2级破裂 强度"
         }
       ]
     },
     {
       "id": 19018,
       "name": "玫瑰王冠+",
-      "desc": "턴 시작 시, <style=\"upgradeHighlight\">무작위 적 둘</style>(환상체일 경우, 모든 부위)에게 [Burst] 위력 4 부여.\n\n탐식 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 <style=\"upgradeHighlight\">[Burst] 위력 3</style> 부여.",
+      "desc": "回合开始时，随机使2名敌方单位（或所有异想体部位）增加4级破裂 强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位增加3级破裂 强度。",
       "simpleDesc": [
         {
           "abilityID": 19018,
-          "simpleDesc": "[Burst] 위력 4 부여"
+          "simpleDesc": "增加4级破裂 强度"
         },
         {
           "abilityID": 190181,
-          "simpleDesc": "[Burst] 위력 3 부여"
+          "simpleDesc": "增加3级破裂 强度"
         }
       ]
     },
     {
       "id": 29018,
       "name": "玫瑰王冠++",
-      "desc": "턴 시작 시, <style=\"upgradeHighlight\">무작위 적 셋</style>(환상체일 경우, 모든 부위)에게 [Burst] 위력 4 부여.\n\n탐식 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 <style=\"upgradeHighlight\">[Burst] 위력 4</style> 부여.",
+      "desc": "回合开始时，随机使3名敌方单位（或所有异想体部位）增加4级破裂 强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位增加4级破裂 强度。",
       "simpleDesc": [
         {
           "abilityID": 29018,
-          "simpleDesc": "[Burst] 위력 4 부여"
+          "simpleDesc": "增加4级破裂 强度"
         },
         {
           "abilityID": 290181,
-          "simpleDesc": "[Burst] 위력 4 부여"
+          "simpleDesc": "增加4级破裂 强度"
         }
       ]
     },
@@ -510,33 +510,33 @@
     {
       "id": 9020,
       "name": "白树棉",
-      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 (8+흐트러짐 단계x4)만큼 [Laceration] 위력을 얻고 그 수치의 절반만큼 대상에게 [AttackDown] 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
+      "desc": "回合开始时，解除敌方单位的混乱，使其增加(8+混乱等级×4)级流血 强度并施加 (8+混乱等级×4)/2层攻击等级降低 。（每场战斗每名敌方单位最多1次，不对不能解除混乱的特定敌方单位生效）",
       "simpleDesc": [
         {
           "abilityID": 9020,
-          "simpleDesc": "[Laceration] 위력 (8+흐트러짐 단계x4) 부여"
+          "simpleDesc": "增加(8+混乱等级x4)级流血 强度"
         }
       ]
     },
     {
       "id": 19020,
       "name": "白树棉+",
-      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 <style=\"upgradeHighlight\">(10+흐트러짐 단계x5)만큼</style> <style=\"upgradeHighlight\">[Laceration] 위력을 얻고 그 수치만큼</style> 대상에게 [AttackDown] 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
+      "desc": "回合开始时，解除敌方单位的混乱，使其增加(10+混乱等级×5)级流血 强度并施加 (10+混乱等级×5)层攻击等级降低 。（每场战斗每名敌方单位最多1次，不对不能解除混乱的特定敌方单位生效）",
       "simpleDesc": [
         {
           "abilityID": 19020,
-          "simpleDesc": "[Laceration] 위력 (10+흐트러짐 단계x5) 부여"
+          "simpleDesc": "增加(10+混乱等级x5)级流血 强度"
         }
       ]
     },
     {
       "id": 29020,
       "name": "白树棉++",
-      "desc": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 <style=\"upgradeHighlight\">(12+흐트러짐 단계x6)만큼</style> [Laceration] 위력을 얻고 그 수치만큼 대상에게 [AttackDown]와 <style=\"upgradeHighlight\">[DefenseDown]</style> 부여(동일한 적에게는 전투 당 1회 발동하며, 흐트러짐 상태에서 풀려나지 않는 특정 적에게는 발동하지 않음).",
+      "desc": "回合开始时，解除敌方单位的混乱，使其增加(12+混乱等级×6)级流血 强度并施加 (12+混乱等级×6)层攻击等级降低 与防御等级降低 。（每场战斗每名敌方单位最多1次，不对不能解除混乱的特定敌方单位生效）",
       "simpleDesc": [
         {
           "abilityID": 29020,
-          "simpleDesc": "[Laceration] 위력 (12+흐트러짐 단계x6) 부여"
+          "simpleDesc": "增加(12+混乱等级x6)级流血 强度"
         }
       ]
     },
@@ -569,44 +569,44 @@
     {
       "id": 9023,
       "name": "雷击木",
-      "desc": "스킬 효과로 [Burst] 위력을 부여할 때마다 대상에게 [Burst] 위력 1, [Burst] 횟수 1 부여.",
+      "desc": "使用技能增加破裂 强度时，额外增加1级破裂 强度并施加1层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 9023,
-          "simpleDesc": "[Burst] 위력 1, [Burst] 횟수 1 부여"
+          "simpleDesc": "增加1级破裂 强度并施加1层破裂 "
         }
       ]
     },
     {
       "id": 19023,
       "name": "雷击木+",
-      "desc": "스킬 효과로 [Burst] 위력을 부여할 때마다 대상에게 <style=\"upgradeHighlight\">[Burst] 위력 2</style>, [Burst] 횟수 1 부여.",
+      "desc": "使用技能增加破裂 强度时，额外增加2级破裂 强度并施加1层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 19023,
-          "simpleDesc": "[Burst] 위력 2, [Burst] 횟수 1 부여"
+          "simpleDesc": "增加2级破裂 强度并施加1层破裂 "
         }
       ]
     },
     {
       "id": 29023,
       "name": "雷击木++",
-      "desc": "스킬 효과로 [Burst] 위력을 부여할 때마다 대상에게 <style=\"upgradeHighlight\">[Burst] 위력 3</style>, [Burst] 횟수 1 부여.\n\n<style=\"upgradeHighlight\">우울 속성 스킬을 사용할 경우, 효과가 강화되어 [Burst] 위력 3, [Burst] 횟수 2 부여.</style>",
+      "desc": "使用技能增加破裂 强度时，额外增加3级破裂 强度并施加1层破裂 。\n\n若该技能为忧郁技能，则改为使目标增加3级破裂 强度并对其施加2层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 29023,
-          "simpleDesc": "[Burst] 위력 3, [Burst] 횟수 1 부여"
+          "simpleDesc": "增加3级破裂 强度并施加1层破裂 "
         },
         {
           "abilityID": 290231,
-          "simpleDesc": "[Burst] 위력 3, [Burst] 횟수 2 부여"
+          "simpleDesc": "增加3级破裂 强度并施加2层破裂 "
         }
       ]
     },
     {
       "id": 9024,
       "name": "融落的眼球",
-      "desc": "[VibrationExplosion]된 적에게 다음 턴에 [AttackDown] 5와 [DefenseDown] 5 부여.",
+      "desc": "敌方单位被震颤引爆 时，下回合对其施加5层攻击等级降低 与5层防御等级降低 。",
       "simpleDesc": [
         {
           "abilityID": 9024,
@@ -737,45 +737,45 @@
     {
       "id": 9031,
       "name": "辉光变动仪",
-      "desc": "스테이지 첫 턴 시작 시, 적 전체(환상체일 경우, 모든 부위)에게 [Vibration] 위력 4, [Vibration] 횟수 4 부여.\n\n질투 속성 스킬을 사용하여 적에게 적중 시, 대상에게 [Vibration] 위력 2 부여.",
+      "desc": "关卡的首个回合开始时，使全体敌方单位（或所有异想体部位）增加4级震颤 强度，并对其施加4层震颤 。\n\n使用嫉妒技能造成伤害时，使目标增加2级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 9031,
-          "simpleDesc": "[Vibration] 위력 4, [Vibration] 횟수 4 부여."
+          "simpleDesc": "增加4级震颤 强度并施加4层震颤 "
         },
         {
           "abilityID": 90311,
-          "simpleDesc": "[Vibration] 위력 2 부여"
+          "simpleDesc": "增加2级震颤 强度"
         }
       ]
     },
     {
       "id": 19031,
       "name": "辉光变动仪+",
-      "desc": "<style=\"upgradeHighlight\">웨이브 첫 턴 시작 시</style>, 적 전체(환상체일 경우, 모든 부위)에게 [Vibration] 위력 4, [Vibration] 횟수 4 부여.\n\n질투 속성 스킬을 사용하여 적에게 적중 시, 대상에게 [Vibration] 위력 2 부여.",
+      "desc": "波次的首个回合开始时，使全体敌方单位（或所有异想体部位）增加4级震颤 强度，并对其施加4层震颤 。\n\n使用嫉妒技能造成伤害时，使目标增加2级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 19031,
-          "simpleDesc": "[Vibration] 위력 4, [Vibration] 횟수 4 부여."
+          "simpleDesc": "增加4级震颤 强度并施加4层震颤 "
         },
         {
           "abilityID": 190311,
-          "simpleDesc": "[Vibration] 위력 2 부여"
+          "simpleDesc": "增加2级震颤 强度"
         }
       ]
     },
     {
       "id": 29031,
       "name": "辉光变动仪++",
-      "desc": "웨이브 첫 턴 시작 시, 적 전체(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Vibration] 위력 5, [Vibration] 횟수 5 부여.</style>\n\n질투 속성 스킬을 사용하여 적에게 적중 시, 대상에게 <style=\"upgradeHighlight\">[Vibration] 위력 3 부여.</style>",
+      "desc": "波次的首个回合开始时，使全体敌方单位（或所有异想体部位）增加5级震颤 强度，并对其施加5层震颤 。\n\n使用嫉妒技能造成伤害时，使目标增加3级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 29031,
-          "simpleDesc": "[Vibration] 위력 5, [Vibration] 횟수 5 부여."
+          "simpleDesc": "增加5级震颤 强度并施加5层震颤 "
         },
         {
           "abilityID": 290311,
-          "simpleDesc": "[Vibration] 위력 3 부여"
+          "simpleDesc": "增加3级震颤 强度"
         }
       ]
     },
@@ -797,26 +797,26 @@
     {
       "id": 9033,
       "name": "标准负荷电池",
-      "desc": "스킬을 사용하여 적에게 적중 시, 대상에게 [Burst] 위력 3 부여.\n\n질투 속성 스킬을 사용할 경우, 효과가 강화되어 대상에게 [Burst] 위력 5 부여.",
+      "desc": "使用技能对敌方单位造成伤害时，使目标增加3级破裂 强度。\n\n若该技能为嫉妒技能，则改为使目标增加5级破裂 强度。",
       "simpleDesc": [
         {
           "abilityID": 9033,
-          "simpleDesc": "[Burst] 위력 3 부여"
+          "simpleDesc": "增加3级破裂 强度"
         },
         {
           "abilityID": 90331,
-          "simpleDesc": "[Burst] 위력 5 부여"
+          "simpleDesc": "增加5级破裂 强度"
         }
       ]
     },
     {
       "id": 9034,
       "name": "单点打击逻辑电路",
-      "desc": "[Combustion] 위력을 부여하는 스킬 또는 질투 속성 스킬을 사용하여 적에게 적중 시, 대상에게 해당 스킬의 코인 수 절반만큼 추가로 [Combustion] 위력 부여(소수는 올림하여 계산).",
+      "desc": "使用嫉妒技能或增加烧伤 强度的技能对敌方单位造成伤害时，使目标增加(技能硬币总数/2)级烧伤 强度（向上取整）",
       "simpleDesc": [
         {
           "abilityID": 9034,
-          "simpleDesc": "스킬 코인 수 절반만큼 [Combustion] 위력 부여"
+          "simpleDesc": "增加(技能硬币总数/2)级烧伤 强度"
         }
       ]
     },
@@ -945,7 +945,7 @@
     {
       "id": 9041,
       "name": "赤色指令",
-      "desc": "아군이 스킬 효과로 적에게 [Sinking] 위력을 부여할 때마다 해당 인격이 다음 턴에 공격 레벨이 1 증가 (최대 3).\n\n분노 속성 공격 스킬을 보유한 아군의 경우, 효과가 강화되어 [Sinking] 위력을 부여할 때마다 다음 턴에 공격 레벨이 2 증가 (최대 4).",
+      "desc": "友方单位通过技能使目标增加沉沦 强度时，下回合使该友方单位提升1级攻击等级（最多提升3级）。\n\n若该友方单位拥有暴怒攻击技能，则改为每次增加沉沦 强度时，下回合使该友方单位提升2级攻击等级（最多提升4级）。",
       "simpleDesc": [
         {
           "abilityID": 9041,
@@ -960,7 +960,7 @@
     {
       "id": 19041,
       "name": "赤色指令+",
-      "desc": "아군이 스킬 효과로 적에게 [Sinking] 위력을 부여할 때마다 해당 인격이 다음 턴에 공격 레벨이 1 증가 <style=\"upgradeHighlight\">(최대 4)</style>.\n\n분노 속성 공격 스킬을 보유한 아군의 경우, 효과가 강화되어 [Sinking] 위력을 부여할 때마다 다음 턴에 공격 레벨이 2 증가 <style=\"upgradeHighlight\">(최대 5)</style>.",
+      "desc": "友方单位通过技能使目标增加沉沦 强度时，下回合使该友方单位提升1级攻击等级（最多提升4级）。\n\n若该友方单位拥有暴怒攻击技能，则改为每次增加沉沦 强度时，下回合使该友方单位提升2级攻击等级（最多提升5级）。",
       "simpleDesc": [
         {
           "abilityID": 19041,
@@ -975,7 +975,7 @@
     {
       "id": 29041,
       "name": "赤色指令++",
-      "desc": "아군이 스킬 효과로 적에게 [Sinking] 위력을 부여할 때마다 해당 인격이 다음 턴에 <style=\"upgradeHighlight\">공격 레벨이 2 증가</style> (최대 4).\n\n분노 속성 공격 스킬을 보유한 아군의 경우, 효과가 강화되어 [Sinking] 위력을 부여할 때마다 다음 턴에 <style=\"upgradeHighlight\">공격 레벨이 3 증가 (최대 6)</style>.",
+      "desc": "友方单位通过技能使目标增加沉沦 强度时，下回合使该友方单位提升2级攻击等级（最多提升4级）。\n\n若该友方单位拥有暴怒攻击技能，则改为每次增加沉沦 强度时，下回合使该友方单位提升3级攻击等级（最多提升6级）。",
       "simpleDesc": [
         {
           "abilityID": 29041,
@@ -990,45 +990,45 @@
     {
       "id": 9042,
       "name": "烟霾与铁丝网",
-      "desc": "아군이 스킬 효과로 부여하는 [Laceration] 위력 수치가 2배로 적용.\n\n턴 종료 시 [Laceration] 상태인 적들이 다음 턴에 속도가 2만큼 감소.",
+      "desc": "友方单位通过技能增加的流血 强度变为2倍。\n\n回合结束时带有流血 的敌方单位在下回合速度值-2",
       "simpleDesc": [
         {
           "abilityID": 9042,
-          "simpleDesc": "[Laceration] 위력 수치 2배로 적용"
+          "simpleDesc": "增加的流血 强度变为2倍"
         },
         {
           "abilityID": 90421,
-          "simpleDesc": "속도 2 감소"
+          "simpleDesc": "速度值减少2"
         }
       ]
     },
     {
       "id": 19042,
       "name": "烟霾与铁丝网+",
-      "desc": "아군이 스킬 효과로 부여하는 [Laceration] 위력 수치가 2배로 적용.\n\n턴 종료 시 [Laceration]에 걸린 적들이 다음 턴에 <style=\"upgradeHighlight\">속도가 3만큼 감소.</style>",
+      "desc": "友方单位通过技能增加的流血 强度变为2倍。\n\n回合结束时带有流血 的敌方单位在下回合速度值-3",
       "simpleDesc": [
         {
           "abilityID": 19042,
-          "simpleDesc": "[Laceration] 위력 수치 2배로 적용"
+          "simpleDesc": "增加的流血 强度变为2倍"
         },
         {
           "abilityID": 190421,
-          "simpleDesc": "속도 3 감소"
+          "simpleDesc": "速度值减少3"
         }
       ]
     },
     {
       "id": 29042,
       "name": "烟霾与铁丝网++",
-      "desc": "아군이 스킬 효과로 부여하는 <style=\"upgradeHighlight\">[Laceration] 위력 수치가 2.5배로 적용.</style>\n\n턴 종료 시 [Laceration]에 걸린 적들이 다음 턴에 속도가 3만큼 감소.",
+      "desc": "友方单位通过技能增加的流血 强度变为2.5倍。\n\n回合结束时带有流血 的敌方单位在下回合速度值-3",
       "simpleDesc": [
         {
           "abilityID": 29042,
-          "simpleDesc": "[Laceration] 위력 수치 2.5배로 적용"
+          "simpleDesc": "增加的流血 强度变为2.5倍"
         },
         {
           "abilityID": 290421,
-          "simpleDesc": "속도 3 감소"
+          "simpleDesc": "速度值减少3"
         }
       ]
     },
@@ -1068,90 +1068,90 @@
     {
       "id": 9044,
       "name": "震荡手环",
-      "desc": "스킬을 사용하여 적에게 적중 시, 다음 턴에 대상에게 [Vibration] 위력 1 부여.\n\n분노 속성 스킬을 사용할 경우, 효과가 강화되어 [Vibration] 위력 2 부여.",
+      "desc": "使用技能对敌方单位造成伤害时，下回合使目标增加1级震颤 强度。\n\n若该技能为暴怒技能，则改为使目标增加2级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 9044,
-          "simpleDesc": "[Vibration] 위력 1 부여"
+          "simpleDesc": "增加1级震颤 强度"
         },
         {
           "abilityID": 90441,
-          "simpleDesc": "[Vibration] 위력 2 부여"
+          "simpleDesc": "增加2级震颤 强度"
         }
       ]
     },
     {
       "id": 19044,
       "name": "震荡手环+",
-      "desc": "스킬을 사용하여 적에게 적중 시, 다음 턴에 대상에게 [Vibration] 위력 1 부여.\n\n분노 속성 스킬을 사용할 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Vibration] 위력 3 부여.</style>",
+      "desc": "使用技能对敌方单位造成伤害时，下回合使目标增加1级震颤 强度。\n\n若该技能为暴怒技能，则改为使目标增加3级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 19044,
-          "simpleDesc": "[Vibration] 위력 1 부여"
+          "simpleDesc": "增加1级震颤 强度"
         },
         {
           "abilityID": 190441,
-          "simpleDesc": "[Vibration] 위력 3 부여"
+          "simpleDesc": "增加3级震颤 强度"
         }
       ]
     },
     {
       "id": 29044,
       "name": "震荡手环++",
-      "desc": "스킬을 사용하여 적에게 적중 시, 다음 턴에 대상에게 <style=\"upgradeHighlight\">[Vibration] 위력 2 부여.</style>\n\n분노 속성 스킬을 사용할 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Vibration] 위력 4 부여.</style>",
+      "desc": "使用技能对敌方单位造成伤害时，下回合使目标增加2级震颤 强度。\n\n若该技能为暴怒技能，则改为使目标增加4级震颤 强度。",
       "simpleDesc": [
         {
           "abilityID": 29044,
-          "simpleDesc": "[Vibration] 위력 2 부여"
+          "simpleDesc": "增加2级震颤 强度"
         },
         {
           "abilityID": 290441,
-          "simpleDesc": "[Vibration] 위력 4 부여"
+          "simpleDesc": "增加4级震颤 强度"
         }
       ]
     },
     {
       "id": 9045,
       "name": "炎鳞",
-      "desc": "턴 종료 시, [Combustion] 상태인 적에게 대상이 보유한 [Combustion] 횟수의 절반 만큼을 소모하여 ([Combustion] 위력 x 소모한 [Combustion] 횟수)만큼 추가 분노 피해를 입힘. 불꽃의 편린 효과로 소모한 [Combustion] 횟수의 절반만큼, 다음 턴 동안 대상의 방어 레벨 감소 (최대 3).",
+      "desc": "回合结束时，使带有烧伤 的敌方单位消耗一半烧伤 层数并对其造成（烧伤 强度×消耗的烧伤 层数）点额外暴怒伤害。下回合使其防御等级减少（炎鳞消耗的烧伤 层数/2）级（最多减少3级）",
       "simpleDesc": [
         {
           "abilityID": 9045,
-          "simpleDesc": "([Combustion] 위력 x [Combustion] 횟수)만큼 분노 피해"
+          "simpleDesc": "造成（烧伤 强度×烧伤 层数）点暴怒伤害"
         },
         {
           "abilityID": 90451,
-          "simpleDesc": "([Combustion] 위력 x [Combustion] 횟수)만큼 분노 피해. 다음 턴에 소모한 [Combustion] 횟수 절반만큼 대상의 방어 레벨 감소"
+          "simpleDesc": "造成（烧伤 强度×烧伤 层数）点暴怒伤害。下回合使目标的攻击等级减少（消耗的烧伤 层数/2）级"
         }
       ]
     },
     {
       "id": 19045,
       "name": "炎鳞+",
-      "desc": "턴 종료 시, [Combustion] 상태인 적에게 대상이 보유한 [Combustion] 횟수의 절반 만큼을 소모하여 <style=\"upgradeHighlight\">([Combustion] 위력 x 소모한 [Combustion] 횟수 x 1.5)만큼</style> 추가 분노 피해를 입힘. 불꽃의 편린 효과로 소모한 [Combustion] 횟수의 절반만큼, 다음 턴 동안 대상의 방어 레벨 감소 <style=\"upgradeHighlight\">(최대 5).</style>",
+      "desc": "回合结束时，使带有烧伤 的敌方单位消耗一半烧伤 层数并对其造成（烧伤 强度×消耗的烧伤 层数×1.5）点额外暴怒伤害。下回合使其防御等级减少（炎鳞消耗的烧伤 层数/2）级（最多减少5级）",
       "simpleDesc": [
         {
           "abilityID": 19045,
-          "simpleDesc": "([Combustion] 위력 x [Combustion] 횟수 x 1.5)만큼 분노 피해"
+          "simpleDesc": "造成（烧伤 强度×烧伤 层数×1.5）点暴怒伤害"
         },
         {
           "abilityID": 190451,
-          "simpleDesc": "([Combustion] 위력 x [Combustion] 횟수 x 1.5)만큼 분노 피해. 다음 턴에 소모한 [Combustion] 횟수 절반만큼 대상의 방어 레벨 감소"
+          "simpleDesc": "造成（烧伤 强度×烧伤 层数×1.5）点暴怒伤害。下回合使目标的攻击等级减少（消耗的烧伤 层数/2）级"
         }
       ]
     },
     {
       "id": 29045,
       "name": "炎鳞++",
-      "desc": "턴 종료 시, [Combustion] 상태인 적에게 대상이 보유한 [Combustion] 횟수의 절반 만큼을 소모하여 <style=\"upgradeHighlight\">([Combustion] 위력 x 소모한 [Combustion] 횟수 x 2)만큼</style> 추가 분노 피해를 입힘. 불꽃의 편린 효과로 소모한 [Combustion] 횟수의 절반만큼, 다음 턴 동안 대상의 방어 레벨 감소 <style=\"upgradeHighlight\">(최대 8).</style>",
+      "desc": "回合结束时，使带有烧伤 的敌方单位消耗一半烧伤 层数并对其造成（烧伤 强度×消耗的烧伤 层数×2）点额外暴怒伤害。下回合使其防御等级减少（炎鳞消耗的烧伤 层数/2）级（最多减少8级）",
       "simpleDesc": [
         {
           "abilityID": 29045,
-          "simpleDesc": "([Combustion] 위력 x [Combustion] 횟수 x 2)만큼 분노 피해"
+          "simpleDesc": "造成（烧伤 强度×烧伤 层数×2）点暴怒伤害"
         },
         {
           "abilityID": 290451,
-          "simpleDesc": "([Combustion] 위력 x [Combustion] 횟수 x 2)만큼 분노 피해. 다음 턴에 소모한 [Combustion] 횟수 절반만큼 대상의 방어 레벨 감소"
+          "simpleDesc": "造成（烧伤 强度×烧伤 层数×2）点暴怒伤害。下回合使目标的攻击等级减少（消耗的烧伤 层数/2）级"
         }
       ]
     },
@@ -1173,225 +1173,225 @@
     {
       "id": 9047,
       "name": "荆棘套索",
-      "desc": "턴 종료 시, 모든 적에게 현재 속도만큼 [Burst] 위력을 부여.\n\n색욕 완전 공명을 발동하였다면 전투 시작 시, 무작위 적 하나에게 [Burst] 위력 3, [Burst] 횟수 3 부여.",
+      "desc": "回合结束时，使全体敌方单位增加与其速度值相等的破裂 强度。\n\n激活色欲完全共鸣时，在战斗开始时随机使1名敌方单位增加3级破裂 强度并对其施加3层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 9047,
-          "simpleDesc": "현재 속도만큼 [Burst] 위력 부여"
+          "simpleDesc": "增加与速度值相等的破裂 强度"
         },
         {
           "abilityID": 90471,
-          "simpleDesc": "[Burst] 위력 3, [Burst] 횟수 3 부여"
+          "simpleDesc": "增加3级破裂 强度并施加3层破裂 "
         }
       ]
     },
     {
       "id": 19047,
       "name": "荆棘套索+",
-      "desc": "턴 종료 시, 모든 적에게 <style=\"upgradeHighlight\">(현재 속도 +1)만큼</style> [Burst] 위력을 부여.\n\n색욕 완전 공명을 발동하였다면 전투 시작 시, 무작위 적 하나에게 <style=\"upgradeHighlight\">[Burst] 위력 4</style>, [Burst] 횟수 3 부여.",
+      "desc": "回合结束时，使全体敌方单位增加与其（速度值+1）相等的破裂 强度。\n\n激活色欲完全共鸣时，在战斗开始时随机使1名敌方单位增加4级破裂 强度并对其施加3层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 19047,
-          "simpleDesc": "(현재 속도 +1)만큼 [Burst] 위력 부여"
+          "simpleDesc": "增加与（速度值+1）相等的破裂 强度"
         },
         {
           "abilityID": 190471,
-          "simpleDesc": "[Burst] 위력 4, [Burst] 횟수 3 부여"
+          "simpleDesc": "增加4级破裂 强度并施加3层破裂 "
         }
       ]
     },
     {
       "id": 29047,
       "name": "荆棘套索++",
-      "desc": "턴 종료 시, 모든 적에게 <style=\"upgradeHighlight\">(현재 속도 +2)만큼</style> [Burst] 위력을 부여.\n\n색욕 완전 공명을 발동하였다면 전투 시작 시, 무작위 적 하나에게 <style=\"upgradeHighlight\">[Burst] 위력 5, [Burst] 횟수 4 부여.</style>",
+      "desc": "回合结束时，使全体敌方单位增加与其（速度值+2）相等的破裂 强度。\n\n激活色欲完全共鸣时，在战斗开始时随机使1名敌方单位增加5级破裂 强度并对其施加4层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 29047,
-          "simpleDesc": "(현재 속도 +2)만큼 [Burst] 위력 부여"
+          "simpleDesc": "增加与（速度值+2）相等的破裂 强度"
         },
         {
           "abilityID": 290471,
-          "simpleDesc": "[Burst] 위력 5, [Burst] 횟수 4 부여"
+          "simpleDesc": "增加5级破裂 强度并施加4层破裂 "
         }
       ]
     },
     {
       "id": 9048,
       "name": "锈蚀的美工刀",
-      "desc": "흐트러짐 상태가 아닌 적에게 스킬 효과로 [Laceration] 위력을 부여할 때마다 대상에게 [Laceration] 위력 1, [Laceration] 횟수 1 부여.\n\n색욕 속성 스킬을 사용할 경우, 효과가 강화되어 [Laceration] 위력 3, [Laceration] 횟수 1 부여.",
+      "desc": "技能使未陷入混乱的敌方单位增加流血 强度时，使目标增加1级流血 强度并对其施加1层流血 。\n\n若该技能为色欲技能，则改为使目标增加3级流血 强度并对其施加1层流血 。",
       "simpleDesc": [
         {
           "abilityID": 9048,
-          "simpleDesc": "[Laceration] 위력 1, [Laceration] 횟수 1 부여"
+          "simpleDesc": "增加1级流血 强度并施加1层流血 "
         },
         {
           "abilityID": 90481,
-          "simpleDesc": "[Laceration] 위력 3, [Laceration] 횟수 1 부여"
+          "simpleDesc": "增加3级流血 强度并施加1层流血 "
         }
       ]
     },
     {
       "id": 19048,
       "name": "锈蚀的美工刀+",
-      "desc": "스킬 효과로 [Laceration] 위력을 부여할 때마다 대상에게 <style=\"upgradeHighlight\">[Laceration] 위력 2</style>, [Laceration] 횟수 1 부여.\n\n색욕 속성 스킬을 사용할 경우, 효과가 강화되어 [Laceration] 위력 3, [Laceration] 횟수 1 부여.",
+      "desc": "使用技能增加流血 强度时，使目标增加2级流血 强度并对其施加1层流血 。\n\n若该技能为色欲技能，则改为使目标增加3级流血 强度并对其施加1层流血 。",
       "simpleDesc": [
         {
           "abilityID": 19048,
-          "simpleDesc": "[Laceration] 위력 2, [Laceration] 횟수 1 부여"
+          "simpleDesc": "增加2级流血 强度并施加1层流血 "
         },
         {
           "abilityID": 190481,
-          "simpleDesc": "[Laceration] 위력 3, [Laceration] 횟수 1 부여"
+          "simpleDesc": "增加3级流血 强度并施加1层流血 "
         }
       ]
     },
     {
       "id": 29048,
       "name": "锈蚀的美工刀++",
-      "desc": "스킬 효과로 [Laceration] 위력을 부여할 때마다 대상에게 <style=\"upgradeHighlight\">[Laceration] 위력 3</style>, [Laceration] 횟수 1 부여.\n\n색욕 속성 스킬을 사용할 경우, 효과가 강화되어 [Laceration] 위력 3, <style=\"upgradeHighlight\">[Laceration] 횟수 2 부여.</style>",
+      "desc": "使用技能增加流血 强度时，使目标增加3级流血 强度并对其施加1层流血 。\n\n若该技能为色欲技能，则改为使目标增加3级流血 强度并对其施加2层流血 。",
       "simpleDesc": [
         {
           "abilityID": 29048,
-          "simpleDesc": "[Laceration] 위력 3, [Laceration] 횟수 1 부여"
+          "simpleDesc": "增加3级流血 强度并施加1层流血 "
         },
         {
           "abilityID": 290481,
-          "simpleDesc": "[Laceration] 위력 3, [Laceration] 횟수 2 부여"
+          "simpleDesc": "增加3级流血 强度并施加2层流血 "
         }
       ]
     },
     {
       "id": 9049,
       "name": "荆棘之路",
-      "desc": "[Sinking] 위력을 부여하는 스킬을 사용하여 적에게 적중 시 체력 피해를 입혔다면, 턴 종료 시 대상에게 [Sinking] 위력 3, [Sinking] 횟수 2 부여 (동일한 적에게는 턴 당 1회 발동).\n\n색욕 완전 공명을 발동하였다면 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Sinking] 위력 2, [Sinking] 횟수 3 부여.",
+      "desc": "使用增加沉沦 强度的技能对敌方单位造成体力伤害时，回合结束时额外使其增加3级沉沦 强度并施加2层沉沦 。(每个回合，每个敌方单位最多1次)\n\n若激活色欲完全共鸣，则在战斗开始时，使全体敌方单位（若是异想体，则随机对一个部位）增加2级沉沦 强度并施加3层沉沦 。",
       "simpleDesc": [
         {
           "abilityID": 9049,
-          "simpleDesc": "[Sinking] 위력 3, [Sinking] 횟수 2 부여"
+          "simpleDesc": "施加2层沉沦 并增加3级沉沦 强度"
         },
         {
           "abilityID": 90491,
-          "simpleDesc": "[Sinking] 위력 2, [Sinking] 횟수 3 부여"
+          "simpleDesc": "施加3层沉沦 并增加2级沉沦 强度"
         }
       ]
     },
     {
       "id": 19049,
       "name": "荆棘之路+",
-      "desc": "[Sinking] 위력을 부여하는 스킬을 사용하여 적에게 적중 시 체력 피해를 입혔다면, 턴 종료 시 대상에게 [Sinking] 위력 3, [Sinking] 횟수 2 부여 (동일한 적에게는 턴 당 1회 발동).\n\n<style=\"upgradeHighlight\">색욕 공명을 발동하였다면</style> 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Sinking] 위력 2, [Sinking] 횟수 3 부여.",
+      "desc": "使用增加沉沦 强度的技能对敌方单位造成体力伤害时，回合结束时额外使其增加3级沉沦 强度并施加2层沉沦 。(每个回合，每个敌方单位最多1次)\n\n若激活色欲共鸣，则在战斗开始时，使全体敌方单位（若是异想体，则随机对一个部位）增加2级沉沦 强度并施加3层沉沦 。",
       "simpleDesc": [
         {
           "abilityID": 19049,
-          "simpleDesc": "[Sinking] 위력 3, [Sinking] 횟수 2 부여"
+          "simpleDesc": "施加2层沉沦 并增加3级沉沦 强度"
         },
         {
           "abilityID": 190491,
-          "simpleDesc": "[Sinking] 위력 2, [Sinking] 횟수 3 부여"
+          "simpleDesc": "施加3层沉沦 并增加2级沉沦 强度"
         }
       ]
     },
     {
       "id": 29049,
       "name": "荆棘之路++",
-      "desc": "[Sinking] 위력을 부여하는 스킬을 사용하여 적에게 적중 시 체력 피해를 입혔다면, 턴 종료 시 대상에게 <style=\"upgradeHighlight\">[Sinking] 위력 4, [Sinking] 횟수 3 부여</style> (동일한 적에게는 턴 당 1회 발동).\n\n색욕 공명을 발동하였다면 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Sinking] 위력 3, [Sinking] 횟수 3 부여.",
+      "desc": "使用增加沉沦 强度的技能对敌方单位造成体力伤害时，回合结束时额外使其增加4级沉沦 强度并施加3层沉沦 。(每个回合，每个敌方单位最多1次)\n\n若激活色欲共鸣，则在战斗开始时，使全体敌方单位（若是异想体，则随机对一个部位）增加3级沉沦 强度并施加3层沉沦 。",
       "simpleDesc": [
         {
           "abilityID": 29049,
-          "simpleDesc": "[Sinking] 위력 4, [Sinking] 횟수 3 부여"
+          "simpleDesc": "施加3层沉沦 并增加4级沉沦 强度"
         },
         {
           "abilityID": 290491,
-          "simpleDesc": "[Sinking] 위력 3, [Sinking] 횟수 3 부여"
+          "simpleDesc": "施加3层沉沦 并增加3级沉沦 强度"
         }
       ]
     },
     {
       "id": 9050,
       "name": "红染树棉",
-      "desc": "스테이지 첫 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 [Laceration] 위력 1, [Laceration] 횟수 15 부여.\n\n턴 시작 시 [Laceration] 상태인 적의 공격 레벨과 방어 레벨이 이번 턴 동안 ([Laceration] 위력 / 3)만큼 감소 ([Laceration] 위력 30 스택 시, 효과 최대).",
+      "desc": "关卡的首个回合开始时，使全体敌方单位增加1级流血 强度并对其施加15层流血 。（若是异想体，则对所有部位造成此效果。）\n\n回合开始时，带有流血 的敌方单位在本回合的攻击与防御等级降低(流血 强度/3)级。（流血 强度积累至30级时效果最高）",
       "simpleDesc": [
         {
           "abilityID": 9050,
-          "simpleDesc": "[Laceration] 위력 1, [Laceration] 횟수 15 부여"
+          "simpleDesc": "增加1级流血 强度并施加15层流血 "
         },
         {
           "abilityID": 90501,
-          "simpleDesc": "공격 레벨과 방어 레벨이 이번 턴 동안 ([Laceration] 위력 / 3)만큼 감소"
+          "simpleDesc": "本回合内降低(流血 强度/3)级攻击等级和防御等级"
         }
       ]
     },
     {
       "id": 19050,
       "name": "红染树棉+",
-      "desc": "<style=\"upgradeHighlight\">웨이브 첫 턴 시작 시</style>, 모든 적(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Laceration] 위력 2</style>, [Laceration] 횟수 15 부여.\n\n턴 시작 시 [Laceration] 상태인 적의 공격 레벨과 방어 레벨이 이번 턴 동안 ([Laceration] 위력 / 3)만큼 감소 ([Laceration] 위력 30 스택 시, 효과 최대).",
+      "desc": "波次的首个回合开始时，使全体敌方单位增加2级流血 强度并对其施加15层流血 。(若是异想体，则对所有部位造成此效果。)\n\n回合开始时，带有流血 的敌方单位在本回合的攻击与防御等级降低(流血 强度/3)级。(流血 强度积累至30级时效果最高)",
       "simpleDesc": [
         {
           "abilityID": 19050,
-          "simpleDesc": "[Laceration] 위력 2, [Laceration] 횟수 15 부여"
+          "simpleDesc": "增加2级流血 强度并施加15层流血 "
         },
         {
           "abilityID": 190501,
-          "simpleDesc": "공격 레벨과 방어 레벨이 이번 턴 동안 ([Laceration] 위력 / 3)만큼 감소"
+          "simpleDesc": "本回合内降低(流血 强度/3)级攻击等级和防御等级"
         }
       ]
     },
     {
       "id": 29050,
       "name": "红染树棉++",
-      "desc": "웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Laceration] 위력 4, [Laceration] 횟수 20 부여.</style>\n\n턴 시작 시 [Laceration] 상태인 적의 공격 레벨과 방어 레벨이 이번 턴 동안 <style=\"upgradeHighlight\">([Laceration] 위력 / 2)만큼 감소</style> ([Laceration] 위력 30 스택 시, 효과 최대).",
+      "desc": "波次的首个回合开始时，使全体敌方单位增加4级流血 强度并对其施加20层流血 。(若是异想体，则对所有部位造成此效果。)\n\n回合开始时，带有流血 的敌方单位在本回合的攻击与防御等级降低(流血 强度/2)级。(流血 强度积累至30级时效果最高)",
       "simpleDesc": [
         {
           "abilityID": 29050,
-          "simpleDesc": "[Laceration] 위력 4, [Laceration] 횟수 20 부여"
+          "simpleDesc": "增加4级流血 强度并施加20层流血 "
         },
         {
           "abilityID": 290501,
-          "simpleDesc": "공격 레벨과 방어 레벨이 이번 턴 동안 ([Laceration] 위력 / 2)만큼 감소"
+          "simpleDesc": "本回合内降低(流血 强度/2)级攻击等级和防御等级"
         }
       ]
     },
     {
       "id": 9051,
       "name": "石冢",
-      "desc": "아군이 스킬 효과로 획득하는 [Breath] 위력 수치가 1.5배로 적용.\n\n아군이 나태 속성 스킬을 사용하여 적을 처치하였다면, 다음 턴 시작 시 [Breath] 위력 2, [Breath] 횟수 2 얻음 (턴 당 1회).",
+      "desc": "友方单位通过技能获得的呼吸法 强度变为1.5倍。\n\n若友方单位使用了怠惰技能击杀了敌方单位，则下回合开始时使其增加2级呼吸法 强度并获得2层呼吸法 。(每回合最多1次)",
       "simpleDesc": [
         {
           "abilityID": 9051,
-          "simpleDesc": "[Breath] 위력 수치 1.5배로 적용"
+          "simpleDesc": "呼吸法 强度变为1.5倍"
         },
         {
           "abilityID": 90511,
-          "simpleDesc": "[Breath] 위력 2, [Breath] 횟수 2 얻음"
+          "simpleDesc": "增加2级呼吸法 强度并获得2层呼吸法 "
         }
       ]
     },
     {
       "id": 19051,
       "name": "石冢+",
-      "desc": "아군이 스킬 효과로 획득하는 [Breath] 위력 수치가 1.5배로 적용.\n\n<style=\"upgradeHighlight\">아군이 적을 처치하였다면</style>, 다음 턴 시작 시 <style=\"upgradeHighlight\">[Breath] 위력 3</style>, [Breath] 횟수 2 얻음 (턴 당 1회).",
+      "desc": "友方单位通过技能获得的呼吸法 强度变为1.5倍。\n\n若友方单位击杀了敌方单位，则下回合开始时使其增加3级呼吸法 强度并获得2层呼吸法 。(每回合最多1次)",
       "simpleDesc": [
         {
           "abilityID": 19051,
-          "simpleDesc": "[Breath] 위력 수치 1.5배로 적용"
+          "simpleDesc": "呼吸法 强度变为1.5倍"
         },
         {
           "abilityID": 190511,
-          "simpleDesc": "[Breath] 위력 3, [Breath] 횟수 2 얻음"
+          "simpleDesc": "增加3级呼吸法 强度并获得2层呼吸法 "
         }
       ]
     },
     {
       "id": 29051,
       "name": "石冢++",
-      "desc": "아군이 스킬 효과로 획득하는 <style=\"upgradeHighlight\">[Breath] 위력 수치가 2배</style>로 적용.\n\n아군이 적을 처치하였다면, 다음 턴 시작 시 <style=\"upgradeHighlight\">[Breath] 위력 4</style>, [Breath] 횟수 2 얻음 (턴 당 1회).",
+      "desc": "友方单位通过技能获得的呼吸法 强度变为2倍。\n\n若友方单位击杀了敌方单位，则下回合开始时使其增加4级呼吸法 强度并获得2层呼吸法 。(每回合最多1次)",
       "simpleDesc": [
         {
           "abilityID": 29051,
-          "simpleDesc": "[Breath] 위력 수치 2배로 적용"
+          "simpleDesc": "呼吸法 强度变为2倍"
         },
         {
           "abilityID": 290511,
-          "simpleDesc": "[Breath] 위력 4, [Breath] 횟수 2 얻음"
+          "simpleDesc": "增加4级呼吸法 强度并获得2层呼吸法 "
         }
       ]
     },
@@ -1443,45 +1443,45 @@
     {
       "id": 9053,
       "name": "土归土",
-      "desc": "웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Combustion] 위력 5, [Combustion] 횟수 3 부여.\n\n나태 완전 공명을 발동하였다면 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Combustion] 위력 3, [Combustion] 횟수 2 부여.",
+      "desc": "波次的首个回合开始时，使全体敌方单位（若是异想体，则随机对一个部位）增加5级烧伤 强度并对其施加3层烧伤 。\n\n激活怠惰完全共鸣时，战斗开始时使全体敌方单位（若是异想体，则随机对一个部位）增加3级烧伤 强度并对其施加2层烧伤 。",
       "simpleDesc": [
         {
           "abilityID": 9053,
-          "simpleDesc": "[Combustion] 위력 5, [Combustion] 횟수 3 부여"
+          "simpleDesc": "增加5级烧伤 强度并施加3层烧伤 "
         },
         {
           "abilityID": 90531,
-          "simpleDesc": "[Combustion] 위력 3, [Combustion] 횟수 2 부여"
+          "simpleDesc": "增加3级烧伤 强度并施加2层烧伤 "
         }
       ]
     },
     {
       "id": 19053,
       "name": "土归土+",
-      "desc": "웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 <style=\"upgradeHighlight\">[Combustion] 위력 6, [Combustion] 횟수 3 부여.</style>\n\n나태 완전 공명을 발동하였다면 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 <style=\"upgradeHighlight\">[Combustion] 위력 4</style>, [Combustion] 횟수 2 부여.",
+      "desc": "波次的首个回合开始时，使全体敌方单位（若是异想体，则随机对一个部位）增加6级烧伤 强度并对其施加3层烧伤 。\n\n激活怠惰完全共鸣时，战斗开始时使全体敌方单位（若是异想体，则随机对一个部位）增加4级烧伤 强度并对其施加2层烧伤 。",
       "simpleDesc": [
         {
           "abilityID": 19053,
-          "simpleDesc": "[Combustion] 위력 6, [Combustion] 횟수 3 부여"
+          "simpleDesc": "增加6级烧伤 强度并施加3层烧伤 "
         },
         {
           "abilityID": 190531,
-          "simpleDesc": "[Combustion] 위력 4, [Combustion] 횟수 2 부여"
+          "simpleDesc": "增加4级烧伤 强度并施加2层烧伤 "
         }
       ]
     },
     {
       "id": 29053,
       "name": "土归土++",
-      "desc": "웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 <style=\"upgradeHighlight\">[Combustion] 위력 8, [Combustion] 횟수 3 부여.</style>\n\n<style=\"upgradeHighlight\">나태 공명을 발동하였다면</style> 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Combustion] 위력 4, <style=\"upgradeHighlight\">[Combustion] 횟수 3 부여.</style>",
+      "desc": "波次的首个回合开始时，使全体敌方单位（若是异想体，则随机对一个部位）增加8级烧伤 强度并对其施加3层烧伤 。\n\n激活怠惰共鸣时，战斗开始时使全体敌方单位（若是异想体，则随机对一个部位）增加4级烧伤 强度并对其施加3层烧伤 。",
       "simpleDesc": [
         {
           "abilityID": 29053,
-          "simpleDesc": "[Combustion] 위력 8, [Combustion] 횟수 3 부여"
+          "simpleDesc": "增加8级烧伤 强度并施加3层烧伤 "
         },
         {
           "abilityID": 290531,
-          "simpleDesc": "[Combustion] 위력 4, [Combustion] 횟수 3 부여"
+          "simpleDesc": "增加4级烧伤 强度并施加3层烧伤 "
         }
       ]
     },
@@ -1499,60 +1499,60 @@
     {
       "id": 9055,
       "name": "暴雨",
-      "desc": "턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 [Vibration] 위력을 (현재 턴 x 2) 부여, [Vibration] 횟수 2 부여.\n\n턴 종료 시, 모든 적(환상체일 경우, 모든 부위)에게 [VibrationExplosion] 효과 부여.",
+      "desc": "回合开始时，使全体敌方单位（或所有异想体部位）增加(当前回合数×2)级震颤 强度并对其施加2层震颤 。\n\n回合结束时，使全体敌方单位（或所有异想体部位）震颤引爆 。",
       "simpleDesc": [
         {
           "abilityID": 9055,
-          "simpleDesc": "[Vibration] 위력 (현재 턴 x 2), [Vibration] 횟수 2 부여"
+          "simpleDesc": "增加(当前回合数×2)级震颤 强度并施加2层震颤 "
         },
         {
           "abilityID": 90551,
-          "simpleDesc": "[VibrationExplosion] 효과 부여"
+          "simpleDesc": "使目标震颤引爆 "
         }
       ]
     },
     {
       "id": 19055,
       "name": "暴雨+",
-      "desc": "턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Vibration] 위력을 (3 + 현재 턴 x 2) 부여, [Vibration] 횟수 3 부여.</style>\n\n턴 종료 시, 모든 적(환상체일 경우, 모든 부위)에게 [VibrationExplosion] 효과 부여.",
+      "desc": "回合开始时，使全体敌方单位（或所有异想体部位）增加(3+当前回合数×2)级震颤 强度并对其施加3层震颤 。\n\n回合结束时，使全体敌方单位（或所有异想体部位）震颤引爆 。",
       "simpleDesc": [
         {
           "abilityID": 19055,
-          "simpleDesc": "[Vibration] 위력 (3 + 현재 턴 x 2), [Vibration] 횟수 3 부여"
+          "simpleDesc": "增加(3+当前回合数×2)级震颤 强度并施加3层震颤 "
         },
         {
           "abilityID": 190551,
-          "simpleDesc": "[VibrationExplosion] 효과 부여"
+          "simpleDesc": "震颤引爆 "
         }
       ]
     },
     {
       "id": 29055,
       "name": "暴雨++",
-      "desc": "턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Vibration] 위력을 (5 + 현재 턴 x 2) 부여</style>, [Vibration] 횟수 3 부여.\n\n턴 종료 시, 모든 적(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[VibrationExplosion] 효과 2회 부여.</style>",
+      "desc": "回合开始时，使全体敌方单位（或所有异想体部位）增加(5+当前回合数×2)级震颤 强度并对其施加3层震颤 。\n\n回合结束时，使全体敌方单位（或所有异想体部位）震颤引爆 2次。",
       "simpleDesc": [
         {
           "abilityID": 29055,
-          "simpleDesc": "[Vibration] 위력 (5 + 현재 턴 x 2), [Vibration] 횟수 3 부여"
+          "simpleDesc": "增加(5+当前回合数×2)级震颤 强度并施加3层震颤 "
         },
         {
           "abilityID": 290551,
-          "simpleDesc": "[VibrationExplosion] 효과 2회 부여"
+          "simpleDesc": "震颤引爆 2次"
         }
       ]
     },
     {
       "id": 9056,
       "name": "四叶草",
-      "desc": "전투 시작 단계에서 [Breath] 상태인 아군이 적에게 치명타 공격 적중 시, 다음 턴 시작 시 [Breath] 위력 5 얻고 [Breath] 횟수 2 증가 (턴 당 1회 발동).\n\n탐식 속성 스킬을 사용할 경우, 효과가 강화되어 다음 턴 시작 시 [Breath] 위력 7 얻고 [Breath] 횟수 3 증가.",
+      "desc": "当战斗开始时带有呼吸法 的友方单位使用技能对敌方单位造成暴击时，下回合开始时使该友方单位增加5级呼吸法 强度并获得2层呼吸法 。(每回合最多1次)\n\n若技能为暴食技能，则改为下回合开始时增加7级呼吸法 强度并获得3层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 9056,
-          "simpleDesc": "[Breath] 위력 5 얻음, [Breath] 횟수 2 증가"
+          "simpleDesc": "增加5级呼吸法 强度并获得2层呼吸法 "
         },
         {
           "abilityID": 90561,
-          "simpleDesc": "[Breath] 위력 7 얻음, [Breath] 횟수 3 증가"
+          "simpleDesc": "增加7级呼吸法 强度并获得3层呼吸法 "
         }
       ]
     },
@@ -1585,60 +1585,60 @@
     {
       "id": 9059,
       "name": "仲冬夜的噩梦",
-      "desc": "스킬을 사용하여 적에게 적중 시 체력 피해를 입혔다면, 대상에게 [Sinking] 위력 3 부여.\n\n탐식 속성 스킬을 사용할 경우, 효과가 강화되어 대상에게 [Sinking] 위력 5 부여.",
+      "desc": "使用技能对敌方单位造成体力伤害时，使目标增加3级沉沦 强度。\n\n若该技能为暴食技能，则改为使目标增加5级沉沦 强度。",
       "simpleDesc": [
         {
           "abilityID": 9059,
-          "simpleDesc": "[Sinking] 위력 3 부여"
+          "simpleDesc": "增加3级沉沦 强度"
         },
         {
           "abilityID": 90591,
-          "simpleDesc": "[Sinking] 위력 5 부여"
+          "simpleDesc": "增加5级沉沦 强度"
         }
       ]
     },
     {
       "id": 9060,
       "name": "快感",
-      "desc": "턴 시작 시, 적 전체(환상체일 경우, 모든 부위)에게 [Burst] 위력 3, [Burst] 횟수 3 부여.\n\n턴 종료 시, [Burst] 횟수가 3 이상인 모든 적(환상체일 경우, 부위마다 별도로 판정)에게 ([Burst] 위력 x [Burst] 횟수)만큼의 탐식 피해를 입히고 대상에게 부여된 [Burst] 횟수 2 감소.",
+      "desc": "回合开始时，使全体敌方单位（若是异想体，则使所有部位）增加3级破裂 强度并对其施加3层破裂 。\n\n回合结束时，对破裂 层数不低于3层的全体敌方单位（若是异想体，则根据部位另外判定）造成(破裂 强度×破裂 层数)点暴食伤害并使目标减少2层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 9060,
-          "simpleDesc": "[Burst] 위력 3, [Burst] 횟수 3 부여"
+          "simpleDesc": "增加3级破裂 强度并施加3层破裂 "
         },
         {
           "abilityID": 90601,
-          "simpleDesc": "([Burst] 위력 x [Burst] 횟수)만큼 탐식 체력 피해, 대상의 [Burst] 횟수 2 감소"
+          "simpleDesc": "造成(破裂 强度×破裂 层数)的暴食伤害并使目标减少2层破裂  "
         }
       ]
     },
     {
       "id": 19060,
       "name": "快感+",
-      "desc": "턴 시작 시, 적 전체(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Burst] 위력 4</style>, [Burst] 횟수 3 부여.\n\n턴 종료 시, [Burst] 횟수가 3 이상인 모든 적(환상체일 경우, 부위마다 별도로 판정)에게 ([Burst] 위력 x [Burst] 횟수)만큼의 탐식 피해를 입히고 대상에게 부여된 <style=\"upgradeHighlight\">[Burst] 횟수 1 감소.</style>",
+      "desc": "回合开始时，使全体敌方单位（若是异想体，则使所有部位）增加4级破裂 强度并对其施加3层破裂 。\n\n回合结束时，对破裂 层数不低于3层的全体敌方单位（若是异想体，则根据部位另外判定）造成(破裂 强度×破裂 层数)点暴食伤害并使目标减少1层破裂 。",
       "simpleDesc": [
         {
           "abilityID": 19060,
-          "simpleDesc": "[Burst] 위력 4, [Burst] 횟수 3 부여"
+          "simpleDesc": "增加4级破裂 强度并施加3层破裂 "
         },
         {
           "abilityID": 190601,
-          "simpleDesc": "([Burst] 위력 x [Burst] 횟수)만큼 탐식 체력 피해, 대상의 [Burst] 횟수 1 감소"
+          "simpleDesc": "造成(破裂 强度×破裂 层数)的暴食伤害并使目标减少1层破裂 "
         }
       ]
     },
     {
       "id": 29060,
       "name": "快感++",
-      "desc": "턴 시작 시, 적 전체(환상체일 경우, 모든 부위)에게 <style=\"upgradeHighlight\">[Burst] 위력 6</style>, [Burst] 횟수 3 부여. 턴 종료 시, [Burst] 횟수가 3 이상인 모든 적(환상체일 경우, 부위마다 별도로 판정)에게 ([Burst] 위력 x [Burst] 횟수)만큼의 탐식 피해를 입힘.",
+      "desc": "回合开始时，使全体敌方单位（若是异想体，则使所有部位）增加6级破裂 强度并对其施加3层破裂 。\n\n回合结束时，对破裂 层数不低于3层的全体敌方单位（若是异想体，则根据部位另外判定）造成(破裂 强度×破裂 层数)点暴食伤害。",
       "simpleDesc": [
         {
           "abilityID": 29060,
-          "simpleDesc": "[Burst] 위력 6, [Burst] 횟수 3 부여"
+          "simpleDesc": "增加6级破裂 强度并施加3层破裂 "
         },
         {
           "abilityID": 290601,
-          "simpleDesc": "([Burst] 위력 x [Burst] 횟수)만큼 탐식 체력 피해"
+          "simpleDesc": "造成(破裂 强度×破裂 层数)的暴食伤害"
         }
       ]
     },
@@ -1713,45 +1713,45 @@
     {
       "id": 9063,
       "name": "追忆吊坠",
-      "desc": "전투 시작 시, 무작위 아군 하나가 [Breath] 위력 3 얻음 (공격 스킬을 사용하여 [Breath] 횟수를 획득하는 인격을 우선으로 지정).\n\n우울 속성 공격 스킬을 보유한 아군에게 우선으로 적용되며, 이 경우에는 [Breath] 위력 3 얻고 [Breath] 횟수 2 증가.",
+      "desc": "战斗开始时，随机使1名友方单位增加3级呼吸法 强度。（优先选取拥有获得呼吸法 层数的攻击技能的友方单位）\n\n优先选取拥有忧郁攻击技能的友方单位，且该情况下改为使其增加3级呼吸法 强度并获得2层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 9063,
-          "simpleDesc": "[Breath] 위력 3 얻음"
+          "simpleDesc": "增加3级呼吸法 强度"
         },
         {
           "abilityID": 90631,
-          "simpleDesc": "[Breath] 위력 3 얻음, [Breath] 횟수 2 증가"
+          "simpleDesc": "增加3级呼吸法 强度并获得2层呼吸法 层数"
         }
       ]
     },
     {
       "id": 19063,
       "name": "追忆吊坠+",
-      "desc": "전투 시작 시, 무작위 아군 하나가 <style=\"upgradeHighlight\">[Breath] 위력 4 얻음</style> (공격 스킬을 사용하여 [Breath] 횟수를 획득하는 인격을 우선으로 지정).\n\n우울 속성 공격 스킬을 보유한 아군에게 우선으로 적용되며, 이 경우에는 <style=\"upgradeHighlight\">[Breath] 위력 4 얻고 [Breath] 횟수 3 증가.</style>",
+      "desc": "战斗开始时，随机使1名友方单位增加4级呼吸法 强度。（优先选取拥有获得呼吸法 层数的攻击技能的友方单位）\n\n优先选取拥有忧郁攻击技能的友方单位，且该情况下改为使其增加4级呼吸法 强度并获得3层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 19063,
-          "simpleDesc": "[Breath] 위력 4 얻음"
+          "simpleDesc": "增加4级呼吸法 强度并获得4层呼吸法 "
         },
         {
           "abilityID": 190631,
-          "simpleDesc": "[Breath] 위력 4 얻음, [Breath] 횟수 3 증가"
+          "simpleDesc": "增加4级呼吸法 强度并获得3层呼吸法 "
         }
       ]
     },
     {
       "id": 29063,
       "name": "追忆吊坠++",
-      "desc": "전투 시작 시, <style=\"upgradeHighlight\">무작위 아군 둘</style>이 [Breath] 위력 4 얻음 (공격 스킬을 사용하여 [Breath] 횟수를 획득하는 인격을 우선으로 지정).\n\n우울 속성 공격 스킬을 보유한 아군에게 우선으로 적용되며, 이 경우에는 [Breath] 위력 4 얻고 [Breath] 횟수 3 증가.",
+      "desc": "战斗开始时，随机使2名友方单位增加4级呼吸法 强度。（优先选取拥有获得呼吸法 层数的攻击技能的友方单位）\n\n优先选取拥有忧郁攻击技能的友方单位，且该情况下改为使其增加4级呼吸法 强度并获得3层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 29063,
-          "simpleDesc": "[Breath] 위력 4 얻음"
+          "simpleDesc": "增加4级呼吸法 强度并获得4层呼吸法 "
         },
         {
           "abilityID": 290631,
-          "simpleDesc": "[Breath] 위력 4 얻음, [Breath] 횟수 3 증가"
+          "simpleDesc": "增加4级呼吸法 强度并获得3层呼吸法 "
         }
       ]
     },
@@ -1814,45 +1814,45 @@
     {
       "id": 9066,
       "name": "雾化吸入器",
-      "desc": "스테이지 첫 턴 시작 시, 모든 아군이 [Breath] 위력 4 얻고 [Breath] 횟수 4 증가.\n\n오만 완전 공명을 발동하였다면 전투 시작 시, 모든 아군이 [Breath] 위력 2 얻고 [Breath] 횟수 2 증가.",
+      "desc": "关卡的首个回合开始时，使全体友方单位增加4级呼吸法 强度并获得4层呼吸法 。\n\n激活傲慢完全共鸣时，战斗开始时，使全体友方单位增加2级呼吸法 强度并获得2层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 9066,
-          "simpleDesc": "[Breath] 위력 4 얻음, [Breath] 횟수 4 증가"
+          "simpleDesc": "增加4级呼吸法 强度并获得4层呼吸法 层数"
         },
         {
           "abilityID": 90661,
-          "simpleDesc": "[Breath] 위력 2 얻음, [Breath] 횟수 2 증가"
+          "simpleDesc": "增加2级呼吸法 强度并获得2层呼吸法 层数"
         }
       ]
     },
     {
       "id": 19066,
       "name": "雾化吸入器+",
-      "desc": "<style=\"upgradeHighlight\">웨이브 첫 턴 시작 시</style>, 모든 아군이 <style=\"upgradeHighlight\">[Breath] 위력 5</style> 얻고 [Breath] 횟수 4 증가.\n\n 오만 완전 공명을 발동하였다면 전투 시작 시, 모든 아군이 <style=\"upgradeHighlight\">[Breath] 위력 3 얻고</style> [Breath] 횟수 2 증가.",
+      "desc": "波次的首个回合开始时，使全体友方单位增加5级呼吸法 强度并获得4层呼吸法 。\n\n激活傲慢完全共鸣时，战斗开始时，使全体友方单位增加3级呼吸法 强度并获得2层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 19066,
-          "simpleDesc": "[Breath] 위력 5 얻음, [Breath] 횟수 4 증가"
+          "simpleDesc": "增加5级呼吸法 强度并获得4层呼吸法 层数"
         },
         {
           "abilityID": 190661,
-          "simpleDesc": "[Breath] 위력 3 얻음, [Breath] 횟수 2 증가"
+          "simpleDesc": "增加3级呼吸法 强度并获得2层呼吸法 层数"
         }
       ]
     },
     {
       "id": 29066,
       "name": "雾化吸入器++",
-      "desc": "웨이브 첫 턴 시작 시, 모든 아군이 [Breath] 위력 5 얻고 <style=\"upgradeHighlight\">[Breath] 횟수 5 증가.</style>\n\n<style=\"upgradeHighlight\">오만 공명을 발동하였다면</style> 전투 시작 시, 모든 아군이 [Breath] 위력 3 얻고 <style=\"upgradeHighlight\">[Breath] 횟수 3 증가.</style>",
+      "desc": "波次的首个回合开始时，使全体友方单位增加5级呼吸法 强度并获得5层呼吸法 。\n\n激活傲慢共鸣时，战斗开始时，使全体友方单位增加3级呼吸法 强度并获得3层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 29066,
-          "simpleDesc": "[Breath] 위력 5 얻음, [Breath] 횟수 5 증가"
+          "simpleDesc": "增加5级呼吸法 强度并获得5层呼吸法 层数"
         },
         {
           "abilityID": 290661,
-          "simpleDesc": "[Breath] 위력 3 얻음, [Breath] 횟수 3 증가"
+          "simpleDesc": "增加3级呼吸法 强度并获得3层呼吸法 层数"
         }
       ]
     },
@@ -1963,15 +1963,15 @@
     {
       "id": 9071,
       "name": "烧焦的圆盘",
-      "desc": "[Combustion] 상태인 적이 사망하였을 경우(환상체일 경우, 본체 사망 시), 남은 [Combustion] 위력 수치의 절반만큼을 다음 턴 시작 시 [Combustion] 위력 수치가 제일 적은 적 중 하나에게 부여.\n\n턴 시작 시 [Combustion] 상태인 적에게 이번 턴 동안 공격 레벨 감소 4 부여.",
+      "desc": "带有烧伤 的敌方单位阵亡时（若是异想体，则在本体阵亡时），将剩余烧伤 强度的一半在下回合开始时施加给烧伤 强度最低的1名敌方单位。\n\n回合开始时，本回合对带有烧伤 的敌方单位施加4层攻击等级降低 。",
       "simpleDesc": [
         {
           "abilityID": 9071,
-          "simpleDesc": "사망한 적의 남은 [Combustion] 위력 수치 절반만큼 [Combustion] 위력 부여"
+          "simpleDesc": "施加相当于阵亡的敌方单位所剩余烧伤强度一半的烧伤 "
         },
         {
           "abilityID": 90711,
-          "simpleDesc": "공격 레벨 감소 4 부여"
+          "simpleDesc": "施加4层攻击等级降低 "
         }
       ]
     },
@@ -2023,90 +2023,90 @@
     {
       "id": 9073,
       "name": "内啡肽试剂组",
-      "desc": "스킬 효과로 [Breath] 위력을 획득할 때마다 대상이 [Breath] 위력 1, [Breath] 횟수 1 얻음.\n\n질투 속성 스킬을 사용할 경우, 효과가 강화되어 [Breath] 위력 2, [Breath] 횟수 2 얻음.",
+      "desc": "通过技能增加呼吸法 强度时，额外增加1级呼吸法 强度并获得1层呼吸法 。\n\n若该技能的属性为嫉妒，则改为额外增加2级呼吸法 强度并获得2层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 9073,
-          "simpleDesc": "[Breath] 위력 1, [Breath] 횟수 1 얻음"
+          "simpleDesc": "增加1级呼吸法 强度并获得1层呼吸法 "
         },
         {
           "abilityID": 90731,
-          "simpleDesc": "[Breath] 위력 2, [Breath] 횟수 2 얻음"
+          "simpleDesc": "增加2级呼吸法 强度并获得2层呼吸法 "
         }
       ]
     },
     {
       "id": 19073,
       "name": "内啡肽试剂组+",
-      "desc": "스킬 효과로 [Breath] 위력을 획득할 때마다 대상이 <style=\"upgradeHighlight\">[Breath] 위력 2, [Breath] 횟수 2 얻음.</style>\n\n질투 속성 스킬을 사용할 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Breath] 위력 3, [Breath] 횟수 3 얻음.</style>",
+      "desc": "通过技能增加呼吸法 强度时，额外增加2级呼吸法 强度并获得2层呼吸法 。\n\n若该技能的属性为嫉妒，则改为额外增加3级呼吸法 强度并获得3层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 19073,
-          "simpleDesc": "[Breath] 위력 2, [Breath] 횟수 2 얻음"
+          "simpleDesc": "增加2级呼吸法 强度并获得2层呼吸法 "
         },
         {
           "abilityID": 190731,
-          "simpleDesc": "[Breath] 위력 3, [Breath] 횟수 3 얻음"
+          "simpleDesc": "增加3级呼吸法 强度并获得3层呼吸法 层数"
         }
       ]
     },
     {
       "id": 29073,
       "name": "内啡肽试剂组++",
-      "desc": "스킬 효과로 [Breath] 위력을 획득할 때마다 대상이 <style=\"upgradeHighlight\">[Breath] 위력 3, [Breath] 횟수 3 얻음.</style>\n\n질투 속성 스킬을 사용할 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Breath] 위력 4, [Breath] 횟수 4 얻음.</style>",
+      "desc": "通过技能增加呼吸法 强度时，额外增加3级呼吸法 强度并获得3层呼吸法 。\n\n若该技能的属性为嫉妒，则改为额外增加4级呼吸法 强度并获得4层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 29073,
-          "simpleDesc": "[Breath] 위력 3, [Breath] 횟수 3 얻음"
+          "simpleDesc": "增加3级呼吸法 强度并获得3层呼吸法 "
         },
         {
           "abilityID": 290731,
-          "simpleDesc": "[Breath] 위력 4, [Breath] 횟수 4 얻음"
+          "simpleDesc": "增加4级呼吸法 强度并获得4层呼吸法 层数"
         }
       ]
     },
     {
       "id": 9074,
       "name": "无头肖像",
-      "desc": "전투 시작 시, 정신력이 0 미만인 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Sinking] 위력 2 부여.\n\n질투 속성 스킬을 사용할 때마다 다음 턴에 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Sinking] 위력 1 나누어 부여.",
+      "desc": "战斗开始时，使全体理智值低于0点的敌方单位（若是异想体，则随机对一个部位）增加2级沉沦 强度。\n\n每当使用嫉妒属性技能时，都会于下回合随机使敌方单位（若是异想体，则随机对一个部位）增加共计1级沉沦 强度。",
       "simpleDesc": [
         {
           "abilityID": 9074,
-          "simpleDesc": "[Sinking] 위력 2 부여"
+          "simpleDesc": "增加2级沉沦 强度"
         },
         {
           "abilityID": 90741,
-          "simpleDesc": "[Sinking] 위력 1 부여"
+          "simpleDesc": "增加1级沉沦 强度"
         }
       ]
     },
     {
       "id": 19074,
       "name": "无头肖像+",
-      "desc": "전투 시작 시, 정신력이 0 미만인 모든 적(환상체일 경우, 무작위 부위 하나)에게 <style=\"upgradeHighlight\">[Sinking] 위력 3 부여.</style>\n\n질투 속성 스킬을 사용할 때마다 다음 턴에 모든 적(환상체일 경우, 무작위 부위 하나)에게 <style=\"upgradeHighlight\">[Sinking] 위력 2</style> 나누어 부여.",
+      "desc": "战斗开始时，使全体理智值低于0点的敌方单位（若是异想体，则随机对一个部位）增加3级沉沦 强度。\n\n每当使用嫉妒属性技能时，都会于下回合随机使敌方单位（若是异想体，则随机对一个部位）增加共计2级沉沦 强度。",
       "simpleDesc": [
         {
           "abilityID": 19074,
-          "simpleDesc": "[Sinking] 위력 3 부여"
+          "simpleDesc": "增加3级沉沦 强度"
         },
         {
           "abilityID": 190741,
-          "simpleDesc": "[Sinking] 위력 2 나누어 부여"
+          "simpleDesc": "增加共计2级沉沦 强度"
         }
       ]
     },
     {
       "id": 29074,
       "name": "无头肖像++",
-      "desc": "전투 시작 시, 정신력이 0 미만인 모든 적(환상체일 경우, 무작위 부위 하나)에게 <style=\"upgradeHighlight\">[Sinking] 위력 4, [Sinking] 횟수 1 부여.</style>\n\n질투 속성 스킬을 사용할 때마다 다음 턴에 모든 적(환상체일 경우, 무작위 부위 하나)에게 <style=\"upgradeHighlight\">[Sinking] 위력 3</style> 나누어 부여.",
+      "desc": "战斗开始时，使全体理智值低于0点的敌方单位（若是异想体，则随机对一个部位）增加4级沉沦 强度并对其施加1层沉沦 。\n\n每当使用嫉妒属性技能时，都会于下回合随机使敌方单位（若是异想体，则随机对一个部位）增加共计3级沉沦 强度。",
       "simpleDesc": [
         {
           "abilityID": 29074,
-          "simpleDesc": "[Sinking] 위력 4, [Sinking] 횟수 1 부여"
+          "simpleDesc": "增加4级沉沦 强度并施加1层沉沦 "
         },
         {
           "abilityID": 290741,
-          "simpleDesc": "[Sinking] 위력 3 나누어 부여"
+          "simpleDesc": "增加共计3级沉沦 强度"
         }
       ]
     },
@@ -2290,7 +2290,7 @@
     {
       "id": 9086,
       "name": "残响",
-      "desc": "턴 종료 시, [Vibration] 위력을 10 이상 보유한 적(환상체일 경우, 해당 부위)에게 다음 턴에 [Binding] 2 부여. 대상이 [Vibration] 위력을 20 이상 보유한 경우, 효과가 강화되어 [Binding] 2, [Paralysis] 1 부여.",
+      "desc": "回合结束时，对震颤 强度不低于10级的全体敌方单位（或异想体的对应部位）在下回合施加2层束缚 。若该单位的震颤 强度不低于20级，则改为施加2层束缚 与1层麻痹 。",
       "simpleDesc": [
         {
           "abilityID": 9086,
@@ -2305,7 +2305,7 @@
     {
       "id": 9087,
       "name": "炽热的智慧",
-      "desc": "[Combustion] 효과로 적을 처치하였다면 다음 턴 시작 시, [Combustion] 위력을 부여하는 스킬을 보유한 아군 인격 둘이 [AttackDmgUp] 1 얻음.",
+      "desc": "通过烧伤 效果击杀敌方单位后，下回合开始时使2名拥有增加烧伤 强度的技能的友方单位获得1层伤害强化 。",
       "simpleDesc": [
         {
           "abilityID": 9087,
@@ -2316,7 +2316,7 @@
     {
       "id": 19087,
       "name": "炽热的智慧+",
-      "desc": "[Combustion] 효과로 적을 처치하였다면 다음 턴 시작 시, [Combustion] 위력을 부여하는 스킬을 보유한 아군 인격 둘이 <style=\"upgradeHighlight\">[AttackDmgUp] 2 얻음.</style>",
+      "desc": "通过烧伤 效果击杀敌方单位后，下回合开始时使2名拥有增加烧伤 强度的技能的友方单位获得2层伤害强化 。",
       "simpleDesc": [
         {
           "abilityID": 19087,
@@ -2327,7 +2327,7 @@
     {
       "id": 29087,
       "name": "炽热的智慧++",
-      "desc": "[Combustion] 효과로 적을 처치하였다면 다음 턴 시작 시, [Combustion] 위력을 부여하는 스킬을 보유한 <style=\"upgradeHighlight\">아군 인격 셋</style>이 [AttackDmgUp] 2 얻음.",
+      "desc": "通过烧伤 效果击杀敌方单位后，下回合开始时使3名拥有增加烧伤 强度的技能的友方单位获得2层伤害强化 。",
       "simpleDesc": [
         {
           "abilityID": 29087,
@@ -2338,82 +2338,82 @@
     {
       "id": 9088,
       "name": "镇魂",
-      "desc": "스테이지 시작 시, [Combustion] 위력을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외).\n웨이브 첫 번째 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 [Combustion] 횟수 3을 부여하고 [Combustion] 위력 15를 무작위로 나누어 부여.\n\n[Combustion] 위력을 부여하는 스킬의 최종 위력 +1, 코인 위력 +1, [Combustion] 위력 부여 값 +1, [Combustion] 횟수 부여 값 +1.",
+      "desc": "关卡开始时，若拥有增加烧伤 强度的攻击技能的友方单位不低于5名，则触发该效果。（不包括E.G.O技能）\n波次的首个回合开始时，对全体敌方单位（或异想体的所有部位）施加3层烧伤 并随机使全体敌方单位增加共计15级烧伤 强度。\n\n使增加烧伤 强度的技能的最终威力+1，硬币威力+1，使目标增加的烧伤 强度额外+1级，对目标施加的烧伤 层数额外+1。",
       "simpleDesc": [
         {
           "abilityID": 9088,
-          "simpleDesc": "[Combustion] 횟수 3 부여, [Combustion] 위력 15를 무작위로 나누어 부여"
+          "simpleDesc": "施加3层烧伤 并随机使全体敌方单位增加共计15级烧伤 强度"
         },
         {
           "abilityID": 90881,
-          "simpleDesc": "스킬의 최종 위력 +1, 코인 위력 +1, [Combustion] 위력 부여 값 +1, [Combustion] 횟수 부여 값 +1"
+          "simpleDesc": "技能的最终威力+1，硬币威力+1，增加的烧伤 强度额外+1级，施加的烧伤 层数额外+1层"
         }
       ]
     },
     {
       "id": 9089,
       "name": "锈蚀的笼头",
-      "desc": "스킬을 사용하여 적에게 적중 시 12 이상의 체력 피해를 입혔다면, 대상에게 [Laceration] 위력 2 부여.\n\n참격 스킬을 사용할 경우, 효과가 강화되어 [Laceration] 위력 4 부여.",
+      "desc": "使用单个技能造成不低于12点体力伤害时，使目标增加2级流血 强度。\n\n若该技能为斩击技能，则改为增加4级流血 强度。",
       "simpleDesc": [
         {
           "abilityID": 9089,
-          "simpleDesc": "[Laceration] 위력 2 부여"
+          "simpleDesc": "增加2级流血 强度"
         },
         {
           "abilityID": 9089,
-          "simpleDesc": "[Laceration] 위력 4 부여"
+          "simpleDesc": "增加4级流血 强度"
         }
       ]
     },
     {
       "id": 19089,
       "name": "锈蚀的笼头+",
-      "desc": "스킬을 사용하여 적에게 적중 시 12 이상의 체력 피해를 입혔다면, 대상에게 <style=\"upgradeHighlight\">[Laceration] 위력 3 부여.</style>\n\n참격 스킬을 사용할 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Laceration] 위력 5 부여.</style>",
+      "desc": "使用单个技能造成不低于12点体力伤害时，使目标增加3级流血 强度。\n\n若该技能为斩击技能，则改为增加5级流血 强度。",
       "simpleDesc": [
         {
           "abilityID": 19089,
-          "simpleDesc": "[Laceration] 위력 3 부여"
+          "simpleDesc": "增加3级流血 强度"
         },
         {
           "abilityID": 19089,
-          "simpleDesc": "[Laceration] 위력 5 부여"
+          "simpleDesc": "增加5级流血 强度"
         }
       ]
     },
     {
       "id": 29089,
       "name": "锈蚀的笼头++",
-      "desc": "스킬을 사용하여 적에게 <style=\"upgradeHighlight\">적중 시 1 이상의 체력 피해를 입혔다면</style>, 대상에게 [Laceration] 위력 3 부여.\n\n참격 스킬을 사용할 경우, 효과가 강화되어 [Laceration] 위력 5, <style=\"upgradeHighlight\">[Laceration] 횟수 1 부여.</style>",
+      "desc": "使用单个技能造成不低于1点体力伤害时，使目标增加3级流血 强度。\n\n若该技能为斩击技能，则改为增加5级流血 强度并施加1层流血 。",
       "simpleDesc": [
         {
           "abilityID": 29089,
-          "simpleDesc": "[Laceration] 위력 3 부여"
+          "simpleDesc": "增加3级流血 强度"
         },
         {
           "abilityID": 29089,
-          "simpleDesc": "[Laceration] 위력 5, [Laceration] 횟수 1 부여"
+          "simpleDesc": "增加5级流血 强度并施加1层流血 "
         }
       ]
     },
     {
       "id": 9090,
       "name": "血雾",
-      "desc": "스테이지 시작 시, [Laceration] 위력을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외).\n\n아군이 스킬 효과로 부여하는 [Laceration] 위력과 [Laceration] 횟수가 2배로 적용.\n\n[Laceration] 위력을 부여하는 스킬의 코인 위력+2, 피해량 +100%.",
+      "desc": "关卡开始时，若拥有增加流血 强度的攻击技能的友方单位不低于5名，则触发该效果。（不包括E.G.O技能）\n\n全体友方单位增加的流血 强度与施加的流血 层数变为2倍。\n\n增加流血 强度的技能的硬币威力+2，造成的伤害+100%。",
       "simpleDesc": [
         {
           "abilityID": 9090,
-          "simpleDesc": "[Laceration] 위력과 [Laceration] 횟수가 2배로 적용"
+          "simpleDesc": "增加的流血 强度与施加流血 层数变为2倍"
         },
         {
           "abilityID": 90901,
-          "simpleDesc": "[Laceration] 위력을 부여하는 스킬의 코인 위력+2, 피해량 100% 증가"
+          "simpleDesc": "增加流血 强度的技能的硬币威力+2，造成的伤害+100%"
         }
       ]
     },
     {
       "id": 9091,
       "name": "真理之钟",
-      "desc": "[VibrationExplosion]이 적용된 적에게 이번 턴에 [Vulnerable] 1 부여  (공격 스킬을 사용하여 진동 폭발 부여 시, 스킬 당 최대 1회).",
+      "desc": "使敌方单位震颤引爆 时，本回合对目标施加1层易损 （每个震颤引爆 的攻击技能最多1次）",
       "simpleDesc": [
         {
           "abilityID": 9091,
@@ -2424,7 +2424,7 @@
     {
       "id": 19091,
       "name": "真理之钟+",
-      "desc": "[VibrationExplosion]이 적용된 적에게 <style=\"upgradeHighlight\">이번 턴과 다음 턴에</style> [Vulnerable] 1 부여 (공격 스킬을 사용하여 진동 폭발 부여 시, 스킬 당 최대 1회).",
+      "desc": "使敌方单位震颤引爆 时，本回合与下回合对目标施加1层易损 （每个震颤引爆 的攻击技能最多1次）",
       "simpleDesc": [
         {
           "abilityID": 19091,
@@ -2435,7 +2435,7 @@
     {
       "id": 29091,
       "name": "真理之钟++",
-      "desc": "[VibrationExplosion]이 적용된 적에게 이번 턴과 다음 턴에 <style=\"upgradeHighlight\">[Vulnerable] 2 부여</style> (공격 스킬을 사용하여 진동 폭발 부여 시, 스킬 당 최대 1회).",
+      "desc": "使敌方单位震颤引爆 时，本回合与下回合对目标施加2层易损 （每个震颤引爆 的攻击技能最多1次）",
       "simpleDesc": [
         {
           "abilityID": 29091,
@@ -2446,15 +2446,15 @@
     {
       "id": 9092,
       "name": "震颤耦合",
-      "desc": "스테이지 시작 시, [Vibration] 위력을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외).\n\n[VibrationExplosion]이 적용된 적에게 이번 턴과 다음 턴에 [Vibration] 위력 5, [Vulnerable] 1 부여 (공격 스킬을 사용하여 진동 폭발 부여 시, 스킬 당 최대 1회).\n\n이번 턴에 대상에게 [VibrationExplosion]을 3회 부여하였을 경우, 다음 턴 시작 시 대상을 흐트러뜨림 (전투 당 1회 발동).",
+      "desc": "关卡开始时，若拥有增加震颤 强度的攻击技能的友方单位不低于5名，则触发该效果。（不包括E.G.O技能）\n\n使敌方单位震颤引爆 时，本回合与下回合使其增加5级震颤 强度并对其施加1层易损 。（每个震颤引爆 的攻击技能最多触发1次）\n\n若本回合使1名敌方单位震颤引爆 3次，则下回合开始时使其陷入混乱。（每场战斗最多1次）",
       "simpleDesc": [
         {
           "abilityID": 9092,
-          "simpleDesc": "[Vibration] 위력 5, [Vulnerable] 1 부여"
+          "simpleDesc": "施加5级震颤 强度与1层易损 "
         },
         {
           "abilityID": 90921,
-          "simpleDesc": "대상을 흐트러짐 상태로 만듦."
+          "simpleDesc": "使目标陷入混乱"
         }
       ]
     },
@@ -2494,15 +2494,15 @@
     {
       "id": 9094,
       "name": "恍惚",
-      "desc": "스테이지 시작 시, [Burst] 위력을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외).\n\n스킬을 사용하여 적에게 적중 시, 대상에게 [Burst] 위력 5 부여.\n\n전투 중 적의 [Burst] 횟수가 1 아래로 떨어질 때, [Burst] 횟수 대신 [Burst] 위력 10을 소모 ([Burst] 위력이 10 미만이 될 경우, 효과 종료).",
+      "desc": "关卡开始时，若拥有增加破裂 强度的攻击技能的友方单位不低于5名，则触发该效果。（不包括E.G.O技能）\n\n技能命中敌方单位时，使其增加5级破裂 强度。\n\n若敌方单位的破裂 层数降至1以下，则优先消耗10级破裂 强度以取代破裂 层数。（破裂 强度降至10以下时失效）",
       "simpleDesc": [
         {
           "abilityID": 9094,
-          "simpleDesc": "[Burst] 위력 5 부여."
+          "simpleDesc": "增加5级破裂 强度"
         },
         {
           "abilityID": 90941,
-          "simpleDesc": "[Burst] 횟수 대신 [Burst] 위력 10 소모"
+          "simpleDesc": "优先消耗10级破裂 强度以取代破裂 层数"
         }
       ]
     },
@@ -2542,75 +2542,75 @@
     {
       "id": 9096,
       "name": "黑色乐谱",
-      "desc": "스테이지 시작 시, [Sinking] 위력을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외).\n\n스킬을 사용하여 적에게 적중 시, 대상에게 [Sinking] 위력 5 부여.\n\n턴 시작 시, 모든 적(환상체일 경우, 모든 부위)들이 직전 턴에 피격을 받아 소모한 [Sinking] 횟수의 절반만큼 [Sinking] 횟수를 다시 얻음.",
+      "desc": "关卡开始时，若拥有增加沉沦 强度的攻击技能的友方单位不低于5名，则触发该效果。（不包括E.G.O技能）\n\n使用技能命中敌方单位时，使其增加5级沉沦 强度。\n\n回合开始时，对全体敌方单位（或异想体的所有部位）重新施加（上回合受击而消耗的沉沦 层数/2）层沉沦 。",
       "simpleDesc": [
         {
           "abilityID": 9096,
-          "simpleDesc": "[Sinking] 위력 5 부여"
+          "simpleDesc": "增加5级沉沦 强度"
         },
         {
           "abilityID": 90961,
-          "simpleDesc": "피격을 받아 소모한 [Sinking] 횟수 절반만큼 [Sinking] 횟수를 얻음"
+          "simpleDesc": "重新施加（上回合受击而消耗的沉沦 层数/2）层沉沦 "
         }
       ]
     },
     {
       "id": 9097,
       "name": "马蹄铁饰物",
-      "desc": "턴 시작 시, [Breath] 위력을 보유하지 않은 무작위 아군 하나에게 [Breath] 위력 2 부여.\n\n모든 아군이 [Breath] 상태일 경우, 효과가 변경되어 모든 아군에게 [Breath] 횟수 1 부여.",
+      "desc": "回合开始时，随机使1名未带有呼吸法 强度友方单位增加2级呼吸法 强度。\n\n若全体友方单位都带有呼吸法 强度，则改为使全体友方单位获得1层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 9097,
-          "simpleDesc": "[Breath] 위력 2 부여."
+          "simpleDesc": "增加2级呼吸法 强度。"
         },
         {
           "abilityID": 90971,
-          "simpleDesc": "[Breath] 횟수 1 부여."
+          "simpleDesc": "获得1层呼吸法 。"
         }
       ]
     },
     {
       "id": 19097,
       "name": "马蹄铁饰物+",
-      "desc": "턴 시작 시, [Breath] 위력을 보유하지 않은 무작위 아군 하나에게 <style=\"upgradeHighlight\">[Breath] 위력 3 부여.</style>\n\n모든 아군이 [Breath] 상태일 경우, 효과가 변경되어 모든 아군에게 <style=\"upgradeHighlight\">[Breath] 횟수 2 부여.</style>",
+      "desc": "回合开始时，随机使1名未带有呼吸法 强度的友方单位增加3级呼吸法 强度。\n\n若全体友方单位都带有呼吸法 强度，则改为使全体友方单位获得2层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 19097,
-          "simpleDesc": "[Breath] 위력 3 부여."
+          "simpleDesc": "增加3级呼吸法 强度。"
         },
         {
           "abilityID": 190971,
-          "simpleDesc": "[Breath] 횟수 2 부여."
+          "simpleDesc": "获得2层呼吸法 。"
         }
       ]
     },
     {
       "id": 29097,
       "name": "马蹄铁饰物++",
-      "desc": "턴 시작 시, [Breath] 위력을 보유하지 않은 <style=\"upgradeHighlight\">무작위 아군 둘</style>에게 [Breath] 위력 3 부여.\n\n모든 아군이 [Breath] 상태일 경우, 효과가 변경되어 모든 아군에게 <style=\"upgradeHighlight\">[Breath] 횟수 3 부여.</style>",
+      "desc": "回合开始时，随机使2名未带有呼吸法 强度的友方单位增加3级呼吸法 强度。\n\n若全体友方单位都带有呼吸法 强度，则改为使全体友方单位获得3层呼吸法 。",
       "simpleDesc": [
         {
           "abilityID": 29097,
-          "simpleDesc": "[Breath] 위력 3 부여"
+          "simpleDesc": "增加3级呼吸法 强度。"
         },
         {
           "abilityID": 290971,
-          "simpleDesc": "[Breath] 횟수 3 부여"
+          "simpleDesc": "获得3层呼吸法 。"
         }
       ]
     },
     {
       "id": 9098,
       "name": "福袋",
-      "desc": "스테이지 시작 시, [Breath] 위력을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외).\n\n전투 시작 단계에서 [Breath] 상태인 무작위 아군이 스킬을 사용하여 적에게 치명타 피해를 입힐 경우, 다음 턴 시작 시 모든 아군이 [Breath] 위력 7 얻고 [Breath] 횟수 7 증가 (턴 당 1회 발동).\n\n[Breath] 위력을 획득하는 인격이 사용하는 3스킬의 최종 위력 +3, 코인 위력 +(12/코인 수), 피해량 +(50/코인 수)%.",
+      "desc": "关卡开始时，若拥有增加呼吸法 强度的攻击技能的友方单位不低于5名，则触发该效果。（不包括E.G.O技能）\n\n战斗开始时，随机1名带有呼吸法 的友方单位通过技能对敌方单位造成暴击时，下回合开始时使全体友方单位增加7级呼吸法 强度并获得7层呼吸法 。（每回合最多1次）\n\n使拥有获得呼吸法 的技能的友方单位3技能的最终威力+3，硬币威力+（12/硬币数量），造成的伤害+（50/硬币数量）%。",
       "simpleDesc": [
         {
           "abilityID": 9098,
-          "simpleDesc": "[Breath] 위력 7 얻음, [Breath] 횟수 7 증가"
+          "simpleDesc": "增加7级呼吸法 强度并获得7层呼吸法 "
         },
         {
           "abilityID": 90981,
-          "simpleDesc": "최종 위력 +3, 코인 위력 +(12/코인 수), 피해량 +(50/코인 수)%"
+          "simpleDesc": "最终威力+3，硬币威力+（12/硬币数量），造成的伤害+（50/硬币数量）%"
         }
       ]
     },
