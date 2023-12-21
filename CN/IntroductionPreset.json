@@ -795,6 +795,22 @@
     {
       "id": "introduce_sentence_100",
       "content": "因我将遵从那位所书写的内容，尽数{0}。"
+    },
+    {
+      "id": "introduce_word_101",
+      "content": "검"
+    },
+    {
+      "id": "introduce_sentence_101",
+      "content": "{0} 끝을… 바라본다…"
+    },
+    {
+      "id": "introduce_word_102",
+      "content": "상대"
+    },
+    {
+      "id": "introduce_sentence_102",
+      "content": "나의 {0}은(는), 어디 있는가!"
     }
   ]
 }

@@ -410,23 +410,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "只剩这些了！",
-          "desc": "优先攻击带有震颤 的单位",
+          "name": "남은건 이것 뿐이네!",
+          "desc": "<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>을 가진 대상 우선 공격",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
+                  "desc": "[OnSucceedAttack] 진동 5 부여"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的震颤 层数，相应引爆目标的震颤 "
+                  "desc": "[OnSucceedAttack] 대상의 진동 횟수만큼 [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗目标所有震颤 层数"
+                  "desc": "[OnSucceedAttack] 대상의 진동 횟수 전부 소모"
                 }
               ]
             }
@@ -489,7 +489,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目标的震颤 "
+                  "desc": "[OnSucceedAttack] 震颤引爆 "
                 }
               ]
             }
@@ -827,23 +827,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "只剩这些了！",
-          "desc": "优先攻击带有震颤 的单位",
+          "name": "남은건 이것 뿐이네!",
+          "desc": "<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>을 가진 대상 우선 공격",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
+                  "desc": "[OnSucceedAttack] 진동 5 부여"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的震颤 层数，相应引爆目标的震颤 "
+                  "desc": "[OnSucceedAttack] 대상의 진동 횟수만큼 [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗目标所有震颤 层数"
+                  "desc": "[OnSucceedAttack] 대상의 진동 횟수 전부 소모"
                 }
               ]
             }
@@ -906,7 +906,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 引爆目标的震颤 "
+                  "desc": "[OnSucceedAttack] 震颤引爆 "
                 }
               ]
             }
@@ -932,19 +932,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "悬挂的诱饵",
-          "desc": "[CantDuel] 根据妖精存活的回合数，相应使本技能的攻击容量增加。\n优先攻击被魅惑 的人格。",
+          "name": "걸려든 미끼",
+          "desc": "[CantDuel] 요정이 살아있는 턴만큼 공격 가중치가 증가함.\n<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">매혹</color></link></u>에 걸린 인격 우선 공격.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 파열 횟수 2 증가"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 출혈 3 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使本体、躯干恢复15点体力"
+                  "desc": "[OnSucceedAttack] 본체, 몸통 체력 15 회복"
                 }
               ]
             }
@@ -1814,7 +1814,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加2层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 引爆目标的震颤 "
+                  "desc": "[OnSucceedAttackHead] 震颤引爆 "
                 }
               ]
             }
