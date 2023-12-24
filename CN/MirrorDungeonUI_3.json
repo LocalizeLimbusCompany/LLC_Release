@@ -258,7 +258,7 @@
     },
     {
       "id": "mirror_dungeon_atart_buff_diactivation",
-      "content": "非激活"
+      "content": "关闭"
     },
     {
       "id": "mirrordungeon_unable_to_change_activation_buffs_when_running_dungeon",
