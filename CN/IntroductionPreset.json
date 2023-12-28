@@ -811,6 +811,22 @@
     {
       "id": "introduce_sentence_102",
       "content": "我的{0}，在哪里！"
+    },
+    {
+      "id": "introduce_word_103",
+      "content": "礼物"
+    },
+    {
+      "id": "introduce_sentence_103",
+      "content": "哈，能做个好{0}吧！"
+    },
+    {
+      "id": "introduce_word_104",
+      "content": "暴怒"
+    },
+    {
+      "id": "introduce_sentence_104",
+      "content": "我会带着你短暂的{0}……将礼物倾倒出去！"
     }
   ]
 }

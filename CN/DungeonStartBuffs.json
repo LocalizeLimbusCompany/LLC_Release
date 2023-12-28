@@ -355,6 +355,14 @@
     {
       "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
       "description": "[战斗]\n\n获得所有罪孽碎片+{0}"
+    },
+    {
+      "id": "ADDITIONAL_ALLTYPE_EGOSTOCK",
+      "description": "[战斗]\n\n获得所有罪孽碎片+{0}"
+    },
+    {
+      "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
+      "description": "[战斗]\n\n获得所有罪孽碎片+{0}"
     }
   ]
 }
