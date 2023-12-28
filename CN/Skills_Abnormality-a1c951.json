@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "기쁨이 되시지요",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "成为欢乐",
+          "desc": "[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 다음 턴에 [Binding] 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
                 }
               ]
             }
@@ -27,26 +27,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "위안이 되시지요",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "成为安宁",
+          "desc": "[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得3层呼吸法 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Breath] 3 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加3级呼吸法 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 가지고 있는 [Breath]만큼 [Breath]얻음"
+                  "desc": "[CriticalOnSucceedAttack] 自身每带有1级呼吸法 强度，使自身增加1级呼吸法 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得3层呼吸法 "
                 }
               ]
             }
@@ -59,19 +59,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "선물이랍니다",
-          "desc": "대상에게 [Binding]이 있다면, 자신이 더 빠를 경우 자신과의 속도 차이만큼 합 위력이 증가",
+          "name": "这是礼物",
+          "desc": "若目标带有束缚 ，且自身的速度值高于目标，则根据速度值之差，相应使本技能的拼点威力增加",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 정신력 5 감소"
+                  "desc": "[OnSucceedAttack] 使目标失去5点理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 2 얻음, 자신의 [Breath] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度并获得3层呼吸法 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 다음 턴에 [Paralysis] 3 부여"
+                  "desc": "[CriticalOnSucceedAttack] 下回合对目标施加3层麻痹 "
                 }
               ]
             }
@@ -84,39 +84,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "포장하겠어요",
-          "desc": "자신에게 [AaCeSeBa]가 있다면, 코인 효과에 다음 턴에 [Paralysis] 1 부여 추가\n가장 느린 대상 우선 공격\n[EndBattle] 모든 [Charge] 소모",
+          "name": "来包装吧",
+          "desc": "若自身带有[AaCeSeBa],则使本技能的硬币效果增加“下回合对目标施加1层麻痹 ”\n指定速度值最低的单位\n[EndBattle] 消耗所有充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 3 얻음."
+                  "desc": "[OnSucceedAttack] 使自身增加3级呼吸法 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath]만큼 추가 피해"
+                  "desc": "[OnSucceedAttack] 根据自身的呼吸法 强度，相应追加额外伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 1 얻음, 자신의 [Breath] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使自身增加1级呼吸法 强度并获得3层呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]  [Protection], [Enhancement], [Vulnerable], [Paralysis] 중 무작위 1개 효과를 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层某种随机效果，该效果可能为守护 、强壮 、易损 或麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수만큼 대상의 정신력을 감소"
+                  "desc": "[OnSucceedAttack] 根据自身的充能 层数，使目标失去相应的理智值"
                 },
                 {
-                  "desc": "[EnemyKill] 모든 적의 정신력 10 감소."
+                  "desc": "[EnemyKill] 使全体敌方单位失去10点理智值"
                 },
                 {
-                  "desc": "[EnemyKillFail] 다음 턴에 [Paralysis] 2 얻음."
+                  "desc": "[EnemyKillFail] 下回合对自身施加2层麻痹 "
                 }
               ]
             }
@@ -129,8 +129,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "선물 준비 시간이에요",
-          "desc": "보호막 체력이 전부 소모되었다면, 다음 턴에 흐트러짐.\n보호막 체력이 남아있다면, 다음 턴에 [Enhancement] 2 얻음",
+          "name": "是时候准备礼物了",
+          "desc": "若消耗了所有护盾体力，则下回合使自身陷入混乱。\n若仍带有护盾体力，则下回合使自身获得2层强壮 ",
           "coinlist": [
             {}
           ]

@@ -290,7 +290,7 @@
     },
     {
       "id": "side_content_already_owned_tier_ego_gift",
-      "content": "현재 쉼터에서 더이상 해당 등급의 E.G.O 기프트를 합성으로 얻을 수 없습니다."
+      "content": "现在在休息点不能再合成该等级的E.G.O饰品了。"
     }
   ]
 }
