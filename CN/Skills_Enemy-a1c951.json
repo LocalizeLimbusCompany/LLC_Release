@@ -186,7 +186,7 @@
                   "desc": "[OnSucceedAttackHead] 使自身获得1层呼吸法 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 施加2层麻痹 "
+                  "desc": "[CriticalOnSucceedAttack] 对目标施加2层麻痹 "
                 }
               ]
             }
