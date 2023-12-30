@@ -318,7 +318,7 @@
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE",
-      "description": "[商店]\n\n购买拥有沉沦关键词的E.G.O饰品时花费的经费额外减少15%"
+      "description": "[商店]\n\n购买拥有充能关键词的E.G.O饰品时花费的经费额外减少15%"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_NONE",

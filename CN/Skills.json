@@ -3744,7 +3744,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]使目标增加1级沉沦 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加1级沉沦 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的10%"
