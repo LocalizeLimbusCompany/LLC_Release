@@ -225,7 +225,7 @@
         {
           "level": 1,
           "name": "霍姆霍姆~",
-          "desc": "[OnSucceedEvade] 下回合使自身增加5级呼吸法 强度并获得2层呼吸法 \n[OnDefeatEvade] 使目标的混乱阈值前移10",
+          "desc": "[OnSucceedEvade] 下回合使自身增加5级呼吸法 强度并获得2层呼吸法 \n[OnDefeatEvade] 使自身的混乱阈值前移10",
           "coinlist": [
             {
               "coindescs": [
