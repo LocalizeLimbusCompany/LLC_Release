@@ -238,7 +238,7 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_10_desc_01",
-      "content": "显示技能的攻击容量。技能的攻击容量与目标的技能槽容量相对应。"
+      "content": "显示技能的攻击容量。技能的攻击容量与目标的行动槽容量相对应。"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_title_01",
@@ -350,7 +350,7 @@
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_09_desc_03",
-      "content": "显示技能的攻击容量。技能的攻击容量与目标的技能槽容量相对应。"
+      "content": "显示技能的攻击容量。技能的攻击容量与目标的行动槽容量相对应。"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_10_title_01",
