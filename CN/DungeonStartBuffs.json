@@ -26,7 +26,7 @@
     },
     {
       "id": "ACQUIRE_4_TIER_START_EGO_GIFT",
-      "description": "[初始E.G.O饰品]\n\n额外获得在开始阶段选择的项目的4级随机E.G.O饰品。"
+      "description": "[初始E.G.O饰品]\n\n额外获得在初始阶段所选项目的4级随机E.G.O饰品。"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
