@@ -824,7 +824,7 @@
           "level": 1,
           "name": "终末火柴之光",
           "abName": "焦化少女",
-          "desc": "攻击带有烧伤 的单位时，使本技能威力+2\n[EnemyKill] 下回合使自身获得1层强壮 ",
+          "desc": "若目标带有烧伤 ，则使本技能威力+2\n[EnemyKill] 下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
