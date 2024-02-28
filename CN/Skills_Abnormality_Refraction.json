@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "席卷而来的忧郁",
-          "desc": "[WhenUse] 使目标失去5点理智值，\n指定场上沉沦 强度最高的单位",
+          "desc": "[WhenUse] 使目标失去5点理智值，\n指定沉沦 强度最高的单位",
           "coinlist": [
             {
               "coindescs": [

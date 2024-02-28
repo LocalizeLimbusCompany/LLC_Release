@@ -1262,7 +1262,7 @@
           "level": 1,
           "name": "粉红欲望",
           "abName": "粉红鞋",
-          "desc": "[CantIdentify]\n指定场上速度值最高的单位",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,7 +1283,7 @@
           "level": 3,
           "name": "粉红欲望",
           "abName": "粉红鞋",
-          "desc": "[CantIdentify]\n指定场上速度值最高的单位",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -1304,7 +1304,7 @@
           "level": 4,
           "name": "粉红欲望",
           "abName": "粉红鞋",
-          "desc": "[CantIdentify]\n指定场上速度值最高的单位",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -1616,7 +1616,7 @@
           "level": 1,
           "name": "粉红欲望",
           "abName": "粉红鞋",
-          "desc": "[CantIdentify]\n指定场上速度值最高的单位",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -1637,7 +1637,7 @@
           "level": 3,
           "name": "粉红欲望",
           "abName": "粉红鞋",
-          "desc": "[CantIdentify]\n指定场上速度值最高的单位",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -1658,7 +1658,7 @@
           "level": 4,
           "name": "粉红欲望",
           "abName": "粉红鞋",
-          "desc": "[CantIdentify]\n指定场上速度值最高的单位",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -1996,7 +1996,7 @@
           "level": 1,
           "name": "冰结之爪",
           "abName": "芭芭雅嘎",
-          "desc": "[CantIdentify]\n指定场上体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+10%",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
@@ -2014,7 +2014,7 @@
           "level": 3,
           "name": "冰结之爪",
           "abName": "芭芭雅嘎",
-          "desc": "[CantIdentify]\n指定场上体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+30%",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
@@ -2032,7 +2032,7 @@
           "level": 4,
           "name": "冰结之爪",
           "abName": "芭芭雅嘎",
-          "desc": "[CantIdentify]\n指定场上体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+30%",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
@@ -2672,7 +2672,7 @@
           "level": 1,
           "name": "提灯",
           "abName": "妖精提灯",
-          "desc": "[CantIdentify]\n指定场上体力最高的单位",
+          "desc": "[CantIdentify]\n指定体力最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -2690,7 +2690,7 @@
           "level": 3,
           "name": "提灯",
           "abName": "妖精提灯",
-          "desc": "[CantIdentify]\n指定场上体力最高的单位",
+          "desc": "[CantIdentify]\n指定体力最高的单位",
           "coinlist": [
             {
               "coindescs": [
@@ -2919,7 +2919,7 @@
                   "desc": "[OnSucceedAttack] 使自身获得10层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合随机对2个单位施加2层麻痹 与2层束缚 "
+                  "desc": "[OnSucceedAttackTail] 下回合随机对2名单位施加2层麻痹 与2层束缚 "
                 }
               ]
             }
@@ -2940,7 +2940,7 @@
                   "desc": "[EndSkill] 使自身获得10层充能 "
                 },
                 {
-                  "desc": "[EndSkillTail] 下回合随机对2个单位施加2层麻痹 与2层束缚 ，并使自身获得3层充能 "
+                  "desc": "[EndSkillTail] 下回合随机对2名单位施加2层麻痹 与2层束缚 ，并使自身获得3层充能 "
                 }
               ]
             }
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "一生炖菜",
           "abName": "冠汤翼蜥",
-          "desc": "[CantIdentify]\n指定场上体力最高的单位\n\n[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害（最多+25%）\n随后消耗（色欲共鸣数）的色欲罪孽碎片; 每消耗1个资源增加5%伤害",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n\n[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害（最多+25%）\n随后消耗（色欲共鸣数）的色欲罪孽碎片; 每消耗1个资源增加5%伤害",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "一生炖菜",
           "abName": "冠汤翼蜥",
-          "desc": "[CantIdentify]\n指定场上体力最高的单位\n\n[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害（最多+50%）\n随后消耗（色欲共鸣数）的色欲罪孽碎片; 每消耗1个资源增加10%伤害",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n\n[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害（最多+50%）\n随后消耗（色欲共鸣数）的色欲罪孽碎片; 每消耗1个资源增加10%伤害",
           "coinlist": [
             {
               "coindescs": [
@@ -3025,7 +3025,7 @@
           "level": 1,
           "name": "一生炖菜",
           "abName": "冠汤翼蜥",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n若指定友方单位，则不会造成伤害",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n若指定友方单位，则不会造成伤害",
           "coinlist": [
             {
               "coindescs": [
@@ -3043,7 +3043,7 @@
           "level": 3,
           "name": "一生炖菜",
           "abName": "冠汤翼蜥",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n若指定友方单位，则不会造成伤害",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n若指定友方单位，则不会造成伤害",
           "coinlist": [
             {
               "coindescs": [
@@ -3066,7 +3066,7 @@
           "level": 1,
           "name": "一生炖菜",
           "abName": "冠汤翼蜥",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+10%",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
@@ -3081,7 +3081,7 @@
           "level": 3,
           "name": "一生炖菜",
           "abName": "冠汤翼蜥",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+20%",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
@@ -3096,7 +3096,7 @@
           "level": 4,
           "name": "一生炖菜",
           "abName": "冠汤翼蜥",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+30%",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
@@ -3272,7 +3272,7 @@
           "level": 1,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "[CantIdentify] \n指定场上体力最高的单位\n\n[BeforeAttack] 下回合使自身获得2层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外+1层",
+          "desc": "[CantIdentify] \n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得2层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外+1层",
           "coinlist": [
             {
               "coindescs": [
@@ -3287,7 +3287,7 @@
           "level": 3,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "[CantIdentify] \n指定场上体力最高的单位\n\n[BeforeAttack] 下回合使自身获得3层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外+2层",
+          "desc": "[CantIdentify] \n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得3层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外+2层",
           "coinlist": [
             {
               "coindescs": [
@@ -3413,7 +3413,7 @@
                   "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度 ，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 随机使任意5名单位增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 随机使5名单位增加2级烧伤 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层 。若目标因震颤引爆 而陷入混乱，则随机对5名单位施加3层烧伤 "
@@ -3437,7 +3437,7 @@
                   "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度 ，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 随机使任意5名单位增加3级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 随机使5名单位增加3级烧伤 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层 。若目标因震颤引爆 而陷入混乱，则随机对5名单位施加4层烧伤 "
@@ -3528,7 +3528,7 @@
                   "desc": "[OnSucceedAttack] 对目标造成15点理智伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层。若目标因震颤引爆 而陷入混乱，则随机使任意3个单位增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层。若目标因震颤引爆 而陷入混乱，则随机使3名单位增加2级烧伤 强度"
                 }
               ]
             }
@@ -3608,7 +3608,7 @@
           "level": 1,
           "name": "狐雨",
           "abName": "流浪狐狸",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n[BeforeAttack] 使自身获得5层呼吸法 ",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n[BeforeAttack] 使自身获得5层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3626,7 +3626,7 @@
           "level": 3,
           "name": "狐雨",
           "abName": "流浪狐狸",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3650,7 +3650,7 @@
           "level": 4,
           "name": "狐雨",
           "abName": "流浪狐狸",
-          "desc": "[CantIdentify]\n指定场上体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
