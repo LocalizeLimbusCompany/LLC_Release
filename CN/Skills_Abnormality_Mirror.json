@@ -46,7 +46,6 @@
           "name": "狂笑",
           "desc": "[WhenUse] 对目标造成10点理智伤害",
           "coinlist": [
-            {},
             {
               "coindescs": [
                 {
@@ -96,7 +95,7 @@
         {
           "level": 1,
           "name": "净化",
-          "desc": "[WhenUse] 若目标现存体力不高于30%，则使本技能威力+2",
+          "desc": "[WhenUse] 若目标现存体力不高于30%，则使本技能的威力+2",
           "coinlist": [
             {
               "coindescs": [

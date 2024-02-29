@@ -92,9 +92,7 @@
         {
           "level": 1,
           "name": "苦痛蔓延",
-          "desc": [
-            ""
-          ],
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -1572,7 +1570,6 @@
           "name": "狂笑",
           "desc": "[WhenUse] 对目标造成10点理智伤害",
           "coinlist": [
-            {},
             {
               "coindescs": [
                 {
