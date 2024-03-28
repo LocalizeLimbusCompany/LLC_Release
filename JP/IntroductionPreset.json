@@ -907,6 +907,54 @@
     {
       "id": "introduce_sentence_114",
       "content": "{0}でも早く注いでくれって…。"
+    },
+    {
+      "id": "introduce_word_115",
+      "content": "抵抗"
+    },
+    {
+      "id": "introduce_sentence_115",
+      "content": "無駄に{0}するのはやめて、受け入れて。"
+    },
+    {
+      "id": "introduce_word_116",
+      "content": "火"
+    },
+    {
+      "id": "introduce_sentence_116",
+      "content": "ふっ。なんだ、{0}がご入り用か？"
+    },
+    {
+      "id": "introduce_word_117",
+      "content": "茨"
+    },
+    {
+      "id": "introduce_sentence_117",
+      "content": "この{0}を解こうとするな。"
+    },
+    {
+      "id": "introduce_word_118",
+      "content": "邪魔者"
+    },
+    {
+      "id": "introduce_sentence_118",
+      "content": "{0}が一人消えたな。"
+    },
+    {
+      "id": "introduce_word_119",
+      "content": "午餐"
+    },
+    {
+      "id": "introduce_sentence_119",
+      "content": "次の{0}までには、戻って参ります。"
+    },
+    {
+      "id": "introduce_word_120",
+      "content": "時間"
+    },
+    {
+      "id": "introduce_sentence_120",
+      "content": "要らない{0}は持っていくぞ。"
     }
   ]
 }

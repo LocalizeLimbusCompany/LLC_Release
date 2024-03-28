@@ -234,11 +234,71 @@
     },
     {
       "id": "mainui_shop_until_season_finished",
-      "content": "시즌 4 업데이트 전\n까지"
+      "content": "시즌 5 업데이트 전\n까지"
     },
     {
       "id": "mainui_shop_purchase",
       "content": "구매"
+    },
+    {
+      "id": "mainui_shop_popup_title",
+      "content": "상점"
+    },
+    {
+      "id": "paidShop_category_SPECIAL",
+      "content": "특별"
+    },
+    {
+      "id": "paidShop_category_PACKAGE",
+      "content": "패키지"
+    },
+    {
+      "id": "paidShop_category_LUNACY",
+      "content": "광기"
+    },
+    {
+      "id": "paidShop_category_GROWTH",
+      "content": "성장"
+    },
+    {
+      "id": "returnpolicy_info_title",
+      "content": "청약철회 안내"
+    },
+    {
+      "id": "paidShop_Tab_LIMITED",
+      "content": "한정"
+    },
+    {
+      "id": "paidShop_Tab_WEEKLY",
+      "content": "주간"
+    },
+    {
+      "id": "paidShop_Tab_MONTHLY",
+      "content": "월간"
+    },
+    {
+      "id": "paidShop_Tab_ALWAYS",
+      "content": "상시"
+    },
+    {
+      "id": "go_to_mail_popup",
+      "content": "우편함으로 이동"
+    },
+    {
+      "id": "membership_remain_side_title",
+      "content": "[패키지 기간 알림]"
+    },
+    {
+      "id": "membership_remain_side_desc",
+      "content": "{0}의 이용 기간이 {1}일 남았습니다."
+    },
+    {
+      "id": "returnpolicy_table_battlePassPackge",
+      "content": "림버스 패스 패키지"
+    },
+    {
+      "id": "paid_runacy_lack",
+      "content": "유료 광기가 부족하여 구매할 수 없습니다."
     }
   ]
 }

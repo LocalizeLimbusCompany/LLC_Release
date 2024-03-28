@@ -636,6 +636,41 @@
       "name": "格里高尔",
       "nameWithTitle": "格里高尔",
       "desc": "格里高尔的第8人格"
+    },
+    {
+      "id": 10908,
+      "title": "六协会\n南部4科 科长",
+      "name": "罗佳",
+      "nameWithTitle": "罗佳",
+      "desc": "罗佳的第8人格"
+    },
+    {
+      "id": 10407,
+      "title": "六协会\n南部4科",
+      "name": "良秀",
+      "nameWithTitle": "良秀",
+      "desc": "良秀的第7人格"
+    },
+    {
+      "id": 10708,
+      "title": "Öufi协会南部\n3科",
+      "name": "希斯克利夫",
+      "nameWithTitle": "希斯克利夫",
+      "desc": "希斯克利夫的第8人格"
+    },
+    {
+      "id": 11108,
+      "title": "呼啸山庄\n首席管家",
+      "name": "奥提斯",
+      "nameWithTitle": "奥提斯",
+      "desc": "奥提斯的第8人格"
+    },
+    {
+      "id": 10509,
+      "title": "死兔帮\n老大",
+      "name": "默尔索",
+      "nameWithTitle": "默尔索",
+      "desc": "默尔索的第9人格"
     }
   ]
 }

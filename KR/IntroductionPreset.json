@@ -907,6 +907,54 @@
     {
       "id": "introduce_sentence_114",
       "content": "{0}(이)나 빨리 따르라니까…"
+    },
+    {
+      "id": "introduce_word_115",
+      "content": "저항"
+    },
+    {
+      "id": "introduce_sentence_115",
+      "content": "괜히 {0}하지 말고 받아들여."
+    },
+    {
+      "id": "introduce_word_116",
+      "content": "불"
+    },
+    {
+      "id": "introduce_sentence_116",
+      "content": "흠. 뭐, {0}이(가) 필요하나?"
+    },
+    {
+      "id": "introduce_word_117",
+      "content": "덩굴"
+    },
+    {
+      "id": "introduce_sentence_117",
+      "content": "이 {0}을(를) 풀어내려 하지 마."
+    },
+    {
+      "id": "introduce_word_118",
+      "content": "방해꾼"
+    },
+    {
+      "id": "introduce_sentence_118",
+      "content": "{0} 하나가 사라졌군."
+    },
+    {
+      "id": "introduce_word_119",
+      "content": "오찬"
+    },
+    {
+      "id": "introduce_sentence_119",
+      "content": "다음 {0}까지는 돌아오겠습니다."
+    },
+    {
+      "id": "introduce_word_120",
+      "content": "시간"
+    },
+    {
+      "id": "introduce_sentence_120",
+      "content": "필요 없는 {0}은(는) 가져가지."
     }
   ]
 }

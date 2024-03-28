@@ -907,6 +907,54 @@
     {
       "id": "introduce_sentence_114",
       "content": "C'mon, pour me some {0} already..."
+    },
+    {
+      "id": "introduce_word_115",
+      "content": "Resist"
+    },
+    {
+      "id": "introduce_sentence_115",
+      "content": "Stop {0}-ing and just accept it."
+    },
+    {
+      "id": "introduce_word_116",
+      "content": "Fire"
+    },
+    {
+      "id": "introduce_sentence_116",
+      "content": "Hm. What, need some {0}?"
+    },
+    {
+      "id": "introduce_word_117",
+      "content": "Brambles"
+    },
+    {
+      "id": "introduce_sentence_117",
+      "content": "Don't try to untangle these {0}."
+    },
+    {
+      "id": "introduce_word_118",
+      "content": "Obstacle"
+    },
+    {
+      "id": "introduce_sentence_118",
+      "content": "Now that's one less {0} in our way."
+    },
+    {
+      "id": "introduce_word_119",
+      "content": "Luncheon"
+    },
+    {
+      "id": "introduce_sentence_119",
+      "content": "I shall return before the next {0}."
+    },
+    {
+      "id": "introduce_word_120",
+      "content": "Time"
+    },
+    {
+      "id": "introduce_sentence_120",
+      "content": "I will take what surplus {0} they have."
     }
   ]
 }

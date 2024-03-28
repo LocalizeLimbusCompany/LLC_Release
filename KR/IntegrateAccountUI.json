@@ -83,6 +83,22 @@
     {
       "id": "link_error",
       "content": "연동에 실패하였습니다.\n게스트 계정이거나 동일한 플랫폼의 계정에 연동을 시도할 경우, 연동이 불가능합니다."
+    },
+    {
+      "id": "input_unlink_account",
+      "content": "연동 해제"
+    },
+    {
+      "id": "alarm_unlink_account",
+      "content": "연동 해제 완료"
+    },
+    {
+      "id": "unlink_account_ask_title",
+      "content": "연동 해제"
+    },
+    {
+      "id": "unlink_account_ask_content",
+      "content": "해당 계정들의 연동을 해제합니다.\n연동 해제 시, {0}일간 해제가 불가능합니다."
     }
   ]
 }

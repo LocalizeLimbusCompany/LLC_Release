@@ -636,6 +636,41 @@
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor's 8th Identity"
+    },
+    {
+      "id": 10908,
+      "title": "Liu Assoc.\nSouth Section 4 Director",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 8th Identity"
+    },
+    {
+      "id": 10407,
+      "title": "Liu Assoc.\nSouth Section 4",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 7th Identity"
+    },
+    {
+      "id": 10708,
+      "title": "Öufi Assoc.\nSouth Section 3",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff's 8th Identity"
+    },
+    {
+      "id": 11108,
+      "title": "Wuthering Heights\nChief Butler",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis's 8th Identity"
+    },
+    {
+      "id": 10509,
+      "title": "Dead Rabbits\nBoss",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 9th Identity"
     }
   ]
 }

@@ -53,7 +53,8 @@
         "RailwayDungeonUI_3",
         "EventYCGDText",
         "EventLimbus1stAnnivText",
-        "AssociationName"
+        "AssociationName",
+        "ReturnPolicy"
     ],
     "character": [
         "Characters"
@@ -72,7 +73,8 @@
         "Enemies-a1c5p3",
         "Enemies-a1c951",
         "Enemies-walpu2",
-        "Enemies-ycgd"
+        "Enemies-ycgd",
+        "Enemies-a1c6p1"
     ],
     "ego": [
         "Egos"
@@ -124,7 +126,8 @@
         "Skills_Enemy-a1c951",
         "Skills_Abnormality-a1c951",
         "Skills_Enemy-walpu2",
-        "Skills_Enemy-ycgd"
+        "Skills_Enemy-ycgd",
+        "Skills_Enemy-a1c6p1"
     ],
     "passive": [
         "Passives",
@@ -148,7 +151,8 @@
         "Passives_Abnormality-a1c951",
         "Passives_Enemy-a1c951",
         "Passive-walpu2",
-        "Passives-ycgd"
+        "Passives-ycgd",
+        "Passives_Enemy-a1c6p1"
     ],
     "buf": [
         "Bufs",
@@ -159,13 +163,15 @@
         "Bufs-a1c5p3",
         "Bufs_Mirror3",
         "Bufs-a1c951",
-        "Bufs-ycgd"
+        "Bufs-ycgd",
+        "Bufs-a1c6p1"
     ],
     "buffAbilities": [
         "BuffAbilities"
     ],
     "item": [
-        "Items"
+        "Items",
+        "Items-a1c6"
     ],
     "keyword": [
         "BattleKeywords",
@@ -260,7 +266,8 @@
         "StageNode-a1c5p2",
         "StageNode-a1c5p3",
         "StageNode91-6",
-        "StageNode91-7"
+        "StageNode91-7",
+        "StageNode-a1c6p1"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -295,14 +302,16 @@
     "battlePass": [
         "BattlePass",
         "BattlePass_Banner",
-        "BattlePass_Banner_2"
+        "BattlePass_Banner_2",
+        "BattlePass_Banner-a1c6"
     ],
     "storyTheater": [
         "StoryTheaterMain",
         "StoryTheaterOther"
     ],
     "announcer": [
-        "Announcer"
+        "Announcer",
+        "Announcer-a1c6"        
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -411,7 +420,12 @@
         "Voice_Meursault_SwordGroup_10508",
         "Voice_Faust_SwordGroup_10208",
         "Voice_Gregor_Kurokumo_11208",
-        "Voice_Donquixote_SwordGroup_10308"
+        "Voice_Donquixote_SwordGroup_10308",
+        "Voice_Rodion_LiuAsso4_10908",
+        "Voice_Ryoshu_LiuAsso4_10407",
+        "Voice_Heathcliff_Oufi_10708",
+        "Voice_Outis_Butler_11108",
+        "Voice_Meursault_DeadRabbit_10509"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -425,7 +439,8 @@
         "Announcer_Yuri_9",
         "Announcer_Malkuth_10",
         "Announcer_JackPierre_11",
-        "Announcer_Angela_12"
+        "Announcer_Angela_12",
+        "Announcer_Samjo_15"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -470,16 +485,20 @@
         "IntroduceCharacter"
     ],
     "userBanner": [
-        "UserBanner"
+        "UserBanner",
+        "UserBanner-a1c6"
     ],
     "userTicketL": [
-        "UserTicket-L"
+        "UserTicket-L",
+        "UserTicket-L-a1c6"
     ],
     "userTicketR": [
-        "UserTicket-R"
+        "UserTicket-R",
+        "UserTicket-R-a1c6"
     ],
     "userTicketEGOBg": [
-        "UserTicket-EGOBg"
+        "UserTicket-EGOBg",
+        "UserTicket-EGOBg-a1c6"
     ],
     "bgmLyrics": [
         "BgmLyrics_Credit",
@@ -511,17 +530,20 @@
         "StoryTheaterDanteNoteDetail_2",
         "StoryTheaterDanteNoteDetail_3",
         "StoryTheaterDanteNoteDetail_4",
-        "StoryTheaterDanteNoteDetail_5"
+        "StoryTheaterDanteNoteDetail_5",
+        "StoryTheaterDanteNoteDetail_6"
     ],
     "danteNoteCategoryKeyword": [
         "StoryTheaterDanteNote",
         "StoryTheaterDanteNote_2",
         "StoryTheaterDanteNote_3",
         "StoryTheaterDanteNote_4",
-        "StoryTheaterDanteNote_5"
+        "StoryTheaterDanteNote_5",
+        "StoryTheaterDanteNote_6"
     ],
     "panicInfo": [
-        "PanicInfo"
+        "PanicInfo",
+        "PanicInfo-a1c6p1"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"

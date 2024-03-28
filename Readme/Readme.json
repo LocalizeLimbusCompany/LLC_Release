@@ -11,6 +11,16 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"Github\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"如果喜欢的话请点个Star吧\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"作者 Bright#1192\"},{\"formatKey\":\"Image\",\"formatValue\":\"Readme_ModAuthor\"}]}"
     },
     {
+      "id": 1191,
+      "version": 0,
+      "type": 1,
+      "startDate": "2024-03-31T16:00:00.000Z",
+      "endDate": "2024-04-01T16:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "4月1日\n关于未赠送狂气的补偿",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"承蒙诸位经理关照。\\n我们确认到因为笨笨月计的疏忽，\\n鳊鱼巴士公司未能及时补偿诸位经理300朋友费。\\n特此补偿。\\n补偿内容：300狂气\\n领取时间：2024.3.32之前点击下方按钮领取\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_AprilFools>300Lunacy</link>\"}]}"
+    },
+    {
       "id": 1193,
       "version": 0,
       "type": 1,
@@ -31,25 +41,25 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"都市零协会汉化组\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://space.bilibili.com/1247764479\"},{\"formatKey\":\"Text\",\"formatValue\":\"边狱公司中文WIKI\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://limbuscompany.huijiwiki.com\"},{\"formatKey\":\"Text\",\"formatValue\":\"LLC 官网\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://www.zeroasso.top\"}]}"
     },
     {
-      "id": 2926,
+      "id": 2929,
       "version": 0,
       "type": 0,
-      "startDate": "2024-02-23T08:00:00.000Z",
+      "startDate": "2024-03-21T08:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Mod V0.6.26",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.26\\n- 汉化内容跟进\\n  - 5.5章 肉斩骨断 的内容更新\\n  - 2月23日 之前模组的累积更新\\n  - 其他累积更新\"}]}"
+      "title_KR": "Mod V0.6.29",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.29\\n- 汉化内容跟进\\n  - 新人格 的内容更新\\n  - 3月21日 之前模组的累积更新\\n  - 其他累积更新\"}]}"
     },
     {
-      "id": 2925,
+      "id": 2928,
       "version": 0,
       "type": 0,
-      "startDate": "2024-02-15T08:00:00.000Z",
+      "startDate": "2024-03-14T08:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [
       ],
-      "title_KR": "Mod V0.6.25",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.25\\n- 汉化内容跟进\\n  - 2月15日 之前模组的累积更新\\n  - 其他累积更新\"}]}"
+      "title_KR": "Mod V0.6.28",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.6.28\\n- 汉化内容跟进\\n  - 新EGO 的内容更新\\n  - 3月14日 之前模组的累积更新\\n  - 其他累积更新\"}]}"
     }
   ]
 }

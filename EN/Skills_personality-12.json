@@ -624,7 +624,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
                 }
               ]
             },
