@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使模板增加2级震颤 强度并对其施加4层震颤 "
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度并对其施加4层震颤 "
                 }
               ]
             }
