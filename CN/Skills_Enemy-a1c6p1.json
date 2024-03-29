@@ -241,7 +241,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "伸长…",
+          "name": "延…",
           "desc": "",
           "coinlist": [
             {
@@ -876,7 +876,7 @@
                   "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值高于目标至少3，则重复使用本硬币（1次）"
+                  "desc": "[OnSucceedAttack] 若自身的速度值高于目标至少3点，则重复使用本硬币（1次）"
                 }
               ]
             }
@@ -1145,7 +1145,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移与流血 强度相同的数值"
+                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应使其混乱阈值前移"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合对目标施加2层麻痹 "
@@ -1155,14 +1155,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于12级，则对目标施加3层攻击等级降低 "
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于12级，则对其施加3层攻击等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于15级，则下回合对目标施加2层易损 "
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于15级，则下回合对其施加2层易损 "
                 }
               ]
             }
@@ -1176,7 +1176,7 @@
         {
           "level": 1,
           "name": "授予箱子",
-          "desc": "[WhenUse] 若自身的速度值高于目标至少3，则使本技能的拼点威力+2\n[WinDuel] 使自身恢复10点理智值",
+          "desc": "[WhenUse] 若自身的速度值高于目标至少3点，则使本技能的拼点威力+2\n[WinDuel] 使自身恢复10点理智值",
           "coinlist": [
             {
               "coindescs": [
