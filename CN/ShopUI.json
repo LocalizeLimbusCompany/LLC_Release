@@ -250,7 +250,7 @@
     },
     {
       "id": "paidShop_category_PACKAGE",
-      "content": "礼包"
+      "content": "组合包"
     },
     {
       "id": "paidShop_category_LUNACY",
@@ -286,7 +286,7 @@
     },
     {
       "id": "membership_remain_side_title",
-      "content": "[礼包有效期]"
+      "content": "[组合包有效期]"
     },
     {
       "id": "membership_remain_side_desc",
@@ -294,7 +294,7 @@
     },
     {
       "id": "returnpolicy_table_battlePassPackge",
-      "content": "边狱通行证礼包"
+      "content": "边狱通行证组合包"
     },
     {
       "id": "paid_runacy_lack",
