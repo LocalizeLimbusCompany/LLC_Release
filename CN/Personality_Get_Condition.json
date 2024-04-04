@@ -674,19 +674,19 @@
     },
     {
       "id": "11209_getCondition_normal",
-      "content": "에드가 가문 승계자 그레고르 획득 시"
+      "content": "获得埃德加家族 继承人 格里高尔"
     },
     {
       "id": "11209_getCondition_gacksung",
-      "content": "에드가 가문 승계자 그레고르 동기화 3단계 달성"
+      "content": "埃德加家族 继承人 格里高尔 3阶段同步完成"
     },
     {
       "id": "10209_getCondition_normal",
-      "content": "워더링하이츠 버틀러 파우스트 획득 시"
+      "content": "获得呼啸山庄 管家 浮士德"
     },
     {
       "id": "10209_getCondition_gacksung",
-      "content": "워더링하이츠 버틀러 파우스트 동기화 3단계 달성"
+      "content": "呼啸山庄 管家 浮士德 3阶段同步完成"
     }
   ]
 }

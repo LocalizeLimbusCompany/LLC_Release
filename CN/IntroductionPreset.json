@@ -958,35 +958,35 @@
     },
     {
       "id": "introduce_word_121",
-      "content": "악몽"
+      "content": "噩梦"
     },
     {
       "id": "introduce_sentence_121",
-      "content": "또 그 지긋지긋한 {0}인가…"
+      "content": "又是那该死的{0}……"
     },
     {
       "id": "introduce_word_122",
-      "content": "사냥"
+      "content": "狩猎"
     },
     {
       "id": "introduce_sentence_122",
-      "content": "주인님의 말씀대로 {0}을(를) 준비중입니다."
+      "content": "遵照主人的命令，正在准备{0}。"
     },
     {
       "id": "introduce_word_123",
-      "content": "불청객"
+      "content": "不速之客"
     },
     {
       "id": "introduce_sentence_123",
-      "content": "{0}은(는) 당장 나가시오, {0}은(는)…!"
+      "content": "{0}请马上离开，{0}……！"
     },
     {
       "id": "introduce_word_124",
-      "content": "저택"
+      "content": "宅邸"
     },
     {
       "id": "introduce_sentence_124",
-      "content": "{0}을(를)… 안내해주지…"
+      "content": "请允许我来……为你介绍这座{0}……"
     }
   ]
 }

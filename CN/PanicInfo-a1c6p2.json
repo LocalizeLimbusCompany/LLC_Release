@@ -2,21 +2,21 @@
   "dataList": [
     {
       "id": 1019,
-      "panicName": "흐트러진 그림",
-      "lowMoraleDescription": "[Enhancement] 1, [Vulnerable] 1 얻음",
-      "panicDescription": "[PlusCoinValueUp] 1, [Vulnerable] 3 얻음."
+      "panicName": "凌乱的绘画",
+      "lowMoraleDescription": "使自身获得1层[Enhancement]并对自身施加1层[Vulnerable]",
+      "panicDescription": "使自身获得1层[PlusCoinValueUp]并对自身施加3层[Vulnerable]"
     },
     {
       "id": 1021,
-      "panicName": "복수",
-      "lowMoraleDescription": "[DefenseDown] 3, [AttackDmgUp] 3 얻음",
-      "panicDescription": "[DefenseDown] 6, [AttackDmgUp] 5 얻음"
+      "panicName": "复仇",
+      "lowMoraleDescription": "对自身施加3层[DefenseDown]并使自身获得3层[AttackDmgUp]",
+      "panicDescription": "对自身施加6层[DefenseDown]并使自身获得5层[AttackDmgUp]"
     },
     {
       "id": 1022,
-      "panicName": "증오",
-      "lowMoraleDescription": "합 승리 시 다음 턴에 [AttackUp]를 1 얻음. (턴 당 최대 3)\n합 패배 시 [DefenseUp]를 1 얻음. (턴 당 최대 3)",
-      "panicDescription": "합 승리 시 이번 턴과 다음 턴에 [AttackUp]를 1 얻음. (턴 당 최대 3)\n합 패배 시 [DefenseUp]를 1 얻음. (턴 당 최대 3)\n턴 종료 시 다음 턴에 [Agility]을 2 얻음"
+      "panicName": "憎恶",
+      "lowMoraleDescription": "拼点胜利时，下回合使自身获得1层[AttackUp]（每回合最多3次）\n拼点失败时，使自身获得1层[DefenseUp]（每回合最多3次）",
+      "panicDescription": "拼点胜利时，本回合与下回合使自身获得1层[AttackUp]（每回合最多3次）\n拼点失败时，使自身获得1层[DefenseUp]（每回合最多3次）\n回合结束时，使自身获得2层[Agility]"
     }
   ]
 }

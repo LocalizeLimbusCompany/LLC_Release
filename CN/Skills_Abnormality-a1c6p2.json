@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "손아귀",
+          "name": "掌",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 5 부여. [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加2层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加2层束缚 "
                 }
               ]
             }
@@ -27,26 +27,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돌 쌓기",
-          "desc": "[WhenUse] 대상의 [Vibration]이 5 이상이면, 합 위력 +1",
+          "name": "堆石",
+          "desc": "[WhenUse] 若目标的震颤 强度不低于5级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层攻击等级降低 "
                 }
               ]
             }
@@ -59,19 +59,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "나태한 짓누름",
-          "desc": "[WhenUse] 자신보다 속도가 낮다면, 차이만큼 합 위력 +1 (최대 3)",
+          "name": "怠惰的压迫",
+          "desc": "[WhenUse] 若自身的速度值高于目标，则每相差1点，使本技能的拼点威力+1（最多+3）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -84,8 +84,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[WhenUse] [Protection] 3 얻음",
+          "name": "防御",
+          "desc": "[WhenUse] 使自身获得3层守护 ",
           "coinlist": [
             {
               "coindescs": [
@@ -103,20 +103,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "깨물기",
-          "desc": "이 공격 스킬 적중시 다음 턴에 [TakeHpHealIncrease]를 얻음",
+          "name": "啃咬",
+          "desc": "本攻击技能命中时，下回合使自身获得体力恢复提升 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -129,46 +129,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "식사 시간",
-          "desc": "[WhenUse] 대상에게 [Burst]이 있다면, 기본 위력 +1",
+          "name": "用餐时间",
+          "desc": "[WhenUse] 若目标带有破裂 ，则使本技能的基础威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复3点体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复3点体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复3点体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复3点体力"
                 }
               ]
             }
@@ -181,46 +181,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "탐욕스러운 식사 시간",
-          "desc": "[WhenUse] 대상의 [Burst]이 5 이상이면, [DefenseDown] 2 부여\n자신의 [TakeHpHealIncrease] 수치만큼, 기본 위력 +1 (최대 3)",
+          "name": "贪婪的用餐时间",
+          "desc": "[WhenUse] 若目标的破裂 强度不低于5级，则对其施加2层防御等级降低 \n自身每带有1层体力恢复提升 ，使本技能的基础威力+1（最多+3）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复5点体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复5点体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复5点体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복"
+                  "desc": "[OnSucceedAttackHead] 使本体与部位恢复5点体力"
                 }
               ]
             }
@@ -233,20 +233,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "자신의 본체 체력이 50%이하라면, 이 스킬의 코인 적중시 본체 및 부위 체력 10 회복",
+          "name": "反击",
+          "desc": "若本体体力不高于50%，则令本技能的硬币命中时使本体与部位恢复10点体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度并对其施加2层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度并对其施加2层破裂 "
                 }
               ]
             }
@@ -259,20 +259,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "배트치기",
+          "name": "球棍痛殴",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -285,30 +285,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "내려박기",
-          "desc": "[WinDuel] 다음 턴에 [Enhancement], [AttackDmgUp] 1 얻음",
+          "name": "击倒出局",
+          "desc": "[WinDuel] 下回合使自身获得1层强壮 与1层伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Burst]만큼 [Laceration] 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于其破裂 强度的流血 强度"
                 }
               ]
             }
@@ -321,30 +321,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "분풀기",
-          "desc": "대상의 [Burst]이 5 이상이면, 합 위력 +1\n대상의 [Laceration]이 5 이상이면, 합 위력 +1\n[WinDuel] [Burst] 횟수 3 증가",
+          "name": "泄愤暴打",
+          "desc": "若目标的破裂 强度不低于5级，则使本技能的拼点威力+1\n若目标的流血 强度不低于5级，则使本技能的拼点威力+1\n[WinDuel] 对目标施加3层破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 코인 위력 +1"
+                  "desc": "[OnSucceedAttackHead] 使本技能的下一枚硬币的威力+1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 코인 위력 +2"
+                  "desc": "[OnSucceedAttackHead] 使本技能的下一枚硬币的威力+2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度"
                 }
               ]
             }
@@ -357,34 +357,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "속죄의 시간이다",
+          "name": "赎罪时间",
           "desc": "[CantChangeTarget]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수  3, [Burst]  횟수 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层流血 与3层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3, [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度与3级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3, [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度与3级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Enhancement] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层强壮 "
                 }
               ]
             }
@@ -397,27 +397,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "더욱 고통스러워야해!",
-          "desc": "[CantChangeTarget]\n[WinDuel] [Burst] 횟수 3 증가",
+          "name": "你会更加痛苦！",
+          "desc": "[CantChangeTarget]\n[WinDuel] 对目标施加3层破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 코인 위력 +1"
+                  "desc": "[OnSucceedAttackHead] 使本技能的下一枚硬币的威力+1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 코인 위력 +2"
+                  "desc": "[OnSucceedAttackHead] 使本技能的下一枚硬币的威力+2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度"
                 }
               ]
             }
@@ -430,8 +430,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[WhenUse] 다음 턴에 [Enhancement] 1 얻음",
+          "name": "防御",
+          "desc": "[WhenUse] 下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
@@ -449,13 +449,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] 다음 턴에 [Enhancement] 1 얻음",
+          "name": "反击",
+          "desc": "[WhenUse] 下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -468,23 +468,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "치워주마",
-          "desc": "이 공격 스킬이 입힌 피해량의 10%만큼 본체 및 부위 체력 회복",
+          "name": "我会除掉你",
+          "desc": "使本体与部位恢复本攻击技能伤害量10%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层攻击等级提升 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层迅捷 "
                 }
               ]
             }
@@ -497,23 +497,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "빌어먹을 놈",
-          "desc": "대상보다 속도가 빠르다면, 합 위력+2",
+          "name": "你这混账！",
+          "desc": "若自身的速度值高于目标，则使本技能的拼点威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度并对其施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度并对其施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상보다 속도가 3이상 빠르다면, 이 코인 재사용 (최대 1회)"
+                  "desc": "[OnSucceedAttack] 若自身的速度值高于目标至少3点，则重复使用本硬币（最多1次）"
                 }
               ]
             }
@@ -526,40 +526,40 @@
       "levelList": [
         {
           "level": 1,
-          "name": "내 집이다!",
-          "desc": "체력이 가장 낮은 대상 우선 공격\n[WhenUse] 대상의 현재 체력 비율이 70% 미만이면, 합 위력 +2",
+          "name": "这是我的家园！",
+          "desc": "指定体力最低的目标\n[WhenUse] 若目标现存体力不高于70%，则使本技能的拼点威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层迅捷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度并对其施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度并对其施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 20이상이면, 피해량 +100%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于20级，则使本硬币造成的伤害+100%"
                 },
                 {
-                  "desc": "[EnemyKill] 이 스킬 재사용 (최대 1)"
+                  "desc": "[EnemyKill] 重复使用本技能（最多1次）"
                 }
               ]
             }
@@ -572,20 +572,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "네놈만은…",
-          "desc": "체력이 가장 낮은 대상 우선 공격\n[WhenUse] 속도가 가장 낮은 적일 경우, 기본 위력 +3\n[WhenUse] 다음 턴에 [AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5 부여",
+          "name": "我会抓住你…",
+          "desc": "指定体力最低的目标\n[WhenUse] 若目标为速度值最低的敌方单位，则使本技能的基础威力+3\n[WhenUse] 对目标施加[AaCfPbBe]、2层易损 、3层麻痹 与5层束缚 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层攻击等级提升 "
                 }
               ]
             }
@@ -598,37 +598,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돌려줘…!!",
+          "name": "把它还来…！！",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得2层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得2层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得2层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+30%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 5이상이면, 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于5级，则使自身恢复本硬币伤害量50%的体力"
                 }
               ]
             }
@@ -641,20 +641,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "이 새끼가…",
-          "desc": "[AaCfPbBe]을 가지고 있는 대상 우선 공격\n대상의 속도가 자신보다 3 이상 낮다면, 이 스킬 재사용 (최대 1)",
+          "name": "你这家伙…",
+          "desc": "指定带有[AaCfPbBe]的目标\n若自身的速度值高于目标至少3点，则重复使用本技能（最多1次）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 본체 및 부위 체력 회복"
+                  "desc": "[OnSucceedAttack] 使本体与部位恢复本硬币伤害量50%的体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 본체 및 부위 체력 회복"
+                  "desc": "[OnSucceedAttack] 使本体与部位恢复本硬币伤害量50%的体力"
                 }
               ]
             }
@@ -667,8 +667,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "턴 종료시 보호막 체력이 남아있다면, 다음 턴에 [Protection] 4 얻음",
+          "name": "防御",
+          "desc": "回合结束时若自身带有护盾，则下回合使自身获得4层守护 ",
           "coinlist": [
             {
               "coindescs": [
@@ -686,8 +686,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "[OnSucceedEvade] 다음 턴에 [Binding] 1 부여 (최대 2)",
+          "name": "闪避",
+          "desc": "[OnSucceedEvade] 下回合对目标施加1层束缚 （最多2层）",
           "coinlist": [
             {
               "coindescs": [
@@ -705,37 +705,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "여긴 내자리야!",
-          "desc": "자신의 속도가 대상보다 높으면 코인 위력 +1",
+          "name": "这是我的地盘！",
+          "desc": "若自身的速度值高于目标，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+30%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+30%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+30%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+30%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량의 70%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使自身恢复本硬币伤害量70%的体力"
                 }
               ]
             }
