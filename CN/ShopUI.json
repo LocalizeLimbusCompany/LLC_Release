@@ -299,6 +299,10 @@
     {
       "id": "paid_runacy_lack",
       "content": "付费狂气不足，无法购买。"
+    },
+    {
+      "id": "membership_remain_side_desc_oneDay",
+      "content": "{0}의 이용 기간 만료일입니다."
     }
   ]
 }

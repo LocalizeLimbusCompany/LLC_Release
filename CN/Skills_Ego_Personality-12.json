@@ -108,6 +108,118 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2120611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[EndSkill] 使自身与除自身以外理智值最低的2名友方单位恢复10点理智值\n- 若目标受到攻击后存活，则消耗其5层沉沦 并额外恢复相当于其沉沦 强度点理智值（最大恢复量：20点）\n- 若击杀目标，则随机使2名敌方单位增加3级沉沦 强度（若是集中遭遇战，则改为随机部位）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[EndSkill] 使自身与除自身以外理智值最低的2名友方单位恢复12点理智值\n- 若目标受到攻击后存活，则消耗其5层沉沦 并额外恢复相当于其沉沦 强度点理智值（最大恢复量：20点）\n- 若击杀目标，则随机使2名敌方单位增加3级沉沦 强度并对其施加1层诅咒 （若是集中遭遇战，则改为随机部位）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "往昔",
+          "abName": "某日的肖像",
+          "desc": "[EndSkill] 使自身与除自身以外理智值最低的2名友方单位恢复15点理智值\n- 若目标受到攻击后存活，则消耗其3层沉沦 并额外恢复相当于其沉沦 强度点理智值（最大恢复量：20点）\n- 若击杀目标，则随机使3名敌方单位增加3级沉沦 强度并对其施加1层诅咒 （若是集中遭遇战，则改为随机部位）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "지난날",
+          "abName": "어느 날의 초상",
+          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AzureTakeDamageUp] 2 부여. 우울 공명이 3 이상이면 추가 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Curse] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "지난날",
+          "abName": "어느 날의 초상",
+          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AzureTakeDamageUp] 2 부여. 우울 공명 3 당 추가 1 부여 (최대 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Curse] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "지난날",
+          "abName": "어느 날의 초상",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n대상에게 [Curse]가 있으면 피해량 +50% ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AzureTakeDamageUp] 2 부여. 우울 공명 2 당 추가 1 부여 (최대 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Curse] 3 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
