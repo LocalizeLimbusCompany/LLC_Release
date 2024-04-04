@@ -757,10 +757,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层山庄的回响 "
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[EchoOfMansion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有山庄的回响 ，则对其施加3层沉沦 "
+                  "desc": "[OnSucceedAttack] 若目标带有[EchoOfMansion]，则对其施加3层沉沦 "
                 }
               ]
             }
@@ -783,10 +783,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层山庄的回响 "
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[EchoOfMansion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有山庄的回响 ，则对其施加3层沉沦 "
+                  "desc": "[OnSucceedAttack] 若目标带有[EchoOfMansion]，则对其施加3层沉沦 "
                 }
               ]
             }

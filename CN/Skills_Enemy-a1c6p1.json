@@ -1542,7 +1542,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层山庄的回响 "
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[EchoOfMansion]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标增加8级沉沦 强度"

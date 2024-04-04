@@ -2504,7 +2504,7 @@
     },
     {
       "name": "홍루SD",
-      "krname": "鸿路SD",
+      "krname": "鸿璐SD",
       "fileName": "Honglu_SD",
       "nameTagColor": "#5bffde",
       "portraitSpritePath": "StoryLog_HongLu",
@@ -2542,7 +2542,7 @@
     },
     {
       "name": "어린히스클리프2",
-      "krname": "年轻的希斯克利夫2",
+      "krname": "希斯克利夫",
       "fileName": "Heathcliff_Baby_Dirty",
       "scale": 0.85,
       "bottomYPos": 600,
@@ -2556,7 +2556,7 @@
     },
     {
       "name": "힌들리2",
-      "krname": "亨得利",
+      "krname": "亨德利",
       "fileName": "Hindley_Clean",
       "jpname": "ヒンドリー",
       "enname": "Hindley",
