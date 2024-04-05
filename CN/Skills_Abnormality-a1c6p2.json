@@ -573,7 +573,7 @@
         {
           "level": 1,
           "name": "我会抓住你…",
-          "desc": "指定体力最低的目标\n[WhenUse] 若目标为速度值最低的敌方单位，则使本技能的基础威力+3\n[WhenUse] 对目标施加[AaCfPbBe]、2层易损 、3层麻痹 与5层束缚 ",
+          "desc": "指定体力最低的目标\n[WhenUse] 若目标为速度值最低的敌方单位，则使本技能的基础威力+3\n[WhenUse] 下回合对目标施加[AaCfPbBe]、2层易损 、3层麻痹 与5层束缚 ",
           "coinlist": [
             {
               "coindescs": [
