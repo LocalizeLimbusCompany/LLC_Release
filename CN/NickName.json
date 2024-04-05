@@ -2299,7 +2299,7 @@
       "enNickName": "Wuthering Heights",
       "nameTagColor": "#5c1a05",
       "nameFontColor": "#c29a5f",
-      "nickName": "呼啸山庄",
+      "nickName": "恩肖家族",
       "scale": 1,
       "bottomYPos": 150,
       "portraitSpritePath": "StoryLog_Hindley_Baby"
@@ -2351,7 +2351,7 @@
     },
     {
       "name": "어린캐서린",
-      "krname": "凯瑟琳",
+      "krname": "幼年凯瑟琳",
       "fileName": "Catherine_Baby",
       "jpNickName": "ワザリング・ハイツ",
       "enNickName": "Wuthering Heights",
@@ -2564,7 +2564,7 @@
       "enNickName": "Wuthering Heights",
       "nameTagColor": "#5c1a05",
       "nameFontColor": "#c29a5f",
-      "nickName": "呼啸山庄",
+      "nickName": "恩肖家族",
       "scale": 1,
       "bottomYPos": 30,
       "portraitSpritePath": "StoryLog_Hindley_Clean"
@@ -2581,7 +2581,7 @@
     },
     {
       "name": "어린캐서린",
-      "krname": "凯瑟琳",
+      "krname": "幼年凯瑟琳",
       "fileName": "Catherine_Baby",
       "jpNickName": "ワザリング・ハイツ",
       "enNickName": "Wuthering Heights",
@@ -2604,7 +2604,7 @@
       "enNickName": "Wuthering Heights",
       "nameTagColor": "#5c1a05",
       "nameFontColor": "#c29a5f",
-      "nickName": "呼啸山庄",
+      "nickName": "恩肖家族",
       "scale": 0.65,
       "bottomYPos": 400,
       "portraitSpritePath": "StoryLog_Hindley_Wolf"
