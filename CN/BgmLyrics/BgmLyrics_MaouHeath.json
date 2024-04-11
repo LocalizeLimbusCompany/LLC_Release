@@ -2,37 +2,37 @@
   "dataList": [
     {
       "id": 0,
-      "content": "我是多么热切渴望",
+      "content": "<color=purple>我是多么热切渴望</color>",
       "vocalid": 0
     },
     {
       "id": 1,
-      "content": "更为幸福，明朗的未来",
+      "content": "<color=purple>更为幸福、明朗的未来</color>",
       "vocalid": 0
     },
     {
       "id": 2,
-      "content": "而我站在此处，在这门前",
+      "content": "<color=purple>而我站在此处，在这门前</color>",
       "vocalid": 0
     },
     {
       "id": 3,
-      "content": "令人留恋的往昔啊",
+      "content": "<color=purple>令人留恋的往昔啊</color>",
       "vocalid": 0
     },
     {
       "id": 4,
-      "content": "我已下定决心",
+      "content": "<color=purple>我已下定决心</color>",
       "vocalid": 0
     },
     {
       "id": 5,
-      "content": "你因我的怒火遭受过多少苦痛",
+      "content": "<color=purple>你因我的怒火遭受过多少苦痛</color>",
       "vocalid": 0
     },
     {
       "id": 6,
-      "content": "粗鲁而笨拙的沉着",
+      "content": "<color=purple>粗鲁而笨拙的沉着</color>",
       "vocalid": 0
     },
     {
@@ -47,102 +47,102 @@
     },
     {
       "id": 9,
-      "content": "在你我二人伫立的命运之丘",
+      "content": "<color=purple>在你我二人伫立的命运之丘</color>",
       "vocalid": 0
     },
     {
       "id": 10,
-      "content": "我将了结一切",
+      "content": "<color=purple>我将了结一切</color>",
       "vocalid": 0
     },
     {
       "id": 11,
-      "content": "你是否会见证我的结局？",
+      "content": "<color=purple>你是否会见证我的结局？</color>",
       "vocalid": 1
     },
     {
       "id": 12,
-      "content": "哦",
+      "content": "<color=purple>哦</color>",
       "vocalid": 0
     },
     {
       "id": 13,
-      "content": "我们转啊转",
+      "content": "<color=purple>我们转啊转</color>",
       "vocalid": 0
     },
     {
       "id": 14,
-      "content": "怀抱着苦痛",
+      "content": "<color=purple>怀抱着苦痛</color>",
       "vocalid": 0
     },
     {
       "id": 15,
-      "content": "受自我驱使",
+      "content": "<color=purple>受自我驱使</color>",
       "vocalid": 0
     },
     {
       "id": 16,
-      "content": "藏匿着感情",
+      "content": "<color=purple>藏匿着感情</color>",
       "vocalid": 0
     },
     {
       "id": 17,
-      "content": "彼此的记忆相互交织",
+      "content": "<color=purple>彼此的记忆相互交织</color>",
       "vocalid": 0
     },
     {
       "id": 18,
-      "content": "而你将永远不会知晓",
+      "content": "<color=purple>而你将永远不会知晓</color>",
       "vocalid": 0
     },
     {
       "id": 19,
-      "content": "但我知晓",
+      "content": "<color=purple>但我知晓</color>",
       "vocalid": 0
     },
     {
       "id": 20,
-      "content": "一切错在于我",
+      "content": "<color=purple>一切错在于我</color>",
       "vocalid": 0
     },
     {
       "id": 21,
-      "content": "使你不再露出笑容",
+      "content": "<color=purple>使你不再露出笑容</color>",
       "vocalid": 0
     },
     {
       "id": 22,
-      "content": "剥夺了你眼中的希望",
+      "content": "<color=purple>剥夺了你眼中的希望</color>",
       "vocalid": 0
     },
     {
       "id": 23,
-      "content": "一切错在于我",
+      "content": "<color=purple>一切错在于我</color>",
       "vocalid": 0
     },
     {
       "id": 24,
-      "content": "你所倾吐的谎言",
+      "content": "<color=purple>你所倾吐的谎言</color>",
       "vocalid": 0
     },
     {
       "id": 25,
-      "content": "但愿即使我不在身旁，你也能获得幸福",
+      "content": "<color=purple>但愿即使我不在身旁，你也能获得幸福</color>",
       "vocalid": 0
     },
     {
       "id": 26,
-      "content": "这是通过丛丛盛放的紫色花朵们流传至今的信息",
+      "content": "<color=purple>这是通过丛丛盛放的紫色花朵们流传至今的信息</color>",
       "vocalid": 0
     },
     {
       "id": 27,
-      "content": "不论我们多么相悖",
+      "content": "<color=purple>不论我们多么相悖</color>",
       "vocalid": 0
     },
     {
       "id": 28,
-      "content": "早安",
+      "content": "<color=purple>早安</color>",
       "vocalid": 0
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "id": 30,
-      "content": "再见",
+      "content": "<color=purple>再见</color>",
       "vocalid": 0
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "id": 32,
-      "content": "晚安",
+      "content": "<color=purple>晚安</color>",
       "vocalid": 0
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "id": 34,
-      "content": "再见",
+      "content": "<color=purple>再见</color>",
       "vocalid": 0
     },
     {
@@ -182,22 +182,22 @@
     },
     {
       "id": 36,
-      "content": "啊，这是最后一刻",
+      "content": "<color=purple>啊，这是最后一刻</color>",
       "vocalid": 0
     },
     {
       "id": 37,
-      "content": "与你携手",
+      "content": "<color=purple>与你携手</color>",
       "vocalid": 0
     },
     {
       "id": 38,
-      "content": "完成应做之事吧",
+      "content": "<color=purple>完成应做之事吧</color>",
       "vocalid": 0
     },
     {
       "id": 39,
-      "content": "清除",
+      "content": "<color=purple>清除</color>",
       "vocalid": 0
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "id": 41,
-      "content": "清除",
+      "content": "<color=purple>清除</color>",
       "vocalid": 0
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "id": 43,
-      "content": "清除",
+      "content": "<color=purple>清除</color>",
       "vocalid": 0
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "id": 45,
-      "content": "清除",
+      "content": "<color=purple>清除</color>",
       "vocalid": 0
     },
     {
@@ -237,77 +237,77 @@
     },
     {
       "id": 47,
-      "content": "哦",
+      "content": "<color=purple>哦</color>",
       "vocalid": 0
     },
     {
       "id": 48,
-      "content": "我们转啊转",
+      "content": "<color=purple>我们转啊转</color>",
       "vocalid": 0
     },
     {
       "id": 49,
-      "content": "怀抱着苦痛",
+      "content": "<color=purple>怀抱着苦痛</color>",
       "vocalid": 0
     },
     {
       "id": 50,
-      "content": "受自我驱使",
+      "content": "<color=purple>受自我驱使</color>",
       "vocalid": 0
     },
     {
       "id": 51,
-      "content": "藏匿着感情",
+      "content": "<color=purple>藏匿着感情</color>",
       "vocalid": 0
     },
     {
       "id": 52,
-      "content": "彼此的记忆相互交织",
+      "content": "<color=purple>彼此的记忆相互交织</color>",
       "vocalid": 0
     },
     {
       "id": 53,
-      "content": "而你将永远不会知晓",
+      "content": "<color=purple>而你将永远不会知晓</color>",
       "vocalid": 0
     },
     {
       "id": 54,
-      "content": "我又如何知晓",
+      "content": "<color=purple>我又如何知晓</color>",
       "vocalid": 0
     },
     {
       "id": 55,
-      "content": "或许错在于你",
+      "content": "<color=purple>或许错在于你</color>",
       "vocalid": 0
     },
     {
       "id": 56,
-      "content": "使你不再待人温和",
+      "content": "<color=purple>使你不再待人温和</color>",
       "vocalid": 0
     },
     {
       "id": 57,
-      "content": "使我们的心意永远相悖",
+      "content": "<color=purple>使我们的心意永远相悖</color>",
       "vocalid": 0
     },
     {
       "id": 58,
-      "content": "那一定是源于爱",
+      "content": "<color=purple>那一定是源于爱</color>",
       "vocalid": 0
     },
     {
       "id": 59,
-      "content": "我仍愿意相信这份谎言",
+      "content": "<color=purple>我仍愿意相信这份谎言</color>",
       "vocalid": 0
     },
     {
       "id": 60,
-      "content": "我不在身边才是你的幸福 这一谎言",
+      "content": "<color=purple>我不在身边才是你的幸福 这一谎言</color>",
       "vocalid": 0
     },
     {
       "id": 61,
-      "content": "这是通过丛丛盛放的紫色花朵们流传至今的信息",
+      "content": "<color=purple>这是通过丛丛盛放的紫色花朵们流传至今的信息</color>",
       "vocalid": 0
     },
     {

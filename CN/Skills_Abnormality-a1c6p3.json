@@ -344,23 +344,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "불청객 표시",
-          "desc": "[WhenUse] [AaCfPcBb] 1 부여",
+          "name": "标记不速之客",
+          "desc": "[WhenUse] 对目标施加1层管家的标记 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [DefenseUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层防御等级提升 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
                 }
               ]
             }
@@ -437,30 +437,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "불청객 위압",
-          "desc": "[WhenUse] 대상보다 속도가 빠르다면, 합 위력 +2",
+          "name": "威慑不速之客",
+          "desc": "[WhenUse] 若自身的速度值高于目标，则使本技能的拼点威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 부정적인 효과가 3개 이상이면,이 코인 재사용 (최대 1회)"
+                  "desc": "[OnSucceedAttack] 若目标带有不低于3种负面状态，则重复使用本硬币（最多1次）"
                 }
               ]
             }
@@ -541,27 +541,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "불청객 잡이",
-          "desc": "[AaCfPcBc]이 있는 대상 우선 공격\n[DefeatDuel] 대상이 [AaCfPcBc]을 가지고 있다면, [AaCfPcBc] 소멸",
+          "name": "拘捕不速之客",
+          "desc": "优先指定带有[AaCfPcBc]的目标\n[DefeatDuel] 若目标带有[AaCfPcBc]，则解除其[AaCfPcBc]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 6 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加6层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 속도보다 3이상 빠르면, 이 코인 재사용 (최대 1회)"
+                  "desc": "[OnSucceedAttack] 若自身的速度值高于目标至少3点，则重复使用本硬币（最多1次）"
                 }
               ]
             }
@@ -661,13 +661,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "파탄난 유리 세계로 얽힌 검",
+          "name": "破灭镜中世界的纠缠之剑",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가. [Sinking] 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 并使其增加3级沉沦 强度"
                 }
               ]
             }
@@ -791,8 +791,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "파탄의 와일드헌트",
-          "desc": "[CantDuel]\n[WhenUse] 대상에게 [AaCfPbBc]가 있으면 피해량 -100%\n[WhenUse] 생존한 아군 수 1명 당 피해량 +25%",
+          "name": "破灭的狂猎",
+          "desc": "[CantDuel]\n[WhenUse] 若目标带有[AaCfPbBc]，则使本技能造成的伤害-100%\n[WhenUse] 每有1名友方单位存活，使本技能造成的伤害+25%",
           "coinlist": [
             {}
           ]
@@ -804,8 +804,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "견뎌내기",
-          "desc": "[WhenUse] 다음 턴에 [Enhancement] 1 얻음 (턴 당 1회)",
+          "name": "忍耐",
+          "desc": "[WhenUse] 下回合使自身获得1层强壮 （每回合最多1层）",
           "coinlist": [
             {}
           ]
@@ -817,16 +817,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "슬픔과 절규를 내뿜는 유리조각",
-          "desc": "[WhenUse] 다음 턴에 [Enhancement] 1 얻음",
+          "name": "吐露悲伤与哀鸣的玻璃碎片",
+          "desc": "[WhenUse] 下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -839,13 +839,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "대검 베기",
+          "name": "巨剑砍击",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가, [Sinking] 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 并使其增加3级沉沦 强度"
                 }
               ]
             }
@@ -951,13 +951,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "빈 관의 철퇴",
-          "desc": "대상의 [Sinking]이 5 이상이면, 합 위력 +1\n대상의 [Laceration]이 5 이상이면, 합 위력 +1\n[WinDuel] [Sinking] 횟수 3 증가",
+          "name": "空棺之槌",
+          "desc": "若目标的沉沦 强度不低于5级，则使本技能的拼点威力+1\n若目标的流血 强度不低于5级，则使本技能的拼点威力+1\n[WinDuel] 对目标施加3层沉沦 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 코인 위력 +2"
+                  "desc": "[OnSucceedAttackHead] 使本技能下一枚硬币的威力+2"
                 }
               ]
             }
@@ -1108,12 +1108,12 @@
         {
           "level": 1,
           "name": "所有的凯瑟琳必定死亡",
-          "desc": "[CantDuel]\n若所有手的体力均为1，则造成0点伤害\n[StartBattle] 对除自身以外的全体友方单位施加2层易损 并使其获得2层强壮 \n[EndSkill] 对自身施加1层撕裂的心 ",
+          "desc": "[CantDuel]\n若所有手的体力均为1，则造成0点伤害\n[StartBattle] 对除自身以外的全体友方单位施加2层易损 并使其获得2层强壮 \n[EndSkill] 对自身施加1层撕碎的心 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加撕裂的心 "
+                  "desc": "[OnSucceedAttack] 对目标施加撕碎的心 "
                 }
               ]
             }
@@ -1126,8 +1126,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "撕裂的心",
-          "desc": "[EndSkill] 使自身获得1层撕裂的心 ",
+          "name": "撕碎的心",
+          "desc": "[EndSkill] 使自身获得1层撕碎的心 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1135,7 +1135,7 @@
                   "desc": "[OnSucceedAttack] 造成相当于其体力上限15%的伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加撕裂的心 "
+                  "desc": "[OnSucceedAttack] 对目标施加撕碎的心 "
                 }
               ]
             }
@@ -1239,7 +1239,7 @@
         {
           "level": 1,
           "name": "唯留痛苦…",
-          "desc": "[DefeatDuel] 使自身获得1层撕裂的心 ",
+          "desc": "[DefeatDuel] 使自身获得1层撕碎的心 ",
           "coinlist": [
             {
               "coindescs": [
