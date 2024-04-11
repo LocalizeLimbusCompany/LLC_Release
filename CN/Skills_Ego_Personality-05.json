@@ -123,14 +123,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전기울음",
-          "abName": "꿈꾸는 전기양",
-          "desc": "[BeforeAttack] 자신의 [Charge] 횟수 8 증가\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 3)",
+          "name": "电子哀鸣",
+          "abName": "梦中的电子羊",
+          "desc": "[BeforeAttack] 使自身获得8层充能 \n[EndSkill] 使除自身以外充能 层数最低的1名友方单位获得8层充能 \n- 额外使（最大嫉妒共鸣数-2）名友方单位获得上述效果（最多3名）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -138,14 +138,14 @@
         },
         {
           "level": 3,
-          "name": "전기울음",
-          "abName": "꿈꾸는 전기양",
-          "desc": "[BeforeAttack] 자신의 [Charge] 횟수 8 증가\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 4)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여",
+          "name": "电子哀鸣",
+          "abName": "梦中的电子羊",
+          "desc": "[BeforeAttack] 使自身获得8层充能 \n[EndSkill] 使除自身以外充能 层数最低的1名友方单位获得8层充能 \n- 额外使（最大嫉妒共鸣数-2）名友方单位获得上述效果（最多4名）\n- 若最大嫉妒共鸣数不低于4，则使自身与该友方单位获得1层嫉妒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -153,14 +153,14 @@
         },
         {
           "level": 4,
-          "name": "전기울음",
-          "abName": "꿈꾸는 전기양",
-          "desc": "[BeforeAttack] 자신의 [Charge] 횟수 12 증가\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 <style=\"highlight\">5</style>)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여\n<style=\"highlight\">- 최대 질투 공명 수가 6 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여</style>",
+          "name": "电子哀鸣",
+          "abName": "梦中的电子羊",
+          "desc": "[BeforeAttack] 使自身获得12层充能 \n[EndSkill] 使除自身以外充能 层数最低的1名友方单位获得8层充能 \n- 额外使（最大嫉妒共鸣数-2）名友方单位获得上述效果（最多5名）\n- 若最大嫉妒共鸣数不低于4，则使自身与该友方单位获得1层嫉妒伤害强化 \n- 若最大嫉妒共鸣数不低于6，则使自身与该友方单位获得1层嫉妒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -173,17 +173,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전기울음",
-          "abName": "꿈꾸는 전기양",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 질투 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[BeforeAttack] 자신의 [Charge] 횟수가 10이상이면, [Charge] 횟수를 최대 20 소모하여 소모한 [Charge] 횟수 1 당 피해량 +2% (최대 40%)",
+          "name": "电子哀鸣",
+          "abName": "梦中的电子羊",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+（最大嫉妒共鸣数-2）（最多+2）\n[BeforeAttack] 若自身的充能 层数不低于10层，则消耗至多20层充能 ，每消耗1层充能，使本技能造成的伤害+2%（最多+40%）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Paralysis] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -191,17 +191,17 @@
         },
         {
           "level": 3,
-          "name": "전기울음",
-          "abName": "꿈꾸는 전기양",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 질투 공명 수 - 2)만큼 공격 가중치 증가 (최대 <style=\"highlight\">3</style>)\n[BeforeAttack] 자신의 [Charge] 횟수가 10이상이면, [Charge] 횟수를 최대 20 소모하여 소모한 [Charge] 횟수 1 당 피해량 +<style=\"highlight\">2.5</style>% (최대 <style=\"highlight\">50</style>%)",
+          "name": "电子哀鸣",
+          "abName": "梦中的电子羊",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+（最大嫉妒共鸣数-2）（最多+3）\n[BeforeAttack] 若自身的充能 层数不低于10层，则消耗至多20层充能 ，每消耗1层充能，使本技能造成的伤害+2.5%（最多+50%）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Paralysis] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -209,17 +209,17 @@
         },
         {
           "level": 4,
-          "name": "전기울음",
-          "abName": "꿈꾸는 전기양",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 질투 공명 수 - 2)만큼 공격 가중치 증가 (최대 3)\n<style=\"highlight\">[BeforeAttack] 자신의 충전 횟수가 10 이상이면, 적중시 효과로 부여하는 효과가 2회 부여됨</style>\n[BeforeAttack] 자신의 [Charge] 횟수가 10이상이면, [Charge] 횟수를 최대 20 소모하여 소모한 [Charge] 횟수 1 당 피해량 +<style=\"highlight\">3</style>% (최대 <style=\"highlight\">60</style>%)",
+          "name": "电子哀鸣",
+          "abName": "梦中的电子羊",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+（最大嫉妒共鸣数-2）（最多+3）\n[BeforeAttack] 若自身的充能 层数不低于10层，则使本技能命中时施加的状态施加2次\n[BeforeAttack] 若自身的充能 层数不低于10层，则消耗至多20层充能 ，每消耗1层充能，使本技能造成的伤害+3%（最多+60%）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Paralysis] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             }

@@ -5,26 +5,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...크",
-          "desc": "[WhenUse] 대상의 [Sinking]이 5이상이면, [AttackDown] 1 부여",
+          "name": "…击",
+          "desc": "[WhenUse] 若目标的沉沦 强度不低于5级，则对其施加1层攻击等级降低 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
                 }
               ]
             }
@@ -37,23 +37,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...시간",
-          "desc": "[WhenUse] 대상의 정신력이 10이하라면, [AttackDown] 2 부여\n[WinDuel] [Vulnerable] 1 부여",
+          "name": "…时间",
+          "desc": "[WhenUse] 若目标的理智值不高于10点，则对其施加2层攻击等级降低 \n[WinDuel] 对目标施加1层易损 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [PlusCoinValueDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层加算硬币弱化 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层易损 "
                 }
               ]
             }
@@ -66,36 +66,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "대로...!",
-          "desc": "[WhenUse] 대상의 [Sinking] 3당 기본 위력 +1 (최대 3)\n[WinDuel] 모든 아군 정신력 5 회복",
+          "name": "之命…！",
+          "desc": "[WhenUse] 目标每带有3级沉沦 强度，使本技能的基础威力+1（最多+3）\n[WinDuel] 使全体友方单位恢复5点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层沉沦 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层沉沦 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层沉沦 "
                 }
               ]
             }
@@ -108,33 +108,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "먼지...",
-          "desc": "[WhenUse] 대상의 [Sinking] 6당, 기본 위력 +1 (최대 3)\n[WhenUse] 대상의 [Sinking] 6당, 피해량 +10% (최대 30%)",
+          "name": "…尘",
+          "desc": "[WhenUse] 目标每带有6级沉沦 强度，使本技能的基础威力+1（最多+3）\n[WhenUse] 目标每带有6级沉沦 强度，使本技能造成的伤害+10%（最多+30%）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 根据目标带有的沉沦 强度，对其造成相应的忧郁伤害。使其沉沦 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 根据目标带有的沉沦 强度，对其造成相应的忧郁伤害。使其沉沦 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘"
+                  "desc": "[OnSucceedAttack] 根据目标带有的沉沦 强度，对其造成相应的忧郁伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Sinking] 횟수가 3이상이면, 이 코인 재사용. (최대 2회)"
+                  "desc": "[OnSucceedAttack] 若目标的沉沦 层数不低于3层，则重复使用本硬币（最多2次）"
                 }
               ]
             }
@@ -147,8 +147,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "쥐새끼...",
-          "desc": "턴 종료 시 보호막이 남아있다면, 50만큼 흐트러짐 회복",
+          "name": "…鼠辈",
+          "desc": "回合结束时若自身带有护盾，则使自身的混乱阈值后移50",
           "coinlist": [
             {}
           ]
@@ -160,20 +160,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "잡배놈...",
+          "name": "该死的贱…",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层攻击等级提升 "
                 }
               ]
             }
@@ -186,20 +186,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "치워...",
-          "desc": "[WinDuel] 기본 위력 +1",
+          "name": "我会除…",
+          "desc": "[WinDuel] 使本技能的基础威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘"
+                  "desc": "[OnSucceedAttack] 若目标带有攻击等级降低 ，则对目标造成本硬币伤害量20%的打击伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘"
+                  "desc": "[OnSucceedAttack] 若目标带有攻击等级降低 ，则对目标造成本硬币伤害量20%的打击伤害"
                 }
               ]
             }
@@ -212,28 +212,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "단추...",
-          "desc": "[WinDuel] 대상의 [AttackDown]가 2 이상이면, 기본 위력 +1\n[WhenUse] 대상에게 [DefenseDown]이 있다면, 피해량 30%만큼 타격 피해 입힘",
+          "name": "重新…",
+          "desc": "[WinDuel] 若目标的攻击等级降低 层数不低于2层，则使本技能的基础威力+1\n[WhenUse] 若目标带有防御等级降低 ，则对目标追加本技能伤害量30%的打击伤害",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 정신력 4 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复4点理智值"
                 }
               ]
             }
@@ -246,29 +246,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...주마",
-          "desc": "부정적인 효과가 가장 많은 대상 우선 공격\n[WinDuel] 대상의 [DefenseDown] 3당 코인 위력 +1 (최대 3)",
+          "name": "…掉你",
+          "desc": "优先指定带有最多负面状态的目标\n[WinDuel] 目标每带有3层防御等级降低 ，使本技能的硬币威力+1（最多+3）",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [AttackDown] 2당 +30% (최대 120%)"
+                  "desc": "[OnSucceedAttack] 目标每带有2层攻击等级降低 ，使本硬币造成的伤害+30%（最多+120%）"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 대상의 부정적인 효과가 3개 이상이면, 이 코인 재사용 (1회)"
+                  "desc": "[OnSucceedAttackHead] 若目标带有不低于3种负面状态，则重复使用本硬币（1次）"
                 }
               ]
             }
@@ -281,8 +281,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[StartBattle] 살아있는 아군 수당 보호막 체력 20을 추가로 얻음",
+          "name": "防御",
+          "desc": "[StartBattle] 每有1名友方单位存活，使自身额外获得20点护盾",
           "coinlist": [
             {
               "coindescs": [
@@ -300,13 +300,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "마르...",
+          "name": "前…",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层防御等级降低 "
                 }
               ]
             }
@@ -319,13 +319,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...트",
-          "desc": "[WhenUse] 대상의 부정적인 효과가 2개 이상이면, 기본 위력 +1",
+          "name": "…刺",
+          "desc": "[WhenUse] 若目标带有不低于2种负面状态，则使本技能的基础威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层防御等级降低 "
                 }
               ]
             }
@@ -338,23 +338,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "플...쉬",
-          "desc": "[WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1",
+          "name": "双…刺",
+          "desc": "[WhenUse] 若目标带有不低于4种负面状态，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层突刺易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 }
               ]
             }
@@ -367,26 +367,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "꾸...와",
-          "desc": "[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +2\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 피해량 +30%",
+          "name": "正…刺",
+          "desc": "[WhenUse] 若目标带有不低于5种负面状态，则使本技能的基础威力+2\n[WhenUse] 若目标带有不低于5种负面状态，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 부정적인 효과가 5개 이상이면, 이 코인 재사용 (2회)"
+                  "desc": "[OnSucceedAttack] 若目标带有不低于5种负面状态，则重复使用本硬币（最多2次）"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 해제 가능한 부정적인 효과 무작위 하나 제거"
+                  "desc": "[OnSucceedAttack] 随机解除目标带有的1种可解除的负面状态"
                 }
               ]
             }
@@ -399,8 +399,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "...",
-          "desc": "[OnSucceedEvade] 정신력 5 회복 (최대 2회)",
+          "name": "…",
+          "desc": "[OnSucceedEvade] 使自身恢复5点理智值（最多2次）",
           "coinlist": [
             {
               "coindescs": [

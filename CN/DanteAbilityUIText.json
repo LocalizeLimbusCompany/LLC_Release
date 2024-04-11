@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "danteAbility_UIPopup_Title",
-      "content": "빛의 묘목 능력 선택"
+      "content": "选择光之树苗能力"
     },
     {
       "id": "danteAbility_UIPopup_Remain",
-      "content": "남은 횟수"
+      "content": "剩余次数"
     },
     {
       "id": "dnateAbiltiy_Unlock_GoldenBranch_Resonance",
@@ -14,23 +14,23 @@
     },
     {
       "id": "tutorial_battle_danteAbility_title",
-      "content": "빛의 묘목 능력"
+      "content": "光之树苗能力"
     },
     {
       "id": "tutorial_battle_danteAbility_01_desc_01",
-      "content": "우측 상단의 빛의 묘목 능력 버튼을 클릭합니다."
+      "content": "点击右上方光之树苗能力按钮。"
     },
     {
       "id": "tutorial_battle_danteAbility_02_desc_01",
-      "content": "사용할 능력을 선택합니다."
+      "content": "选择要使用的能力。"
     },
     {
       "id": "tutorial_battle_danteAbility_03_desc_01",
-      "content": "확인 버튼을 누르면 빛의 묘목 능력이 발동됩니다.\n빛의 묘목은 사용 횟수만큼 사용할 수 있습니다.\n사용 횟수는 하루마다 초기화됩니다."
+      "content": "按下确认按钮将发动光之树苗能力。\n光之树苗使用次数有限。\n使用次数每天重置。"
     },
     {
       "id": "ui_activated",
-      "content": "발동"
+      "content": "发动"
     }
   ]
 }

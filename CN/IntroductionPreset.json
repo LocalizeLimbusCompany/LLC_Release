@@ -990,35 +990,35 @@
     },
     {
       "id": "introduce_word_125",
-      "content": "불꽃"
+      "content": "火花"
     },
     {
       "id": "introduce_sentence_125",
-      "content": "그대에게 보이는 이 {0}은(는)… 무슨 색을 띄고 있는가!"
+      "content": "汝所见的{0}……是何种颜色！"
     },
     {
       "id": "introduce_word_126",
-      "content": "전기"
+      "content": "电力"
     },
     {
       "id": "introduce_sentence_126",
-      "content": "이제 가진 것은 이 {0}밖에 없는데… 큭, 이것까지…!"
+      "content": "我只剩下这些{0}了……咕，连这些也要……！"
     },
     {
       "id": "introduce_word_127",
-      "content": "권위"
+      "content": "权威"
     },
     {
       "id": "introduce_sentence_127",
-      "content": "감히… {0}에 도전하는가?!"
+      "content": "你竟敢……挑战我的{0}？！"
     },
     {
       "id": "introduce_word_128",
-      "content": "왕좌"
+      "content": "王座"
     },
     {
       "id": "introduce_sentence_128",
-      "content": "나는 이 {0}에 묶여 홀로 통치하는 자일지니…"
+      "content": "我注定被束缚在这{0}上，独自进行统治……"
     }
   ]
 }
