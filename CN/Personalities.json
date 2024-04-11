@@ -685,6 +685,13 @@
       "name": "浮士德",
       "nameWithTitle": "浮士德",
       "desc": "浮士德的第9人格"
+    },
+    {
+      "id": 9999,
+      "title": "붉은시선",
+      "name": "베르길리우스",
+      "nameWithTitle": "",
+      "desc": ""
     }
   ]
 }

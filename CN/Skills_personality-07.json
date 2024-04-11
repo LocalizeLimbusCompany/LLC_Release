@@ -340,27 +340,27 @@
       "levelList": [
         {
           "level": 3,
-          "name": "宣告执行",
-          "desc": "若目标的震颤 强度不低于6级，则使本技能的硬币威力+1",
+          "name": "집행 선고",
+          "desc": "대상의 [Vibration]이 6 이상이면, 코인 위력 +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的震颤 强度与层数之和不低于20，则使目标振幅转换为震颤-崩坏 \n（振幅转换：将目标的震颤 或已转换的震颤 转换为其他类型的震颤 。转换时保留现有的强度与层数。）"
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 위력과 횟수의 합이 20 이상이면, [Vibration_Collapse]로 [Switch_Vibration]\n([Switch_Vibration] : 대상의 [Vibration] 또는 변경된 [Vibration]을 다른 유형의 [Vibration]으로 변경함. 변경 시 기존 효과의 위력, 횟수가 유지됨.)"
                 }
               ]
             }
@@ -368,27 +368,27 @@
         },
         {
           "level": 4,
-          "name": "宣告执行",
-          "desc": "目标每带有6级震颤 强度，使本技能的硬币威力+1（最多+2）",
+          "name": "집행 선고",
+          "desc": "대상의 [Vibration] 6 당 코인 위력 +1 (최대 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级震颤 强度"
+                  "desc": "[OnSucceedAttack] [Vibration] 1 부여"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的震颤 强度与层数之和不低于20，则使目标振幅转换为震颤-崩坏 \n（振幅转换：将目标的震颤 或已转换的震颤 转换为其他类型的震颤 。转换时保留现有的强度与层数。）"
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 위력과 횟수의 합이 20 이상이면, [Vibration_Collapse]로 [Switch_Vibration]\n([Switch_Vibration] : 대상의 [Vibration] 또는 변경된 [Vibration]을 다른 유형의 [Vibration]으로 변경함. 변경 시 기존 효과의 위력, 횟수가 유지됨.)"
                 }
               ]
             }
