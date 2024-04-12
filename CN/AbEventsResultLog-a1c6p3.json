@@ -86,11 +86,11 @@
     },
     {
       "id": "817305_1",
-      "content": "[{0}]<color=#80c9ff>恢复至理智值上限</color>"
+      "content": "[{0}]的<color=#80c9ff>理智值恢复至上限</color>"
     },
     {
       "id": "817305_2",
-      "content": "<color=#ebcaa2>所有罪人</color> <color=#80c9ff>恢复{0}点理智值</color>"
+      "content": "<color=#ebcaa2>所有罪人</color><color=#80c9ff>恢复{0}点理智值</color>"
     },
     {
       "id": "817305_3",

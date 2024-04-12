@@ -46,11 +46,11 @@
     },
     {
       "id": "announcer_enemy_specialskill_14_1",
-      "dlg": "喂！看看那混蛋！又想做奇怪的事了…总之先躲开！"
+      "dlg": "喂！看看那混蛋！又想做奇怪的事了……总之先躲开！"
     },
     {
       "id": "announcer_enemy_specialgimmick_14_1",
-      "dlg": "我能清清楚楚感觉到不妙的味道？那家伙好像打算做什么，我搞不明白怎么办，你动动脑子。"
+      "dlg": "我能清清楚楚感觉到不妙的气氛？那家伙好像打算做什么，我搞不明白怎么办，你动动脑子。"
     },
     {
       "id": "announcer_advatk_physical_14_1",
@@ -82,7 +82,7 @@
     },
     {
       "id": "announcer_ally_specialdebuff_14_1",
-      "dlg": "怎么一个两个都跟奔丧似的？笑一个啊！难道是谁归西了吗？"
+      "dlg": "怎么一个两个都跟奔丧似的？笑一个啊！难道是谁归西了吗……"
     },
     {
       "id": "announcer_enemy_destroy_14_1",
