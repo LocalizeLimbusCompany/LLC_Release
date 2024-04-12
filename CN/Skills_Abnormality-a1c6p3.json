@@ -276,7 +276,7 @@
         {
           "level": 1,
           "name": "狂乱之狼的狂气",
-          "desc": "[WhenUse] 目标每带有4级流血 强度，使本技能的基础威力+1（最多+4）\n[WhenUse] 目标每带有1种负面状态，使本技能的拼点威力+1（最多+2）\n[DefeatDuel] 若目标带有[AaCfPcBg]，则使目标的混乱阈值前移100。若目标未拥有混乱阈值，则在0点处生成1条混乱阈值",
+          "desc": "[WhenUse] 目标每带有4级流血 强度，使本技能的基础威力+1（最多+4）\n[WhenUse] 目标每带有1种负面状态，使本技能的拼点威力+1（最多+2）\n[DefeatDuel] 若目标带有[AaCfPcBg]，则使自身的混乱阈值前移100。若自身未拥有混乱阈值，则在0点处生成1条混乱阈值",
           "coinlist": [
             {
               "coindescs": [
@@ -748,7 +748,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对自身施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标增加8级沉沦 强度"
@@ -1244,7 +1244,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 造成相当于体力上限15%的伤害"
+                  "desc": "[OnSucceedAttack] 对目标造成其体力上限15%的伤害"
                 }
               ]
             }
