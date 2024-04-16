@@ -27,7 +27,7 @@
     },
     {
       "id": 5,
-      "content": "<color=purple>我的怒火让你遭受过多少苦痛</color>",
+      "content": "<color=purple>我的怒火曾让你遭受过多少苦痛</color>",
       "vocalid": 0
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "id": 7,
-      "content": "你忽视了多少自身的美好",
+      "content": "你曾忽视了多少自身的美好",
       "vocalid": 1
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "id": 25,
-      "content": "<color=purple>但愿我不在身旁，你能过得更幸福</color>",
+      "content": "<color=purple>但愿我不在你身旁，你能过得更幸福</color>",
       "vocalid": 0
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "id": 27,
-      "content": "<color=purple>不论我们多么相悖</color>",
+      "content": "<color=purple>不论我们曾多么相悖</color>",
       "vocalid": 0
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "id": 56,
-      "content": "<color=purple>曾使你能够善良温和</color>",
+      "content": "<color=purple>使你曾经善良温和</color>",
       "vocalid": 0
     },
     {
@@ -302,7 +302,7 @@
     },
     {
       "id": 60,
-      "content": "<color=purple>我不在身旁才是你的幸福</color>",
+      "content": "<color=purple>我不在你身旁才是你的幸福</color>",
       "vocalid": 0
     },
     {
@@ -382,7 +382,7 @@
     },
     {
       "id": 925,
-      "content": "但愿即使我不在身旁，你也能获得幸福",
+      "content": "但愿我不在你身旁，你能过得更幸福",
       "vocalid": 1
     },
     {
@@ -392,7 +392,7 @@
     },
     {
       "id": 927,
-      "content": "不论我们多么相悖",
+      "content": "不论我们曾多么相悖",
       "vocalid": 1
     },
     {
@@ -457,7 +457,7 @@
     },
     {
       "id": 956,
-      "content": "曾使你能够善良温和",
+      "content": "使你曾经善良温和",
       "vocalid": 1
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "id": 960,
-      "content": "我不在身旁才是你的幸福",
+      "content": "我不在你身旁才是你的幸福",
       "vocalid": 1
     },
     {
