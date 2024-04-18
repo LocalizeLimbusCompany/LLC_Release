@@ -728,20 +728,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "응접도 1식 사냥",
-          "desc": "[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "name": "迎客之道1式 狩猎",
+          "desc": "[WhenUse] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 }
               ]
             }
@@ -749,20 +749,20 @@
         },
         {
           "level": 2,
-          "name": "응접도 1식 사냥",
-          "desc": "<style=\"highlight\">대상의 속도가 자신보다 3 이상 느리면, 합 위력 +1</style>\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "name": "迎客之道1式 狩猎",
+          "desc": "若自身的速度值高于目标至少3点，则使本技能的拼点威力+1\n[WhenUse] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 }
               ]
             }
@@ -770,20 +770,20 @@
         },
         {
           "level": 4,
-          "name": "응접도 1식 사냥",
-          "desc": "<style=\"highlight\">대상의 속도가 자신보다 느리면, 대상과의 속도 차이 2 당 합 위력 +1 (최대 3)</style>\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "name": "迎客之道1式 狩猎",
+          "desc": "若自身的速度值高于目标，则每相差2点，使本技能的拼点威力+1（最多+3）\n[WhenUse] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 }
               ]
             }
@@ -796,20 +796,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "응접도 제 7식 포착",
-          "desc": "[StartBattle] 자신의 [Breath] 횟수 6을 소모하여 이 스킬의 가중치 +2",
+          "name": "迎客之道第7式 捕捉",
+          "desc": "[StartBattle] 消耗6层呼吸法 并使本技能的攻击容量+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 }
               ]
             }
@@ -817,20 +817,20 @@
         },
         {
           "level": 2,
-          "name": "응접도 제 7식 포착",
-          "desc": "[StartBattle] 자신의 [Breath] 횟수 6을 소모하여 이 스킬의 가중치 +2",
+          "name": "迎客之道第7式 捕捉",
+          "desc": "[StartBattle] 消耗6层呼吸法 并使本技能的攻击容量+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 3 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加3级呼吸法 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 }
               ]
             }
@@ -838,23 +838,23 @@
         },
         {
           "level": 4,
-          "name": "응접도 제 7식 포착",
-          "desc": "<style=\"highlight\">메인 타겟의 속도가 자신보다 느리면, 대상과의 속도 차이 2 당 합 위력 +1 (최대 3)</style>\n[StartBattle] 자신의 [Breath] 횟수 6을 소모하여 이 스킬의 가중치 +2",
+          "name": "迎客之道第7式 捕捉",
+          "desc": "若自身的速度值高于目标，则每相差2点，使本技能的拼点威力+1（最多+3）\n[StartBattle] 消耗6层呼吸法 并使本技能的攻击容量+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 3 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加3级呼吸法 强度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [MarkOfButler] 1 부여"
+                  "desc": "[CriticalOnSucceedAttack] 对目标施加1层[MarkOfButler]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 }
               ]
             }
@@ -867,29 +867,29 @@
       "levelList": [
         {
           "level": 3,
-          "name": "응접도 제 2식 모.분",
-          "desc": "대상에게 [MarkOfButler]가 있으면 합 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 7 증가",
+          "name": "迎客之道第2式 折·脖",
+          "desc": "若目标带有[MarkOfButler]，则使本技能的拼点威力+1\n[WhenUse] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 5 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加5级呼吸法 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 20%만큼 흐트러짐 손상 "
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的20%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐 상태면, 크리티컬 피해량 +20%"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱，则使本硬币暴击时造成的伤害+20%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 }
               ]
             }
@@ -897,35 +897,35 @@
         },
         {
           "level": 4,
-          "name": "응접도 제 2식 모.분",
-          "desc": "대상에게 [MarkOfButler]가 있으면 합 위력 +1\n<style=\"highlight\">대상의 속도가 자신보다 느리면, 대상과의 속도 차이 2 당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [Breath] 횟수 7 증가",
+          "name": "迎客之道第2式 折·脖",
+          "desc": "若目标带有[MarkOfButler]，则使本技能的拼点威力+1\n若自身的速度值高于目标，则每相差2点，使本技能的硬币威力+1（最多+2）\n[WhenUse] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 5 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加5级呼吸法 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 30%만큼 흐트러짐 손상 "
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的30%"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [MarkOfButler] 1 부여"
+                  "desc": "[CriticalOnSucceedAttack] 对目标施加1层[MarkOfButler]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐 상태면, 크리티컬 피해량 +40% "
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱，则使本硬币暴击时造成的伤害+40%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [MarkOfButler] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MarkOfButler]"
                 },
                 {
-                  "desc": "[EnemyKill] [MarkOfButler]가 있는 무작위 대상에게 스킬 1회 재사용\n(재사용 시 발동하지 않음. [MarkOfButler]가 있는 대상이 없는 경우, 발동하지 않음)"
+                  "desc": "[EnemyKill] 随机对1名带有[MarkOfButler]的目标重复使用本技能1次\n（重复使用时不生效，没有目标带有[MarkOfButler]时不生效）"
                 }
               ]
             }
@@ -938,8 +938,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "한심",
-          "desc": "[OnSucceedEvade] 정신력 3 회복 (턴 당 3회)",
+          "name": "无能",
+          "desc": "[OnSucceedEvade] 使自身恢复3点理智值（每回合最多3次）",
           "coinlist": [
             {
               "coindescs": [
@@ -952,8 +952,8 @@
         },
         {
           "level": 4,
-          "name": "한심",
-          "desc": "[OnSucceedEvade] 정신력 3 회복 (턴 당 <style=\"highlight\">5</style>회)\n<style=\"highlight\">[OnSucceedEvade] 자신의 [Breath] 횟수 1 증가 (턴 당 5회)</style>",
+          "name": "无能",
+          "desc": "[OnSucceedEvade] 使自身恢复3点理智值（每回合最多5次）\n[OnSucceedEvade] 使自身获得1层呼吸法 （每回合最多5次）",
           "coinlist": [
             {
               "coindescs": [

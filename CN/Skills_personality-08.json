@@ -459,20 +459,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "빗겨쳐내기",
+          "name": "扫开",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -480,20 +480,20 @@
         },
         {
           "level": 2,
-          "name": "빗겨쳐내기",
-          "desc": "[WhenUse] [Breath] 횟수 2 증가",
+          "name": "扫开",
+          "desc": "[WhenUse] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -501,23 +501,23 @@
         },
         {
           "level": 4,
-          "name": "빗겨쳐내기",
-          "desc": "대상의 속도가 자신보다 느리면 코인 위력 +1\n[WhenUse] [Breath] 횟수 2 증가",
+          "name": "扫开",
+          "desc": "若自身的速度值高于目标，则使本技能的硬币威力+1\n[WhenUse] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[CriticalOnSucceedAttack] 下回合使自身获得1层迅捷 "
                 }
               ]
             }
@@ -530,23 +530,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "정리정돈",
-          "desc": "[WhenUse] [Breath] 횟수 2 증가",
+          "name": "整理整顿",
+          "desc": "[WhenUse] 使自身获得2层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层迅捷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 }
               ]
             }
@@ -554,23 +554,23 @@
         },
         {
           "level": 2,
-          "name": "정리정돈",
-          "desc": "[WhenUse] [Breath] 횟수 2 증가\n[WinDuel] [Breath] 2 얻음",
+          "name": "整理整顿",
+          "desc": "[WhenUse] 使自身获得2层呼吸法 \n[WinDuel] 使自身增加2级呼吸法 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层迅捷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 }
               ]
             }
@@ -578,26 +578,26 @@
         },
         {
           "level": 4,
-          "name": "정리정돈",
-          "desc": "대상의 속도가 자신보다 느리면 코인 위력 +1\n[WhenUse] [Breath] 횟수 2 증가\n[WinDuel] [Breath] 2 얻음",
+          "name": "整理整顿",
+          "desc": "若自身的速度值高于目标，则使本技能的硬币威力+1\n[WhenUse] 使自身获得2层呼吸法 \n[WinDuel] 使自身增加2级呼吸法 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层迅捷 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>"
+                  "desc": "[CriticalOnSucceedAttack] 下回合对目标施加1层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 }
               ]
             }
@@ -610,33 +610,33 @@
       "levelList": [
         {
           "level": 3,
-          "name": "동체 속박술",
-          "desc": "[WhenUse] [Breath] 6 얻음",
+          "name": "躯体束缚法",
+          "desc": "[WhenUse] 使自身增加6级呼吸法 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [SlashTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层斩击易损 "
                 }
               ]
             }
@@ -644,33 +644,33 @@
         },
         {
           "level": 4,
-          "name": "동체 속박술",
-          "desc": "대상의 속도가 자신보다 느리면 코인 위력 +1\n[WhenUse] [Breath] 6 얻음",
+          "name": "躯体束缚法",
+          "desc": "若自身的速度值高于目标，则使本技能的硬币威力+1\n[WhenUse] 使自身增加6级呼吸法 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [SlashTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层斩击易损 "
                 }
               ]
             }
@@ -683,7 +683,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
+          "name": "闪避",
           "desc": "",
           "coinlist": [
             {
@@ -697,8 +697,8 @@
         },
         {
           "level": 4,
-          "name": "회피",
-          "desc": "[OnSucceedEvade] 정신력 5 회복 (턴 당 1회)",
+          "name": "闪避",
+          "desc": "[OnSucceedEvade] 使自身恢复5点理智值（每回合最多1次）",
           "coinlist": [
             {}
           ]

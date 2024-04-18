@@ -162,23 +162,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "파탄, 탄식 그리고 절규",
+          "name": "崩溃，哀嚎与悲叹",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 증가 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层强壮 "
                 },
                 {
-                  "desc": "[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음"
+                  "desc": "[EnemyKill] 下回合使自身获得2层强壮 "
                 }
               ]
             }
@@ -217,43 +217,43 @@
       "levelList": [
         {
           "level": 1,
-          "name": "시체자루",
-          "desc": "[WhenUse] 대상의 [Laceration] 5당, 기본 위력 +1 (최대 3)\n[WhenUse] 대상의 부정적인 효과 수당 합 위력 +1 (최대 2)\n[DefeatDuel] [DefenseDown] 20 얻음\n[DefeatDuel] 해방되지 못한 서글픔 1 얻음",
+          "name": "裹尸袋",
+          "desc": "[WhenUse] 目标每带有5级流血 强度，使本技能的基础威力+1（最多+3）\n[WhenUse] 目标每带有1种负面状态，使本技能的拼点威力+1（最多+2）\n[DefeatDuel] 对自身施加20层防御等级降低 \n[DefeatDuel] 对自身施加1层未能释怀的怅惘 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 대상의 [Laceration]이 8이상이면, 마지막 코인 피해량 +30%"
+                  "desc": "[OnSucceedAttackHead] 若目标的流血 强度不低于8级，则使本技能最后一枚硬币造成的伤害+30%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 대상의 [Laceration]이 8이상이면, 마지막 코인 피해량 +30%"
+                  "desc": "[OnSucceedAttackHead] 若目标的流血 强度不低于8级，则使本技能最后一枚硬币造成的伤害+30%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 대상의 [Laceration]이 8이상이면, 마지막 코인 피해량 +30%"
+                  "desc": "[OnSucceedAttackHead] 若目标的流血 强度不低于8级，则使本技能最后一枚硬币造成的伤害+30%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬의 모든 코인이 앞면이면, 다음 턴에 [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 若本技能所有硬币朝向均为正面，则下回合对目标施加2层易损 "
                 }
               ]
             }
@@ -266,34 +266,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "미친 늑대의 광기",
-          "desc": "[WhenUse] 대상의 [Laceration] 5당, 기본 위력 +1 (최대 4)\n[WhenUse] 대상의 부정적인 효과 수당 합 위력 +1 (최대 2)\n[DefeatDuel] 대상이 [AaCfPcBg]을 가지고 있다면, 다음 턴에 100만큼 흐트러짐 손상. 흐트러짐 수치가 없을 경우 0에 흐트러짐 수치를 만듦.",
+          "name": "狂乱之狼的狂气",
+          "desc": "[WhenUse] 目标每带有5级流血 强度，使本技能的基础威力+1（最多+4）\n[WhenUse] 目标每带有1种负面状态，使本技能的拼点威力+1（最多+2）\n[DefeatDuel] 若目标带有[AaCfPcBg]，则下回合使自身的混乱阈值前移100。若自身未拥有混乱阈值，则在0点处生成1条混乱阈值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬의 모든 코인이 적중했다면, 이 코인 재사용 (최대 1회)"
+                  "desc": "[OnSucceedAttack] 若本技能的所有硬币全部命中，则重复使用本硬币（最多1次）"
                 }
               ]
             }
@@ -752,21 +752,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "죽도록 달려라 듀라한이여",
-          "desc": "[CantDuel]\n[WhenUse] 대상에게 [AaCfPbBb]가 있으면 피해량 -100%",
+          "name": "奔向死亡，杜拉汉",
+          "desc": "[CantDuel]\n[WhenUse] 若目标带有爆发的嫉妒 ，则使本技能造成的伤害-100%",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
                 }
               ]
             }
@@ -1004,34 +1004,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "마왕이 다녀가면 슬픔과 절규만이 남는다.",
+          "name": "魔王所经之处，唯余悲伤与哀鸣",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4, [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度与4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 与2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4, [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度与4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 2, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 与2层流血 "
                 }
               ]
             }
@@ -1063,7 +1063,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "소용 없어",
+          "name": "徒劳",
           "desc": "",
           "coinlist": [
             {
@@ -1207,13 +1207,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "무의미한 발악",
+          "name": "无意义的挣扎",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
                 }
               ]
             }
