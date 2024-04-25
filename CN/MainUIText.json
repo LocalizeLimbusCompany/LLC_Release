@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "mainui_main_button0",
-      "content": "车窗"
+      "content": "玻璃窗"
     },
     {
       "id": "mainui_main_button1",
@@ -1174,7 +1174,7 @@
     },
     {
       "id": "to_window",
-      "content": "返回车窗"
+      "content": "返回玻璃窗"
     },
     {
       "id": "completion",
