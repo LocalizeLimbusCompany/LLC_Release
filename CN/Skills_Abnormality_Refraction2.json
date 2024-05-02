@@ -1335,12 +1335,12 @@
         {
           "level": 1,
           "name": "6463",
-          "desc": "自身每带有50层累积的往昔 ，使本技能造成的伤害+10%",
+          "desc": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u> 50당 피해량 +10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
                 }
               ]
             }
@@ -1354,12 +1354,12 @@
         {
           "level": 1,
           "name": "6753",
-          "desc": "自身每带有50层累积的往昔 ，使本技能造成的伤害+10%",
+          "desc": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u> 50당 피해량 +10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여"
                 }
               ]
             }
@@ -1373,22 +1373,22 @@
         {
           "level": 1,
           "name": "853",
-          "desc": "若自身的呼吸法 强度不低于5级，则使本技能的拼点威力+1",
+          "desc": "[Breath]이 5이상이면, 합 위력 +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标混乱阈值前移本硬币伤害量的50%"
+                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 흐트러짐 손상"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有1层累积的往昔 ，使本技能造成的伤害+1%（最多50%）"
+                  "desc": "[OnSucceedAttack] <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u>당 피해량 +1% (최대 50%)"
                 }
               ]
             }
@@ -1402,22 +1402,22 @@
         {
           "level": 1,
           "name": "5384",
-          "desc": "[WhenUse] 使所有部位增加3级呼吸法 强度并获得3层呼吸法 ",
+          "desc": "[WhenUse] 모든 부위에 [Breath] 3, [Breath] 횟수 3을 얻음",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标混乱阈值前移等同于自身呼吸法 强度的数值"
+                  "desc": "[OnSucceedAttack] [Breath]만큼 흐트러짐 손상"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有3级呼吸法 强度，使本硬币造成的伤害+20%（最多100%）"
+                  "desc": "[OnSucceedAttack] [Breath] 3당 피해량 +20% (최대 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使所有部位增加4级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 모든 부위에 [Breath] 4를 얻음"
                 }
               ]
             }
@@ -1431,15 +1431,15 @@
         {
           "level": 1,
           "name": "6475384",
-          "desc": "若自身的呼吸法 强度不低于7级，则使本技能硬币的威力+1",
+          "desc": "[Breath]이 7이상이면, 코인 위력 +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的呼吸法 强度不低于5级，则使目标混乱阈值前移本硬币伤害量的50%"
+                  "desc": "[OnSucceedAttack] [Breath]이 5이상이면, 피해량의 50%만큼 흐트러짐 손상"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使所有部位获得4层呼吸法 并增加8级呼吸法 强度"
+                  "desc": "[OnSucceedAttack] 모든 부위에 [Breath] 8, [Breath] 횟수 4를 얻음"
                 }
               ]
             }
@@ -1453,12 +1453,12 @@
         {
           "level": 1,
           "name": "974569A",
-          "desc": "若自身的呼吸法 强度不低于10级，则使本技能威力+2",
+          "desc": "[Breath]이 10이상이면, 스킬 위력 +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有1层累积的往昔 ，使本技能造成的伤害+1%（最多200%）"
+                  "desc": "[OnSucceedAttack] <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u>당 피해량 +1% (최대 200%)"
                 }
               ]
             }

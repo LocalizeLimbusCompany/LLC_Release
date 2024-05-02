@@ -703,6 +703,14 @@
     {
       "id": "10809_getCondition_gacksung",
       "content": "埃德加家族 管家 以实玛利 3阶段同步完成"
+    },
+    {
+      "id": "11009_getCondition_normal",
+      "content": "새벽 사무소 해결사 싱클레어 획득 시"
+    },
+    {
+      "id": "11009_getCondition_gacksung",
+      "content": "새벽 사무소 해결사 싱클레어 동기화 3단계 달성"
     }
   ]
 }
