@@ -1726,15 +1726,15 @@
     },
     {
       "id": "mainui_sinners_startSuppress",
-      "content": "제압 시작"
+      "content": "开始镇压"
     },
     {
       "id": "mainui_battleresult_AbnormalitySuppress_victory",
-      "content": "환상체 제압 성공"
+      "content": "异想体镇压成功"
     },
     {
       "id": "mainui_battleresult_AbnormalitySuppress_defeat",
-      "content": "환상체 제압 실패"
+      "content": "异想体镇压失败"
     }
   ]
 }

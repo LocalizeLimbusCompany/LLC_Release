@@ -255,7 +255,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量10%的伤害"
+                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量10%的体力"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] 使目标增加1~4级流血 强度"

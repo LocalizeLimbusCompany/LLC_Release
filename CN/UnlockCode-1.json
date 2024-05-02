@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": 101,
-      "openCondition": "주요 이야기 1장 클리어"
+      "openCondition": "通过主线剧情第1章"
     },
     {
       "id": 102,
-      "openCondition": "주요 이야기 2장 클리어"
+      "openCondition": "通过主线剧情第2章"
     },
     {
       "id": 103,
-      "openCondition": "주요 이야기 3장 클리어"
+      "openCondition": "通过主线剧情第3章"
     },
     {
       "id": 104,
-      "openCondition": "주요 이야기 4장 클리어"
+      "openCondition": "通过主线剧情第4章"
     },
     {
       "id": 105,
-      "openCondition": "주요 이야기 5장 클리어"
+      "openCondition": "通过主线剧情第5章"
     },
     {
       "id": 106,
-      "openCondition": "주요 이야기 6장 클리어"
+      "openCondition": "通过主线剧情第6章"
     },
     {
       "id": 9103,

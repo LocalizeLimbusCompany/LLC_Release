@@ -470,27 +470,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "노을빛 검",
-          "desc": "[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 소모\n[BeforeAttack] 자신이 불안정 E.G.O 상태면, 공격 가중치 +1\n[EndSkill] 자신이 불안정 E.G.O 상태면, 정신력 5 소모",
+          "name": "霞光剑刃",
+          "desc": "[WhenUse] 若自身处于不稳定E.G.O状态， 则消耗5点理智值\n[BeforeAttack] 若自身处于不稳定E.G.O状态，则使本技能的攻击容量+1\n[EndSkill] 若自身处于不稳定E.G.O状态，则消耗5点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             }
@@ -498,27 +498,27 @@
         },
         {
           "level": 2,
-          "name": "노을빛 검",
-          "desc": "<style=\"highlight\">대상의 [Combustion]이 4 이상이면, 합 위력 +1</style>\n[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 소모\n[BeforeAttack] 자신이 불안정 E.G.O 상태면, 공격 가중치 +1\n[EndSkill] 자신이 불안정 E.G.O 상태면, 정신력 5 소모",
+          "name": "霞光剑刃",
+          "desc": "若目标的烧伤 强度不低于4级，则使本技能的拼点威力+1\n[WhenUse] 若自身处于不稳定E.G.O状态，则消耗5点理智值\n[BeforeAttack] 若自身处于不稳定E.G.O状态，则使本技能的攻击容量+1\n[EndSkill] 若自身处于不稳定E.G.O状态，则消耗5点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             }
@@ -526,27 +526,27 @@
         },
         {
           "level": 4,
-          "name": "노을빛 검",
-          "desc": "대상의 [Combustion]이 4 이상이면, 합 위력 +1\n[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 소모\n[BeforeAttack] 자신이 불안정 E.G.O 상태면, 공격 가중치 +1\n<style=\"highlight\">- 자신의 정신력이 45면, 대신 공격 가중치 +2</style>\n[EndSkill] 자신이 불안정 E.G.O 상태면, 정신력 5 소모",
+          "name": "霞光剑刃",
+          "desc": "若目标的烧伤 强度不低于4级，则使本技能的拼点威力+1\n[WhenUse] 若自身处于不稳定E.G.O状态，则消耗5点理智值\n[BeforeAttack] 若自身处于不稳定E.G.O状态，则使本技能的攻击容量+1\n- 若自身理智值为45点，则改为使本技能的攻击容量+2\n[EndSkill] 若自身处于不稳定E.G.O状态，则消耗5点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             }
@@ -559,20 +559,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "낙인",
-          "desc": "대상의 [Combustion]이 10 이상이면, 코인 위력 +1\n자신이 불안정 E.G.O 상태면, 타오르는 일격으로 발동됨\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 10 감소",
+          "name": "愤怒烙印",
+          "desc": "若目标的烧伤 强度不低于10级，则使本技能的硬币威力+1\n若自身处于不稳定E.G.O状态，则改为使用爆炎一击\n[WinDuel] 使自身恢复10点理智值\n[DefeatDuel] 使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
                 }
               ]
             }
@@ -580,20 +580,20 @@
         },
         {
           "level": 4,
-          "name": "낙인",
-          "desc": "<style=\"highlight\">대상의 [Combustion] 7 당 코인 위력 +1 (최대 2)</style>\n자신이 불안정 E.G.O 상태면, 타오르는 일격으로 발동됨\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 10 감소",
+          "name": "愤怒烙印",
+          "desc": "目标每带有7级烧伤 强度，使本技能的硬币威力+1（最多+2）\n若自身处于不稳定E.G.O状态，则改为使用爆炎一击\n[WinDuel] 使自身恢复10点理智值\n[DefeatDuel] 使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
                 }
               ]
             }
@@ -606,8 +606,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "후회",
-          "desc": "자신이 불안정 E.G.O 상태면, 대상의 [Combustion] 2 당 기본 위력 +1 (최대 10)\n[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 감소",
+          "name": "悔恨交加",
+          "desc": "若自身处于不稳定E.G.O状态，则目标每带有2级烧伤 强度，使本技能的基础威力+1（最多+10）\n[WhenUse] 若自身处于不稳定E.G.O状态，则使自身失去5点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -620,8 +620,8 @@
         },
         {
           "level": 4,
-          "name": "후회",
-          "desc": "자신이 불안정 E.G.O 상태면, 대상의 [Combustion] 2 당 기본 위력 +1 (최대 <style=\"highlight\">20</style>)\n[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 감소",
+          "name": "悔恨交加",
+          "desc": "若自身处于不稳定E.G.O状态，则目标每带有2级烧伤 强度，使本技能的基础威力+1（最多+20）\n[WhenUse] 若自身处于不稳定E.G.O状态，则使自身失去5点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -639,25 +639,25 @@
       "levelList": [
         {
           "level": 3,
-          "name": "타오르는 일격",
-          "desc": "적 전체 [Combustion] 위력의 합 4 당 코인 위력 +1 (최대 8)\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 30감소\n분노 공명당 피해량 5% 증가 (최대 30%)\n[EndSkill] 정신력 15 감소",
+          "name": "爆炎一击",
+          "desc": "全体敌方单位每带有共计4级烧伤 强度，使本技能的硬币威力+1（最多+8）\n[WinDuel] 使自身恢复10点理智值\n[DefeatDuel] 使自身失去30点理智值\n每有1点暴怒共鸣数，使本技能造成的伤害+5%（最多+30%）\n[EndSkill] 使自身失去15点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "대상의 [Combustion] 1당 피해량 +2.5% (최대 100%)",
-                  "summary": "대상의 [Combustion] 비례 피해량이 증가"
+                  "desc": "目标每带有1级烧伤 强度，使本技能造成的伤害+2.5%（最多+100%）",
+                  "summary": "根据目标带有的烧伤 强度，相应使本技能造成的伤害增加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 10 이상 있으면, 무작위 적 (가장 높은 공명 수)명에게 [Combustion] 2 부여",
-                  "summary": "[OnSucceedAttack] 공명 비례 [Combustion] 부여"
+                  "desc": "[OnSucceedAttack] 若目标的烧伤 强度不低于10级，则随机使（最大共鸣数）名敌方单位增加2级烧伤 强度",
+                  "summary": "[OnSucceedAttack] 根据共鸣数，相应增加烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级烧伤 强度"
                 },
                 {
-                  "desc": "[EnemyKill] 처치한 대상의 [Combustion] 위력을 무작위 적에게 나눠서 부여 (최대 10. 집중 전투인 경우 부위로 판정)",
-                  "summary": "[EnemyKill] 무작위 적에게 [Combustion] 부여"
+                  "desc": "[EnemyKill] 随机使全体敌方单位增加共计相当于击杀目标带有的烧伤 强度的烧伤 强度（最多10级。若是集中遭遇战，则改为使所有部位）",
+                  "summary": "[EnemyKill] 随机使敌方单位增加烧伤 强度"
                 }
               ]
             }
@@ -665,25 +665,25 @@
         },
         {
           "level": 4,
-          "name": "타오르는 일격",
-          "desc": "적 전체 [Combustion] 위력의 합 4 당 코인 위력 +<style=\"highlight\">2</style> (최대 8)\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 30 감소\n분노 공명당 피해량 <style=\"highlight\">10</style>% 증가 (최대 <style=\"highlight\">60</style>%)\n<style=\"highlight\">- 최대 분노 완전 공명 수가 4 이상이면, 대신 20% 증가 (최대 120%)</style>\n[EndSkill] 정신력 15 감소",
+          "name": "爆炎一击",
+          "desc": "全体敌方单位每带有共计4级烧伤 强度，使本技能的硬币威力+2（最多+8）\n[WinDuel] 使自身恢复10点理智值\n[DefeatDuel] 使自身失去30点理智值\n每有1点暴怒共鸣数，使本技能造成的伤害+10%（最多+60%）\n若最大暴怒完全共鸣数不低于4，则改为每有1点暴怒共鸣数，使本技能造成的伤害+20%（最多+120%）\n[EndSkill] 使自身失去15点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "대상의 [Combustion] 1당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">120</style>%)",
-                  "summary": "대상의 [Combustion] 비례 피해량이 증가"
+                  "desc": "目标每带有1级烧伤 强度，使本技能造成的伤害+4%（最多+120%）",
+                  "summary": "根据目标带有的烧伤 强度，相应使本技能造成的伤害增加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 10 이상 있으면, 무작위 적 (가장 높은 공명 수)명에게 [Combustion] 2 부여\n<style=\"highlight\">- 해당 공명이 분노 공명이면, [Combustion] 횟수 1 추가 부여</style>",
-                  "summary": "[OnSucceedAttack] 공명 비례 [Combustion] 부여"
+                  "desc": "[OnSucceedAttack] 若目标的烧伤 强度不低于10级，则随机使（最大共鸣数）名敌方单位增加2级烧伤 强度\n- 若上述共鸣为暴怒共鸣，则额外对敌方单位施加1层烧伤 ",
+                  "summary": "[OnSucceedAttack] 根据共鸣数，相应增加烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Combustion] 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级烧伤 强度"
                 },
                 {
-                  "desc": "[EnemyKill] 처치한 대상의 [Combustion] 위력을 무작위 적에게 나눠서 부여 (최대 10. 집중 전투인 경우 부위로 판정)",
-                  "summary": "[EnemyKill] 무작위 적에게 [Combustion] 부여"
+                  "desc": "[EnemyKill] 随机使全体敌方单位增加共计相当于击杀目标带有的烧伤 强度的烧伤 强度（最多10级。若是集中遭遇战，则改为使所有部位）",
+                  "summary": "[EnemyKill] 随机使敌方单位增加烧伤 强度"
                 }
               ]
             }

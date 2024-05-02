@@ -706,11 +706,11 @@
     },
     {
       "id": "11009_getCondition_normal",
-      "content": "새벽 사무소 해결사 싱클레어 획득 시"
+      "content": "获得黎明事务所 收尾人 辛克莱"
     },
     {
       "id": "11009_getCondition_gacksung",
-      "content": "새벽 사무소 해결사 싱클레어 동기화 3단계 달성"
+      "content": "黎明事务所 收尾人 辛克莱 3阶段同步完成"
     }
   ]
 }
