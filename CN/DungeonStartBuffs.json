@@ -10,7 +10,7 @@
     },
     {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE",
-      "description": "[通用]\n\n额外出现3个E.G.O饰品"
+      "description": "[通用]\n\n额外出现3件E.G.O饰品"
     },
     {
       "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_CHANCE",
@@ -310,7 +310,7 @@
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER2",
-      "description": "[商店]\n\n售卖饰品等21的E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[商店]\n\n售卖饰品等级2的E.G.O饰品时获得的经费额外增加{0}%"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER3",

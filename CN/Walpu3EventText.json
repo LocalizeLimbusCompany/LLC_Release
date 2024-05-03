@@ -170,11 +170,11 @@
     },
     {
       "id": "walpu_modal_enterStage_10555",
-      "content": "要进入妖精盛宴之书吗？"
+      "content": "要进入精灵盛宴之书吗？"
     },
     {
       "id": "walpu_modal_enterStage_10556",
-      "content": "要进入妖精盛宴之书吗？"
+      "content": "要进入精灵盛宴之书吗？"
     },
     {
       "id": "walpu_battle_turn",
@@ -186,11 +186,11 @@
     },
     {
       "id": "walpu_battle_name_10555",
-      "content": "妖精盛宴"
+      "content": "精灵盛宴"
     },
     {
       "id": "walpu_battle_name_10556",
-      "content": "妖精盛宴"
+      "content": "精灵盛宴"
     },
     {
       "id": "walpu_battle_result_win",
@@ -242,7 +242,7 @@
     },
     {
       "id": "tutorial_mainui_27_walpu3_04_desc_01",
-      "content": "以第一顺位进入关卡的罪人将被赋予“历史层司书”效果。“历史层司书”效果在简单/困难战斗中会发生变化，赋予的罪人将获得额外技能槽，并获得增益效果。"
+      "content": "编队中以第一顺位进入关卡的罪人将被赋予“历史层司书”效果。“历史层司书”效果在简单/困难战斗中会发生变化，赋予效果的罪人将获得额外技能槽，并获得增益。"
     },
     {
       "id": "tutorial_mainui_27_walpu3_05_title_01",

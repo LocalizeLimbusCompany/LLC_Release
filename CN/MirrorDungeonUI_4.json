@@ -642,7 +642,7 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_2",
-      "content": "以下是若将2个E.G.O饰品进行组合，预期的E.G.O饰品等级。"
+      "content": "以下是若将2件E.G.O饰品进行组合，预期的E.G.O饰品等级。"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_diffrent_keyword",
@@ -706,7 +706,7 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_3",
-      "content": "以下是若将2个E.G.O饰品进行组合，预期的E.G.O饰品关键词。"
+      "content": "以下是若将2件E.G.O饰品进行组合，预期的E.G.O饰品关键词。"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_2_desc_1_0",
@@ -718,7 +718,7 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_4",
-      "content": "以下是若将3个E.G.O饰品进行组合，预期的E.G.O饰品等级。"
+      "content": "以下是若将3件E.G.O饰品进行组合，预期的E.G.O饰品等级。"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_3_desc_1_0",
@@ -802,7 +802,7 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_desc_5",
-      "content": "以下是若将3个E.G.O饰品进行组合，预期的E.G.O饰品关键词。"
+      "content": "以下是若将3件E.G.O饰品进行组合，预期的E.G.O饰品关键词。"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_4_desc_1_0",
@@ -810,7 +810,7 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_4_desc_1_1",
-      "content": "作为材料使用的E.G.O饰品的关键词（三个中相同者）出现概率为50%\n\n作为材料使用的E.G.O饰品的关键词（三个中不同者）出现概率为25%\n\n其余关键词出现概率总和为25%"
+      "content": "作为材料使用的E.G.O饰品的关键词（三件中相同者）出现概率为50%\n\n作为材料使用的E.G.O饰品的关键词（三件中不同者）出现概率为25%\n\n其余关键词出现概率总和为25%"
     },
     {
       "id": "mirror_ego_gift_combine_guide_table_4_desc_1_2",

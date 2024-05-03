@@ -6,15 +6,15 @@
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition",
-      "content": "获得{0} 经费\n{1}%概率获得一个{2}级以下的随机E.G.O饰品"
+      "content": "获得{0} 经费\n{1}%概率获得一件{2}级以下的随机E.G.O饰品"
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition",
-      "content": "获得{0} 经费\n{1}%概率获得一个随机E.G.O饰品"
+      "content": "获得{0} 经费\n{1}%概率获得一件随机E.G.O饰品"
     },
     {
       "id": "dungeon_battle_reward_case_format_random_gift_acquisition",
-      "content": "获得一个随机的{0}级E.G.O饰品"
+      "content": "获得一件随机的{0}级E.G.O饰品"
     },
     {
       "id": "dungeon_battle_reward_case_format_chip_acquisition",
