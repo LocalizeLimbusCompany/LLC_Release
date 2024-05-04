@@ -270,19 +270,19 @@
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER1",
-      "description": "[商店]\n\n购买饰品等级1的E.G.O饰品所需经费额外减少{0}%"
+      "description": "[商店]\n\n购买1级E.G.O饰品所需经费额外减少{0}%"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER2",
-      "description": "[商店]\n\n购买饰品等级2的E.G.O饰品所需经费额外减少{0}%"
+      "description": "[商店]\n\n购买2级E.G.O饰品所需经费额外减少{0}%"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER3",
-      "description": "[商店]\n\n购买饰品等级3的E.G.O饰品所需经费额外减少{0}%"
+      "description": "[商店]\n\n购买3级E.G.O饰品所需经费额外减少{0}%"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER4",
-      "description": "[商店]\n\n购买饰品等级4的E.G.O饰品所需经费额外减少{0}%"
+      "description": "[商店]\n\n购买4级及以上E.G.O饰品所需经费额外减少{0}%"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL2",
@@ -306,19 +306,19 @@
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER1",
-      "description": "[商店]\n\n售卖饰品等级1的E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[商店]\n\n售卖1级E.G.O饰品时获得的经费额外增加{0}%"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER2",
-      "description": "[商店]\n\n售卖饰品等级2的E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[商店]\n\n售卖2级E.G.O饰品时获得的经费额外增加{0}%"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER3",
-      "description": "[商店]\n\n售卖饰品等级3的E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[商店]\n\n售卖3级E.G.O饰品时获得的经费额外增加{0}%"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER4MORE",
-      "description": "[商店]\n\n售卖饰品等级4的E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[商店]\n\n售卖4级的E.G.O饰品时获得的经费额外增加{0}%"
     },
     {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE_TIER1TOTIER2",
@@ -334,19 +334,19 @@
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER1",
-      "description": "[休息点]\n\n强化饰品等级1的E.G.O饰品所需经费减少{0}%"
+      "description": "[休息点]\n\n强化1级E.G.O饰品所需经费减少{0}%"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER2",
-      "description": "[休息点]\n\n强化饰品等级2的E.G.O饰品所需经费减少{0}%"
+      "description": "[休息点]\n\n强化2级E.G.O饰品所需经费减少{0}%"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER3",
-      "description": "[休息点]\n\n强化饰品等级3的E.G.O饰品所需经费减少{0}%"
+      "description": "[休息点]\n\n强化3级E.G.O饰品所需经费减少{0}%"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER4MORE",
-      "description": "[休息点]\n\n强化饰品等级4的E.G.O饰品所需经费减少{0}%"
+      "description": "[休息点]\n\n强化4级及以上E.G.O饰品所需经费减少{0}%"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL2",
@@ -394,7 +394,7 @@
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_BUF",
-      "description": "[初始E.G.O饰品]\n\n初始E.G.O饰品列表中增加7种E.G.O饰品\n\n<一览>\n- 郁火 (2级，烧伤)\n- 敬畏 (2级，流血)\n- 酸味的酒香 (2级，震颤)\n- 有烟火药 (2级，破裂)\n- 庄严 (2级，沉沦)\n- 老旧的木雕人偶 (2级，呼吸法)\n- 巡逻用手电筒 (2级，充能)"
+      "description": "[初始E.G.O饰品]\n\n初始E.G.O饰品列表中增加7种E.G.O饰品\n\n<一览>\n- 郁火（2级，烧伤）\n- 敬畏（2级，流血）\n- 酸味的酒香（2级，震颤）\n- 有烟火药（2级，破裂）\n- 庄严（2级，沉沦）\n- 老旧的木雕人偶（2级，呼吸法）\n- 巡逻用手电筒（2级，充能）"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_COMBUSTION",
@@ -426,7 +426,7 @@
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_ATK",
-      "description": "[初始E.G.O饰品]\n\n初始E.G.O饰品列表中增加6种E.G.O饰品\n\n<一览>\n- 裁缝用剪刀 (2级，斩击)\n- 决意 (2级，斩击)\n- 曾经的祝福 (2级，突刺)\n- 撕裂的弹带 (2级，突刺)\n- 加压绷带 (2级，打击)\n- 时间缰绳 (2级，打击)"
+      "description": "[初始E.G.O饰品]\n\n初始E.G.O饰品列表中增加6种E.G.O饰品\n\n<一览>\n- 裁缝用剪刀（2级，斩击）\n- 决意（2级，斩击）\n- 曾经的祝福（2级，突刺）\n- 撕裂的弹带（2级，突刺）\n- 加压绷带（2级，打击）\n- 时间缰绳（2级，打击）"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_SLASH",
