@@ -18,7 +18,7 @@
     },
     {
       "id": "mirrordungeon_theme_pack_boss",
-      "content": "出现Boss"
+      "content": "出现头目"
     },
     {
       "id": "mirrordungeon_theme_pack_ego_gift",
@@ -466,7 +466,7 @@
     },
     {
       "id": "md4_buffs_summaryDesc_122",
-      "content": "[商店]\n有20%的概率刷新时不消耗经费"
+      "content": "[商店]\n刷新时有20%的概率不消耗经费"
     },
     {
       "id": "md4_buffs_summaryDesc_123",

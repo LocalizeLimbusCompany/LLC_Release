@@ -46,7 +46,7 @@
     },
     {
       "id": "StartBattle_FloorBoss",
-      "content": "<color=#ff0000>遭遇阶层Boss战！</color>"
+      "content": "<color=#ff0000>遭遇阶层头目战！</color>"
     },
     {
       "id": "RecoverHpOnly",

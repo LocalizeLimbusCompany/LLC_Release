@@ -142,7 +142,7 @@
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_BOSS",
-      "description": "[通用]\n\n阶层Boss战胜利后获得的经费增加10%（不受开局增益与其他E.G.O饰品的影响）"
+      "description": "[通用]\n\n阶层头目战胜利后获得的经费增加10%（不受开局增益与其他E.G.O饰品的影响）"
     },
     {
       "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE_NESTING",
