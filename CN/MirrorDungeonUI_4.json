@@ -906,19 +906,19 @@
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh",
-      "content": "刷新关键词"
+      "content": "关键词刷新"
     },
     {
       "id": "mirror_dungeon_shop_refresh_by_chip",
-      "content": "刷新星芒"
+      "content": "星芒刷新"
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
-      "content": "商店 - 刷新关键词"
+      "content": "商店 - 关键词刷新"
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
-      "content": "所选关键词的E.G.O饰品出现的概率大幅增加。\n是否要使用{0}经费刷新关键词？"
+      "content": "所选关键词的E.G.O饰品出现的概率大幅增加。\n是否要使用{0}经费进行关键词刷新？"
     },
     {
       "id": "ego_gift_combine_ui_plz_select_keyword",
