@@ -752,7 +752,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "奔向死亡，杜拉汉",
+          "name": "奔向死亡，杜拉罕",
           "desc": "[CantDuel]\n[WhenUse] 若目标带有爆发的嫉妒 ，则使本技能造成的伤害-100%",
           "coinlist": [
             {},
@@ -958,7 +958,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "奔向死亡，杜拉汉",
+          "name": "奔向死亡，杜拉罕",
           "desc": "",
           "coinlist": [
             {},
