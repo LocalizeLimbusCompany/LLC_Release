@@ -1059,6 +1059,22 @@
     {
       "id": "introduce_sentence_133",
       "content": "受了伤的{0}……并不美味。"
+    },
+    {
+      "id": "introduce_word_134",
+      "content": "工作"
+    },
+    {
+      "id": "introduce_sentence_134",
+      "content": "在完成手头的{0}之前，谁也不许睡觉。"
+    },
+    {
+      "id": "introduce_word_135",
+      "content": "灵感"
+    },
+    {
+      "id": "introduce_sentence_135",
+      "content": "您能为我带来全新的{0}吗？"
     }
   ]
 }
