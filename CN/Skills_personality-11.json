@@ -822,20 +822,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "점찍기",
+          "name": "点画",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -843,20 +843,20 @@
         },
         {
           "level": 2,
-          "name": "점찍기",
-          "desc": "대상의 [Laceration]이 6 이상이면, 합 위력 +1",
+          "name": "点画",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -864,20 +864,20 @@
         },
         {
           "level": 4,
-          "name": "점찍기",
-          "desc": "대상의 [Laceration]이 6 이상이면, 합 위력 +1\n<style=\"highlight\">대상의 [Laceration]이 10 이상이면, 코인 위력 +1</style>",
+          "name": "点画",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的拼点威力+1\n若目标的流血 强度不低于10级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -890,17 +890,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "혈묘화",
+          "name": "血描画",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% 확률로 코인 1회 재사용. 대상이 보유한 부정적인 효과 1개당 재사용 확률 +20%"
+                  "desc": "[OnSucceedAttack] 以20%概率重复使用本硬币1次。目标每带有1种负面状态，使本硬币重复使用的概率+20%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -908,17 +908,17 @@
         },
         {
           "level": 2,
-          "name": "혈묘화",
-          "desc": "대상의 [Laceration]이 6 이상이면, 합 위력 +1",
+          "name": "血描画",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的拼点威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% 확률로 코인 1회 재사용. 대상이 보유한 부정적인 효과 1개당 재사용 확률 +20%"
+                  "desc": "[OnSucceedAttack] 以20%概率重复使用本硬币1次。目标每带有1种负面状态，使本硬币重复使用的概率+20%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가\n자신의 코인 효과로 코인 재사용 시 증가시키는 [Laceration] 횟수 +1"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 \n通过自身硬币效果重复使用本硬币时，对目标额外施加1层流血 "
                 }
               ]
             }
@@ -926,17 +926,17 @@
         },
         {
           "level": 4,
-          "name": "혈묘화",
-          "desc": "대상의 [Laceration]이 6 이상이면, 합 위력 +2",
+          "name": "血描画",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的拼点威力+2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 40% 확률로 코인 재사용. 대상이 보유한 부정적인 효과 1개당 재사용 확률 +20% (스킬당 최대 2회 재사용 가능)"
+                  "desc": "[OnSucceedAttack] 以40%概率重复使用本硬币。目标每带有1种负面状态，使本硬币重复使用的概率+20%(每个技能最多2次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가\n자신의 코인 효과로 코인 재사용 시 증가시키는 [Laceration] 횟수 +1"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 \n通过自身硬币效果重复使用本硬币时，对目标额外施加1层流血 "
                 }
               ]
             }
@@ -949,20 +949,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "작품 점검",
-          "desc": "대상이 보유한 부정적인 효과 1개당 피해량 +10% (최대 30%)\n[WhenUse] 조작 패널에서 자신의 양 옆에 있는 아군에게 다음 턴에 [Agility] 1 부여",
+          "name": "检查作品",
+          "desc": "目标每带有1种负面状态，使本技能造成的伤害+10%(最多+30%)\n[WhenUse] 使仪表盘上位于自身两侧的友方单位在下回合获得1层迅捷 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级某1种随机效果的强度，该效果可能为烧伤 、流血 、震颤 、破裂 或沉沦 "
                 },
                 {
-                  "desc": "[EndSkill] 대상이 흐트러짐 상태가 되거나 사망했으면, 자신을 제외하고 정신력이 가장 높은 아군 1명에게 다음 턴에 [PenetrateDamageUp] 1 부여"
+                  "desc": "[EndSkill] 若使目标陷入混乱或击杀目标，则使除自身以外理智值最高的1名其他友方单位在下回合获得1层突刺伤害强化 "
                 }
               ]
             }
@@ -970,20 +970,20 @@
         },
         {
           "level": 4,
-          "name": "작품 점검",
-          "desc": "대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n대상이 보유한 부정적인 효과 1개당 피해량 +12.5% (최대 50%)\n[WhenUse] 조작 패널에서 자신의 양 옆에 있는 아군에게 다음 턴에 [Agility] 1 부여",
+          "name": "检查作品",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n目标每带有1种负面状态，使本技能造成的伤害+12.5%(最多+50%)\n[WhenUse] 使仪表盘上位于自身两侧的友方单位在下回合获得1层迅捷 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级某1种随机效果的强度，该效果可能为烧伤 、流血 、震颤 、破裂 或沉沦 "
                 },
                 {
-                  "desc": "[EndSkill] 대상이 흐트러짐 상태가 되거나 사망했으면, 자신을 제외하고 정신력이 가장 높은 아군 1명에게 다음 턴에 [PenetrateDamageUp] 1 부여. <style=\"highlight\">대상이 약지 소속 조직원이면 [PenetrateResultUp] 1 추가 부여</style>"
+                  "desc": "[EndSkill] 若使目标陷入混乱或击杀目标，则使除自身以外理智值最高的1名其他友方单位在下回合获得1层突刺伤害强化 。若该友方单位隶属于环指，则额外使其获得1层突刺强壮 "
                 }
               ]
             }
