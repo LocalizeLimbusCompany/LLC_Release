@@ -42,7 +42,7 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_06_desc_01",
-      "content": "在所有编队窗口中，长摁人格立绘会显示人格信息，可以查看当前人格和E.G.O的详细信息。"
+      "content": "在所有编队窗口中，长按人格立绘会显示人格信息，可以查看当前人格和E.G.O的详细信息。"
     },
     {
       "id": "tutorial_mainui_01_selection_page_07_title_01",
@@ -306,7 +306,7 @@
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_01",
-      "content": "生成E.G.O技能时，可以消耗1.5倍的理智值与罪孽碎片来强制使用E.G.O侵蚀，这称为E.G.O超频。\n在战斗中选择E.G.O技能时，可以长摁E.G.O来使用E.G.O超频。"
+      "content": "生成E.G.O技能时，可以消耗1.5倍的理智值与罪孽碎片来强制使用E.G.O侵蚀，这称为E.G.O超频。\n在战斗中选择E.G.O技能时，可以长按E.G.O来使用E.G.O超频。"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_02",
