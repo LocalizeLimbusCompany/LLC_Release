@@ -2708,7 +2708,7 @@
         {
           "level": 2,
           "name": "裁云断雾",
-          "desc": "[BeforeAttack] 若目标的流血 层数不高于4层，则重复使用本技能的前两枚硬币1次",
+          "desc": "[BeforeAttack] 若目标的流血 层数低于4层，则重复使用本技能的前两枚硬币1次",
           "keywords": [],
           "coinlist": [
             {
@@ -2730,7 +2730,7 @@
         {
           "level": 4,
           "name": "裁云断雾",
-          "desc": "[BeforeAttack] 若目标的流血 层数不高于4层，则重复使用本技能的前两枚硬币1次",
+          "desc": "[BeforeAttack] 若目标的流血 层数低于4层，则重复使用本技能的前两枚硬币1次",
           "keywords": [],
           "coinlist": [
             {
