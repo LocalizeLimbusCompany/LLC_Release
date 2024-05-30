@@ -256,23 +256,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "낮은울음",
-          "abName": "울음 두꺼비",
-          "desc": "[BeforeAttack] 최대 공명 수가 4 이상이면, 공격 가중치 +1",
+          "name": "低泣",
+          "abName": "悲泣蟾蜍",
+          "desc": "[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 자신과 현재 체력이 가장 적은 아군 1명에게 자신의 최대 체력 10%만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여"
+                  "desc": "[EndSkill] 使自身与现存体力最低的1名友方单位获得自身体力上限10%的护盾与2层泪珠 "
                 },
                 {
-                  "desc": "- 최대 공명 수가 4 이상이면, 부여 대상 수 +1"
+                  "desc": "- 若最大共鸣数不低于4，则额外使1名友方单位获得上述效果"
                 },
                 {
-                  "desc": "- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경"
+                  "desc": "- 若上述友方单位带有泪珠 ，则使其泪珠 层数变为2层"
                 },
                 {
-                  "desc": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨"
+                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能上述效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”"
                 }
               ]
             }
@@ -280,20 +280,20 @@
         },
         {
           "level": 3,
-          "name": "낮은울음",
-          "abName": "울음 두꺼비",
-          "desc": "<style=\"highlight\">[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)</style>",
+          "name": "低泣",
+          "abName": "悲泣蟾蜍",
+          "desc": "[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 자신과 현재 체력이 가장 적은 아군 <style=\"highlight\">1+(최대 공명 수-2)</style>명에게 자신의 최대 체력 <style=\"highlight\">14%</style>만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여 <style=\"highlight\">(자신 제외 최대 부여 대상 수: 3)</style>"
+                  "desc": "[EndSkill] 使自身与现存体力最低的(1+(最大共鸣数-2))名友方单位获得自身体力上限14%的护盾与2层泪珠 (除自身以外最大友方单位获取数：3名)"
                 },
                 {
-                  "desc": "- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>"
+                  "desc": "- 若上述友方单位带有泪珠 ，则使其泪珠 层数变为2层"
                 },
                 {
-                  "desc": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>"
+                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能上述效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”"
                 }
               ]
             }
@@ -301,20 +301,20 @@
         },
         {
           "level": 4,
-          "name": "낮은울음",
-          "abName": "울음 두꺼비",
-          "desc": "[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)<style=\"highlight\"></style>",
+          "name": "低泣",
+          "abName": "悲泣蟾蜍",
+          "desc": "[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 자신과 현재 체력이 가장 적은 아군 1+(최대 공명 수-2)명에게 자신의 최대 체력 <style=\"highlight\">20%</style>만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여 (자신 제외 최대 부여 대상 수: 3)"
+                  "desc": "[EndSkill] 使自身与现存体力最低的(1+(最大共鸣数-2))名友方单位获得自身体力上限20%的护盾与2层泪珠 (除自身以外最大友方单位获取数：3名)"
                 },
                 {
-                  "desc": "- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>"
+                  "desc": "- 若上述友方单位带有泪珠 ，则使其泪珠 层数变为2层"
                 },
                 {
-                  "desc": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>"
+                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能上述效果改为“获得3层泪珠 ”与“使其泪珠 层数变为3层”"
                 }
               ]
             }
@@ -327,23 +327,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "낮은울음",
-          "abName": "울음 두꺼비",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 최대 공명 수가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가",
+          "name": "低泣",
+          "abName": "悲泣蟾蜍",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若最大共鸣数不低于3，则使本技能的攻击容量+1\n[BeforeAttack] 下回合使本技能对应行动槽的挑衅值 +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[EndSkill] 자신에게 자신의 최대 체력 (15+최대 공명 수x2.5)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 25%)"
+                  "desc": "[EndSkill] 使自身获得自身体力上限(15+2.5×(最大共鸣数))%的护盾与2层泪珠 (最多+25%)"
                 },
                 {
-                  "desc": "- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경"
+                  "desc": "- 若自身带有泪珠 ，则使自身的泪珠层数变为2层"
                 },
                 {
-                  "desc": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨"
+                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能上述效果改为“获得3层泪珠 ”与“使自身的泪珠 层数变为3层”"
                 }
               ]
             }
@@ -351,23 +351,23 @@
         },
         {
           "level": 3,
-          "name": "낮은울음",
-          "abName": "울음 두꺼비",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)</style>\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 <style=\"highlight\">[Aggro] 10</style> 증가",
+          "name": "低泣",
+          "abName": "悲泣蟾蜍",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)\n[BeforeAttack] 下回合使本技能对应行动槽的挑衅值 +10",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [Sinking] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[EndSkill] 자신에게 자신의 최대 체력 (<style=\"highlight\">18</style>+최대 공명 수x<style=\"highlight\">3</style>)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 <style=\"highlight\">30%</style>)"
+                  "desc": "[EndSkill] 使自身获得自身体力上限(18+3×(最大共鸣数))%的护盾与2层泪珠 (最多+30%)"
                 },
                 {
-                  "desc": "- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>"
+                  "desc": "- 若自身带有泪珠 ，则使自身的泪珠层数变为2层"
                 },
                 {
-                  "desc": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>"
+                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能上述效果改为“获得3层泪珠 ”与“使自身的泪珠 层数变为3层”"
                 }
               ]
             }
@@ -375,26 +375,26 @@
         },
         {
           "level": 4,
-          "name": "낮은울음",
-          "abName": "울음 두꺼비",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 [Aggro] 10 증가<style=\"highlight\"></style>",
+          "name": "低泣",
+          "abName": "悲泣蟾蜍",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)\n[BeforeAttack] 下回合使本技能对应行动槽的挑衅值 +10",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [Sinking] 2, <style=\"highlight\">[Sinking] 횟수 3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度并对其施加3层沉沦 "
                 },
                 {
-                  "desc": "[EndSkill] 자신에게 자신의 최대 체력 (<style=\"highlight\">20</style>+최대 공명 수x<style=\"highlight\">5</style>)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 <style=\"highlight\">40%</style>)"
+                  "desc": "[EndSkill] 使自身获得自身体力上限(20+5×(最大共鸣数))%的护盾与2层泪珠 (最多+40%)"
                 },
                 {
-                  "desc": "- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>"
+                  "desc": "- 若自身带有泪珠 ，则使自身的泪珠层数变为2层"
                 },
                 {
-                  "desc": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>"
+                  "desc": "- 若最大忧郁完全共鸣数不低于4，则使本技能上述效果改为“获得3层泪珠 ”与“使自身的泪珠 层数变为3层”"
                 },
                 {
-                  "desc": "<style=\"highlight\">- 우울 공명이 4 이상이면, 자신에게 자신의 최대 체력 10%만큼 보호막 추가 부여</style>"
+                  "desc": "- 若忧郁共鸣数不低于4，则使自身额外获得自身体力上限10%的护盾"
                 }
               ]
             }
