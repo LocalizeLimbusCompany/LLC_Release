@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 827701,
-      "name": "구제한 시간",
-      "desc": "전투 시작 시 [LimitedTime] 1000을 보유함"
+      "name": "救赎时间",
+      "desc": "战斗开始时，带有1000层[LimitedTime]"
     },
     {
       "id": 827702,
-      "name": "가속 재생 수복",
-      "desc": "턴 종료 시 부위 파괴 상태면, 해당 부위가 보유한 시간을 100을 소모하여 다음 턴에 부위 파괴 상태를 해제함."
+      "name": "加速再生修复",
+      "desc": "回合结束时，若有部位被破坏，则消耗该部位带有的100时间并在下回合解除该部位的破坏。"
     },
     {
       "id": 827801,
-      "name": "모두의 시간",
-      "desc": "체력이 75%가 되면 2페이즈로 전환함. 페이즈 전환 시 정신력을 30까지 회복하고, [LimitedTime]을 모든 부위가 [OwnTime]으로 나눠서 보유함."
+      "name": "所有人的时间",
+      "desc": "体力降为75%时进入第二阶段。阶段变换时，使自身理智值恢复至30点，并使[LimitedTime]变为[OwnTime]并均等分配至所有部位"
     },
     {
       "id": 827802,
-      "name": "공평한 지출",
-      "desc": "매 턴마다 [EquitableDistribution]를 얻음."
+      "name": "公平的支出",
+      "desc": "每回合对自身施加[EquitableDistribution]"
     },
     {
       "id": 827803,
-      "name": "시간 공동체를 위해",
-      "desc": "턴 시작 시 모든 부위가 [Protection] 5를 얻음."
+      "name": "为了时间共同体",
+      "desc": "回合开始时，使所有部位获得5层守护 。"
     },
     {
       "id": 827804,
-      "name": "저 놈 시간부터 가져가!",
-      "desc": "체력이 60% 미만이 되면, [EquitableDistribution]이 [UnfairDistribution]로 변경됨."
+      "name": "拿走那家伙的时间！",
+      "desc": "体力不高于60%时，使[EquitableDistribution]变为[UnfairDistribution]。"
     }
   ]
 }

@@ -1094,27 +1094,27 @@
     },
     {
       "id": "introduce_word_138",
-      "content": "정답"
+      "content": "正确答案"
     },
     {
       "id": "introduce_sentence_138",
-      "content": "이 렌즈 너머로는 항상 {0}(이/가) 보인다구요~"
+      "content": "透过这镜片，总能看到{0}的~"
     },
     {
       "id": "introduce_word_139",
-      "content": "나사"
+      "content": "螺丝"
     },
     {
       "id": "introduce_sentence_139",
-      "content": "네놈 머리에 {0}(이/가) 빠졌나 보군."
+      "content": "我看你是脑子里缺个{0}。"
     },
     {
       "id": "introduce_word_140",
-      "content": "정지"
+      "content": "停下"
     },
     {
       "id": "introduce_sentence_140",
-      "content": "그대로. {0}하는 겁니다. 멈춰진 시간 속에. 영원히."
+      "content": "就那样。{0}吧。在静止的时间中。永远地。"
     }
   ]
 }

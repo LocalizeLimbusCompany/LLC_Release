@@ -5,19 +5,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "방해하지마",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "别来烦我",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수만큼 자신의 [Vibration] 횟수 증가"
+                  "desc": "[OnSucceedAttack] 根据目标的震颤 层数，对自身施加相应层数的震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 对自身施加2层震颤 "
                 }
               ]
             }
@@ -30,34 +30,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "비장의 무기다",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "秘密武器",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层震颤 "
                 }
               ]
             }
@@ -70,20 +70,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "더러운 시곗줄들!",
-          "desc": "자신의 [Vibration] 횟수 5당, 합 위력 +1 (최대 2)\n[WhenUse] 자신의 [Vibration]을 [VibrationDistribution]로 [Switch_Vibration]",
+          "name": "该死的表链子！",
+          "desc": "自身每带有5层震颤 ，使本技能的拼点威力+1(最多+2)\n[WhenUse] 使自身的震颤 振幅转换 为震颤-分配 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수만큼 [Vibration] 횟수 증가"
+                  "desc": "[OnSucceedAttack] 根据自身的震颤 层数，对目标施加相应层数的震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -96,8 +96,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[StartBattle] 자신의 [Vibration] 횟수 2배만큼 보호막 체력을 얻음 (최대 20)",
+          "name": "防御",
+          "desc": "[StartBattle] 使自身获得2×(自身的震颤 层数)点护盾体力(最多20点)",
           "coinlist": [
             {
               "coindescs": [
@@ -115,19 +115,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "비켜 비켜",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "让开让开",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]만큼 자신의 [Vibration] 얻음"
+                  "desc": "[OnSucceedAttack] 根据目标的震颤 强度，使自身增加相应的震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 对自身施加2层震颤 "
                 }
               ]
             }
@@ -140,34 +140,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "만만치 않을걸?",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "可别小瞧我",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             }
@@ -180,20 +180,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "비열한 시곗줄이!",
-          "desc": "자신의 [Vibration] 횟수 5당, 합 위력 +1 (최대 2)\n[WhenUse] 자신의 [Vibration]을 [VibrationDistribution]로 [Switch_Vibration]",
+          "name": "下贱的表链子！",
+          "desc": "自身每带有5层震颤 ，使本技能的拼点威力+1(最多+2)\n[WhenUse] 使自身的震颤 振幅转换 为震颤-分配 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration]만큼 [Vibration] 부여"
+                  "desc": "[OnSucceedAttack] 根据自身的震颤 强度，使目标增加相应的震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -206,8 +206,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[StartBattle] 자신의 [Vibration] 횟수 2배만큼 보호막 체력을 얻음 (최대 20)",
+          "name": "防御",
+          "desc": "[StartBattle] 使自身获得2×(自身的震颤 层数)点护盾体力(最多20点)",
           "coinlist": [
             {
               "coindescs": [
@@ -225,20 +225,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "양심 없냐?",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 1 증가",
+          "name": "你有良心吗？",
+          "desc": "[WhenUse] 对自身施加1层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             }
@@ -251,20 +251,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "양심 없구나",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 1 증가",
+          "name": "你没良心啊",
+          "desc": "[WhenUse] 对自身施加1层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             }
@@ -367,8 +367,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[StartBattle] 자신의 [Vibration] 횟수 3배만큼 보호막 체력을 얻음 (최대 30)",
+          "name": "防御",
+          "desc": "[StartBattle] 使自身获得3×(自身的震颤 层数)点护盾体力(最多30点)",
           "coinlist": [
             {
               "coindescs": [
@@ -386,39 +386,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "대의를 위한 수거",
-          "desc": "[CantDuel]\n[StartBattle] 자신을 제외한 모든 아군의 [Vibration] 횟수 자신이 얻고 모든 아군의 [Vibration] 제거\n[StartBattle] 자신의 [Vibration] 횟수 3당 [AttackUp] 1을 얻음\n[WhenUse] 자신의 [Vibration] 횟수 9 증가",
+          "name": "为了我们的事业",
+          "desc": "[CantDuel]\n[StartBattle] 对自身施加层数相当于除自身以外全体友方单位震颤 层数之和的震颤 ，解除全体友方单位的震颤 \n[StartBattle] 自身每带有3层震颤 ，使自身获得1层攻击等级提升 \n[WhenUse] 对自身施加9层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수당 10%만큼의 추가 나태 피해량 입힘"
+                  "desc": "[OnSucceedAttack] 对目标追加自身带有的震颤 层数10%的怠惰伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 4 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加4层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수당 10%만큼의 추가 나태 피해량 입힘"
+                  "desc": "[OnSucceedAttack] 对目标追加自身带有的震颤 层数10%的怠惰伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 소모하여, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 消耗自身的3层震颤 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 소모하여, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 消耗自身的3层震颤 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 소모하여, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 消耗自身的3层震颤 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -431,23 +431,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "징수 검문",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 1 증가",
+          "name": "征收检查",
+          "desc": "[WhenUse] 对自身施加1层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [InterlockingTime] 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 层数不低于4层，则对其施加1层[InterlockingTime]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [InterlockingTime] 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 层数不低于4层，则对其施加1层[InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加1层震颤 "
                 }
               ]
             }
@@ -460,29 +460,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "거기 멈춰주시기 바랍니다.",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n[WhenUse] 자신의 [Vibration] 횟수가 4 이상이면, 합 위력 +1",
+          "name": "请您止步。",
+          "desc": "[WhenUse] 对自身施加2层震颤 \n[WhenUse] 若自身的震颤 层数不低于4层，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수가 4 이상이면, [Vibration] 8 부여"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于4层，则使目标增加8级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수가 4 이상이면, [Vibration] 횟수 8 증가"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于4层，则对目标施加8层震颤 "
                 }
               ]
             }
@@ -495,45 +495,45 @@
       "levelList": [
         {
           "level": 1,
-          "name": "강제 징수 집행하겠습니다.",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 5 당, 합 위력 +1 (최대 2)\n[WhenUse] 자신의 [Vibration] 횟수가 5 이상이면, 수치당 피해량 +10%. (최대 100%)\n[EndSkill] 자신의 [Vibration] 횟수 전부 소모",
+          "name": "强制征收执行。",
+          "desc": "[WhenUse] 自身每带有5层震颤 ，则使本技能的拼点威力+1(最多+2)\n[WhenUse] 若自身的震颤 层数不低于5层，则自身每带有1层震颤 ，使本技能造成的伤害+10%(最多+100%)\n[EndSkill] 消耗自身所有震颤 层数",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加2层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]이 8이상이면, [InterlockingTime] 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 强度不低于8级，则对其施加1层[InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수가 4 이상이면, [Vibration] 8 부여"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于4层，则使目标增加8级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加2层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4이상이면, [InterlockingTime] 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 层数不低于4层，则对其施加1层[InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수가 4 이상이면, [Vibration] 횟수 5 증가"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于4层，则对目标施加5层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수가 7이상이면, [InterlockingTime] 1 부여"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于7层，则对目标施加1层[InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수가 4이상이면, [VibrationChain]로 [Switch_Vibration]"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于4层，则使目标振幅转换 为震颤-锁链 "
                 }
               ]
             }
@@ -546,8 +546,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "시간 대여",
-          "desc": "[StartBattle] [Vibration] 횟수를 5 소모하여, 자신의 [TimeRentalTwo] 횟수 3 증가",
+          "name": "借来的时间",
+          "desc": "[StartBattle] 消耗5层震颤 并使自身获得3层[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
@@ -565,16 +565,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "징수 준비",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "征收准备",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 이상이면, [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于3层，则使目标增加3级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 [Vibration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttackHead] 对自身施加1层震颤 "
                 }
               ]
             }
@@ -587,29 +587,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T사제 가속 절단기",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "T公司产加速切断器",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
                 },
                 {
-                  "desc": " [Vibration] 2 부여"
+                  "desc": "使目标增加2级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             }
@@ -622,23 +622,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "시계 좀 보여주시죠.",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수가 5 이상이면, 합 위력 +1\n[WhenUse] 자신의 [Vibration] 횟수 2 증가\n[WinDuel] 자신의 [Vibration] 횟수 3을 소모하여, 자신의 [TimeRentalTwo] 횟수 1 증가",
+          "name": "请出示钟表。",
+          "desc": "[WhenUse] 若自身的震颤 层数不低于5层，则使本技能的拼点威力+1\n[WhenUse] 对自身施加2层震颤 \n[WinDuel] 消耗自身的3层震颤 并使自身获得1层[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수가 5 이상이면, [VibrationChain]로 [Switch_Vibration]"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于5层，则使目标振幅转换 为震颤-锁链 "
                 }
               ]
             }
@@ -651,37 +651,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "강제 징수 집행하겠습니다.",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 3 증가\n[WhenUse] [Vibration] 횟수 4 당 기본 위력 +1 (최대 3)\n[WinDuel] 자신의 [Vibration] 횟수 5를 소모하여, 자신의 [TimeRentalTwo] 횟수 3 증가",
+          "name": "强制征收执行。",
+          "desc": "[WhenUse] 对自身施加3层震颤 \n[WhenUse] 自身每带有4层震颤 ，使本技能的基础威力+1(最多+3)\n[WinDuel] 消耗自身的5层震颤 并使自身获得3层[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1을 소모하여, 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 并对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1을 소모하여, [Vibration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 并对目标施加3层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1을 소모하여, [Vibration] 8 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 并使目标增加8级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수를 2 소모하여, [VibrationExplosion] 후 이 코인 재사용 (최대 1회)"
+                  "desc": "[OnSucceedAttack] 消耗自身的2层震颤 ，使目标震颤引爆 并重复使用本硬币(最多1次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수를 5 소모하여, [TimeAccumulation] 2 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的5层震颤 并对目标施加2层[TimeAccumulation]"
                 }
               ]
             }
@@ -694,8 +694,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "시간 대여",
-          "desc": "[StartBattle] [Vibration] 횟수 4를 소모하여, 자신의 [TimeRentalTwo] 횟수 3 증가\n[StartBattle] 자신의 [Vibration] 횟수 2 증가",
+          "name": "借来的时间",
+          "desc": "[StartBattle] 消耗4层震颤 并使自身获得3层[TimeRentalTwo]\n[StartBattle] 对自身施加2层[Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -713,16 +713,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "징수 준비",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "征收准备",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 이상이면, [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于3层，则使目标增加3级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 [Vibration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttackHead] 对自身施加1层震颤 "
                 }
               ]
             }
@@ -735,23 +735,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T사제 시간 포박기",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "T公司产时间捕捉器",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 소모하여, 다음 턴에 [Paralysis] 2 부여. [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 ，使目标增加2级震颤 强度并在下回合对其施加2层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 소모하여, 다음 턴에 [Paralysis] 2 부여. [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 ，使目标增加2级震颤 强度并在下回合对其施加2层麻痹 "
                 }
               ]
             }
@@ -764,20 +764,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "그대로 멈춰주시죠.",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수가 5 이상이면, 합 위력 +1\n[WhenUse] 자신의 [Vibration] 횟수 2 증가\n[WinDuel] 자신의 [Vibration] 횟수 3을 소모하여, 자신의 [TimeRentalTwo] 횟수 1 증가",
+          "name": "请您驻足。",
+          "desc": "[WhenUse] 若自身的震颤 层数不低于5层，则使本技能的拼点威力+1\n[WhenUse] 对自身施加2层震颤 \n[WinDuel] 消耗自身的3层震颤 并使自身获得1层[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 소모하여, 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的2层震颤 并在下回合对目标施加2层束缚 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 소모하여, 다음 턴에 [ParryingResultDown] 1 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的2层震颤 并在下回合对目标施加2层拼点虚弱 "
                 }
               ]
             }
@@ -790,37 +790,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "강제 징수 집행하겠습니다.",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 3 증가\n[WhenUse] [Vibration] 횟수 4 당 기본 위력 +1 (최대 3)\n[WinDuel] 자신의 [Vibration] 횟수 5를 소모하여, 자신의 [TimeRentalTwo] 횟수 3 증가",
+          "name": "强制征收执行。",
+          "desc": "[WhenUse] 对自身施加3层震颤 \n[WhenUse] 自身每带有4层震颤 ，使本技能的基础威力+1(最多+3)\n[WinDuel] 消耗自身的5层震颤 并使自身获得3层[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1을 소모하여, 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 并对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1을 소모하여, [Vibration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 并对目标施加3层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1을 소모하여, [Vibration] 8 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的1层震颤 并使目标增加8级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수를 2 소모하여, [VibrationExplosion] 후 이 코인 재사용 (최대 1회)"
+                  "desc": "[OnSucceedAttack] 消耗自身的2层震颤 ，使目标震颤引爆 并重复使用本硬币(最多1次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수를 5 소모하여, [TimeAccumulation] 2 부여"
+                  "desc": "[OnSucceedAttack] 消耗自身的5层震颤 并对目标施加2层[TimeAccumulation]"
                 }
               ]
             }
@@ -833,8 +833,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "시간 대여",
-          "desc": "[StartBattle] [Vibration] 횟수 4를 소모하여, 자신의 [TimeRentalTwo] 횟수 3 증가\n[StartBattle] 자신의 [Vibration] 횟수 2 증가",
+          "name": "借来的时间",
+          "desc": "[StartBattle] 消耗4层震颤 并使自身获得3层[TimeRentalTwo]\n[StartBattle] 对自身施加2层[Vibration]",
           "coinlist": [
             {
               "coindescs": [

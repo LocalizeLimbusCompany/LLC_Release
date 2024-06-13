@@ -601,20 +601,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "추리시작",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "推理开始",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttackHead] 对自身施加2层震颤 "
                 }
               ]
             }
@@ -622,20 +622,20 @@
         },
         {
           "level": 2,
-          "name": "추리시작",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+          "name": "推理开始",
+          "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 "
                 }
               ]
             }
@@ -643,20 +643,20 @@
         },
         {
           "level": 4,
-          "name": "추리시작",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n<style=\"highlight\">자신의 [Vibration] 횟수가 6 이상이면, 코인 위력 +1</style>",
+          "name": "推理开始",
+          "desc": "[WhenUse] 对自身施加2层震颤 \n若自身的震颤 层数不低于6层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加2层震颤 "
                 }
               ]
             }
@@ -669,27 +669,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "변형 지팡이 호신술",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 3 증가",
+          "name": "变形拐杖防身术",
+          "desc": "[WhenUse] 对自身施加3层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加3层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]이 9 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 强度不低于9级，则使其震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -697,27 +697,27 @@
         },
         {
           "level": 2,
-          "name": "변형 지팡이 호신술",
-          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Vibration]이 8 이상이면, 합 위력 +1</style>\n[WhenUse] 자신의 [Vibration] 횟수 3 증가\n<style=\"highlight\">자신의 [Vibration] 횟수가 6 이상이면, 코인 위력 +1</style>",
+          "name": "变形拐杖防身术",
+          "desc": "[WhenUse] 若目标的震颤 强度不低于8级，则使本技能的拼点威力+1\n[WhenUse] 对自身施加3层震颤 \n若自身的震颤 层数不低于6层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加3层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]이 <style=\"highlight\">7</style> 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 强度不低于7级，则使其震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -725,27 +725,27 @@
         },
         {
           "level": 4,
-          "name": "변형 지팡이 호신술",
-          "desc": "[WhenUse] 대상의 [Vibration]이 <style=\"highlight\">6</style> 이상이면, 합 위력 +1\n[WhenUse] 자신의 [Vibration] 횟수 3 증가\n자신의 [Vibration] 횟수가 <style=\"highlight\">5</style> 이상이면, 코인 위력 +1",
+          "name": "变形拐杖防身术",
+          "desc": "[WhenUse] 若目标的震颤 强度不低于6级，则使本技能的拼点威力+1\n[WhenUse] 对自身施加3层震颤 \n若自身的震颤 层数不低于5层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Vibration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对自身施加3层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]이 <style=\"highlight\">6</style> 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 强度不低于6级，则使其震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -758,20 +758,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "범인은 당신이군요!",
-          "desc": "[WhenUse] 대상의 [Vibration]이 6 이상이면 합 위력 +1\n[WhenUse] 자신의 [Vibration] 횟수를 10 소모하여 코인 위력 +2",
+          "name": "犯人就是你！",
+          "desc": "[WhenUse] 若目标的震颤 强度不低于6级，则使本技能的拼点威力+1\n[WhenUse] 消耗自身的10层震颤 并使本技能的硬币威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 스킬 사용시 [Vibration] 횟수를 소모했다면, [VibrationEcho]으로 [FusionVibration]"
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了震颤 层数，则使目标振幅纠缠 为震颤-回响 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
@@ -779,7 +779,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- 스킬 사용시 [Vibration] 횟수를 소모하지 못했다면, 위 효과 발동 후 자신에게 [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层\n- 若自身使用技能时未消耗震颤 层数，则上述效果生效后使自身震颤引爆 "
                 }
               ]
             }
@@ -787,34 +787,34 @@
         },
         {
           "level": 4,
-          "name": "범인은 당신이군요!",
-          "desc": "[WhenUse] 대상의 [Vibration] <style=\"highlight\">6당</style> 합 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신의 <style=\"highlight\">[Vibration] 횟수가 15 미만이면,</style> [Vibration] 횟수 10 소모하여 코인 위력 +2\n<style=\"highlight\">[WhenUse] 자신의 [Vibration] 횟수를 15 소모하여 코인 위력 +3</style>",
+          "name": "犯人就是你！",
+          "desc": "[WhenUse] 目标每带有6级震颤 强度，使本技能的拼点威力+1(最多+2)\n[WhenUse] 若自身的震颤 层数低于15层，则消耗10层震颤 并使本技能的硬币威力+2\n[WhenUse] 消耗自身的15层震颤 并使本技能的硬币威力+3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 스킬 사용시 [Vibration] 횟수를 소모했다면, [VibrationEcho]으로 [FusionVibration]"
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了震颤 层数，则使目标振幅纠缠 为震颤-回响 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 스킬 사용시 [Vibration] 횟수를 10 이상 소모했다면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>"
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了不低于10层震颤 ，则使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 스킬 사용시 [Vibration] 횟수를 10 이상 소모했다면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- 소모한 [Vibration] 횟수가 15 미만이면, 위 효과 발동 후 자신에게도 [VibrationExplosion]</style>"
+                  "desc": "[OnSucceedAttack]若本技能使用时消耗了不低于10层震颤 ，则使目标震颤引爆 ，并使其震颤 层数减少1层\n- 若自身消耗的震颤 层数低于15层，则上述效果生效后使自身震颤引爆 "
                 }
               ]
             }
@@ -827,16 +827,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "잠깐만요?!",
-          "desc": "[WhenUse] 대상의 [Vibration] 횟수의 2배만큼 보호막 체력을 얻음 (최대 7)",
+          "name": "等一下？！",
+          "desc": "[WhenUse] 使自身获得(2×目标的震颤 层数)点护盾体力(最多7点)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "잠깐만요?!",
-          "desc": "[WhenUse] 대상의 [Vibration] 횟수의 2배만큼 보호막 체력을 얻음 (최대 <style=\"highlight\">13</style>)",
+          "name": "等一下？！",
+          "desc": "[WhenUse] 使自身获得(2×目标的震颤 层数)点护盾体力(最多13点)",
           "coinlist": [
             {}
           ]
