@@ -15,6 +15,8 @@ $headers = @{
     "accept" = "*/*"
 	}
 Invoke-WebRequest -Uri "https://paratranz.cn/api/projects/6860/artifacts" -Headers $headers -Method Post
+# 预留时间来生成zip，延迟7500ms
+Start-Sleep -m 7500
 $response = Invoke-WebRequest -Uri $url -Headers $headers -Method Get
 [IO.File]::WriteAllBytes("./LocalizeLimbusCompany/Localize/test.zip", $response.Content)
 
