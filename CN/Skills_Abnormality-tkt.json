@@ -227,34 +227,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적출",
-          "desc": "[TimeAcceleration] 상태면, 코인 위력 +1\n[WhenUse] 자신의 체력이 75%미만이면, [OwnTime]을 50소모하여, 합 위력 +2",
+          "name": "截除",
+          "desc": "若自身带有[TimeAcceleration]，则使本技能的硬币威力+1\n[WhenUse] 若现存体力不高于75%，则消耗50层[OwnTime]并使本技能的拼点威力+2(每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -267,20 +267,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "난도질",
-          "desc": "[WhenUse] 자신의 체력이 75%미만이면, [OwnTime]을 75 소모하여, 합 위력 +2\n[BeforeAttack] [TimeAcceleration] 상태면, 공격 가중치 1 증가\n[BeforeAttack] 자신의 체력이 60% 미만이면, [OwnTime]을 10 소모하여, 공격 가중치 1 증가",
+          "name": "碎尸万段",
+          "desc": "[WhenUse] 若现存体力不高于75%，则消耗75层[OwnTime]并使本技能的拼点威力+2\n[BeforeAttack] 若自身带有[TimeAcceleration]，则使本技能的攻击容量+1\n[BeforeAttack] 若现存体力不高于60%，则消耗10层[OwnTime]并使本技能的攻击容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度"
                 }
               ]
             }
@@ -293,8 +293,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "구원할 시간",
-          "desc": "[CantDuel]\n자신에게 공격 스킬을 사용한 대상에게 다음 턴에 [TimeKillerWatch] 부여\n[StartBattle] [OwnTime] 200 소모. 다음 턴에 [TimeAcceleration]을 얻음)",
+          "name": "救援时间",
+          "desc": "[CantDuel]\n对以自身为目标使用攻击技能的单位在下回合施加[TimeKillerWatch]\n[StartBattle] 消耗200层[OwnTime]并在下回合使自身获得[TimeAcceleration]",
           "coinlist": [
             {
               "coindescs": [

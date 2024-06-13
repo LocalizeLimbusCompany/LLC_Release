@@ -764,7 +764,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了震颤 层数，则使目标振幅纠缠 为震颤-回响 "
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了震颤 层数，则使目标以震颤-回响 振幅纠缠 "
                 }
               ]
             },
@@ -793,7 +793,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了震颤 层数，则使目标振幅纠缠 为震颤-回响 "
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了震颤 层数，则使目标以震颤-回响 振幅纠缠 "
                 }
               ]
             },

@@ -5986,7 +5986,7 @@
     },
     {
       "name": "진짜T사대표",
-      "krname": "T사 대표",
+      "krname": "T公司代表",
       "jpname": "",
       "enname": "",
       "fileName": "T_DP",
@@ -6030,7 +6030,7 @@
     },
     {
       "name": "T사4등급",
-      "krname": "T사4등급",
+      "krname": "4级 征收人员",
       "jpname": "",
       "enname": "",
       "fileName": "T_grade4",
@@ -6052,7 +6052,7 @@
     },
     {
       "name": "T사사무직",
-      "krname": "T사사무직",
+      "krname": "二级办公室员工",
       "jpname": "",
       "enname": "",
       "fileName": "T_officer",
@@ -6140,7 +6140,7 @@
     },
     {
       "name": "유로지비멤버1",
-      "krname": "유로지비 멤버",
+      "krname": "准备逃跑的活动成员",
       "jpname": "",
       "enname": "",
       "fileName": "Yurodivy_1",
@@ -6162,7 +6162,7 @@
     },
     {
       "name": "유로지비멤버2",
-      "krname": "유로지비 멤버",
+      "krname": "愤怒的活动成员",
       "jpname": "",
       "enname": "",
       "fileName": "Yurodivy_2",
@@ -6184,7 +6184,7 @@
     },
     {
       "name": "시살동생",
-      "krname": "동생",
+      "krname": "弟弟",
       "jpname": "",
       "enname": "",
       "fileName": "RipperBro",
@@ -6206,7 +6206,7 @@
     },
     {
       "name": "감속더미",
-      "krname": "감속더미",
+      "krname": "减速堆",
       "jpname": "",
       "enname": "",
       "fileName": "Nodong",
@@ -6228,7 +6228,7 @@
     },
     {
       "name": "돈키T3",
-      "krname": "돈키T3",
+      "krname": "堂吉诃德&T公司员工",
       "jpname": "",
       "enname": "",
       "fileName": "DonQuiT3",
@@ -6272,7 +6272,7 @@
     },
     {
       "name": "마이",
-      "krname": "마이",
+      "krname": "麦",
       "jpname": "",
       "enname": "",
       "fileName": "T_newbie",
@@ -6294,7 +6294,7 @@
     },
     {
       "name": "T사2등급",
-      "krname": "T사2등급",
+      "krname": "2级征收人员",
       "jpname": "",
       "enname": "",
       "fileName": "T_grade2",
