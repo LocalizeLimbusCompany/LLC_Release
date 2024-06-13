@@ -14,6 +14,7 @@ $headers = @{
     "Authorization" = "$Authorization"
     "accept" = "*/*"
 	}
+Invoke-WebRequest -Uri "https://paratranz.cn/api/projects/6860/artifacts" -Headers $headers -Method Post
 $response = Invoke-WebRequest -Uri $url -Headers $headers -Method Get
 [IO.File]::WriteAllBytes("./LocalizeLimbusCompany/Localize/test.zip", $response.Content)
 
