@@ -10,15 +10,15 @@
     },
     {
       "id": "tkt_stagebutton_end_event",
-      "content": "活动时间结束"
+      "content": "活动结束"
     },
     {
       "id": "tkt_storybutton_before_start",
-      "content": "<size=75%>阅读活动故事第一话之后开放</size>"
+      "content": "<size=75%>观看活动剧情第1关后开放</size>"
     },
     {
       "id": "tkt_storybutton_normal",
-      "content": "移动到放映室"
+      "content": "跳转至放映室"
     },
     {
       "id": "tkt_rewardShopButton",
@@ -26,7 +26,7 @@
     },
     {
       "id": "tkt_scrap_guide_title",
-      "content": "活动项目介绍"
+      "content": "活动道具介绍"
     },
     {
       "id": "tkt_scrap_guide_desc",
@@ -54,7 +54,7 @@
     },
     {
       "id": "tkt_bonusUI_Desc",
-      "content": "活动期间，编入活动人格以及E.G.O，可以获得更多的怀表<color=#c69136>[怀表]</color>。\n获得量上升的最大值为<color=#c69136>120%</color>"
+      "content": "活动期间，编队内存在下列人格与E.G.O时<color=#c69136>[怀表]</color>获取量提升。\n获取量提升合计最大值为<color=#c69136>120%</color>。"
     },
     {
       "id": "tkt_bonus_popup_title",
