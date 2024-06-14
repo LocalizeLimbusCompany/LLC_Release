@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "你怕了吗？",
-          "desc": "若自身带有[TimeAcceleration]，则使本技能的拼点威力+1\n[DefeatDuel] 若现存体力不高于75%，则消耗[LimitedTime]并使自身获得1层守护 (每回合最多1次)",
+          "desc": "若自身带有[TimeAcceleration]，则使本技能的拼点威力+1\n[DefeatDuel] 若现存体力不高于75%，则消耗50层[LimitedTime]并使自身获得1层守护 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [

@@ -2146,7 +2146,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_04_title_01",
-      "content": "活动加成对象"
+      "content": "活动加成角色"
     },
     {
       "id": "tutorial_mainui_24_miracle_04_desc_01",
@@ -2538,7 +2538,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_04_title_01",
-      "content": "活动加成对象"
+      "content": "活动加成角色"
     },
     {
       "id": "tutorial_mainui_28_tkt_04_desc_01",
@@ -2550,15 +2550,15 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_05_desc_01",
-      "content": "您可以在[奖券兑换处]根据所持有的[怀表]数量兑换多样化奖励。"
+      "content": "在[奖励兑换]窗口中花费持有的[怀表]可获得各种奖励。"
     },
     {
       "id": "tutorial_mainui_28_tkt_06_desc_01",
-      "content": "在[奖券兑换处]中可以获得各类资源及活动限定人格。"
+      "content": "在[奖励兑换]中可以获得各类资源及活动限定人格。"
     },
     {
       "id": "tutorial_mainui_28_tkt_06_desc_02",
-      "content": "此处显示了[奖券兑换处]的奖励领取时间。"
+      "content": "此处显示了[奖励兑换]的奖励领取时间。"
     },
     {
       "id": "tutorial_mainui_28_tkt_07_title_01",
