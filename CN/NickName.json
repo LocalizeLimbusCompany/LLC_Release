@@ -2818,7 +2818,7 @@
     },
     {
       "name": "T사기술청1",
-      "krname": "T公司技术厅1",
+      "krname": "T公司技术局1",
       "jpname": "",
       "enname": "",
       "fileName": "T_Employee1",
@@ -3016,7 +3016,7 @@
     },
     {
       "name": "T사기술청2",
-      "krname": "T公司技术厅2",
+      "krname": "T公司技术局2",
       "jpname": "",
       "enname": "",
       "fileName": "T_Employee2",
@@ -3038,7 +3038,7 @@
     },
     {
       "name": "변신T사기술청",
-      "krname": "变形的T公司技术厅",
+      "krname": "变形的T公司技术局",
       "jpname": "",
       "enname": "",
       "fileName": "T_Employee2_2",
