@@ -6030,7 +6030,7 @@
     },
     {
       "name": "T사4등급",
-      "krname": "4级 征收人员",
+      "krname": "T公司 4级征收人员",
       "jpname": "",
       "enname": "",
       "fileName": "T_grade4",
@@ -6052,7 +6052,7 @@
     },
     {
       "name": "T사사무직",
-      "krname": "2级办公室员工",
+      "krname": "2级 办公室员工",
       "jpname": "",
       "enname": "",
       "fileName": "T_officer",
@@ -6294,7 +6294,7 @@
     },
     {
       "name": "T사2등급",
-      "krname": "2级征收人员",
+      "krname": "T公司 2级征收人员",
       "jpname": "",
       "enname": "",
       "fileName": "T_grade2",
