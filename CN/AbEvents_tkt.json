@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 1051101,
-      "title": "调查整个工厂。",
+      "title": "整体性地调查工厂。",
       "eventDesc": "",
       "prevDesc": "",
       "behaveDesc": "应该命谁帮忙？",
@@ -15,7 +15,7 @@
     },
     {
       "id": 1051102,
-      "title": "仔细调查厂长和员工。",
+      "title": "仔细地调查厂长和员工。",
       "eventDesc": "",
       "prevDesc": "",
       "behaveDesc": "应该命谁帮忙？",
