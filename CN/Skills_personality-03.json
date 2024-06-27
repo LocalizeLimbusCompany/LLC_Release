@@ -872,20 +872,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T사제 가속 절단기",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 3 증가",
+          "name": "T公司产加速切断器",
+          "desc": "[WhenUse] 对自身施加3层震颤 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]을 최대 3 소모\n소모한 [Vibration]만큼 자신의 [Vibration] 횟수 증가"
+                  "desc": "[OnSucceedAttack] 消耗目标至多3级震颤 强度并对自身施加(消耗的震颤 强度)层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 }
               ]
             }
@@ -893,27 +893,27 @@
         },
         {
           "level": 2,
-          "name": "T사제 가속 절단기",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Vibration]이 6 이상이면, 합 위력 +1</style>",
+          "name": "T公司产加速切断器",
+          "desc": "[WhenUse] 对自身施加3层震颤 \n[WhenUse] 若目标的震颤 强度不低于6级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]을 최대 3 소모\n소모한 [Vibration]만큼 자신의 [Vibration] 횟수 증가"
+                  "desc": "[OnSucceedAttack] 消耗目标至多3级震颤 强度并对自身施加(消耗的震颤 强度)层震颤 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 이 스킬의 코인 효과로 대상의 [Vibration]을 소모했다면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>"
+                  "desc": "[OnSucceedAttack] 若本技能的硬币效果消耗了目标的震颤 强度，则使其震颤引爆 并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -921,27 +921,27 @@
         },
         {
           "level": 4,
-          "name": "T사제 가속 절단기",
-          "desc": "[WhenUse] 자신의 [Vibration] 횟수 3 증가\n[WhenUse] 대상의 [Vibration] <style=\"highlight\">6 당 합 위력 +1 (최대 2)</style>",
+          "name": "T公司产加速切断器",
+          "desc": "[WhenUse] 对自身施加3层震颤 \n[WhenUse] 目标每带有6级震颤 强度，使本技能的拼点威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration]을 최대 3 소모\n(소모한 [Vibration]<style=\"highlight\">x2</style>)만큼 자신의 [Vibration] 횟수 증가\n<style=\"highlight\">다음 턴에 (소모한 [Vibration]-1)만큼 [Binding] 부여</style>"
+                  "desc": "[OnSucceedAttack] 消耗目标至多3级震颤 强度并对自身施加(消耗的震颤 强度×2)层震颤 \n下回合对目标施加(消耗的震颤 强度-1)层束缚 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬의 코인 효과로 대상의 [Vibration]을 소모했다면 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若本技能的硬币效果消耗了目标的震颤 强度，则使其震颤引爆 并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -1004,7 +1004,7 @@
                   "desc": "[OnSucceedAttack] 若目标的震颤 强度不低于10级，则消耗其10级震颤 强度并对其施加2层[TimeSuspend]\n- 若自身带有[TimeRentalTwoPersonality]，则本效果不消耗目标的震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标的速度值低于自身，则使目标振幅转换 为[VibrationChainPersonality]"

@@ -1118,19 +1118,19 @@
     },
     {
       "id": "introduce_word_141",
-      "content": "시계"
+      "content": "钟表"
     },
     {
       "id": "introduce_sentence_141",
-      "content": "이 {0}(은/는) T사에 입사하게 되면 지급받는 것일세!"
+      "content": "此{0}乃是只要进入T公司就会发放的！"
     },
     {
       "id": "introduce_word_142",
-      "content": "색"
+      "content": "颜色"
     },
     {
       "id": "introduce_sentence_142",
-      "content": "차라리 아예 {0}(을/를) 모른 채 자랐으면 좋았을 텐데."
+      "content": "要是我从小到大都不知道{0}就好了。"
     }
   ]
 }
