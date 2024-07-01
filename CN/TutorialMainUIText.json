@@ -1070,15 +1070,15 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_12_title_01",
-      "content": "失物招领"
+      "content": "失物招领处"
     },
     {
       "id": "tutorial_mainui_17_railway_page_12_desc_01",
-      "content": "第一次通关关卡时，该关卡的奖励将会记录进失物招领。"
+      "content": "第一次通关关卡时，该关卡的奖励将会记录进失物招领处。"
     },
     {
       "id": "tutorial_mainui_17_railway_page_12_desc_02",
-      "content": "活动期间，初次通关奖励将会累计存放在失物招领。\n初次在失物招领领取奖励，需要消耗一定量的脑啡肽模块。\n在此之后，无须消耗更多脑啡肽模块，可以随时领取奖励。"
+      "content": "活动期间，初次通关奖励将会累计存放在失物招领处。\n初次在失物招领处领取奖励，需要消耗一定量的脑啡肽模块。\n在此之后，无须消耗更多脑啡肽模块，可以随时领取奖励。"
     },
     {
       "id": "tutorial_mainui_17_railway_page_13_title_01",
@@ -1742,7 +1742,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_title_01",
-      "content": "失物招领"
+      "content": "失物招领处"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_desc_01",
@@ -1750,7 +1750,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_desc_02",
-      "content": "为了领取失物招领中的奖励，最初需要支付一定数量的脑啡肽模块。后续领取奖励无需额外消耗脑啡肽模块，并且可以随时获取已激活的奖励。"
+      "content": "为了领取失物招领处中的奖励，最初需要支付一定数量的脑啡肽模块。后续领取奖励无需额外消耗脑啡肽模块，并且可以随时获取已激活的奖励。"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_21_title_01",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_15_title_01",
-      "content": "失物招领"
+      "content": "失物招领处"
     },
     {
       "id": "tutorial_mainui_railway3_page_15_desc_01",
@@ -2418,7 +2418,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_15_desc_02",
-      "content": "第一次通过失物招领领取奖励时，需要使用特定数量的脑啡肽模块。而之后再领取奖励将不再需要消耗脑啡肽模块。"
+      "content": "第一次通过失物招领处领取奖励时，需要使用特定数量的脑啡肽模块。而之后再领取奖励将不再需要消耗脑啡肽模块。"
     },
     {
       "id": "tutorial_mainui_railway3_page_16_title_01",
