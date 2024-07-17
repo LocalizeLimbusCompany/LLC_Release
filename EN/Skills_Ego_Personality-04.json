@@ -1,0 +1,355 @@
+{
+  "dataList": [
+    {
+      "id": 2040511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                },
+                {
+                  "desc": "[EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                },
+                {
+                  "desc": "[EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                },
+                {
+                  "desc": "[EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nTargets randomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                },
+                {
+                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nTargets randomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                },
+                {
+                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nTargets randomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                },
+                {
+                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>., apply 1 Haste next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Gain 4 Poise",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gain +2 Charge Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Gain 4 Poise\n[EndSkill] Gain 2 Poise for every unit defeated by this Skill",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gain +2 Charge Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Gain 4 Poise\n[EndSkill] Gain 2 Poise for every unit defeated by this Skill",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 Charge Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gain +2 Charge Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume 2 Charge Count to gain 1 Poise (Max 10)\n[EndSkill] Gain +4 Charge Count for every unit defeated by this Skill",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume 2 Charge Count to gain 1 Poise (Max 10)\n[EndSkill] Gain +4 Charge Count for every unit defeated by this Skill",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume 2 Charge Count to gain 1 Poise (Max 10)\n[EndSkill] Gain +4 Charge Count for every unit defeated by this Skill",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] At 10+ [Breath], gain +30% Critical Damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max 2)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Evenly inflict 10 [Laceration] between all targets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">4</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Evenly inflict <style=\"highlight\">15</style> [Laceration] between all targets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] <style=\"highlight\">this turn and next turn</style> (max 7)\n<style=\"highlight\">[EndSkill] If this Skill was part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Evenly inflict 15 [Laceration] between all targets<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict (1 + (highest Reson. x 1.5)) [Laceration] (max 10, rounded down)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(3 + (highest Reson. x 2))</style> [Laceration] (max <style=\"highlight\">15</style>, rounded down)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this Skill was a part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max <style=\"highlight\">60%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(10 + (highest Reson. x 2.5))</style> [Laceration] (max <style=\"highlight\">25</style>, rounded down)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">5</style> [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
