@@ -1,0 +1,164 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "造成的伤害{0}%",
+      "variation": "造成的{0}伤害{1}%"
+    },
+    {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "造成/受到的伤害{0}%",
+      "variation": "受到及造成的{0}属性技能伤害 {1}%"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "命中时对目标施加{0}{1}"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "体力上限{0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "行动槽容量 {0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "攻击等级{0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "防御等级{0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "若一回合内未受到伤害，则下回合攻击等级{0}\n(护盾受到的伤害不计入)"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "最大速度值{0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "最大速度值{0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "最小速度值{0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "通过技能效果获得的体力恢复量{0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "恢复造成伤害{0}%的体力"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "罪人使用E.G.O技能时需要的罪孽碎片的数量{0}"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "体力上限{0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "攻击等级{0}，防御等级{0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "回合开始时使全体友方单位获得{1}级{0} 强度，并施加{2}层{0} ",
+      "variation": "回合开始时使全体友方单位增加{1}级{0} 强度",
+      "variation2": "回合开始时使全体友方单位获得{1} 层 {0} "
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "回合开始时使全体友方单位增加{1}级{0} 强度，额外使带有{0}状态的友方单位获得{2}层{0} "
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "回合开始时使全体敌方单位增加{1}级{0} 强度，额外对带有{0}状态的敌方单位施加{2}层{0} "
+    },
+    {
+      "id": "LoseTurnOnRoundEnd",
+      "desc": "回合结束时，失去{0}层"
+    },
+    {
+      "id": "Vibration",
+      "desc": "在{1}回合内，受到造成震颤引爆 的攻击时，混乱阈值前移{0}。"
+    },
+    {
+      "id": "DefAdderByStackCeilToInt",
+      "desc": "每带有4级震颤 强度，使自身降低1级防御等级"
+    },
+    {
+      "id": "Crack",
+      "desc": "若处于混乱时，自身的震颤 强度与层数之和不低于20，使自身的混乱阶段加深1层\n该效果不能超过最大混乱阶段"
+    },
+    {
+      "id": "VibrationEcho",
+      "desc": "在{1}回合内，受到造成震颤引爆 的攻击时，受到{0}点怠惰伤害。"
+    },
+    {
+      "id": "VibrationDistribution",
+      "desc": "- 回合结束时，下回合使自身获得(全体友方单位震颤-分配 层数之和/带有震颤-分配 的友方单位数)层攻击等级提升 (最多5层)"
+    },
+    {
+      "id": "VibrationChain",
+      "desc": "- 每带有10级震颤 强度，使自身的拼点威力-1(最多-3)"
+    },
+    {
+      "id": "VibrationContinue",
+      "desc": "通过自身的技能或硬币效果造成震颤引爆时，以{0}%概率额外造成1次震颤引爆 。(最高50%)\n- 通过自身的技能或硬币效果造成震颤引爆时，以{1}%概率额外造成1次震颤引爆 。(最高50%)"
+    },
+    {
+      "id": "TimeSuspend",
+      "desc": "效果触发时，自身受到{3}点怠惰伤害并使自身震颤引爆 {0}次"
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "时间租赁",
+      "desc": " 下回合使自身获得{1}层迅捷 、拼点威力提升 并对自身施加易损 \n若本效果的层数为1层，则改为下回合对自身施加{0}层束缚",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "震颤-锁链",
+      "desc": "- 每带有10级震颤 强度，使自身的拼点威力-1(最多-3)",
+      "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "守备技能的最终威力 {0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "受到的伤害 {0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "拼点威力 {0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "最终威力 {0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "基础威力 {0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "加算技能硬币威力 {0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "减算技能硬币威力 {0}"
+    },
+    {
+      "id": "DefaultMaxHpMultiplier",
+      "desc": "体力上限{0}%"
+    }
+  ]
+}

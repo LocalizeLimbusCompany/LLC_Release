@@ -1,0 +1,164 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "与ダメージ量 {0}%",
+      "variation": "{0} 与ダメージ量 {1}%"
+    },
+    {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "与・被ダメージ量 {0}%",
+      "variation": "{0}属性スキルの与・被ダメージ量 {1}%"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "的中時{0} {1}付与"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "最大体力 {0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "スロット加重値 {0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "攻撃レベル {0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "防御レベル {0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "1ターンの間、体力ダメージを受けなければ次のターンに攻撃レベル {0}\n(バリアのダメージは該当しない)"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "速度最大値 {0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "速度最大値 {0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "速度最小値 {0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "スキル効果による体力回復量 {0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "与ダメージの{0}%体力を回復"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "囚人がE.G.Oスキル使用時に消耗するE.G.O資源の数量 {0}"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "最大体力 {0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "攻撃レベル {0}, 防御レベル {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "ターン開始時に味方全体へ{0} {1}, {0} 回数を{2}付与",
+      "variation": "ターン開始時に味方全体へ{0} {1}を付与",
+      "variation2": "ターン開始時に味方全体へ{0} 回数を{1}付与"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "ターン開始時に味方全体へ{0} {1}を付与、{0}状態の味方には{0} 回数を追加で{2}付与"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "ターン開始時に敵全体へ{0} {1}を付与、{0}状態の敵には{0} 回数を追加で{2}付与"
+    },
+    {
+      "id": "LoseTurnOnRoundEnd",
+      "desc": "ターン終了時に回数が{0}減少"
+    },
+    {
+      "id": "Vibration",
+      "desc": "{1}ターンの間、振動爆発スキルで被ダメージ時に混乱区間が{0}前進"
+    },
+    {
+      "id": "DefAdderByStackCeilToInt",
+      "desc": "振動威力4につき、防御レベルが1減少"
+    },
+    {
+      "id": "Crack",
+      "desc": "- 混乱状態になったとき、自分の振動威力とマッチ回数の合計が20以上なら、混乱段階を1増加\n- 該当効果によって最大混乱段階を超過することはない"
+    },
+    {
+      "id": "VibrationEcho",
+      "desc": "{1}ターンの間、振動爆発時に{0}だけ怠惰ダメージを受ける"
+    },
+    {
+      "id": "VibrationDistribution",
+      "desc": "ターン終了時、(味方全体の振動 - 分配回数の合計 ÷ (人員数(振動 - 分配を持つ味方数))だけ次のターンに攻撃レベル増加を得る(最大5)"
+    },
+    {
+      "id": "VibrationChain",
+      "desc": "対象の振動威力10につき、マッチ威力が1減少(最大3)"
+    },
+    {
+      "id": "VibrationContinue",
+      "desc": "スキル・コイン効果で振動爆発時、{0}%の確率で自分の振動爆発が1回追加で発動(最大50%)\n- スキル・コイン効果で振動爆発時、{1}%の確率で自分の振動爆発が1回追加で発動(最大50%)"
+    },
+    {
+      "id": "TimeSuspend",
+      "desc": "効果発動時、{3}分の怠惰ダメージを与えて振動爆発を{0}回発動"
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "時間貸与",
+      "desc": "ターン終了時に次のターンにてクイック、マッチ威力増加、脆弱を{1}得る\n回数が1なら、ターン終了時この効果の代わりに次のターンにて束縛{0}を得る",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "振動 - 鎖",
+      "desc": "振動威力10につき、マッチ威力が1減少(最大3)",
+      "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "守備スキル最終威力{0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "被ダメージ量{0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "マッチ威力{0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "最終威力{0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "基本威力{0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "加算コイン威力{0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "減算コイン威力{0}"
+    },
+    {
+      "id": "DefaultMaxHpMultiplier",
+      "desc": "最大体力 {0}%"
+    }
+  ]
+}

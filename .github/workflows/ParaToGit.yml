@@ -1,0 +1,38 @@
+name: ParaToGit
+
+on:
+  schedule:
+    - cron:  '0 4,16 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+         path: LocalizeLimbusCompany/Localize
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+         repository: 'LocalizeLimbusCompany/LocalizeLimbusCompany'
+         path: Temp
+         token: ${{ secrets.ROOT }}
+    - name: Run build script
+      id: check_error
+      run: |
+        Copy-Item -Path Temp/Localize LocalizeLimbusCompany -Force -Recurse
+        ./LocalizeLimbusCompany/Localize/Download.ps1 ${{ secrets.PARATRANZ_ROOT }} ${{ secrets.SERVER_AUTH }}
+    - name: Upload Error.txt to artifact
+      if: steps.check_error.outputs.has_error == 'true'
+      uses: actions/upload-artifact@v4
+      with:
+        name: error-log
+        path: ./LocalizeLimbusCompany/Localize/Error.txt
+    - name: Cancel workflow if Error.txt exists
+      if: steps.check_error.outputs.has_error == 'true'
+      run: |
+        echo "Error detected, cancelling workflow"
+        echo ${{  steps.check_error.outputs.error  }}
+        exit 1

@@ -1,0 +1,164 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "가하는 피해량 {0}%",
+      "variation": "가하는 {0} 피해량 {1}%"
+    },
+    {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "가하는 / 받는 피해량 {0}%",
+      "variation": "{0} 속성 스킬로 가하는 / 받는 피해량 {1}%"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "적중 시 {0} {1} 부여"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "최대 체력 {0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "슬롯 가중치 {0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "공격 레벨 {0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "방어 레벨 {0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "한 턴 동안 체력 피해를 받지 않았다면 다음 턴에 공격 레벨 {0}\n(보호막 피해는 해당되지 않음)"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "속도 최댓값 {0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "속도 최댓값 {0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "속도 최솟값 {0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "스킬 효과를 통한 체력 회복량 {0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "가한 피해량의 {0}%만큼 체력 회복"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "수감자가 E.G.O 스킬을 사용할 때 소모하는 E.G.O 자원 수량 {0}"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "최대 체력 {0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "공격 레벨 {0}, 방어 레벨 {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "턴 시작 시 아군 전체에게 {0} {1}, {0} 횟수 {2} 부여",
+      "variation": "턴 시작 시 아군 전체에게 {0} {1} 부여",
+      "variation2": "턴 시작 시 아군 전체에게 {0} 횟수 {1} 부여"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "턴 시작 시 아군 전체에게 {0} {1} 부여, {0} 상태인 아군에게는 {0} 횟수 {2} 추가로 부여"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "턴 시작 시 적 전체에게 {0} {1} 부여, {0} 상태인 적에게는 {0} 횟수 {2} 추가로 부여"
+    },
+    {
+      "id": "LoseTurnOnRoundEnd",
+      "desc": "턴 종료 시 횟수 {0} 감소"
+    },
+    {
+      "id": "Vibration",
+      "desc": "{1}턴 동안 진동 폭발 스킬로 피격 시 {0}만큼 흐트러짐 손상"
+    },
+    {
+      "id": "DefAdderByStackCeilToInt",
+      "desc": "진동 위력 4 당 방어 레벨 1 감소"
+    },
+    {
+      "id": "Crack",
+      "desc": "흐트러짐 상태가 되었을 때, 자신의 진동 위력과 횟수의 합이 20 이상이면, 흐트러짐 단계 1 증가\n해당 효과로 최대 흐트러짐 단계를 초과할 수 없음"
+    },
+    {
+      "id": "VibrationEcho",
+      "desc": "{1} 턴 동안 진동 폭발 시 {0}만큼 나태 피해를 입음."
+    },
+    {
+      "id": "VibrationDistribution",
+      "desc": "턴 종료 시 (아군 전체의 진동 - 분배 횟수의 합 / (인원 수(진동 - 분배가 있는 아군 수))만큼 다음 턴에 공격 레벨 증가를 얻음 (최대 5)"
+    },
+    {
+      "id": "VibrationChain",
+      "desc": "대상의 진동 위력 10 당 합 위력 1 감소 (최대 3)"
+    },
+    {
+      "id": "VibrationContinue",
+      "desc": "스킬, 코인 효과로 진동 폭발 시 자신의 {0}% 확률로 진동 폭발 1회 추가 발동. (최대 50%)\n- 스킬, 코인 효과로 진동 폭발 시 자신의 {1}% 확률로 진동 폭발 1회 추가 발동. (최대 50%)"
+    },
+    {
+      "id": "TimeSuspend",
+      "desc": "효과 발동 시 {3}만큼 나태 피해를 입히고 진동 폭발 {0}회 발동"
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "시간 대여",
+      "desc": "턴 종료시 다음 턴에 신속, 합 위력 증가, 취약 {1} 만큼 얻음\n횟수가 1이면, 턴 종료시 효과를 대신하여 다음 턴에 속박 {0} 얻음",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "진동 - 사슬",
+      "desc": "진동 위력 10 당 합 위력 1 감소 (최대 3)",
+      "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "수비 스킬 최종 위력 {0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "받는 피해량 {0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "합 위력 {0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "최종 위력 {0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "기본 위력 {0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "더하기 코인 위력 {0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "빼기 코인 위력 {0}"
+    },
+    {
+      "id": "DefaultMaxHpMultiplier",
+      "desc": "최대 체력 {0}%"
+    }
+  ]
+}
