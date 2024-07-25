@@ -329,7 +329,7 @@
                   "desc": "[CriticalOnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[CriticalTargetKilll] 若自身带有弹药 ，则使自身获得1发弹药 (每场战斗最多3发)"
+                  "desc": "[CriticalTargetKill] 若自身带有弹药 ，则使自身获得1发弹药 (每场战斗最多3发)"
                 }
               ]
             }
