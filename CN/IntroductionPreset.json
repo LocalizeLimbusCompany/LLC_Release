@@ -1150,11 +1150,11 @@
     },
     {
       "id": "introduce_word_145",
-      "content": "整理"
+      "content": "清扫"
     },
     {
       "id": "introduce_sentence_145",
-      "content": "{0}(이/가) 예상보다 일찍 끝났군."
+      "content": "{0}结束得比预想的还要快。"
     },
     {
       "id": "introduce_word_146",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "introduce_sentence_146",
-      "content": "총성과 연기에… 모든 {0}(이/가) 파묻힐 때까지…!"
+      "content": "直到枪声和烟雾……将把一切{0}埋葬为止……！"
     }
   ]
 }

@@ -323,27 +323,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전기울음",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 4당 가중치 +1 (최대 5)\n[WhenUse] 자신의 [Charge] 횟수 5당 합 위력 +3 (최대 4)\n[WhenUse] 자신의 [Charge] 횟수 6당 [VioletDamageUp] 1 얻음 (최대 3)\n[EndBattle] 모든 [Charge] 횟수 소모. [ConnectedPlug] 제거",
+          "name": "电子哀鸣",
+          "desc": "[WhenUse] 自身每带有4层充能 ，使本技能的攻击容量+1(最多+5)\n[WhenUse] 自身每带有5层充能 ，使本技能的拼点威力+3(最多+4)\n[WhenUse] 自身每带有6层充能 ，使自身获得1层嫉妒伤害强化 (最多3层)\n[EndBattle] 消耗自身所有充能 层数并解除[ConnectedPlug]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackDown] 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层攻击等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
                 }
               ]
             }

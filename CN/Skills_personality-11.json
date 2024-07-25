@@ -1017,14 +1017,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "파동",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수가 4 이상이면, 합 위력 +1\n[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "脉冲轰炸",
+          "desc": "[WhenUse] 若自身的充能 层数不低于4层，则使本技能的拼点威力+1\n[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层充能 "
                 }
               ]
             }
@@ -1032,14 +1032,14 @@
         },
         {
           "level": 2,
-          "name": "파동",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수가 4 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [Charge] 횟수가 6 이상이면, 합 위력 +1\n[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "脉冲轰炸",
+          "desc": "[WhenUse] 若自身的充能 层数不低于4层，则使本技能的基础威力+1\n[WhenUse] 若自身的充能 层数不低于6层，则使本技能的拼点威力+1\n[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层充能 "
                 }
               ]
             }
@@ -1047,14 +1047,14 @@
         },
         {
           "level": 4,
-          "name": "파동",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수가 4 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [Charge] 횟수 5 당, 합 위력 +1 (최대 2)\n[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "脉冲轰炸",
+          "desc": "[WhenUse] 若自身的充能 层数不低于4层，则使本技能的基础威力+1\n[WhenUse] 自身每带有5层充能 ，使本技能的拼点威力+1(最多+2)\n[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 }
               ]
             }
@@ -1067,23 +1067,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "충전 도약",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수를 6 소모하여, 기본 위력 +1\n[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "充能腾跃",
+          "desc": "[WhenUse] 消耗自身的6层充能 并使本技能的基础威力+1\n[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层充能 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 }
               ]
             }
@@ -1091,26 +1091,26 @@
         },
         {
           "level": 2,
-          "name": "충전 도약",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수를 6 소모하여, 기본 위력 +1\n- [Charge] 횟수를 소모했다면, 자신과 [Charge] 횟수를 가장 적게 보유한 아군 2명에게 [ChargeForceField]을 ([Charge] + 1) 부여 (최대 7, 턴 당 최대 1회 발동)\n[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "充能腾跃",
+          "desc": "[WhenUse] 消耗自身的6层充能 并使本技能的基础威力+1\n- 若自身消耗了充能 层数，则使自身与除自身以外充能 层数最低的2名友方单位获得(自身的充能 强度+1)层充能力场 (最多7层，每回合最多1次)\n[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得1层充能 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 이 스킬 사용 시 [Charge] 횟수를 소모하였다면, 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 若本技能使用时消耗了充能 层数，则下回合对目标施加2层束缚 "
                 }
               ]
             }
@@ -1118,26 +1118,26 @@
         },
         {
           "level": 4,
-          "name": "충전 도약",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수를 6 소모하여, 코인 위력 +1\n- [Charge] 횟수를 소모했다면, 자신과 [Charge] 횟수를 가장 적게 보유한 아군 2명에게 [ChargeForceField]을 ([Charge] + <style=\"highlight\">2</style>) 부여 (최대 <style=\"highlight\">8</style>, 턴 당 최대 <style=\"highlight\">2</style>회 발동)\n[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "充能腾跃",
+          "desc": "[WhenUse] 消耗自身的6层充能 并使本技能的硬币威力+1\n- 若自身消耗了充能 层数，则使自身与除自身以外充能 层数最低的2名友方单位获得(自身的充能 强度+2)层充能力场 (最多8层，每回合最多2次)\n[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬 사용 시 [Charge] 횟수를 소모하였다면, 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了充能 层数，则下回合对目标施加2层束缚 "
                 }
               ]
             }
@@ -1150,31 +1150,31 @@
       "levelList": [
         {
           "level": 3,
-          "name": "차원 절단",
-          "desc": "[StartBattle] 자신과 [Charge]을 보유한 아군 (최대 공명 수)명에게 [ChargeLoad]를 [Charge]만큼 부여\n(최대 부여 대상 수: 자신 제외 5명)\n[WhenUse] [Charge]이 2이상이고 [Charge] 횟수가 7 이상, 15 미만이면, 보유한 [Charge] 횟수를 전부 소모하여 코인 위력 + 1\n[WhenUse] [Charge] 횟수를 15 소모하여 코인 위력 +1",
+          "name": "次元撕裂",
+          "desc": "[StartBattle] 根据自身带有的充能 强度，使自身与(最大共鸣数)名带有充能 的友方单位获得相应层数的负荷 \n(最多5名其他友方单位)\n[WhenUse] 若自身的充能 强度不低于2级，且自身的充能 层数在7~14层之间，则消耗自身所有充能 层数并使本技能的硬币威力+1\n[WhenUse] 消耗15层充能 并使本技能的硬币威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬 사용 시 [Charge] 횟수를 15 소모하였으면, [Burst] 2 부여"
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了15层充能 ，则使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] (5 - [Charge])만큼 자신의 [Charge] 횟수 증가 (최소 0)"
+                  "desc": "[OnSucceedAttack] 使自身获得(5-自身的充能 强度)层充能 (最少0层)"
                 }
               ]
             }
@@ -1182,37 +1182,37 @@
         },
         {
           "level": 4,
-          "name": "차원 절단",
-          "desc": "[StartBattle] 자신과 [Charge]을 보유한 아군 (최대 공명 수)명에게 [ChargeLoad]를 [Charge]만큼 부여\n(최대 부여 대상 수: 자신 제외 5명)\n[WhenUse] [Charge]이 2이상이고 [Charge] 횟수가 7 이상, 15 미만이면, 보유한 [Charge] 횟수를 전부 소모하여 코인 위력 + 2\n[WhenUse] [Charge] 횟수를 15 소모하여 코인 위력 +2",
+          "name": "次元撕裂",
+          "desc": "[StartBattle] 根据自身带有的充能 强度，使自身与(最大共鸣数)名带有充能 的友方单位获得相应层数的负荷 \n(最多5名其他友方单位)\n[WhenUse] 若自身的充能 强度不低于2级，且自身的充能 层数在7~14层之间，则消耗自身所有充能 层数并使本技能的硬币威力+2\n[WhenUse] 消耗15层充能 并使本技能的硬币威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬 사용 시 [Charge] 횟수를 15 소모하였으면, [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 若本技能使用时消耗了15层充能 ，则使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] (5 - [Charge])만큼 자신의 [Charge] 횟수 증가 (최소 0)"
+                  "desc": "[OnSucceedAttack] 使自身获得(5-自身的充能 强度)层充能 (最少0层)"
                 }
               ]
             }
@@ -1225,8 +1225,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "플라즈마 전개",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 2당 기본 위력 +1 (최대 5)\n[WhenUse] 자신의 [Charge] 횟수 2 증가 (턴 당 최대 2회)",
+          "name": "等离子场展开",
+          "desc": "[WhenUse] 自身每带有2层充能 ，使本技能的基础威力+1(最多+5)\n[WhenUse] 使自身获得2层充能 (每回合最多2次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1239,8 +1239,8 @@
         },
         {
           "level": 4,
-          "name": "플라즈마 전개",
-          "desc": "[WhenUse] 자신의 [Charge] <style=\"highlight\">횟수당</style> 기본 위력 +1 (최대 <style=\"highlight\">10</style>)\n[WhenUse] 자신의 [Charge] 횟수 2 증가 (턴 당 최대 <style=\"highlight\">3</style>회)",
+          "name": "等离子场展开",
+          "desc": "[WhenUse] 自身每带有1层充能 ，使本技能的基础威力+1(最多+10)\n[WhenUse] 使自身获得2层充能 (每回合最多3次)",
           "coinlist": [
             {
               "coindescs": [

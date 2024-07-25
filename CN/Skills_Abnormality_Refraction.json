@@ -225,13 +225,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전입 신고 처리",
-          "desc": "[WhenUse] 충전 횟수 전부 소모",
+          "name": "处理小镇移居申请",
+          "desc": "[WhenUse] 消耗所有充能 层数",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 구속 부여."
+                  "desc": "[OnSucceedAttack] 对目标施加禁锢 "
                 }
               ]
             }

@@ -262,24 +262,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "흉탄",
-          "abName": "흉탄의 사수",
-          "desc": "[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2)만큼 얻음\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 3)\n[EndSkill] [BoseProjektil] 전부 소모",
+          "name": "凶弹",
+          "abName": "凶弹射手",
+          "desc": "[BeforeAttack] 使自身获得(最大共鸣数+1)层被撕裂的回忆 (最多7层)\n- 若该共鸣为完全共鸣，则改为获得(最大共鸣数+2)层被撕裂的回忆 \n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使自身增加1级呼吸法 强度(最多3级)\n[EndSkill] 消耗所有被撕裂的回忆 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[BoseProjektil]당 크리티컬 피해량 +5% (최대 35%)"
+                  "desc": "自身每带有1层被撕裂的回忆 ，使本硬币暴击时造成的伤害+5%(最多+35%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [Sinking] 3 부여"
+                  "desc": "[CriticalOnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[CriticalTargetKill] 자신에게 [Bullet] 효과가 있으면, [Bullet] 1 얻음 (전투 당 2회)"
+                  "desc": "[CriticalTargetKill] 若自身带有弹药 ，则使自身获得1发弹药 (每场战斗最多2发)"
                 }
               ]
             }
@@ -287,24 +287,24 @@
         },
         {
           "level": 3,
-          "name": "흉탄",
-          "abName": "흉탄의 사수",
-          "desc": "[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2)만큼 얻음\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 <style=\"highlight\">4</style>)\n[EndSkill] [BoseProjektil] 전부 소모",
+          "name": "凶弹",
+          "abName": "凶弹射手",
+          "desc": "[BeforeAttack] 使自身获得(最大共鸣数+1)层被撕裂的回忆 (最多7层)\n- 若该共鸣为完全共鸣，则改为获得(最大共鸣数+2)层被撕裂的回忆 \n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使自身增加1级呼吸法 强度(最多4级)\n[EndSkill] 消耗所有被撕裂的回忆 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[BoseProjektil]당 크리티컬 피해량 +<style=\"highlight\">10</style>% (최대 <style=\"highlight\">70</style>%)"
+                  "desc": "使本硬币暴击时造成的伤害+10%(最多+70%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [Sinking] 3 부여"
+                  "desc": "[CriticalOnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[CriticalTargetKill] 자신에게 [Bullet] 효과가 있으면, [Bullet] 1 얻음 (전투 당 2회)"
+                  "desc": "[CriticalTargetKill] 若自身带有弹药 ，则使自身获得1发弹药 (每场战斗最多2发)"
                 }
               ]
             }
@@ -312,24 +312,24 @@
         },
         {
           "level": 4,
-          "name": "흉탄",
-          "abName": "흉탄의 사수",
-          "desc": "[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2)만큼 얻음\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 <style=\"highlight\">7</style>)\n[BeforeAttack] 자신의 [Breath] 횟수 1 증가\n[EndSkill] [BoseProjektil] 전부 소모",
+          "name": "凶弹",
+          "abName": "凶弹射手",
+          "desc": "[BeforeAttack] 使自身获得(最大共鸣数+1)层被撕裂的回忆 (最多7层)\n- 若该共鸣为完全共鸣，则改为获得(最大共鸣数+2)层被撕裂的回忆 \n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使自身增加1级呼吸法 强度(最多7级)\n[BeforeAttack] 使自身获得1层呼吸法 \n[EndSkill] 消耗所有被撕裂的回忆 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[BoseProjektil]당 크리티컬 피해량 +<style=\"highlight\">15</style>% (최대 <style=\"highlight\">105</style>%)"
+                  "desc": "使本硬币暴击时造成的伤害+15%(最多+105%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [Sinking] 3 부여"
+                  "desc": "[CriticalOnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[CriticalTargetKill] 자신에게 [Bullet] 효과가 있으면, [Bullet] 1 얻음 (전투 당 3회)"
+                  "desc": "[CriticalTargetKilll] 若自身带有弹药 ，则使自身获得1发弹药 (每场战斗最多3发)"
                 }
               ]
             }
@@ -342,14 +342,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "흉탄",
-          "abName": "흉탄의 사수",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2) 만큼 얻음\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 호흡 1 얻음 (최대 3)\n[BeforeAttack] 자신의 [Breath] 5당 피해량 +3% (최대 15%)\n[BeforeAttack] 자신의 [Breath] 5 소모\n[EndSkill] [BoseProjektil] 전부 소모",
+          "name": "凶弹",
+          "abName": "凶弹射手",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使自身获得(最大共鸣数+1)层被撕裂的回忆 (最多7层)\n- 若该共鸣为完全共鸣，则改为获得(最大共鸣数+2)层被撕裂的回忆 \n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使本技能造成的伤害+2%(最多+14%)\n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使自身增加1级呼吸法 强度(最多3级)\n[BeforeAttack] 自身每带有5级呼吸法 强度，使本技能造成的伤害+3%(最多+15%)\n[BeforeAttack] 消耗自身的5级呼吸法 强度\n[EndSkill] 消耗所有被撕裂的回忆 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2, [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度与2级沉沦 强度 "
                 }
               ]
             }
@@ -357,14 +357,14 @@
         },
         {
           "level": 3,
-          "name": "흉탄",
-          "abName": "흉탄의 사수",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2) 만큼 얻음\n<style=\"highlight\">[BeforeAttack] [BoseProjektil]이 3 이상이면, 공격 가중치 1 증가</style>\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 호흡 1 얻음 (최대 <style=\"highlight\">4</style>)\n[BeforeAttack] 자신의 [Breath] 5당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">20</style>%)\n[BeforeAttack] 자신의 [Breath] 5 소모\n[EndSkill] [BoseProjektil] 전부 소모",
+          "name": "凶弹",
+          "abName": "凶弹射手",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使自身获得(最大共鸣数+1)层被撕裂的回忆 (最多7层)\n- 若该共鸣为完全共鸣，则改为获得(最大共鸣数+2)层被撕裂的回忆 \n[BeforeAttack] 若自身的被撕裂的回忆 不低于3层，则使本技能的攻击容量+1\n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使本技能造成的伤害+2%(最多+14%)\n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使自身增加1级呼吸法 强度(最多4级)\n[BeforeAttack] 自身每带有5级呼吸法 强度，使本技能造成的伤害+4%(最多+20%)\n[BeforeAttack] 消耗自身的5级呼吸法 强度\n[EndSkill] 消耗所有被撕裂的回忆 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3, [Sinking] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度与3级沉沦 强度"
                 }
               ]
             }
@@ -372,14 +372,14 @@
         },
         {
           "level": 4,
-          "name": "흉탄",
-          "abName": "흉탄의 사수",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2) 만큼 얻음\n[BeforeAttack] [BoseProjektil] <style=\"highlight\">3당</style> 공격 가중치 1 증가 <style=\"highlight\">(최대 2)</style>\n[BeforeAttack] [BoseProjektil]당 피해량 +<style=\"highlight\">3</style>% (최대 <style=\"highlight\">21</style>%)\n[BeforeAttack] [BoseProjektil]당 호흡 1 얻음 (최대 <style=\"highlight\">7</style>)\n[BeforeAttack] 자신의 [Breath] 5당 피해량 +<style=\"highlight\">5</style>% (최대 <style=\"highlight\">25</style>%)\n[BeforeAttack] 자신의 [Breath] 5 소모\n[EndSkill] [BoseProjektil] 전부 소모",
+          "name": "凶弹",
+          "abName": "凶弹射手",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使自身获得(最大共鸣数+1)层被撕裂的回忆 (最多7层)\n- 若该共鸣为完全共鸣，则改为获得(最大共鸣数+2)层被撕裂的回忆 \n[BeforeAttack] 自身每带有3层被撕裂的回忆 ，使本技能的攻击容量+1(最多+2)\n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使本技能造成的伤害+3%(最多+21%)\n[BeforeAttack] 自身每带有1层被撕裂的回忆 ，使自身增加1级呼吸法 强度(最多7级)\n[BeforeAttack] 自身每带有5级呼吸法 强度，使本技能造成的伤害+5%(最多+25%)\n[BeforeAttack] 消耗自身的5级呼吸法 强度\n[EndSkill] 消耗所有被撕裂的回忆 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3, [Sinking] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度与3级沉沦 强度"
                 }
               ]
             }
