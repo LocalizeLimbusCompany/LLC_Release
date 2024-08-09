@@ -150,7 +150,7 @@
     },
     {
       "id": "Choice_90100201",
-      "content": "<color=#ebcaa2>판정에 실패한 수감자</color> <color=#e30000>12만큼 체력</color> <color=#ebcaa2>피해</color>, <color=#fe4b48>8만큼 정신력</color> <color=#ebcaa2>피해!</color>"
+      "content": "<color=#ebcaa2>判定失败的罪人失去</color> <color=#e30000>12点体力</color><color=#ebcaa2>及</color><color=#fe4b48>8点理智值</color><color=#ebcaa2>！</color>"
     },
     {
       "id": "Choice_90100502",
@@ -426,7 +426,7 @@
     },
     {
       "id": "Choice_EGO971029",
-      "content": "전투 승리 시, E.G.O 기프트 \"E식 차원 단검\", \"휴대용 역장 배터리\" 획득"
+      "content": "战斗胜利后，获得E.G.O饰品“E式次元短剑”、“便携式力场电池”"
     }
   ]
 }

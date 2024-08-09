@@ -529,19 +529,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "불청객 잡이",
-          "desc": "[AaCfPcBc]이 있는 대상 우선 공격\n[DefeatDuel] 대상이 [AaCfPcBc]을 가지고 있다면, [AaCfPcBc] 소멸",
+          "name": "拘捕不速之客",
+          "desc": "优先指定带有[AaCfPcBc]的目标\n[DefeatDuel] 若目标带有[AaCfPcBc]，则解除其[AaCfPcBc]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 6 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加6层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 속도보다 3이상 빠르면, 이 코인 재사용 (최대 1회)"
+                  "desc": "[OnSucceedAttack] 若自身的速度值高于目标至少3点，则重复使用本硬币(最多1次)"
                 }
               ]
             }

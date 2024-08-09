@@ -6360,7 +6360,7 @@
     },
     {
       "name": "열차아이",
-      "krname": "호기심 많은 아이",
+      "krname": "列车上的孩子",
       "jpname": "",
       "enname": "",
       "fileName": "Trainkid",
@@ -6382,7 +6382,7 @@
     },
     {
       "name": "카세티",
-      "krname": "카세티",
+      "krname": "卡塞蒂",
       "jpname": "",
       "enname": "",
       "fileName": "Cassetti",
@@ -6404,7 +6404,7 @@
     },
     {
       "name": "카세티혈귀",
-      "krname": "카세티",
+      "krname": "血魔",
       "jpname": "",
       "enname": "",
       "fileName": "CassettiBF",
@@ -6426,7 +6426,7 @@
     },
     {
       "name": "북부창",
-      "krname": "북부 해결사",
+      "krname": "北部收尾人",
       "jpname": "",
       "enname": "",
       "fileName": "NorthernFixer2",
@@ -6448,7 +6448,7 @@
     },
     {
       "name": "북부대검",
-      "krname": "북부 해결사",
+      "krname": "北部大剑",
       "jpname": "",
       "enname": "",
       "fileName": "NorthernFixer1",
@@ -6470,7 +6470,7 @@
     },
     {
       "name": "북부대검혈귀",
-      "krname": "북부 해결사",
+      "krname": "北部大剑血魔",
       "jpname": "",
       "enname": "",
       "fileName": "NorthernFixerB",
@@ -6492,7 +6492,7 @@
     },
     {
       "name": "W사정리요원",
-      "krname": "정리 요원",
+      "krname": "W公司清扫人员",
       "jpname": "",
       "enname": "",
       "fileName": "WCleanup1",
@@ -6514,7 +6514,7 @@
     },
     {
       "name": "W사정리요원2",
-      "krname": "정리 요원",
+      "krname": "W公司清扫人员2",
       "jpname": "",
       "enname": "",
       "fileName": "WCleanup2",
@@ -6536,7 +6536,7 @@
     },
     {
       "name": "실루엣돈키호테",
-      "krname": "돈키호테",
+      "krname": "堂吉诃德",
       "jpname": "ドンキホーテ",
       "enname": "Don Quixote",
       "fileName": "SilhouetteDonQuixote2",
@@ -6558,11 +6558,11 @@
     },
     {
       "name": "돈키호테다침",
-      "krname": "돈키호테",
+      "krname": "堂吉诃德",
       "jpname": "ドンキホーテ",
       "enname": "Don Quixote",
       "fileName": "DonQuixote_Hurt",
-      "nickName": "3번 수감자",
+      "nickName": "3号罪人",
       "jpNickName": "囚人3番",
       "enNickName": "Sinner #3",
       "staringSide": "middle",

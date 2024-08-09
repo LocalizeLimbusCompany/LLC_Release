@@ -2,67 +2,67 @@
   "dataList": [
     {
       "id": "mowe_stagebutton_not_clear",
-      "content": "6.5-15 클리어 시 개방"
+      "content": "通过6.5-15后解锁"
     },
     {
       "id": "mowe_stagebutton_normal",
-      "content": "스테이지"
+      "content": "关卡"
     },
     {
       "id": "mowe_stagebutton_end_event",
-      "content": "이벤트 기간 종료"
+      "content": "活动结束"
     },
     {
       "id": "mowe_storybutton_before_start",
-      "content": "<size=75%>이벤트 첫 번째 이야기\n감상 시 개방</size>"
+      "content": "<size=75%>观看活动剧情第1关后开放</size>"
     },
     {
       "id": "mowe_storybutton_normal",
-      "content": "상영관 이동"
+      "content": "跳转至放映室"
     },
     {
       "id": "mowe_rewardShopButton",
-      "content": "보상 교환"
+      "content": "奖励兑换"
     },
     {
       "id": "mowe_scrap_guide_title",
-      "content": "이벤트 재화 안내"
+      "content": "活动道具介绍"
     },
     {
       "id": "mowe_scrap_guide_desc",
-      "content": "이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로<color=#ff99e6>[해결사 승객 복구팩]</color>을 획득할 수 있습니다.\n\n<color=#ff99e6>[해결사 승객 복구팩]</color>은 획득 즉시, <color=#ff99e6>[일반 승객 복구팩]</color> 20개로 전환됩니다."
+      "content": "在活动及主线关卡、迷宫及镜像迷宫中有小概率可以获得<color=#ff99e6>[收尾人乘客复原包]</color>。\n\n<color=#ff99e6>[收尾人乘客复原包]</color>将会自动转换为20个<color=#ff99e6>[普通乘客复原包]</color>。"
     },
     {
       "id": "mowe_rewardpage_desc",
-      "content": "이벤트 스테이지를 클리어할 때마다 <color=#ff99e6>[일반 승객 복구팩]</color>을 획득할 수 있습니다. 이외에도 주요 이야기\n스테이지를 최초로 클리어하거나 거울 던전 클리어 시, <color=#ff99e6>[일반 승객 복구팩]</color>을 획득할 수 있습니다.\n\n이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로 <color=#ff99e6>[해결사 승객 복구팩]</color>을 획득할 수 있으며, <color=#ff99e6>[해결사 승객 복구팩]</color>은 획득 즉시 <color=#ff99e6>[일반 승객 복구팩]</color> 20개로 전환됩니다.\n\n<color=#ff99e6>[보상 교환]</color> 창에서 <color=#ff99e6>[일반 승객 복구팩]</color>을 지불하여 다양한 보상을 얻을 수 있습니다."
+      "content": "通关活动关卡及迷宫后，将获得<color=#ff99e6>[普通乘客复原包]</color>。\n在首次通关活动关卡以外的主线关卡及通过镜像迷宫时，也可获得<color=#ff99e6>[普通乘客复原包]</color>。\n\n在活动、主线关卡及镜像迷宫中有小概率可以获得<color=#ff99e6>[收尾人乘客复原包]</color>，获得时，<color=#ff99e6>[收尾人乘客复原包]</color>将会自动转换为20个<color=#ff99e6>[普通乘客复原包]</color>。\n\n您可以在<color=#ff99e6>[奖励兑换]</color>处根据所持有的<color=#ff99e6>[普通乘客复原包]</color>数量兑换多样化奖励。"
     },
     {
       "id": "mowe_reward_popup_desc",
-      "content": "이벤트 스테이지와 주요 이야기\n최초 클리어, 거울 던전 클리어를 통해\n<color=#ff99e6>[일반 승객 복구팩]</color>을 획득할 수 있습니다.\n\n<color=#ff99e6>[보상 교환]</color> 창에서 <color=#ff99e6>[일반 승객 복구팩]</color>을\n지불하여 다양한 보상을 얻을 수 있습니다."
+      "content": "活动关卡，主线关卡\n首次通关，镜像迷宫通关后\n可以获得<color=#ff99e6>[普通乘客复原包]</color>。\n\n您可以在<color=#ff99e6>[奖励兑换]</color>处\n根据所持有的<color=#ff99e6>[普通乘客复原包]</color>数量兑换多样化奖励。"
     },
     {
       "id": "mowe_reward_popup_num_of_owned_items",
-      "content": "보유 아이템 수"
+      "content": "持有道具数"
     },
     {
       "id": "mowe_bonusUI_Title",
-      "content": "증가"
+      "content": "增加"
     },
     {
       "id": "mowe_bonusUI_Title_contain_false",
-      "content": "미보유"
+      "content": "未拥有"
     },
     {
       "id": "mowe_bonusUI_Desc",
-      "content": "이벤트 기간 동안 해당 인격, E.G.O 편성 시, <color=#ff99e6>[일반 승객 복구팩]</color>의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 <color=#ff99e6>120%</color>까지 적용됩니다."
+      "content": "活动期间，当编队中包含活动人格及E.G.O时，<color=#ff99e6>[普通乘客复原包]</color>的获取量将提升。\n获取量提升合计最大值为<color=#ff99e6>120%</color>。"
     },
     {
       "id": "mowe_bonus_popup_title",
-      "content": "이벤트 특화 대상"
+      "content": "活动加成对象"
     },
     {
       "id": "mowe_bonus_preview",
-      "content": "이벤트 특화 대상"
+      "content": "活动加成对象"
     }
   ]
 }

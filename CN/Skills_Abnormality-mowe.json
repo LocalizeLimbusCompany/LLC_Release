@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "조아려라",
-          "desc": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1",
+          "name": "臣服于我",
+          "desc": "[WhenUse] 若目标的流血 强度不低于4级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             }
@@ -24,13 +24,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "하찮은 것",
-          "desc": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1",
+          "name": "微不足道",
+          "desc": "[WhenUse] 若目标的流血 强度不低于4级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -43,14 +43,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "저리 가... 저리 가...!",
-          "desc": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Laceration] 횟수당, 피해량 +5% (최대 20%)",
+          "name": "走开…走开！",
+          "desc": "[WhenUse] 若目标的流血 强度不低于4级，则使本技能的拼点威力+1\n[WhenUse] 目标每带有1层流血 ，使本技能造成的伤害+5%(最多+20%)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 8 부여. [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度并对其施加2层流血 "
                 }
               ]
             }
@@ -63,34 +63,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "퍼레이드의 왕자",
-          "desc": "[StartBattle] [Laceration]을 가진 대상만큼 가중치 증가 (최대 5)\n[WhenUse] 대상의 [Laceration]이 4 이상이면, 기본 위력 +1\n[WhenUse] 대상의 [Laceration] 횟수가 3 이상이면, 코인 위력 +1\n[DefeatDuel] [KeptBlood] 1 감소",
+          "name": "游行的王子",
+          "desc": "[StartBattle] 每有1名带有流血 的目标，使本技能的攻击容量+1(最多+5)\n[WhenUse] 若目标的流血 强度不低于4级，则使本技能的基础威力+1\n[WhenUse] 若目标的流血 层数不低于3层，则使本技能的硬币威力+1\n[DefeatDuel] 使自身失去1层[KeptBlood]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             }
@@ -103,26 +103,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "피... 피... 피...!",
-          "desc": "[WhenUse] 대상의 [Laceration]이 8 이상이면, 코인 위력 +1\n[DefeatDuel] [KeptBlood] 1 감소",
+          "name": "血…血…血！",
+          "desc": "[WhenUse] 若目标的流血 强度不低于8级，则使本技能的硬币威力+1\n[DefeatDuel] 使自身失去1层[KeptBlood]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度并对其施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 다음 코인 피해량 +20%"
+                  "desc": "[OnSucceedAttack] 若目标的流血强度不低于10级，则使下一枚硬币造成的伤害+20%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [KeptBlood] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层[KeptBlood]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 }
               ]
             }
@@ -135,8 +135,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "날 내버려둬...!",
-          "desc": "[WhenUse] 대상의 [Laceration] 횟수당 기본 위력 +1 (최대 4)",
+          "name": "别管我…！",
+          "desc": "[WhenUse] 目标每带有1层流血 ，使本技能的基础威力+1(最多+4)",
           "coinlist": [
             {}
           ]
@@ -148,34 +148,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "나는... 이 행진의... 왕자이다...!",
-          "desc": "[CantDuel]\n[WhenUse] 경혈식 글레이브의 회복 효과가 2배로 적용됨\n[WhenUse] 정신력이 0이 됨\n[EndSkill] [KeptBlood] 10 얻음\n이번 턴동안 흐트러짐 상태가 되지 않고 이 스킬 사용 후 턴 종료함.",
+          "name": "我就是…这场游行的…王子…！",
+          "desc": "[CantDuel]\n[WhenUse] 使硬血式长柄刀恢复的体力变为2倍\n[WhenUse] 使自身的理智值变为0点\n[EndSkill] 使自身获得10层[KeptBlood]\n本回合自身不会陷入混乱，使用本技能后结束回合",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加1层流血 "
                 }
               ]
             }
@@ -188,34 +188,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "절대... 돌아가지 않아...!",
-          "desc": "[WhenUse] 대상의 [Laceration]이 5당, 합 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration] 횟수 4 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration] 횟수당, 피해량 +5% (최대 20%)\n[WhenUse] 경혈식 글레이브의 회복 효과가 2배로 적용됨\n[EndSkill] [KeptBlood] 10 얻음",
+          "name": "绝对…不会回去…！",
+          "desc": "[WhenUse] 目标每带有5级流血 强度，使本技能的拼点威力+1(最多+3)\n[WhenUse] 若目标的流血 层数不低于4层，则使本技能的硬币威力+1\n[WhenUse] 目标每带有1层流血 ，使本技能造成的伤害+5%(最多+20%)\n[WhenUse] 使硬血式长柄刀恢复的体力变为2倍\n[EndSkill] 使自身获得10层[KeptBlood]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加1层流血 "
                 }
               ]
             }

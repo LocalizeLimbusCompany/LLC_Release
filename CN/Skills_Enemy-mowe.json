@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경화된 팔",
+          "name": "硬化手臂",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 찌르기",
+          "name": "硬血式强化突刺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -50,28 +50,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "혈액 수집",
-          "desc": "대상의 [Laceration]이 10 이상이면, 피해량 +20%",
+          "name": "收集血液",
+          "desc": "若目标的流血 强度不低于10级，则使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)",
-                  "summary": "[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복"
+                  "desc": "[OnSucceedAttack] 吸收目标至多10级流血 强度并使自身恢复(吸收的流血 强度×2)%体力(本效果不会使目标的流血 强度降至1级以下)",
+                  "summary": "[OnSucceedAttack] 吸收目标的流血 强度并恢复体力"
                 }
               ]
             }
@@ -84,13 +84,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -103,13 +103,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경화된 팔",
+          "name": "硬化手臂",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -122,20 +122,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 베기",
+          "name": "硬血式强化砍击",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -148,28 +148,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "혈액 수집",
-          "desc": "대상의 [Laceration]이 10 이상이면, 피해량 +20%",
+          "name": "收集血液",
+          "desc": "若目标的流血 强度不低于10级，则使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)",
-                  "summary": "[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복"
+                  "desc": "[OnSucceedAttack] 吸收目标至多10级流血 强度并使自身恢复(吸收的流血 强度×2)%体力(本效果不会使目标的流血 强度降至1级以下)",
+                  "summary": "[OnSucceedAttack] 吸收目标的流血 强度并恢复体力"
                 }
               ]
             }
@@ -182,13 +182,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -201,16 +201,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경화된 팔",
+          "name": "硬化手臂",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -223,16 +223,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 타격",
+          "name": "硬血式强化打击",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -245,28 +245,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "혈액 수집",
-          "desc": "대상의 [Laceration]이 10 이상이면, 피해량 +20%",
+          "name": "收集血液",
+          "desc": "若目标的流血 强度不低于10级，则使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)",
-                  "summary": "[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복"
+                  "desc": "[OnSucceedAttack] 吸收目标至多10级流血 强度并使自身恢复(吸收的流血 强度×2)%体力(本效果不会使目标的流血 强度降至1级以下)",
+                  "summary": "[OnSucceedAttack] 吸收目标的流血 强度并恢复体力"
                 }
               ]
             }
@@ -279,13 +279,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -298,16 +298,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "절단",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "撕裂",
+          "desc": "[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -320,26 +320,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "찍어내리기",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 5 증가",
+          "name": "刺倒",
+          "desc": "[WhenUse] 使自身获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -352,24 +352,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 무기 강화",
-          "desc": "[WhenUse] 보유한 [Charge] 횟수를 전부 소모하고, 최대 체력의 2 x (15 - 소모한 [Charge] 횟수)% 만큼 체력을 소모하여 코인 위력 +2",
+          "name": "硬血式武器强化",
+          "desc": "[WhenUse] 消耗自身所有充能 层数与体力上限2×(15-消耗的充能 层数)%的体力并使本技能的硬币威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 6 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加6层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)",
-                  "summary": "[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복"
+                  "desc": "[OnSucceedAttack] 吸收目标至多10级流血 强度并使自身恢复(吸收的流血 强度×2)%体力(该效果不会使目标的流血 强度降至1级以下)",
+                  "summary": "[OnSucceedAttack] 吸收目标的流血 强度并恢复体力"
                 }
               ]
             }
@@ -382,8 +382,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "防御",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -401,16 +401,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "찌르기",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "刺",
+          "desc": "[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -423,26 +423,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "베어가르기",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 5 증가",
+          "name": "劈裂",
+          "desc": "[WhenUse] 使自身获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -455,24 +455,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 무기 강화",
-          "desc": "[WhenUse] 보유한 [Charge] 횟수를 전부 소모하고, 최대 체력의 2 x (15 - 소모한 [Charge] 횟수)% 만큼 체력을 소모하여 코인 위력 +2",
+          "name": "硬血式武器强化",
+          "desc": "[WhenUse] 消耗自身所有充能 层数与体力上限2×(15-消耗的充能 层数)%的体力并使本技能的硬币威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)",
-                  "summary": "[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복"
+                  "desc": "[OnSucceedAttack] 吸收目标至多10级流血 强度并使自身恢复(吸收的流血 强度×2)%体力(该效果不会使目标的流血 强度降至1级以下)",
+                  "summary": "[OnSucceedAttack] 吸收目标的流血 强度并恢复体力"
                 }
               ]
             }
@@ -485,8 +485,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "闪避",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -504,19 +504,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "창 휘두르기",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 2 증가",
+          "name": "挥舞长枪",
+          "desc": "[WhenUse] 使自身获得2层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -529,32 +529,32 @@
       "levelList": [
         {
           "level": 1,
-          "name": "상처 헤집기",
-          "desc": "[WhenUse] 자신의 [Charge] 횟수 5 증가",
+          "name": "撕开伤口",
+          "desc": "[WhenUse] 使自身获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -567,27 +567,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 무기 강화",
-          "desc": "[WhenUse] 보유한 [Charge] 횟수를 전부 소모하고, 최대 체력의 2 x (15 - 소모한 [Charge] 횟수)% 만큼 체력을 소모하여 코인 위력 +2",
+          "name": "硬血式武器强化",
+          "desc": "[WhenUse] 消耗自身所有充能 层数与体力上限2×(15-消耗的充能 层数)%的体力并使本技能的硬币威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [AttackDown] 3 부여."
+                  "desc": "[OnSucceedAttack] 对目标施加3层攻击等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)",
-                  "summary": "[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복"
+                  "desc": "[OnSucceedAttack] 吸收目标至多10级流血 强度并使自身恢复(吸收的流血 强度×2)%体力(该效果不会使目标的流血 强度降至1级以下)",
+                  "summary": "[OnSucceedAttack] 吸收目标的流血 强度并恢复体力"
                 }
               ]
             }
@@ -600,8 +600,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "防御",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -619,13 +619,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "의체 가동",
-          "desc": "[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 [AttackUp] 3을 얻음",
+          "name": "义体启动",
+          "desc": "[WhenUse] 若自身的充能 层数不低于10层，则消耗5层充能 并使自身获得3层攻击等级提升 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -638,23 +638,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "작살 표식",
-          "desc": "[StartBattle] 자신의 [Charge] 횟수가 5 미만이면, 자신의 [Charge] 횟수 5, [Laceration] 횟수 3 증가하고, [Vulnerable] 1을 얻음\n[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 [AttackUp] 3을 얻음",
+          "name": "鱼叉标记",
+          "desc": "[StartBattle] 若自身的充能 层数不高于5层，则使自身获得5层充能 并对自身施加3层流血 与1层易损 \n[WhenUse] 若自身的充能 层数不低于10层，则消耗5层充能 并使自身获得3层攻击等级提升 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 }
               ]
             }
@@ -667,26 +667,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 작살",
-          "desc": "[WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 10 증가",
+          "name": "硬血式强化鱼叉",
+          "desc": "[WhenUse] 消耗自身体力上限10%的体力并使自身获得10层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 6 부여."
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가."
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Paralysis] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层麻痹 "
                 }
               ]
             }
@@ -699,8 +699,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -718,16 +718,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "의체 가동",
-          "desc": "[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 5 증가",
+          "name": "义体启动",
+          "desc": "[WhenUse] 若自身的充能 层数不低于10层，则消耗3层充能 并使本技能的硬币威力+1\n[WhenUse] 若自身的充能 层数不低于15层，则额外消耗3层充能 并使本技能造成的伤害+20%\n[WhenUse] 若自身的充能 层数不高于5层，则失去体力上限10%的体力并使自身获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 "
                 }
               ]
             }
@@ -740,36 +740,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 혈액 역류",
-          "desc": "[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 5 증가",
+          "name": "硬血式血液逆流",
+          "desc": "[WhenUse] 若自身的充能 层数不低于10层，则消耗3层充能 并使本技能的硬币威力+1\n[WhenUse] 若自身的充能 层数不低于15层，则额外消耗3层充能 并使本技能造成的伤害+20%\n[WhenUse] 若自身的充能 层数不高于5层，则失去体力上限10%的体力并获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Paralysis] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -782,29 +782,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "생체 에너지 전환식 충전",
-          "desc": "[WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 15 증가",
+          "name": "活体能量转换式充能",
+          "desc": "[WhenUse] 消耗自身体力上限10%的体力并使自身获得15层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层攻击等级降低 "
                 }
               ]
             }
@@ -817,8 +817,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)",
+          "name": "防御",
+          "desc": "[WhenUse] 自身每带有3层流血 ，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -836,23 +836,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 혈액 이전",
-          "desc": "[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 5 증가",
+          "name": "硬血式血液转移",
+          "desc": "[WhenUse] 若自身的充能 层数不低于10层，则消耗3层充能 并使本技能的硬币威力+1\n[WhenUse] 若自身的充能 层数不低于15层，则额外消耗3层充能 并使本技能造成的伤害+20%\n[WhenUse] 若自身的充能 层数不高于5层，则失去体力上限10%的体力并获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -865,39 +865,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "생체 에너지 전환식 재충전",
-          "desc": "[WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 15 증가",
+          "name": "活体能量转换式再充能",
+          "desc": "[WhenUse] 消耗自身体力上限10%的体力并使自身获得15层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层攻击等级降低 "
                 }
               ]
             }

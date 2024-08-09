@@ -1746,11 +1746,11 @@
     },
     {
       "id": "unit_keyword",
-      "content": "특성 키워드"
+      "content": "特性关键词"
     },
     {
       "id": "formation_ask_clear_selection",
-      "content": "편성 순서를 초기화하시겠습니까?"
+      "content": "要重置编队顺序吗？"
     }
   ]
 }
