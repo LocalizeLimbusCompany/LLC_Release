@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] 使自身获得2层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加1层流血 "
