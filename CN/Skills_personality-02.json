@@ -923,20 +923,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "40Y-3充能",
-          "desc": "若自身的充能 强度不低于2级，则使本技能的硬币威力+2",
+          "name": "40Y-3 충전",
+          "desc": "[Charge]이 2 이상이면, 코인 위력 +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度+4)层充能 (最多7层)"
+                  "desc": "[OnSucceedAttack] ([Charge] + 4)만큼 자신의 [Charge] 횟수 증가 (최대 7)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度+4)层充能 (最多7层)"
+                  "desc": "[OnSucceedAttack] ([Charge] + 4)만큼 자신의 [Charge] 횟수 증가 (최대 7)"
                 }
               ]
             },
@@ -944,7 +944,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "若自身的充能 强度不低于3级，则每带有1级充能 强度，使本硬币造成的伤害+4%(最多+20%)"
+                  "desc": "[Charge]이 3 이상이면, [Charge]당 피해량 +4% (최대 20%)"
                 }
               ]
             }
@@ -952,20 +952,20 @@
         },
         {
           "level": 4,
-          "name": "40Y-3充能",
-          "desc": "自身每带有1级充能 强度，使本技能的硬币威力+1(最多+4)",
+          "name": "40Y-3 충전",
+          "desc": "<style=\"highlight\">[Charge]당 코인 위력 +1 (최대 4)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度+5)层充能 (最多8层)"
+                  "desc": "[OnSucceedAttack] ([Charge] + <style=\"highlight\">5</style>)만큼 자신의 [Charge] 횟수 증가 (최대 <style=\"highlight\">8</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度+5)层充能 (最多8层)"
+                  "desc": "[OnSucceedAttack] ([Charge] + <style=\"highlight\">5</style>)만큼 자신의 [Charge] 횟수 증가 (최대 <style=\"highlight\">8</style>)"
                 }
               ]
             },
@@ -973,7 +973,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "若自身的充能 强度不低于3级，则每带有1级充能 强度，使本硬币造成的伤害+8%(最多+40%)\n[OnSucceedAttack] 下回合对目标施加1层嫉妒易损 \n- 若自身的充能 强度不低于2级，则对目标额外施加1层嫉妒易损 "
+                  "desc": "[Charge]이 3 이상이면, [Charge]당 피해량 <style=\"highlight\">+8%</style> (최대 <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 질투 취약 1 부여\n- [Charge]이 2 이상이면, 추가로 1 부여</style>"
                 }
               ]
             }

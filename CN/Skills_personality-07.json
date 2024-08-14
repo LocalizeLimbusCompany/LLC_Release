@@ -496,15 +496,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "光电标记",
-          "desc": "[WhenUse] 若自身的充能 层数在5~9层之间，则消耗体力上限2×(10-现存充能 层数)%的体力并使自身的充能 层数变为10层\n[WhenUse] 消耗10层充能 并使本技能的硬币威力+1",
+          "name": "광전 표식",
+          "desc": "[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 +1",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身充能 强度的光电 (最多2层)"
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 2)"
                 }
               ]
             }
@@ -512,21 +512,24 @@
         },
         {
           "level": 2,
-          "name": "光电标记",
-          "desc": "[WhenUse] 若自身的充能 层数在5~9层之间，则消耗体力上限2×(10-现存充能 层数)%的体力并使自身的充能 层数变为10层\n[WhenUse] 消耗10层充能 并使本技能的硬币威力+1",
+          "name": "광전 표식",
+          "desc": "[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 层数，则对目标施加2层防御等级降低 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Charge] 횟수를 소모했으면, [DefenseDown] 2 부여</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层体力恢复降低 \n[OnSucceedAttack] 对目标施加层数相当于自身充能 强度的光电 (最多3层)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [TakeHpHealReduce] 1 부여</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 <style=\"highlight\">3</style>)"
                 }
               ]
             }
@@ -534,27 +537,30 @@
         },
         {
           "level": 4,
-          "name": "光电标记",
-          "desc": "[WhenUse] 若自身的充能 层数在5~9层之间，则消耗体力上限2×(10-现存充能 层数)%的体力并使自身的充能 层数变为10层\n[WhenUse] 消耗10层充能 并使本技能的硬币威力+2",
+          "name": "광전 표식",
+          "desc": "[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 层数，则对目标施加2层防御等级降低 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Charge] 횟수를 소모했으면, [DefenseDown] 2 부여</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 层数，则对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] [Charge] 횟수를 소모했으면, [DefenseDown] 2 부여<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层体力恢复降低 \n[OnSucceedAttack] 对目标施加层数相当于自身充能 强度的光电 (最多3层)"
+                  "desc": "[OnSucceedAttack] [TakeHpHealReduce] <style=\"highlight\">2</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -567,28 +573,28 @@
       "levelList": [
         {
           "level": 3,
-          "name": "光电鱼叉",
-          "desc": "若自身的充能 强度不低于2级，则使本技能的硬币威力+1",
+          "name": "광전 작살",
+          "desc": "[Charge]이 2 이상이면, 코인 위력 +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得5层充能 "
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 5 증가"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度×3)层充能 (最多9层)"
+                  "desc": "[OnSucceedAttack] ([Charge] x 3)만큼 자신의 [Charge] 횟수 증가 (최대 9)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身充能 强度的光电 (最多3层)"
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 3)"
                 }
               ]
             }
@@ -596,28 +602,31 @@
         },
         {
           "level": 4,
-          "name": "光电鱼叉",
-          "desc": "自身每带有2级充能 强度，使本技能的硬币威力+1(最多+2)",
+          "name": "광전 작살",
+          "desc": "<style=\"highlight\">[Charge] 2당 코인 위력 +1 (최대 2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得7层充能 "
+                  "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 <style=\"highlight\">7</style> 증가"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度×3)层充能 (最多9层)"
+                  "desc": "[OnSucceedAttack] ([Charge] x 3)만큼 자신의 [Charge] 횟수 증가 (최대 9)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身充能 强度的光电 (最多3层)\n[OnSucceedAttack] 自身每带有2级充能 强度，对目标施加1层打击易损 (最多2层)"
+                  "desc": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Charge] 2당 [HitTakeDamageUp] 1 부여 (최대 2)</style>"
                 }
               ]
             }
