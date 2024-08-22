@@ -660,14 +660,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "참수",
-          "desc": "[WhenUse] 대상의 [Sinking]이 8 이상이면 합 위력 +1",
+          "name": "斩首",
+          "desc": "[WhenUse] 若目标的沉沦 强度不低于8级，则使本技能的拼点威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -675,14 +675,14 @@
         },
         {
           "level": 2,
-          "name": "참수",
-          "desc": "[WhenUse] 대상의 [Sinking]이 6 이상이면 합 위력 +1\n<style=\"highlight\">[WhenUse] 대상의 [Sinking] 횟수 3 이상이면, 코인 위력 +1</style>",
+          "name": "斩首",
+          "desc": "[WhenUse] 若目标的沉沦 强度不低于6级，则使本技能的拼点威力+1\n[WhenUse] 若目标的沉沦 层数不低于3层，则使本技能的硬币威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -690,14 +690,14 @@
         },
         {
           "level": 4,
-          "name": "참수",
-          "desc": "[WhenUse] 대상의 [Sinking]이 6 이상이면 합 위력 +1\n[WhenUse] 대상의 [Sinking] 횟수 <style=\"highlight\">3 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>",
+          "name": "斩首",
+          "desc": "[WhenUse] 若目标的沉沦 强度不低于6级，则使本技能的拼点威力+1\n[WhenUse] 目标每带有3层沉沦 ，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
                 }
               ]
             }
@@ -710,24 +710,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "추도 행진",
-          "desc": "[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+          "name": "追悼游行",
+          "desc": "[WhenUse] 若目标的沉沦 强度不低于5级，则使本技能的硬币威力+1\n[EndSkill] 若自身带有杜拉罕 ，则使自身失去10点理智值",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层破灭将至 "
                 }
               ]
             }
@@ -735,24 +735,24 @@
         },
         {
           "level": 2,
-          "name": "추도 행진",
-          "desc": "[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Coffin] 4 이상이면, 공격 가중치 +1\n[WhenUse] 자신에게 [NightPathfinding]이 있으면, 공격 가중치 +1</style>\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+          "name": "追悼游行",
+          "desc": "[WhenUse] 若目标的沉沦 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 若自身的棺 不低于4层，则使本技能的攻击容量+1\n[WhenUse] 若自身带有杜拉罕 ，则使本技能的攻击容量+1\n[EndSkill] 若自身带有杜拉罕 ，则使自身失去10点理智值",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层破灭将至 "
                 }
               ]
             }
@@ -760,24 +760,24 @@
         },
         {
           "level": 4,
-          "name": "추도 행진",
-          "desc": "[WhenUse] 대상의 [Sinking] <style=\"highlight\">5 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신의 [Coffin] <style=\"highlight\">4당</style> 공격 가중치 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신에게 [NightPathfinding]이 있으면, 공격 가중치 +1\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+          "name": "追悼游行",
+          "desc": "[WhenUse] 目标每带有5级沉沦 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 自身每带有4层棺 ，使本技能的攻击容量+1(最多+2)\n[WhenUse] 若自身带有杜拉罕 ，则使本技能的攻击容量+1\n[EndSkill] 若自身带有杜拉罕 ，则使自身失去10点理智值",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层破灭将至 "
                 }
               ]
             }
@@ -790,26 +790,26 @@
       "levelList": [
         {
           "level": 3,
-          "name": "레퀴엠",
-          "desc": "[WinDuel] 정신력 10 회복\n[BeforeUse] 자신에게 [NightPathfinding]이 있으면, '비탄하고, 애탄하며, 파탄하라'로 발동됨\n[WhenUse] 대상의 [Sinking] 6 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +7% (최대 70%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음",
+          "name": "镇魂曲",
+          "desc": "[WinDuel] 使自身恢复10点理智值\n[BeforeUse] 若自身带有杜拉罕 ，则改为使用“悲叹、哀恸、破灭吧”\n[WhenUse] 目标每带有6级沉沦 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 自身每带有1层棺 ，使本技能造成的伤害+7%(最多+70%)\n[WhenUse] 使自身获得1层棺 \n[EndSkill] 若本技能攻击击杀了目标，则使自身获得2层棺 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [WanderingFootsteps]이 있으면, [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 若目标带有破灭将至 ，则对其施加2层沉沦 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[EnemyKill] 처치한 대상의 ([Sinking] / 3)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 3)"
+                  "desc": "[EnemyKill] 随机使2名敌方单位增加(被击杀目标的沉沦 强度/3)级沉沦 强度(最多3级)"
                 }
               ]
             }
@@ -817,26 +817,26 @@
         },
         {
           "level": 4,
-          "name": "레퀴엠",
-          "desc": "[WinDuel] 정신력 10 회복\n[BeforeUse] 자신에게 [NightPathfinding]이 있으면, '비탄하고, 애탄하며, 파탄하라'로 발동됨\n[WhenUse] 대상의 [Sinking] <style=\"highlight\">3 당</style> 코인 위력 +1 (최대 <style=\"highlight\">4</style>)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +12% (최대 120%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음",
+          "name": "镇魂曲",
+          "desc": "[WinDuel] 使自身恢复10点理智值\n[BeforeUse] 若自身带有杜拉罕 ，则改为使用“悲叹、哀恸、破灭吧”\n[WhenUse] 目标每带有3级沉沦 强度，使本技能的硬币威力+1(最多+4)\n[WhenUse] 自身每带有1层棺 ，使本技能造成的伤害+12%(最多+120%)\n[WhenUse] 使自身获得1层棺 \n[EndSkill] 若本技能攻击击杀了目标，则使自身获得2层棺 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 횟수 <style=\"highlight\">4</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加4层沉沦 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [WanderingFootsteps]이 있으면, [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 若目标带有破灭将至 ，则对其施加2层沉沦 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度"
                 },
                 {
-                  "desc": "[EnemyKill] 처치한 대상의 ([Sinking] / <style=\"highlight\">2</style>)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 <style=\"highlight\">5</style>)"
+                  "desc": "[EnemyKill] 随机使2名敌方单位增加(被击杀目标的沉沦 强度/2)级沉沦 强度(最多5级)"
                 }
               ]
             }
@@ -849,14 +849,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "듀라한이여...!",
-          "desc": "[DuelCounter]\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+          "name": "杜拉罕啊…！",
+          "desc": "[DuelCounter]\n[StartBattle] 若自身未带有杜拉罕 ，则下回合使自身获得1层杜拉罕 (每回合最多1层)\n[EndBattle] 若自身带有杜拉罕 ，则解除自身的杜拉罕 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -864,14 +864,14 @@
         },
         {
           "level": 3,
-          "name": "듀라한이여...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] [NightPathfinding]이 있고 정신력이 15 이상이면, 비탄하고, 애탄하며, 파탄하라로 반격함 (턴 당 1회 발동)</style>\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n<style=\"highlight\">[WhenUse] 대상의 [Sinking]이 6 이상이면, 코인 위력 +1</style>\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+          "name": "杜拉罕啊…！",
+          "desc": "[DuelCounter]\n[BeforeUse] 若自身带有杜拉罕 且自身的理智值不低于15点，则使用“悲叹、哀恸、破灭吧”进行反击(每回合最多1次)\n[StartBattle] 若自身未带有杜拉罕 ，则下回合使自身获得1层杜拉罕 (每回合最多1层)\n[WhenUse] 若目标的沉沦 强度不低于6级，则使本技能的硬币威力+1\n[EndBattle] 若自身带有杜拉罕 ，则解除自身的杜拉罕 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -879,14 +879,14 @@
         },
         {
           "level": 4,
-          "name": "듀라한이여...!",
-          "desc": "[DuelCounter]\n[BeforeUse] [NightPathfinding]이 있고 정신력이 15 이상이면, '비탄하고, 애탄하며, 파탄하라'로 반격함 (턴 당 1회 발동)\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n[WhenUse] 대상의 [Sinking] <style=\"highlight\">3 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n<style=\"highlight\">[WinDuel] (합 횟수/ 3)만큼 다음 턴에 [AttackUp]를 얻음 (최대 3, 턴 당 1회 발동)</style>\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+          "name": "杜拉罕啊…！",
+          "desc": "[DuelCounter]\n[BeforeUse] 若自身带有杜拉罕 且自身的理智值不低于15点，则使用“悲叹、哀恸、破灭吧”进行反击(每回合最多1次)\n[StartBattle] 若自身未带有杜拉罕 ，则下回合使自身获得1层杜拉罕 (每回合最多1层)\n[WhenUse] 目标每带有3级沉沦 强度，使本技能的硬币威力+1(最多+2)\n[WinDuel] 下回合使自身获得(本技能拼点次数/3)层攻击等级提升 (最多3层，每回合最多1次)\n[EndBattle] 若自身带有杜拉罕 ，则解除自身的杜拉罕 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여<style=\"highlight\">, 침잠 횟수 1 증가</style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度并对其施加1层沉沦 "
                 }
               ]
             }

@@ -190,11 +190,11 @@
     },
     {
       "id": "BeforeUse",
-      "name": "[사용전]"
+      "name": "[使用前]"
     },
     {
       "id": "DuelCounter",
-      "name": "[합 가능 반격]"
+      "name": "[可拼点反击]"
     }
   ]
 }

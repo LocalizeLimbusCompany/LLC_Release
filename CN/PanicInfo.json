@@ -105,8 +105,8 @@
     {
       "id": 1026,
       "panicName": "破灭",
-      "lowMoraleDescription": "매 턴 종료 시 [Sinking] 3 얻음, 자신의 합 위력 -1",
-      "panicDescription": "매 턴 종료 시 [Sinking] 5 얻음, [Sinking] 횟수 3 증가, 자신의 합 위력 -2"
+      "lowMoraleDescription": "每回合结束时使自身增加3级[Sinking]强度。自身的拼点威力-1",
+      "panicDescription": "每回合结束时使自身增加5级[Sinking]强度并对自身施加3层[Sinking]。自身的拼点威力-2"
     }
   ]
 }

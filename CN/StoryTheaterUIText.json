@@ -274,19 +274,19 @@
     },
     {
       "id": "personality_voice_section_before_clear_chapter_format",
-      "content": "{0}장 전"
+      "content": "{0}章 前"
     },
     {
       "id": "personality_voice_section_after_clear_chapter_format",
-      "content": "{0}장 후"
+      "content": "{0}章 后"
     },
     {
       "id": "PersonalityStory_OpenCodition_UnlockCode106",
-      "content": "6장 클리어"
+      "content": "通过第6章"
     },
     {
       "id": "PersoanlityStory_After",
-      "content": "(그 후)"
+      "content": "（之后）"
     }
   ]
 }
