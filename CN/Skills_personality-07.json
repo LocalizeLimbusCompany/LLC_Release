@@ -654,6 +654,375 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1071001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "참수",
+          "desc": "[WhenUse] 대상의 [Sinking]이 8 이상이면 합 위력 +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "참수",
+          "desc": "[WhenUse] 대상의 [Sinking]이 6 이상이면 합 위력 +1\n<style=\"highlight\">[WhenUse] 대상의 [Sinking] 횟수 3 이상이면, 코인 위력 +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "참수",
+          "desc": "[WhenUse] 대상의 [Sinking]이 6 이상이면 합 위력 +1\n[WhenUse] 대상의 [Sinking] 횟수 <style=\"highlight\">3 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "추도 행진",
+          "desc": "[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "추도 행진",
+          "desc": "[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Coffin] 4 이상이면, 공격 가중치 +1\n[WhenUse] 자신에게 [NightPathfinding]이 있으면, 공격 가중치 +1</style>\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "추도 행진",
+          "desc": "[WhenUse] 대상의 [Sinking] <style=\"highlight\">5 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신의 [Coffin] <style=\"highlight\">4당</style> 공격 가중치 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신에게 [NightPathfinding]이 있으면, 공격 가중치 +1\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "레퀴엠",
+          "desc": "[WinDuel] 정신력 10 회복\n[BeforeUse] 자신에게 [NightPathfinding]이 있으면, '비탄하고, 애탄하며, 파탄하라'로 발동됨\n[WhenUse] 대상의 [Sinking] 6 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +7% (최대 70%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상에게 [WanderingFootsteps]이 있으면, [Sinking] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                },
+                {
+                  "desc": "[EnemyKill] 처치한 대상의 ([Sinking] / 3)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "레퀴엠",
+          "desc": "[WinDuel] 정신력 10 회복\n[BeforeUse] 자신에게 [NightPathfinding]이 있으면, '비탄하고, 애탄하며, 파탄하라'로 발동됨\n[WhenUse] 대상의 [Sinking] <style=\"highlight\">3 당</style> 코인 위력 +1 (최대 <style=\"highlight\">4</style>)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +12% (최대 120%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 횟수 <style=\"highlight\">4</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상에게 [WanderingFootsteps]이 있으면, [Sinking] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여"
+                },
+                {
+                  "desc": "[EnemyKill] 처치한 대상의 ([Sinking] / <style=\"highlight\">2</style>)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "듀라한이여...!",
+          "desc": "[DuelCounter]\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "듀라한이여...!",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] [NightPathfinding]이 있고 정신력이 15 이상이면, 비탄하고, 애탄하며, 파탄하라로 반격함 (턴 당 1회 발동)</style>\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n<style=\"highlight\">[WhenUse] 대상의 [Sinking]이 6 이상이면, 코인 위력 +1</style>\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "듀라한이여...!",
+          "desc": "[DuelCounter]\n[BeforeUse] [NightPathfinding]이 있고 정신력이 15 이상이면, '비탄하고, 애탄하며, 파탄하라'로 반격함 (턴 당 1회 발동)\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n[WhenUse] 대상의 [Sinking] <style=\"highlight\">3 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n<style=\"highlight\">[WinDuel] (합 횟수/ 3)만큼 다음 턴에 [AttackUp]를 얻음 (최대 3, 턴 당 1회 발동)</style>\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Sinking] 2 부여<style=\"highlight\">, 침잠 횟수 1 증가</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071005,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "悲叹、哀恸、破灭吧",
+          "desc": "[WhenUse] 使自身失去15点理智值\n[WhenUse] 目标每带有5级沉沦 强度，使本技能的基础威力+1(最多+2)\n[WhenUse] 自身理智值越低，本技能造成的伤害越高(每失去1点理智值，造成的伤害+0.3%，最多+21%)\n[WhenUse] 自身每带有1层棺 ，使本技能造成的伤害+7%(最多+70%)\n[WhenUse] 自身每带有1层杜拉罕 ，使本技能造成的伤害+10%(最多+30%)\n[WhenUse] 使自身获得1层棺 \n[EndSkill] 若本技能攻击击杀了目标，则使自身获得2层棺 \n[EndSkill] 若自身理智值低于0点，则使自身恢复10点理智值。自身理智值低于0点时，根据相差的理智值，相应使自身额外恢复理智值(每相差1点，额外恢复1点理智值，最多25点)\n[EndBattle] 解除自身的杜拉罕 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度并对其施加1层沉沦 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的20%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其沉沦 强度的忧郁伤害(最多15点)"
+                },
+                {
+                  "desc": "[EnemyKill] 随机使2名敌方单位增加(被击杀目标的沉沦 强度/3)级沉沦 强度(最多4级)"
+                },
+                {
+                  "desc": "[EnemyKill] 使自身恢复15点理智值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "悲叹、哀恸、破灭吧",
+          "desc": "[WhenUse] 使自身失去15点理智值\n[WhenUse] 目标每带有5级沉沦 强度，使本技能的基础威力+1(最多+4)\n[WhenUse] 自身理智值越低，本技能造成的伤害越高(每失去1点理智值，造成的伤害+0.3%，最多+21%)\n[WhenUse] 自身每带有1层棺 ，使本技能造成的伤害+10%(最多+100%)\n[WhenUse] 自身每带有1层杜拉罕 ，使本技能造成的伤害+20%(最多+60%)\n[WhenUse] 使自身获得2层棺 \n[EndSkill] 若本技能攻击击杀了目标，则使自身获得3层棺 \n[EndSkill] 若自身理智值低于0点，则使自身恢复10点理智值。自身理智值低于0点时，根据相差的理智值，相应使自身额外恢复理智值(每相差1点，额外恢复2点理智值，最多50点)\n[EndBattle] 解除自身的杜拉罕 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度并对其施加2层沉沦 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其沉沦 强度的忧郁伤害(最多30点)"
+                },
+                {
+                  "desc": "[EnemyKill] 随机使2名敌方单位增加(被击杀目标的沉沦 强度/2)级沉沦 强度(最多8级)"
+                },
+                {
+                  "desc": "[EnemyKill] 使自身恢复15点理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071006,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "悲叹、哀恸、破灭吧",
+          "desc": "[WhenUse] 使自身失去15点理智值\n[WhenUse] 目标每带有5级沉沦 强度，使本技能的基础威力+1(最多+2)\n[WhenUse] 自身理智值越低，本技能造成的伤害越高(每失去1点理智值，造成的伤害+0.3%，最多+21%)\n[WhenUse] 自身每带有1层棺 ，使本技能造成的伤害+7%(最多+70%)\n[WhenUse] 自身每带有1层杜拉罕 ，使本技能造成的伤害+10%(最多+30%)\n[WhenUse] 使自身获得1层棺 \n[EndSkill] 若本技能攻击击杀了目标，则使自身获得2层棺 \n[EndSkill] 若自身理智值低于0点，则使自身恢复10点理智值。自身理智值低于0点时，根据相差的理智值，相应使自身额外恢复理智值(每相差1点，额外恢复1点理智值，最多25点)\n[EndBattle] 解除自身的杜拉罕 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级沉沦 强度并对其施加1层沉沦 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的20%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其沉沦 强度的忧郁伤害(最多15点)"
+                },
+                {
+                  "desc": "[EnemyKill] 随机使2名敌方单位增加(被击杀目标的沉沦 强度/3)级沉沦 强度(最多4级)"
+                },
+                {
+                  "desc": "[EnemyKill] 使自身恢复15点理智值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "悲叹、哀恸、破灭吧",
+          "desc": "[WhenUse] 使自身失去15点理智值\n[WhenUse] 目标每带有5级沉沦 强度，使本技能的基础威力+1(最多+4)\n[WhenUse] 自身理智值越低，本技能造成的伤害越高(每失去1点理智值，造成的伤害+0.3%，最多+21%)\n[WhenUse] 自身每带有1层棺 ，使本技能造成的伤害+10%(最多+100%)\n[WhenUse] 自身每带有1层杜拉罕 ，使本技能造成的伤害+20%(最多+60%)\n[WhenUse] 使自身获得2层棺 \n[EndSkill] 若本技能攻击击杀了目标，则使自身获得3层棺 \n[EndSkill] 若自身理智值低于0点，则使自身恢复10点理智值。自身理智值低于0点时，根据相差的理智值，相应使自身额外恢复理智值(每相差1点，额外恢复2点理智值，最多50点)\n[EndBattle] 解除自身的杜拉罕 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度并对其施加2层沉沦 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的30%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其沉沦 强度的忧郁伤害(最多30点)"
+                },
+                {
+                  "desc": "[EnemyKill] 随机使2名敌方单位增加(被击杀目标的沉沦 强度/2)级沉沦 强度(最多8级)"
+                },
+                {
+                  "desc": "[EnemyKill] 使自身恢复15点理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
