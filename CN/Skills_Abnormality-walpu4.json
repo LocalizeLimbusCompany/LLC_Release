@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "이해",
-          "desc": "대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 1 얻음",
+          "name": "理解",
+          "desc": "若目标的理智值不高于10点，则使本技能的拼点威力+1\n[WhenUse] 使自身获得1层[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "인지",
-          "desc": "대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 2 얻음",
+          "name": "认知",
+          "desc": "若目标的理智值不高于10点，则使本技能的拼点威力+1\n[WhenUse] 使自身获得2层[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VioletTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             }
@@ -50,20 +50,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "구원",
-          "desc": "대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 1 얻음",
+          "name": "拯救",
+          "desc": "若目标的理智值不高于10点，则使本技能的拼点威力+1\n[WhenUse] 使自身获得1层[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VioletTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             }
@@ -76,8 +76,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "이해 불능",
-          "desc": "[WhenUse] [VioletUnderstand] 2 얻음",
+          "name": "不能理解",
+          "desc": "[WhenUse] 使自身获得2层[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
@@ -95,16 +95,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "붕괴",
-          "desc": "[CantDuel]\n[EndSkill] 사망",
+          "name": "崩坏",
+          "desc": "[CantDuel]\n[EndSkill] 自身阵亡",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [VioletTakeDamageUp] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层嫉妒易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 피해를 10 ~ 14 입힘"
+                  "desc": "[OnSucceedAttack] 对目标造成10~14点理智伤害"
                 }
               ]
             }
@@ -117,20 +117,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "자비",
-          "desc": "대상의 정신력이 20 이하면 합 위력 +1",
+          "name": "慈悲",
+          "desc": "若目标的理智值不高于20点，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VioletTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             }
@@ -143,20 +143,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "사랑",
-          "desc": "대상의 정신력이 20 이하면 합 위력 +1",
+          "name": "爱",
+          "desc": "若目标的理智值不高于20点，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VioletTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             }
@@ -169,20 +169,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "점멸하는 이해의 문자",
+          "name": "闪烁的理解的文字",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             }
@@ -195,20 +195,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "점멸하는 이해의 문자",
-          "desc": "대상의 정신력이 20 이하면 합 위력 +1",
+          "name": "闪烁的理解的文字",
+          "desc": "若目标的理智值不高于20点，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VioletTakeDamageUp] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层嫉妒易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[MentalCrack]"
                 }
               ]
             }
@@ -221,8 +221,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "이해 불능",
-          "desc": "[WhenUse] [Protection] 2 얻음",
+          "name": "不能理解",
+          "desc": "[WhenUse] 使自身获得2层守护 ",
           "coinlist": [
             {
               "coindescs": [
@@ -240,13 +240,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "쇄도하는 안식의 팔",
+          "name": "涌出的安息之臂",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 체력 100 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成100点体力伤害"
                 }
               ]
             }

@@ -710,39 +710,39 @@
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
-      "content": "여명"
+      "content": "黎明"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
-      "content": "정오"
+      "content": "正午"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
-      "content": "어스름"
+      "content": "黄昏"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
-      "content": "자정"
+      "content": "午夜"
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "클리포트 폭주 - {0}단계"
+      "content": "逆卡巴拉熔毁 - 等级{0}"
     },
     {
       "id": "SinkingWhite_stack",
-      "content": "산나비"
+      "content": "生蝶"
     },
     {
       "id": "SinkingWhite_turn",
-      "content": "죽은나비"
+      "content": "亡蝶"
     },
     {
       "id": "BulletLament_stack",
-      "content": "산나비(탄환)"
+      "content": "生蝶（弹药）"
     },
     {
       "id": "BulletLament_turn",
-      "content": "죽은나비(탄환)"
+      "content": "亡蝶（弹药）"
     }
   ]
 }

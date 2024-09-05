@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "Walpu4_event_desc",
-      "content": "자색 정오의 시련 쉬움, 어려움 난이도 전투에서 시련을 제압하며 미션을 클리어하세요.\n\n미션을 클리어하면 다양한 보상을 얻을 수 있습니다."
+      "content": "在紫罗兰的正午 - 考验的普通及困难难度下，镇压紫罗兰的正午单位。\n\n通过以下考验，您将获得多种奖励。"
     },
     {
       "id": "LobotomyStartTypo_Title_2",
@@ -14,7 +14,7 @@
     },
     {
       "id": "LobotomyStartTypo_Desc_2",
-      "content": "이해를 벗어난 것을 이해하기 위해 바라보며 꿈꾼다."
+      "content": "有朝一日，我们必将理解那些不能理解的东西。"
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_2",
@@ -34,23 +34,23 @@
     },
     {
       "id": "missionConditionTitle_10027",
-      "content": "7턴 안에 제압 성공"
+      "content": "7回合以内镇压成功"
     },
     {
       "id": "missionConditionTitle_10028",
-      "content": "교육팀 팀장이 1회 전투에서 이해의 과실을 3개체 처치"
+      "content": "培训部队长在单次战斗中击杀三个理解的果实"
     },
     {
       "id": "missionConditionTitle_10029",
-      "content": "이해의 과실이 단 한 번도 ‘붕괴’ 스킬을 사용하지 못하게 하고 제압 성공"
+      "content": "在理解的果实未使用技能“崩坏”的情况下镇压成功"
     },
     {
       "id": "missionConditionTitle_10030",
-      "content": "한 턴에 적 하나에게 화상(특수 화상), 출혈, 파열, 침잠(특수 침잠) 피해를 8회 이상 입히고 제압 성공"
+      "content": "一回合内对单名敌人造成8次以上烧伤(特殊烧伤)、流血、破裂、沉沦(特殊沉沦)伤害并完成镇压"
     },
     {
       "id": "missionConditionTitle_10031",
-      "content": "모든 아군이 생존한 상태로 제압 성공"
+      "content": "全体友方单位存活的状态下镇压成功"
     },
     {
       "id": "missionConditionTitle_10032",
@@ -58,19 +58,19 @@
     },
     {
       "id": "missionConditionTitle_10033",
-      "content": "1회 전투에서 현재 체력이 최대 체력의 80% 이상인 적을 스킬 1개로 처치"
+      "content": "一场战斗中，以单个技能击杀现存体力不低于体力上限80%的敌方单位"
     },
     {
       "id": "missionConditionTitle_10034",
-      "content": "교육팀 팀장이 적의 공격 스킬로 피해를 10회 미만으로 받고, 생존한 상태로 제압 성공"
+      "content": "培训部队长未受到超过10次敌方单位攻击技能伤害且存活的条件下完成镇压"
     },
     {
       "id": "missionConditionTitle_10035",
-      "content": "한 턴에 적 하나에게 8종류 이상의 부정적인 효과 부여"
+      "content": "一回合以内对一个敌方单位施加8种以上的负面状态"
     },
     {
       "id": "missionConditionTitle_10036",
-      "content": "한 턴에 적을 2개체 이상 처치"
+      "content": "一个回合以内击杀两个以上的敌方单位"
     },
     {
       "id": "missionConditionTitle_20026",
@@ -78,23 +78,23 @@
     },
     {
       "id": "missionConditionTitle_20027",
-      "content": "12턴 안에 제압 성공"
+      "content": "12回合以内镇压成功"
     },
     {
       "id": "missionConditionTitle_20028",
-      "content": "교육팀 팀장이 1회 전투에서 이해의 과실을 3개체 처치"
+      "content": "培训部队长在单次战斗中击杀三个理解的果实"
     },
     {
       "id": "missionConditionTitle_20029",
-      "content": "이해의 과실이 단 한 번도 ‘붕괴’ 스킬을 사용하지 못하게 하고 제압 성공"
+      "content": "在理解的果实未使用技能“崩坏”的情况下镇压成功"
     },
     {
       "id": "missionConditionTitle_20030",
-      "content": "한 턴에 적 하나에게 화상(특수 화상), 출혈, 파열, 침잠(특수 침잠) 피해를 18회 이상 입히고 제압 성공"
+      "content": "一回合内对单名敌人造成18次以上烧伤(特殊烧伤)、流血、破裂、沉沦(特殊沉沦)伤害并完成镇压"
     },
     {
       "id": "missionConditionTitle_20031",
-      "content": "모든 아군이 생존한 상태로 전투 제압 성공"
+      "content": "全体友方单位存活的状态下镇压成功"
     },
     {
       "id": "missionConditionTitle_20032",
@@ -102,27 +102,27 @@
     },
     {
       "id": "missionConditionTitle_20033",
-      "content": "1회 전투에서 현재 체력이 최대 체력의 80% 이상인 적을 스킬 1개로 처치"
+      "content": "一场战斗中，以单个技能击杀现存体力不低于体力上限80%的敌方单位"
     },
     {
       "id": "missionConditionTitle_20034",
-      "content": "교육팀 팀장이 적의 공격 스킬로 피해를 5회 미만으로 받고, 생존한 상태로 제압 성공"
+      "content": "培训部队长未受到超过5次敌方单位攻击技能伤害且存活的条件下完成镇压"
     },
     {
       "id": "missionConditionTitle_20035",
-      "content": "한 턴에 적 하나에게 6종류 이상의 부정적인 효과 부여"
+      "content": "一回合以内对一个敌方单位施加6种以上的负面状态"
     },
     {
       "id": "missionConditionTitle_20036",
-      "content": "한 턴에 적을 2개체 이상 처치"
+      "content": "一个回合以内击杀两个以上的敌方单位"
     },
     {
       "id": "missionConditionTitle_20037",
-      "content": "사랑을 주소서의 몸통을 제외한 모든 부위를 파괴하고 제압 성공"
+      "content": "破坏请给我们爱除躯干部位的其余所有部位并镇压成功"
     },
     {
       "id": "missionConditionTitle_20038",
-      "content": "교육팀 팀장이 사랑을 주소서 처치"
+      "content": "培训部队长击杀请给我们爱"
     },
     {
       "id": "missionConditionTitle_30003",
@@ -130,7 +130,7 @@
     },
     {
       "id": "LobotomyClearTypo_Desc_2",
-      "content": "이해하기 위해 기울이지 않는다. 그저 행할 뿐이다."
+      "content": "它们不向往理解。仅仅是在行动。"
     },
     {
       "id": "walpu4_hard_stage_unlock_condition",
@@ -146,7 +146,7 @@
     },
     {
       "id": "LobotomyStartTypo_Desc_3",
-      "content": "하릴없이 미약한 행동만이 우리에게 들렸으며, 그들에게 자비와 사랑을 구했다."
+      "content": "我们听见了弱者的挣扎与悲鸣，向它们乞求爱与慈悲吧。"
     },
     {
       "id": "LobotomyClearTypo_Title_3",
@@ -158,7 +158,7 @@
     },
     {
       "id": "LobotomyClearTypo_Desc_3",
-      "content": "이해하지 못함과 더불어 그들 또한 우리를 이해하지 못하리라."
+      "content": "我们不能理解它们，它们更不会理解我们。"
     },
     {
       "id": "KillCount_Title_2",
@@ -178,7 +178,7 @@
     },
     {
       "id": "tutorial_mainui_walpu4_01_desc_01",
-      "content": "[제4회 발푸르기스밤 - 자색 정오의 시련]은 주요 이야기의 진행도에 관계 없이 개방됩니다. 유리창이나 운전석에 있는 이벤트 배너를 통해 입장할 수 있습니다."
+      "content": "[第4次 瓦尔普吉斯之夜 - 紫罗兰的正午] 不论您的主线故事进度，都将解锁。您可以通过玻璃窗或驾驶席上的活动横幅进入。"
     },
     {
       "id": "tutorial_mainui_walpu4_02_title_01",
@@ -186,7 +186,7 @@
     },
     {
       "id": "tutorial_mainui_walpu4_02_desc_01",
-      "content": "제4회 발푸르기스밤 이벤트 기간이 표시됩니다. 이벤트 기간 동안 쉬움 난이도, 어려움 난이도의 전투를 진행하여 미션을 수행하고, 완료한 미션의 보상을 수령할 수 있습니다."
+      "content": "第4次 瓦尔普吉斯之夜的活动持续时间显示在这里。活动期间内，完成简单及困难难度的战斗任务，可以领取任务奖励的报酬。"
     },
     {
       "id": "tutorial_mainui_walpu4_03_title_01",
@@ -194,7 +194,7 @@
     },
     {
       "id": "tutorial_mainui_walpu4_03_desc_01",
-      "content": "문을 눌러 쉬움 난이도 전투에 입장할 수 있습니다.  전투는 입장 시 엔케팔린 모듈을 소모합니다. 쉬움 난이도 전투에서는 인격의 레벨이 45레벨보다 낮은 경우, 45레벨로 상승합니다. 또한 인격의 동기화 단계, E.G.O의 환상 해석 단계가 3단계보다 낮은 경우, 3단계로 상승합니다."
+      "content": "选择这扇门可进入简单难度战斗。进入战斗时会消耗脑啡肽模组。简单难度下，45级以下的人格等级将被自动提升至45。并且，人格的同步进度和E.G.O异想解析进度若是低于3阶段，将被自动提升至3阶段。"
     },
     {
       "id": "tutorial_mainui_walpu4_03_title_02",
@@ -202,7 +202,7 @@
     },
     {
       "id": "tutorial_mainui_walpu4_03_desc_02",
-      "content": "쉬움 난이도 전투를 클리어하면 어려움 난이도 전투가 개방됩니다. 어려움 난이도 전투는 인격의 레벨, 인격의 동기화 단계, E.G.O의 환상해석 단계가 현재 육성 상태로 반영됩니다."
+      "content": "通过简单难度将解锁困难难度。在困难难度下，人格的等级、同步进度与E.G.O异想解析进度将保持不变。"
     },
     {
       "id": "tutorial_mainui_walpu4_04_title_01",
@@ -210,7 +210,7 @@
     },
     {
       "id": "tutorial_mainui_walpu4_04_desc_01",
-      "content": "전투 편성에서 1번으로 선택한 수감자에게 ‘교육팀 팀장’ 효과가 부여됩니다. ‘교육팀 팀장’ 효과를 받은 수감자는 전투에서 행동 수가 증가하고, 이로운 효과를 얻습니다."
+      "content": "以第一顺位进入关卡的罪人将被赋予“培训部队长”效果。拥有“培训部队长”效果的罪人将在战斗中获得额外技能槽，其技能数量也会产生变动。"
     },
     {
       "id": "tutorial_mainui_walpu4_05_title_01",

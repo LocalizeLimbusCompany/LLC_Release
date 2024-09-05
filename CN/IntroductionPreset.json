@@ -1198,27 +1198,27 @@
     },
     {
       "id": "introduce_word_151",
-      "content": "본성"
+      "content": "本能"
     },
     {
       "id": "introduce_sentence_151",
-      "content": "흥, 그 따위 마음은 그저 저주받은 {0}에 지나지 않지."
+      "content": "哼。那种心情不过是被诅咒的{0}而已。"
     },
     {
       "id": "introduce_word_152",
-      "content": "애도"
+      "content": "哀悼"
     },
     {
       "id": "introduce_sentence_152",
-      "content": "{0}에 미사여구는 필요치 않겠소."
+      "content": "{0}无需华丽辞藻。"
     },
     {
       "id": "introduce_word_153",
-      "content": "믿음"
+      "content": "信念"
     },
     {
       "id": "introduce_sentence_153",
-      "content": "그 {0}(은/는) 헛된 바람일 뿐이지 않나…"
+      "content": "那份{0}仅是毫无意义的期望……"
     }
   ]
 }

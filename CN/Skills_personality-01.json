@@ -1055,8 +1055,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "붓 털기",
-          "desc": "대상의 [Laceration]이 6 이상이면, 기본 위력 +5",
+          "name": "甩笔",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的基础威力+5",
           "coinlist": [
             {
               "coindescs": [
@@ -1069,8 +1069,8 @@
         },
         {
           "level": 4,
-          "name": "붓 털기",
-          "desc": "대상의 [Laceration] 1당 기본 위력 +1 (최대 10)",
+          "name": "甩笔",
+          "desc": "目标每带有1级流血 强度，使本技能的基础威力+1(最多+10)",
           "coinlist": [
             {
               "coindescs": [
@@ -1088,26 +1088,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "떠난이에게 축하를",
+          "name": "予逝者以祝贺",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             }
@@ -1115,26 +1115,26 @@
         },
         {
           "level": 2,
-          "name": "떠난이에게 축하를",
-          "desc": "대상의 [Sinking]과 모든 [SinkingWhite]의 합이 6 이상이면, 코인 위력 +1\n[WinDuel] [Sinking] 횟수 2 증가",
+          "name": "予逝者以祝贺",
+          "desc": "若目标的沉沦 强度与两种蝶 的点数之和不低于6点，则使本技能的硬币威力+1\n[WinDuel] 对目标施加2层沉沦 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             }
@@ -1142,26 +1142,26 @@
         },
         {
           "level": 4,
-          "name": "떠난이에게 축하를",
-          "desc": "<style=\"highlight\">보유한 [BulletLament]가 10 이상이면, 합 위력 +1</style>\n대상의 [Sinking]과 모든 [SinkingWhite]의 합이 6 이상이면, 코인 위력 +1\n[WinDuel] [Sinking] 횟수 2 증가",
+          "name": "予逝者以祝贺",
+          "desc": "若自身的生蝶·亡蝶 不低于10点，则使本技能的拼点威力+1\n若目标的沉沦 强度与两种蝶 的点数之和不低于6点，则使本技能的硬币威力+1\n[WinDuel] 对目标施加2层沉沦 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             }
@@ -1174,26 +1174,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "남은자에게 엄숙한 애도를",
+          "name": "予弥留者以庄严哀悼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 5 소모"
+                  "desc": "消耗5点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1层生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             }
@@ -1201,26 +1201,26 @@
         },
         {
           "level": 2,
-          "name": "남은자에게 엄숙한 애도를",
-          "desc": "대상의 [Sinking]과 모든 [SinkingWhite]의 합이 6 이상이면, 코인 위력 +1\n[WinDuel] [Sinking] 횟수 1 증가\n[EndSkill] 최대 공명 수만큼 [BulletLament]를 얻음 (최대 6)\n- 해당 공명이 완전 공명이면, (최대 공명 수 x 2)만큼 얻음 (최대 12)",
+          "name": "予弥留者以庄严哀悼",
+          "desc": "若目标的沉沦 强度与两种蝶 的点数之和不低于6点，则使本技能的硬币威力+1\n[WinDuel] 对目标施加1层沉沦 \n[EndSkill] 使自身获得(最大共鸣数)点生蝶·亡蝶 (最多6点)\n- 若该共鸣为完全共鸣，则改为使自身获得(最大共鸣数×2)点生蝶·亡蝶 (最多12点)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 5 소모"
+                  "desc": "消耗5层生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             }
@@ -1228,26 +1228,26 @@
         },
         {
           "level": 4,
-          "name": "남은자에게 엄숙한 애도를",
-          "desc": "보유한 [BulletLament]가 10 이상이면, 합 위력 +1\n대상의 [Sinking]과 모든 [SinkingWhite]의 <style=\"highlight\">합 6 당, 코인 위력 +1(최대 2)</style>\n[WinDuel] [Sinking] 횟수 1 증가\n[EndSkill] 최대 공명 수만큼 [BulletLament]를 얻음 (최대 6)\n- 해당 공명이 완전 공명이면, (최대 공명 수 x 2)만큼 얻음 (최대 12)\n- 해당 공명이 완전 공명 4 이상이면, 대신 [ReloadLament]",
+          "name": "予弥留者以庄严哀悼",
+          "desc": "若自身的生蝶·亡蝶 不低于10点，则使本技能的拼点威力+1\n目标的沉沦 强度与两种蝶 的点数之和每有6点，使本技能的硬币威力+1(最多+2)\n[WinDuel] 对目标施加1层沉沦 \n[EndSkill] 使自身获得(最大共鸣数)点生蝶·亡蝶 (最多6点)\n- 若该共鸣为完全共鸣，则改为使自身获得(最大共鸣数×2)点生蝶·亡蝶 \n- 若该共鸣为完全共鸣且共鸣数不低于4点，则使自身再次装填 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 5 소모"
+                  "desc": "消耗5点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点生蝶·亡蝶 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的生蝶·亡蝶 点数对目标施加相应点数的蝶 "
                 }
               ]
             }
@@ -1260,46 +1260,46 @@
       "levelList": [
         {
           "level": 3,
-          "name": "이상으로 장례는 이상이오",
-          "desc": "보유한 [BulletLament] 10마다, 기본 위력 +1 (최대 2)\n[WinDuel] [Sinking] 횟수 3 증가\n[EndSkill] [ReloadLament]",
+          "name": "葬仪师李箱，以上",
+          "desc": "自身每带有10点[BulletLament]，使本技能的基础威力+1(最多+2)\n[WinDuel] 对目标施加3层沉沦 \n[EndSkill] 使自身[ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点[BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的[BulletLament]点数对目标施加相应点数的[SinkingWhite]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 6 소모"
+                  "desc": "消耗6点[BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的[BulletLament]点数对目标施加相应点数的[SinkingWhite]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "보유한 [BulletLament] 전부 소모"
+                  "desc": "消耗自身所有[BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的[BulletLament]点数对目标施加相应点数的[SinkingWhite]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬에서 소모한 [BulletLament] 1당 피해량 +2%"
+                  "desc": "[OnSucceedAttack] 本技能每消耗1点[BulletLament]，使本硬币造成的伤害+2%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 모든 [SinkingWhite]만큼 우울 피해\n- 산나비와 죽은나비의 합으로 계산"
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其所有[SinkingWhite]点数的忧郁伤害\n- 以生蝶与亡蝶之和计算"
                 }
               ]
             }
@@ -1307,46 +1307,46 @@
         },
         {
           "level": 4,
-          "name": "이상으로 장례는 이상이오",
-          "desc": "보유한 [BulletLament] <style=\"highlight\">5</style> 마다 기본 위력 +1 <style=\"highlight\">(최대 4)</style>\n대상의 [Sinking]과 모든 [SinkingWhite]의 합 6당, 코인 위력 +1 (최대 2)\n[WinDuel] [Sinking] 횟수 3 증가\n[EndSkill] [ReloadLament]",
+          "name": "葬仪师李箱，以上",
+          "desc": "自身每带有5点[BulletLament]，使本技能的基础威力+1(最多+4)\n目标沉沦 强度与两种蝶 之和每有6点，使本技能的硬币威力+1(最多+2)\n[WinDuel] 对目标施加3层沉沦 \n[EndSkill] 使自身[ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 1 소모"
+                  "desc": "消耗1点[BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的[BulletLament]点数对目标施加相应点数的[SinkingWhite]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletLament] 6 소모"
+                  "desc": "消耗6点[BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的[BulletLament]点数对目标施加相应点数的[SinkingWhite]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "보유한 [BulletLament] 전부 소모"
+                  "desc": "消耗自身所有[BulletLament]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여"
+                  "desc": "[OnSucceedAttack] 根据消耗的[BulletLament]点数对目标施加相应点数的[SinkingWhite]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬에서 소모한 [BulletLament] 1당 피해량 +4%"
+                  "desc": "[OnSucceedAttack] 本技能每消耗1点[BulletLament]，使本硬币造成的伤害+4%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 모든 [SinkingWhite]만큼 우울 피해\n- 산나비와 죽은나비의 합으로 계산"
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其所有[SinkingWhite]点数的忧郁伤害\n- 以生蝶与亡蝶之和计算"
                 }
               ]
             }
@@ -1359,8 +1359,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "관에서나비가날아오리라",
-          "desc": "[StartBattle] [ReloadLament] (턴 당 1회)",
+          "name": "蝶自棺中而来",
+          "desc": "[StartBattle] 使自身[ReloadLament](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1373,8 +1373,8 @@
         },
         {
           "level": 4,
-          "name": "관에서나비가날아오리라",
-          "desc": "[StartBattle] [ReloadLament] (턴 당 1회)\n[StartBattle] 최대 체력의 (지정한 대상의 모든 [SinkingWhite])% 만큼 보호막을 얻음. (턴 당 최대 20%)",
+          "name": "蝶自棺中而来",
+          "desc": "[StartBattle] 使自身[ReloadLament](每回合最多1次)\n[StartBattle] 使自身获得体力上限(指定目标的两种[SinkingWhite]点数之和)%的护盾(每回合最多20%)",
           "coinlist": [
             {
               "coindescs": [
