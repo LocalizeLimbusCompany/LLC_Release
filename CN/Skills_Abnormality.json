@@ -4694,16 +4694,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "舔舐伤口",
-          "desc": "[WhenUse] 若目标带有流血 ，则对目标施加1层麻痹 ",
+          "name": "상처 훑기",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 대상이 출혈을 가지고 있다면, 마비 1 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 层数高于2层，则使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 출혈 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 출혈 횟수가 2 이상이면 출혈 5 부여."
                 }
               ]
             }
@@ -4716,13 +4719,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "束缚伤痕",
-          "desc": "[WhenUse]  若目标带有流血 ，则下回合对目标施加1层束缚 ",
+          "name": "옭아매인 상처",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 대상이 출혈을 가지고 있다면, 다음 턴에 속박 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 출혈 3 부여"
                 }
               ]
             }
