@@ -26,7 +26,7 @@ jobs:
         ./LocalizeLimbusCompany/Localize/Download.ps1 ${{ secrets.PARATRANZ_ROOT }} ${{ secrets.SERVER_AUTH }}
     - name: Upload Error.txt to artifact
       if: steps.check_error.outputs.has_error == 'true'
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: error-log
         path: ./LocalizeLimbusCompany/Localize/Error.txt
