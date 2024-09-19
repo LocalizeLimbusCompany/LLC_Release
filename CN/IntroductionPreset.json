@@ -1219,6 +1219,22 @@
     {
       "id": "introduce_sentence_153",
       "content": "那份{0}仅是毫无意义的期望……"
+    },
+    {
+      "id": "introduce_word_154",
+      "content": "가방"
+    },
+    {
+      "id": "introduce_sentence_154",
+      "content": "아… 이렇게 나도 {0}만… 남기게 되나…"
+    },
+    {
+      "id": "introduce_word_155",
+      "content": "청소"
+    },
+    {
+      "id": "introduce_sentence_155",
+      "content": "{0}(이/가) 끝나질 않잖아…"
     }
   ]
 }
