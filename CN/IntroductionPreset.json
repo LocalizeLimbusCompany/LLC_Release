@@ -1222,19 +1222,19 @@
     },
     {
       "id": "introduce_word_154",
-      "content": "가방"
+      "content": "包"
     },
     {
       "id": "introduce_sentence_154",
-      "content": "아… 이렇게 나도 {0}만… 남기게 되나…"
+      "content": "啊……我也只会……剩下这只{0}……"
     },
     {
       "id": "introduce_word_155",
-      "content": "청소"
+      "content": "扫除"
     },
     {
       "id": "introduce_sentence_155",
-      "content": "{0}(이/가) 끝나질 않잖아…"
+      "content": "这场{0}怎么还没有结束……"
     }
   ]
 }
