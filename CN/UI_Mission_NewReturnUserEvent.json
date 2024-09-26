@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "mission_ui_condition_tags_103001001",
-      "content": "总计通过{0}次章节I后的任意故事关卡"
+      "content": "总计通过{0}次章节I后的任意剧情关卡"
     },
     {
       "id": "mission_ui_condition_tags_103002001",
@@ -82,7 +82,7 @@
     },
     {
       "id": "return_user_remain_Luxcavation_bonus",
-      "content": "잔여 일일 복귀 보너스"
+      "content": "剩余的日常回归奖励"
     },
     {
       "id": "move_to_luxcavation",
@@ -94,51 +94,51 @@
     },
     {
       "id": "information_about_luxcavation",
-      "content": "채광 보너스 안내"
+      "content": "采光奖励指南"
     },
     {
       "id": "information_about_returning_user_package",
-      "content": "복귀 한정 패키지 안내"
+      "content": "回归限定组合包指南"
     },
     {
       "id": "information_about_returning_user_package_desc",
-      "content": "이벤트 기간 동안 복귀 한정 패키지를\n상점에서 구매하실 수 있습니다."
+      "content": "活动期间，回归限定组合包\n可在商店中购买。"
     },
     {
       "id": "returning_user_exp_luxcavation_bonus_desc",
-      "content": "经验采光每日加成次数：{0}次"
+      "content": "经验采光每日奖励次数：{0}次"
     },
     {
       "id": "returning_user_thread_luxcavation_bonus_desc",
-      "content": "纺锤采光日常奖励次数：{0}次"
+      "content": "纺锤采光每日奖励次数：{0}次"
     },
     {
       "id": "returning_user_luxcavation_bonus_desc",
-      "content": "이벤트 기간 동안 채광 클리어 시 기본 보상을 추가로 획득할 수 있습니다."
+      "content": "活动期间，您可以在通关采光时获得额外奖励。"
     },
     {
       "id": "returning_user_mission",
-      "content": "回归经理任务"
+      "content": "回归任务"
     },
     {
       "id": "attendance_check",
-      "content": "출석 체크"
+      "content": "出勤签到"
     },
     {
       "id": "welcome_returning_user",
-      "content": "업무 복귀를 환영합니다. 관리자님!"
+      "content": "欢迎回归办公，执行经理！"
     },
     {
       "id": "luxcavation_bonus_and_package",
-      "content": "채광 보너스&패키지"
+      "content": "采光奖励&组合包"
     },
     {
       "id": "until_event_finish_date",
-      "content": "이벤트 종료까지 {0}일 남음"
+      "content": "距活动结束还有{0}天"
     },
     {
       "id": "event_for_new_user_from_date",
-      "content": "대상 : <color=#990000>{0}월 {1}일</color> 12:00(KST) 이후 신규 생성된 계정"
+      "content": "对象：<color=#990000>{0}月{1}日</color>11:00(CST)后新创建的账户"
     },
     {
       "id": "mission_progress_rate",
@@ -146,19 +146,19 @@
     },
     {
       "id": "welcome_returing_user_title",
-      "content": "복귀 지원\n물품 지급"
+      "content": "回归支援\n物资补给"
     },
     {
       "id": "welcome_returing_user_desc",
-      "content": "관리자님의 복귀를 환영합니다."
+      "content": "欢迎执行经理回归。"
     },
     {
       "id": "returning_user_attendance_check_title",
-      "content": "복귀 관리자님을 위한 출석 체크 이벤트"
+      "content": "回归经理专用 出勤签到活动"
     },
     {
       "id": "returning_user_attendance_check_desc",
-      "content": "※ 이벤트 기간 동안 누적 출석 일수에 따라 보상을 획득할 수 있습니다.\n\n※ 일간 초기화를 기준으로 서버 통신이 진행되면 당일 출석한 것으로 인정됩니다."
+      "content": "※ 活动期间，您可以根据累计出勤天数获得相应奖励。\n\n※ 当日出勤会在每日服务器重置后进行判定。"
     },
     {
       "id": "complete_to_receive",
@@ -166,7 +166,7 @@
     },
     {
       "id": "already_owned",
-      "content": "持有时"
+      "content": "已持有"
     },
     {
       "id": "move_shortcut",
@@ -174,7 +174,7 @@
     },
     {
       "id": "warning_about_change_season_item",
-      "content": "시즌 4 동기화, 환상해석 전용 파편 아이템은 새로운 시즌이 시작될 때 절반으로 감소한 뒤 이월되는 아이템입니다.\n그래도 수령하시겠습니까?"
+      "content": "道具第4赛季同步和异想解析专用碎片仅有一半会在新赛季开始时继承。\n您仍要领取吗？"
     }
   ]
 }
