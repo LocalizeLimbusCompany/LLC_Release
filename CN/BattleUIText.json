@@ -758,11 +758,11 @@
     },
     {
       "id": "battle_operation_defense_TextTypo",
-      "content": "위력 경감!"
+      "content": "威力削弱！"
     },
     {
       "id": "battle_StageBuffUI_Stackdesc",
-      "content": "(현재 수치: {0})"
+      "content": "(当前值：{0})"
     }
   ]
 }
