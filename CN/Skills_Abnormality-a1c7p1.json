@@ -110,7 +110,7 @@
                   "desc": "[OnSucceedAttack] 使自身增加5级呼吸法 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [OnSucceedAttack] 若自身的速度值不低于7，则使目标增加3级破裂 强度并对其施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低于7，则使目标增加3级破裂 强度并对其施加1层破裂 "
                 }
               ]
             },
