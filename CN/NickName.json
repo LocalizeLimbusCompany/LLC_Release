@@ -5172,7 +5172,7 @@
     },
     {
       "name": "데드레빗츠1",
-      "krname": "死兔帮1",
+      "krname": "死兔帮",
       "jpname": "",
       "enname": "",
       "fileName": "Deadrabbits_1",
@@ -5194,7 +5194,7 @@
     },
     {
       "name": "데드레빗츠2",
-      "krname": "死兔帮2",
+      "krname": "死兔帮",
       "jpname": "",
       "enname": "",
       "fileName": "Deadrabbits_2",
@@ -5238,7 +5238,7 @@
     },
     {
       "name": "린튼버틀러1",
-      "krname": "林顿管家1",
+      "krname": "林顿管家",
       "jpname": "",
       "enname": "",
       "fileName": "LintonButler_2",
@@ -5260,7 +5260,7 @@
     },
     {
       "name": "린튼버틀러2",
-      "krname": "林顿管家2",
+      "krname": "林顿管家",
       "jpname": "",
       "enname": "",
       "fileName": "LintonButler_1",
@@ -5282,7 +5282,7 @@
     },
     {
       "name": "T사갱단1",
-      "krname": "T公司黑帮1",
+      "krname": "T公司黑帮",
       "jpname": "",
       "enname": "",
       "fileName": "TCorpGang_1",
@@ -5304,7 +5304,7 @@
     },
     {
       "name": "T사갱단2",
-      "krname": "T公司黑帮2",
+      "krname": "T公司黑帮",
       "jpname": "",
       "enname": "",
       "fileName": "TCorpGang_2",
