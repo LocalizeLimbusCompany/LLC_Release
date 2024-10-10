@@ -1,0 +1,840 @@
+{
+  "dataList": [
+    {
+      "id": 9015201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血强化突刺",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血斩击",
+          "desc": "[WhenUse] 若目标的流血 强度不低于8级，则使本技能造成的伤害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的流血 强度不低于6级，则使自身获得1层硬化血液 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加8级流血 强度并使自身获得1层带血的剪刃 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血强化斩击",
+          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的基础威力+1\n自身每带有1层硬化血液 ，使本技能造成的伤害+5%(最多+25%)\n[EndSkill] 消耗所有[HardenedBlood]与[BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(目标的流血 强度)%的体力(最多20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有1层[HardenedBlood]，使本技能的基础威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "楔形硬血",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血割裂",
+          "desc": "[WhenUse] 若目标的流血 强度不低于4级，则使本技能造成的伤害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的流血 强度不低于6级，则使自身获得1层硬化血液 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身增加8级流血 强度并使自身获得1层带血的剪刃 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "硬血强化割裂",
+          "desc": "[WhenUse] 若目标的流血 层数不低于6层，则使本技能的基础威力+1\n自身每带有1层硬化血液 ，使本技能造成的伤害+5%(最多+25%)\n[EndSkill] 消耗所有[HardenedBlood]与[BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(目标的流血 强度)%的体力(最多20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有1层[HardenedBlood]，使本技能的基础威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "是庆典啊，庆典！",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我来为你打扮",
+          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能造成的伤害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于5级，则使自身获得1层硬化血液 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "现在还能参加活动！",
+          "desc": "[WhenUse] 消耗最多50层血宴 ，每消耗10层血宴 使自身获得1层带血的剪刃 \n[WhenUse] 若本技能未消耗血宴 层数，则对自身施加5层易损 ，使自身获得1层硬化血液 \n[WhenUse] 若目标的流血 强度不低于5级，则使本技能硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "别着急",
+          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能硬币威力+1\n[WhenUse] 根据带血的剪刃 阶段，使本技能拼点威力相应增加(最多+3)\n自身每带有1层硬化血液 ，则使本技能造成的伤害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 层数",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加8级流血 强度"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 消耗最多5层带血的剪刃 ，使本硬币造成的伤害+(20 * 消耗的带血的剪刃 层数)%(最多+100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 恢复体力上限(目标的流血 强度)%的体力(最多30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反击",
+          "desc": "[WhenUse] 若自身的[BloodScissor]层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的[HardenedBlood]层数不低于3层，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "还要更多",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "再吃一点",
+          "desc": "[WhenUse] 若目标的流血 强度不低于4级，则使本技能造成的伤害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于5级，则使自身获得1层[HardenedBlood]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "如此美味！",
+          "desc": "[WhenUse] 消耗至多50层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层[BloodScissor]\n[WhenUse] 若本技能未消耗[BloodDinner]，则使自身增加5级流血 强度并获得1层[HardenedBlood]\n[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "쥐새끼 같은 꼴이구나!",
+          "desc": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] [BloodScissor]에 비례해서, 합 위력 +1 (최대 3)\n[HardenedBlood]당 피해량 +7% (최대 35%)\n[EndSkill] [HardenedBlood] 전부 소모",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 8 부여"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [BloodScissor]를 최대 5 소모하여 피해량 (20 * 소모한 [BloodScissor])% 증가 (최대 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration] 위력)%만큼 체력 회복 (최대 30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反击",
+          "desc": "[WhenUse] 若自身的[BloodScissor]层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的[HardenedBlood]层数不低于3层，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "내려치기",
+          "desc": "대상의 [Burst]이 5 이상이면, 피해량 +10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "상처 짓이기기",
+          "desc": "대상의 [Burst]이 5 이상이면, 기본 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [TakeHpHealReduce] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Burst]이 5 이상이면, 추가로 [TakeHpHealReduce] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "과격한 내려찍기",
+          "desc": "[WhenUse] 대상의 [Burst]이 10 이상이면, 이 스킬로 적중 시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 4 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Burst]이 10 이상이면, 피해량 +30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "지혈",
+          "desc": "[WhenUse] 자신에게 [Laceration]이 있다면, 자신의 [Laceration] 2 감소 (1 미만으로는 감소하지 않음)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "내려치기",
+          "desc": "대상의 [Burst] 횟수가 3 이상이면, 피해량 +10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "상처 짓이기기",
+          "desc": "대상의 [Burst] 횟수가 3 이상이면, 기본 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [TakeHpHealReduce] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Burst]이 5 이상이면, 추가로 [TakeHpHealReduce] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "과격한 내려찍기",
+          "desc": "[WhenUse] 대상의 [Burst]이 10 이상이면, 이 스킬로 적중 시 [Burst] 횟수를 소모하지 않음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Burst]이 10 이상이면, 피해량 +30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "지혈",
+          "desc": "[WhenUse] 자신에게 [Laceration]이 있다면, 자신의 [Laceration] 2 감소(1 미만으로는 감소하지 않음)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "행패부리기",
+          "desc": "[WhenUse] [Breath] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Paralysis] 1 부여"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 피해량 20% 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "핍박하기",
+          "desc": "[WhenUse] [Breath] 2 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [DefenseDown] 1 부여"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 대상이 [TrulyWeak] 디버프를 가지고 있으면, 피해량 30% 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "\"으르렁..\"",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "\"크르렁..\"",
+          "desc": "대상에게 [Laceration]이 5 이상 있으면, 피해량 +10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "아니, 그러니까..\"으르렁\"",
+          "desc": "대상에게 [Laceration]이 5 이상 있으면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...",
+          "desc": "[WhenUse] 使自身获得1层守护 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9016105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "喂，我还得继续下去吗？",
+          "desc": "[WhenUse] 下回合使自身获得1层强壮 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

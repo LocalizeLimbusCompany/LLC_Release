@@ -103,7 +103,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "血…血…血！",
+          "name": "血…血…血…！",
           "desc": "[WhenUse] 若目标的流血 强度不低于8级，则使本技能的硬币威力+1\n[DefeatDuel] 使自身失去1层[KeptBlood]",
           "coinlist": [
             {
