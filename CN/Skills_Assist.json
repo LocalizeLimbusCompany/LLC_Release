@@ -5,26 +5,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적격",
-          "desc": "[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)",
+          "name": "贾惜春1技能",
+          "desc": "[WhenUse] 若目标带有的负面状态不少于5种，拼点威力+1\n[WhenUse] 目标每带有3级破裂 强度，则使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层攻击等级提升 "
                 }
               ]
             }
