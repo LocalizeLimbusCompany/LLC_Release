@@ -186,7 +186,7 @@
     },
     {
       "id": "battle_pass_package_purchase_popup_desc",
-      "content": "◆购买后立即增加10通行证等级。\n◆包含以下的内容。"
+      "content": "◆购买后立即提升10通行证等级。\n◆包含以下的内容。"
     },
     {
       "id": "battle_pass_limbus_purchase_popup_desc",
@@ -222,7 +222,7 @@
     },
     {
       "id": "battlepass_purchase_desc_pass_level",
-      "content": "购买后立即增加10通行证等级"
+      "content": "购买后立即提升10通行证等级"
     },
     {
       "id": "battlepass_purchase_desc_level_ticket",
