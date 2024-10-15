@@ -219,7 +219,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "剪断！！",
+          "name": "咔嚓！！",
           "desc": "[WhenUse] 消耗至多30层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层[BloodScissor]并恢复3点理智值\n[WhenUse] 若目标带有[LineCutting]，则使本技能的拼点威力+5\n攻击命中带有[LineCutting]的目标时，使自身恢复5点理智值",
           "coinlist": [
             {
