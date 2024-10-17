@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 내려치기",
-          "desc": "[WhenUse] 자신에게 [HardenedBlood]이 있고 이 스킬의 코인에 [Burst]을 부여하는 효과가 있으면, 추가로 [Laceration] 횟수 1 증가",
+          "name": "硬血猛砸",
+          "desc": "[WhenUse] 若自身带有硬化血液 且本技能的硬币带有施加破裂 的效果，则额外对目标施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -31,30 +31,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "목적 잃은 분노",
-          "desc": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신에게 [HardenedBlood]이 3 이상 있고 이 스킬의 코인에 [Burst]을 부여하는 효과가 있으면, 추가로 [Laceration] 2 부여",
+          "name": "失去目的的暴怒",
+          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层且本技能的硬币带有施加破裂 的效果，则额外使目标增加2级流血 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [Laceration]이 있으면, [HardenedBlood] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则使自身获得1层硬化血液 "
                 }
               ]
             }
@@ -67,40 +67,40 @@
       "levelList": [
         {
           "level": 1,
-          "name": "무절제한 내려찍기",
-          "desc": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1",
+          "name": "无节制下砍",
+          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 피해량 +20%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本技能造成的伤害+20%"
                 }
               ]
             }
@@ -113,8 +113,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[WhenUse] 대상에게 [Laceration]이 있다면, [HardenedBlood] 1 얻음",
+          "name": "防御",
+          "desc": "[WhenUse] 若目标带有流血 ，则使自身获得1层硬化血液 ",
           "coinlist": [
             {
               "coindescs": [
@@ -132,20 +132,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 내려치기",
-          "desc": "[WhenUse] 자신에게 [HardenedBlood]이 있고 이 스킬의 코인에 [Burst]을 부여하는 효과가 있으면, 추가로 [Laceration] 횟수 1 증가",
+          "name": "硬血猛砸",
+          "desc": "[WhenUse] 若自身带有硬化血液 且本技能的硬币带有施加破裂 的效果，则额外对目标施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -158,30 +158,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "목적 잃은 분노",
-          "desc": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신에게 [HardenedBlood]이 3 이상 있고 이 스킬의 코인에 [Burst]을 부여하는 효과가 있으면, 추가로 [Laceration] 1 부여",
+          "name": "失去目的的暴怒",
+          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层且本技能的硬币带有施加破裂 的效果，则额外对目标施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 [Laceration]이 있으면, [HardenedBlood] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标带有流血 ，则使自身获得1层硬化血液 "
                 }
               ]
             }
@@ -194,40 +194,40 @@
       "levelList": [
         {
           "level": 1,
-          "name": "무절제한 내려찍기",
-          "desc": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1",
+          "name": "无节制下砍",
+          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vulnerable] 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 피해량 +20%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本技能造成的伤害+20%"
                 }
               ]
             }
@@ -240,8 +240,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "[WhenUse] 대상에게 [Laceration]이 있다면, [HardenedBlood] 1 얻음",
+          "name": "防御",
+          "desc": "[WhenUse] 若目标带有流血 ，则使自身获得1层硬化血液 ",
           "coinlist": [
             {
               "coindescs": [
@@ -259,16 +259,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 후려치기",
-          "desc": "[DefeatDuel] [Laceration] 10, [Laceration] 횟수 1 얻음",
+          "name": "硬血鞭笞",
+          "desc": "[DefeatDuel] 使自身增加10级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 10 과 [BloodyHand] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加10级流血 强度并使自身获得1层染血之手 "
                 }
               ]
             }
@@ -281,33 +281,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 휘두르기",
-          "desc": "[WhenUse] 대상의 [Laceration]이 8 이상이면, 피해량 +20%",
+          "name": "硬血挥击",
+          "desc": "[WhenUse] 若目标的流血 强度不低于8级，则使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 6 이상이면, [HardenedBlood] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 20과 [BloodyHand] 2 얻음 "
+                  "desc": "[OnSucceedAttack] 使自身增加20级流血 强度并使自身获得2层染血之手 "
                 }
               ]
             }
@@ -320,23 +320,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 타격",
-          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +1\n[WhenUse] 이 스킬로 대상에게 [Laceration]을 부여할 때, 자신의 [HardenedBlood] 만큼 [Burst]을 추가로 부여\n[EndSkill] [HardenedBlood], [BloodyHand] 전부 소모",
+          "name": "硬血强化打击",
+          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加流血 时，根据自身带有的硬化血液 层数，额外使目标增加破裂 强度\n[EndSkill] 消耗所有硬化血液 与染血之手 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration])% 만큼 체력 회복 (최대 20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(目标的流血 强度)%的体力(最多20%)"
                 }
               ]
             }
@@ -349,13 +349,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] 자신의 [HardenedBlood] 1 당, 기본 위력 +1",
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有1层硬化血液 ，使本技能的基础威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -368,16 +368,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 후려치기",
-          "desc": "[DefeatDuel] [Laceration] 10, [Laceration] 횟수 1 얻음",
+          "name": "硬血鞭笞",
+          "desc": "[DefeatDuel] 使自身增加10级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] [Laceration] 对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 10과 [BloodyHand] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加10级流血 强度并使自身获得1层染血之手 "
                 }
               ]
             }
@@ -390,33 +390,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 휘두르기",
-          "desc": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 피해량 +10%",
+          "name": "硬血挥击",
+          "desc": "[WhenUse] 若目标的流血 强度不低于4级，则使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 6 이상이면, [HardenedBlood] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 20과 [BloodyHand] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身增加20级流血 强度并使自身获得2层染血之手 "
                 }
               ]
             }
@@ -429,23 +429,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 타격",
-          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +1\n[WhenUse] 이 스킬로 대상에게 [Laceration]을 부여할 때, 자신의 [HardenedBlood] 만큼 [Burst]을 추가로 부여\n[EndSkill] [HardenedBlood], [BloodyHand] 전부 소모",
+          "name": "硬血强化打击",
+          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加流血 时，根据自身带有的硬化血液 层数，额外使目标增加破裂 强度\n[EndSkill] 消耗所有硬化血液 与染血之手 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration])% 만큼 체력 회복 (최대 20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(目标的流血 强度)%的体力(最多20%)"
                 }
               ]
             }
@@ -458,13 +458,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] 자신의 [HardenedBlood] 1 당, 기본 위력 +1",
+          "name": "反击",
+          "desc": "[WhenUse] 自身每带有1层硬化血液 ，使本技能的基础威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -477,20 +477,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "질문에 답을 해 주세요.",
-          "desc": "[WhenUse] [Laceration] 5, [Laceration] 횟수 1 얻음",
+          "name": "请回答问题。",
+          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -503,16 +503,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "말 끊지 마세요!",
-          "desc": "[WhenUse] [Laceration] 5, [Laceration] 횟수 1 얻음",
+          "name": "别打断我！",
+          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 5 이상이면, [BloodyHand] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于5级，则使自身获得1层[BloodyHand]"
                 }
               ]
             }
@@ -525,20 +525,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "빛바랜 인내",
-          "desc": "[WhenUse] [BloodDinner]을 최대 50 소모하여, 소모한 [BloodDinner] 10 당 [BloodyHand] 1 얻음\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1",
+          "name": "褪色的忍耐",
+          "desc": "[WhenUse] 消耗至多50层血宴 ，每消耗10层血宴 ，使自身获得1层[BloodyHand]\n[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 10, [BloodyHand] 1 얻음."
+                  "desc": "[EndSkill] 若本技能未消耗血宴 ，则使自身增加10级流血 强度并使自身获得1层[BloodyHand]"
                 }
               ]
             }
@@ -551,33 +551,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "끝없는 고해",
-          "desc": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [HardenedBlood] 1 당, 합 위력 +1\n[DefeatDuel] [BloodyHand] 2 감소",
+          "name": "无尽的告解",
+          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 自身每带有1层[HardenedBlood]，使本技能的拼点威力+1\n[DefeatDuel] 使自身失去2层[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHand]을 전부 소모하여, 대상의 [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]并对目标施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [HardenedBlood]을 모두 소모하여, (소모한 [HardenedBlood] x 3) 만큼 [BloodDinner]이 증가하고, [Laceration] 5 얻음"
+                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]并获得(消耗的[HardenedBlood]层数×3)层血宴，使自身增加5级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration])% 만큼 체력 회복 (최대 30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复(目标的流血 强度)%体力(最多30%)"
                 }
               ]
             }
@@ -590,13 +590,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] [BloodyHand]이 1 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [HardenedBlood]이 3 이상이면, 코인 위력 +1",
+          "name": "反击",
+          "desc": "[WhenUse] 若自身的染血之手 层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -609,20 +609,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "질문에 답을 해 주세요.",
-          "desc": "[WhenUse] [Laceration] 5, [Laceration] 횟수 1 얻음",
+          "name": "请回答问题。",
+          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -635,16 +635,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "말 끊지 마세요!",
-          "desc": "[WhenUse] [Laceration] 5, [Laceration] 횟수 1 얻음",
+          "name": "别打断我！",
+          "desc": "[WhenUse] 使自身增加5级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 5 이상이면, [BloodyHand] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于5级，则使自身获得1层[BloodyHand]"
                 }
               ]
             }
@@ -657,20 +657,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "빛바랜 인내",
-          "desc": "[WhenUse] [BloodDinner]을 최대 50 소모하여, 소모한 [BloodDinner] 10 당 [BloodyHand] 1 얻음\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1",
+          "name": "褪色的忍耐",
+          "desc": "[WhenUse] 消耗至多50层血宴 ，每消耗10层血宴 ，使自身获得1层[BloodyHand]\n[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 10, [BloodyHand] 1 얻음."
+                  "desc": "[EndSkill] 若本技能未消耗血宴 ，则使自身增加10级流血 强度并使自身获得1层[BloodyHand]"
                 }
               ]
             }
@@ -683,33 +683,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "끝없는 고해",
-          "desc": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [HardenedBlood] 1 당, 합 위력 +1\n[DefeatDuel] [BloodyHand] 2 감소",
+          "name": "无尽的告解",
+          "desc": "[WhenUse] 若目标的流血 强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 自身每带有1层[HardenedBlood]，使本技能的拼点威力+1\n[DefeatDuel] 使自身失去2层[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHand]을 전부 소모하여, 대상의 [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 消耗所有[BloodyHand]并对目标施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [HardenedBlood]을 모두 소모하여, (소모한 [HardenedBlood] x 3) 만큼 [BloodDinner]이 증가하고, [Laceration] 5 얻음"
+                  "desc": "[OnSucceedAttack] 消耗自身所有[HardenedBlood]并获得(消耗的[HardenedBlood]层数×3)层血宴，使自身增加5级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration])% 만큼 체력 회복 (최대 30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复(目标的流血 强度)%体力(最多30%)"
                 }
               ]
             }
@@ -722,13 +722,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "반격",
-          "desc": "[WhenUse] [BloodyHand]이 1 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [HardenedBlood]이 3 이상이면, 코인 위력 +1",
+          "name": "反击",
+          "desc": "[WhenUse] 若自身的染血之手 层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -741,16 +741,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 내려베기",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +1",
+          "name": "硬血下斩",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Burst] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
                 }
               ]
             }
@@ -763,23 +763,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 깎아내기",
-          "desc": "[WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 2)\n[WhenUse] [Laceration] 15를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소",
+          "name": "硬血削切",
+          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度，立即触发1次该效果，随后使自身失去1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 6 이상이면, [HardenedBlood] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层[BloomingThorns]"
                 }
               ]
             }
@@ -792,27 +792,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 펼치기",
-          "desc": "[WhenUse] [Laceration] 15, [Laceration] 횟수 2를 얻음 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소\n[EndBattle] [HardenedBlood], [FestivalFever] 전부 소모",
+          "name": "硬血强化展开",
+          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发2次该效果，随后使自身失去2层流血 \n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [HardenedBlood]만큼 [Laceration], [Burst] 부여"
+                  "desc": "[OnSucceedAttack] 根据自身带有的硬化血液 层数，额外使目标增加流血 强度与破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 ([FestivalFever] x 2.5)%만큼 체력 회복 (최대 20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数x2.5)%的体力(最多20%)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[BloomingThorns]"
                 }
               ]
             }
@@ -825,8 +825,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +1\n[StartBattle] [FestivalFever] 2 얻음\n[OnDefeatEvade] [FestivalFever] 2 잃음",
+          "name": "闪避",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的硬币威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
           "coinlist": [
             {}
           ]
@@ -838,16 +838,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 휘두르기",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +1",
+          "name": "硬血挥击",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Burst] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
                 }
               ]
             }
@@ -860,23 +860,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 마구 찌르기",
-          "desc": "[WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 2)\n[WhenUse] [Laceration] 15를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소",
+          "name": "硬血乱刺",
+          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度，立即触发1次该效果，随后使自身失去1层流血 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]이 6 이상이면, [HardenedBlood] 1 얻음"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于6级，则使自身获得1层硬化血液 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层[BloomingThorns]"
                 }
               ]
             }
@@ -889,27 +889,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "경혈식 강화 펼치기",
-          "desc": "[WhenUse] [Laceration] 15, [Laceration] 횟수 2를 얻음 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소\n[EndBattle] [HardenedBlood], [FestivalFever] 전부 소모",
+          "name": "硬血强化展开",
+          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发2次该效果，随后使自身失去2层流血 \n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [HardenedBlood]만큼 [Laceration], [Burst] 부여"
+                  "desc": "[OnSucceedAttack] 根据自身带有的硬化血液 层数，额外使目标增加流血 强度与破裂 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 ([FestivalFever] x 2.5)%만큼 체력 회복 (최대 20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数x2.5)%的体力(最多20%)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[BloomingThorns]"
                 }
               ]
             }
@@ -922,8 +922,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +1\n[StartBattle] [FestivalFever] 2 얻음\n[OnDefeatEvade] [FestivalFever] 2 잃음",
+          "name": "闪避",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的硬币威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
           "coinlist": [
             {}
           ]
@@ -935,16 +935,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "환상의 축제로 오세요!",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +2",
+          "name": "欢迎来到梦幻的庆典！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的最终威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度并对其施加2层[Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加3级[Burst]强度"
                 }
               ]
             }
@@ -957,13 +957,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "즐거운 행렬에 함께 해요!",
-          "desc": "[WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 3)\n[WhenUse] [BloodDinner]이 20 미만이면, [Laceration] 20을 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소\n[EndSkill] [BloodDinner] 20 소모",
+          "name": "加入这欢乐的游行！",
+          "desc": "[WhenUse] 自身每带有5层[FestivalFever]或目标每带有6级流血 强度，使本技能的最终威力+1(最多+3)\n[WhenUse] 若[BloodDinner]低于20层，则使自身增加20级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层\n[EndSkill] 消耗20层血宴 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 6당 [HardenedBlood] 1 얻음 (최대 2)"
+                  "desc": "[OnSucceedAttack] 目标每带有6级流血 强度，使自身获得1层[HardenedBlood](最多2层)"
                 }
               ]
             },
@@ -973,10 +973,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] [Laceration] 4 부여, [Laceration] 횟수 3 증가"
+                  "desc": "[WinDuelAttack] 使目标增加4级流血 强度并对其施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 2 ~ 3 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得2~3层[BloomingThorns]"
                 }
               ]
             }
@@ -989,13 +989,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "기쁨의 미소를 꽃피워요!",
-          "desc": "[WhenUse] [FestivalFever]가 5 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 합 위력 +1",
+          "name": "让幸福笑容如鲜花般绽放吧！",
+          "desc": "[WhenUse] 若自身带有的[FestivalFever]层数不小于5，硬币威力+1\n[WhenUse] 若目标带有的[Laceration]强度不小于6，拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
                 }
               ]
             },
@@ -1003,7 +1003,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] [FestivalFever] 2 얻음"
+                  "desc": "[WinDuelAttack] 使自身获得2层[FestivalFever]"
                 }
               ]
             }
@@ -1016,16 +1016,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "영원한 행복의 왕국 라만차랜드!",
-          "desc": "[WhenUse] [BloodDinner]이 40 미만이면, [Laceration] 20, [Laceration] 횟수 2를 얻은 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소\n[EndSkill] [BloodDinner] 40 소모\n[EndBattle] [HardenedBlood], [FestivalFever] 전부 소모",
+          "name": "永远的幸福王国拉·曼却领！",
+          "desc": "[WhenUse] 若[BloodDinner]低于40层，则使自身增加20级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndSkill] 消耗40层[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [HardenedBlood]만큼 [Laceration], [Burst] 부여"
+                  "desc": "[OnSucceedAttack] 根据自身带有的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 ([FestivalFever] x 4)%만큼 체력 회복 (최대 40%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的[FestivalFever]层数×4)%的体力(最多40%)"
                 }
               ]
             },
@@ -1035,7 +1035,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 5 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得5层[BloomingThorns]"
                 }
               ]
             }
@@ -1048,8 +1048,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면 최종 위력 +2\n[StartBattle] [FestivalFever] 3 얻음\n[OnDefeatEvade] [FestivalFever] 3 잃음",
+          "name": "闪避",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+2\n[StartBattle] 使自身获得3层庆典的热潮 \n[OnDefeatEvade] 使自身失去3层庆典的热潮 ",
           "coinlist": [
             {}
           ]
@@ -1061,16 +1061,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "환상의 축제로 오세요!",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +2",
+          "name": "欢迎来到梦幻的庆典！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5册，则使本技能的最终威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加3层[Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [Burst] 3 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加3级[Burst]强度"
                 }
               ]
             }
@@ -1083,13 +1083,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "모두 발 맞추어 춤을 춰요!",
-          "desc": "[WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 3)\n[WhenUse] [BloodDinner]이 20 미만이면, [Laceration] 20을 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소\n[EndSkill] [BloodDinner] 20 소모",
+          "name": "大家一齐来跳舞吧！ ",
+          "desc": "[WhenUse] 自身每带有5层[FestivalFever]或目标每带有6级流血 强度，使本技能的最终威力+1(最多+3)\n[WhenUse] 若[BloodDinner]低于20层，则使自身增加20级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层\n[EndSkill] 消耗20层血宴 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 6당 [HardenedBlood] 1 얻음 (최대 2)"
+                  "desc": "[OnSucceedAttack] 目标每带有6级流血 强度，使自身获得1层[HardenedBlood](最多2层)"
                 }
               ]
             },
@@ -1099,10 +1099,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[WinDuelAttack] 使目标增加5级流血 强度并对其施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 2 ~ 3 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得2~3层[BloomingThorns]"
                 }
               ]
             }
@@ -1115,13 +1115,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "신나게 노래를 불러봐요!",
-          "desc": "[WhenUse] [FestivalFever]가 5 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 합 위력 +1",
+          "name": "一起快乐地唱起歌吧！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的硬币威力+1\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
                 }
               ]
             },
@@ -1129,7 +1129,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] [FestivalFever] 2 얻음"
+                  "desc": "[WinDuelAttack] 使自身获得2层[FestivalFever]"
                 }
               ]
             }
@@ -1142,16 +1142,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "영원한 행복의 왕국 라만차랜드!",
-          "desc": "[WhenUse] [BloodDinner]이 40 미만이면, [Laceration] 20, [Laceration] 횟수 2를 얻은 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소\n[EndSkill] [BloodDinner] 40 소모\n[EndBattle] [HardenedBlood], [FestivalFever] 전부 소모",
+          "name": "永远的幸福王国拉·曼却领！",
+          "desc": "[WhenUse] 若[BloodDinner]低于40层，则使自身增加20级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndSkill] 消耗40层[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 [HardenedBlood]만큼 [Laceration], [Burst] 부여"
+                  "desc": "[OnSucceedAttack] 根据自身带有的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 최대 체력의 ([FestivalFever] x 4)%만큼 체력 회복 (최대 40%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的[FestivalFever]层数×4)%的体力(最多40%)"
                 }
               ]
             },
@@ -1161,7 +1161,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 5 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得5层[BloomingThorns]"
                 }
               ]
             }
@@ -1174,8 +1174,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "[WhenUse] 자신의 [FestivalFever]가 5 이상이면 최종 위력 +2\n[StartBattle] [FestivalFever] 3 얻음\n[OnDefeatEvade] [FestivalFever] 3 잃음",
+          "name": "闪避",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+2\n[StartBattle] 使自身获得3层庆典的热潮 \n[OnDefeatEvade] 使自身失去3层庆典的热潮 ",
           "coinlist": [
             {}
           ]

@@ -3,14 +3,14 @@
     {
       "id": 1030,
       "panicName": "虚无的缰绳",
-      "lowMoraleDescription": "턴 시작 시, [Enhancement] 1, [DefenseDown] 3 얻음. 턴 종료 시, 정신력 5 피해.",
-      "panicDescription": "턴 시작 시, [Enhancement] 2, [DefenseDown] 6 얻음. 턴 종료 시, 정신력 10 회복."
+      "lowMoraleDescription": "回合开始时，使自身获得1层[Enhancement]并对自身施加3层[DefenseDown]。回合结束时，失去5点理智值",
+      "panicDescription": "回合开始时，使自身获得2层[Enhancement]并对自身施加6层[DefenseDown]。回合结束时，恢复10点理智值"
     },
     {
       "id": 9996,
       "panicName": "荆棘",
-      "lowMoraleDescription": "합 승리 시, [AttackDmgUp] 1 얻음",
-      "panicDescription": "합 승리 시, [AttackDmgUp] 1 얻음. 턴 종료 시, 다음 턴에 [ParryingResultUp] 2 얻음."
+      "lowMoraleDescription": "拼点胜利时，使自身获得1层[AttackDmgUp]",
+      "panicDescription": "拼点胜利时，使自身获得1层[AttackDmgUp]。回合结束时，下回合使自身获得2层[ParryingResultUp]。"
     }
   ]
 }

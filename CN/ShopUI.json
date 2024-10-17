@@ -306,15 +306,15 @@
     },
     {
       "id": "restore_purchase_btn",
-      "content": "구매 복구"
+      "content": "恢复购买"
     },
     {
       "id": "restore_purchase_no_product",
-      "content": "복구 가능한 상품이 없습니다."
+      "content": "没有可恢复的商品。"
     },
     {
       "id": "restore_purchase_succeed",
-      "content": "미수령 상품의 복구가 완료되었습니다."
+      "content": "未领取的商品已恢复。"
     }
   ]
 }

@@ -746,7 +746,7 @@
     },
     {
       "id": "Retreat_Textalram",
-      "content": "!撤退!"
+      "content": "！撤退！"
     },
     {
       "id": "Retreat_TextPassive",
@@ -766,7 +766,7 @@
     },
     {
       "id": "EGOSelectUI_not_allow",
-      "content": "현재 장착이 불가능한 에고입니다."
+      "content": "目前无法装备此E.G.O。"
     },
     {
       "id": "laceration_surge",

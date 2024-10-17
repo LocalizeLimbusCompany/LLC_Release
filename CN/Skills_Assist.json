@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "贾惜春1技能",
-          "desc": "[WhenUse] 若目标带有的负面状态不少于5种，拼点威力+1\n[WhenUse] 目标每带有3级破裂 强度，则使本技能的基础威力+1(最多+2)",
+          "name": "赤击",
+          "desc": "[WhenUse] 若目标带有的负面状态不少于5种，则使本技能的拼点威力+1\n[WhenUse] 目标每带有3级破裂 强度，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合使自身获得1层攻击等级提升 "
@@ -21,7 +21,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 施加2层破裂 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合使自身获得1层攻击等级提升 "
@@ -37,49 +37,49 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적봉",
-          "desc": "[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)",
+          "name": "赤凤",
+          "desc": "[WhenUse] 若目标带有的负面状态不少于5种，则使本技能的硬币威力+1\n[WhenUse] 目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [DefenseDown] 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层防御等级降低 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [AttackUp] 3 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得3层攻击等级提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Burst]만큼 [Breath] 얻음 (최대 5)"
+                  "desc": "[OnSucceedAttack] 根据目标的破裂 强度，使自身增加相应的呼吸法 强度(最多5级)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 대상의 [Burst] 횟수만큼 [Breath] 횟수 증가 (최대 2)"
+                  "desc": "[OnSucceedAttackHead] 根据目标的破裂 层数，使自身获得相应层数的呼吸法 (最多2层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 피해량 +50%"
+                  "desc": "[CriticalOnSucceedAttack] 使本硬币造成的伤害+50%"
                 },
                 {
-                  "desc": "[CriticalEnemyTargetKillFail] [Burst] 횟수 2 증가"
+                  "desc": "[CriticalEnemyTargetKillFail] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[CriticalEnemyTargetKill] 다음 턴에 [AttackUp] 3 얻음"
+                  "desc": "[CriticalEnemyTargetKill] 下回合使自身获得3层攻击等级提升 "
                 }
               ]
             }
@@ -92,22 +92,22 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적춘",
-          "desc": "[BeforeAttack] 대상의 부정적인 효과 4개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합이 15 이상이면, 코인 위력 +5\n[WinDuel] [Burst] 횟수 2 증가",
+          "name": "赤春",
+          "desc": "[StartBattle] 目标每带有4种负面状态，使本技能的攻击容量+1(最多+2)\n[WhenUse] 若目标带有的负面状态不低于5种，则使本技能的基础威力+5\n[WhenUse] 若目标的破裂 强度与破裂 层数之和不低于15点，则使本技能的硬币威力+5\n[WinDuel] 对目标施加2层破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 7 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加7级流血 强度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 피해량 +200%"
+                  "desc": "[CriticalOnSucceedAttack] 使本硬币造成的伤害+200%"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 출혈 횟수 3 증가"
+                  "desc": "[CriticalOnSucceedAttack] 对目标施加3层流血 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [Breath] 2 얻음. [Breath] 횟수 1 증가"
+                  "desc": "[CriticalOnSucceedAttack] 使自身增加2级呼吸法 强度并使自身获得1层呼吸法 "
                 }
               ]
             }
@@ -120,8 +120,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "수회",
-          "desc": "[OnSucceedEvade] 다음 턴에 [Breath] 1 얻음. (턴 당 최대 3번)"
+          "name": "秀避",
+          "desc": "[OnSucceedEvade] 下回合使自身增加1级呼吸法 强度(每回合最多3次)"
         }
       ]
     }

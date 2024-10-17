@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "걸음은 우아하게...",
-          "desc": "흐트러지지 않은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n대상의 [Laceration] 3당 합 위력 +1 (최대 3)",
+          "name": "步伐优雅…",
+          "desc": "优先指定未处于混乱状态的友方单位， 若指定友方单位，则使本技能的拼点威力+10，且不会造成伤害\n目标每带有3级流血 强度，使本技能的拼点威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여\n- 대상이 아군이면 이 효과를 대신하여 다음 턴까지 [AttackUp] 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度\n- 若指定友方单位，则使本效果转化为下回合使其获得3层攻击等级提升 "
                 }
               ]
             }
@@ -24,13 +24,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "몸짓은 아름답게...",
-          "desc": "흐트러지지 않은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n대상의 [Laceration] 3당 합 위력 +1 (최대 3)",
+          "name": "姿态优美…",
+          "desc": "优先指定未处于混乱状态的友方单位， 若指定友方单位，则使本技能的拼点威力+10，且不会造成伤害\n目标每带有3级流血 强度，使本技能的拼点威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가\n- 대상이 아군이면 이 효과를 대신하여 다음 턴까지 [DefenseUp] 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层流血 \n- 若指定友方单位，则使本效果转化为下回合使其获得3层防御等级提升 "
                 }
               ]
             }
@@ -43,13 +43,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "관객을 향해 손짓해...",
-          "desc": "[WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 4)\n[WhenUse] [BloodDinner]이 15 미만이면, [Laceration] 15를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[EndSkill] [BloodDinner] 15 소모",
+          "name": "向观众招手…",
+          "desc": "[WhenUse] 自身每带有5层[FestivalFever]或目标每带有6级流血 强度，使本技能的最终威力+1(最多+4)\n[WhenUse] 若[BloodDinner]层数低于15层，则使自身增加15级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层(若现存体力低于10%，则仅发动该效果中使自身增加流血 强度与施加流血 层数的部分)\n[EndSkill] 消耗15层[BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration] 6당 [AttackUp] 1, [DefenseUp] 1 얻음 (각각 최대 3)"
+                  "desc": "[OnSucceedAttack] 目标每带有6级流血 强度，使自身获得1层攻击等级提升 与1层防御等级提升 (每个目标最多3次)"
                 }
               ]
             },
@@ -59,10 +59,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] [Laceration] 횟수 5 증가"
+                  "desc": "[WinDuelAttack] 对目标施加5层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloomingThorns] 3 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得3层[BloomingThorns]"
                 }
               ]
             }
@@ -75,13 +75,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "환상의 퍼레이드",
-          "desc": "[CantIdentify]\n메인 타겟은 적, 서브 타겟은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n[WhenUse] 자신의 [BloodDinner_Accumulation] 20당 합 위력 +1 (최대 10)\n[WhenUse] [BloodDinner]이 25 미만이면, [Laceration] 25를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[EndSkill] [BloodDinner] 25 소모\n[EndBattle] [FestivalFever]를 전부 소모",
+          "name": "梦幻的游行",
+          "desc": "[CantIdentify]\n主要目标优先指定敌方单位，次要目标优先指定友方单位。若目标为友方单位，则使本技能的拼点威力+10并使本技能造成的伤害固定为0点\n[WhenUse] 自身每带有20层[BloodDinner_Accumulation]，使本技能的拼点威力+1(最多+10)\n[WhenUse] 若[BloodDinner]层数低于25层，则使自身增加25级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层(若现存体力低于10%，则仅发动该效果中使自身增加流血 强度与施加流血 层数的部分)\n[EndSkill] 消耗25层[BloodDinner]\n[EndBattle] 消耗所有[FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [FestivalFever]에 비례하여 다음 턴까지 [AttackUp] 1, [DefenseUp] 1 부여 ([FestivalFever] 3당 1 부여, 각각 최대 3)"
+                  "desc": "[OnSucceedAttack] 目标每带有3层[FestivalFever]，使其获得1层攻击等级提升 与1层防御等级提升 (每个目标最多3次)"
                 }
               ]
             },
@@ -91,7 +91,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 3 증가\n- 대상이 아군이면 이 효과를 대신하여 [BloomingThorns] 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层流血 \n- 若目标为友方单位，则改为使其获得5层[BloomingThorns]"
                 }
               ]
             }
@@ -104,20 +104,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "퍼레이드는 영원히 반복될거야",
-          "desc": "[WhenUse] 자신의 [BloodDinner_Accumulation] 20당 합 위력 +1 (최대 10)\n[WhenUse] [BloodDinner]이 50 미만이면, [Laceration] 25, [Laceration] 횟수 2를 얻은 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[WhenUse] [BloodDinner]을 절반만큼 소모\n[EndBattle] [IncompleteParade]를 전부 소모\n[EndBattle] [FestivalFever] 10 얻음",
+          "name": "游行会永远重复下去",
+          "desc": "[WhenUse] 自身每带有20层[BloodDinner_Accumulation]，使本技能的拼点威力+1(最多+10)\n[WhenUse] 若[BloodDinner]层数低于50层，则使自身增加25级流血 强度并对自身施加2层流血，立即触发自身的流血 2次，随后使自身的流血 层数减少2层(若现存体力低于10%，则仅发动该效果中使自身增加流血 强度与施加流血 层数的部分)\n[WhenUse] 消耗一半的[BloodDinner]\n[EndBattle] 消耗所有[IncompleteParade]\n[EndBattle] 使自身获得10层[FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 입힌 피해량의 25%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量25%的体力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 입힌 피해량의 25%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量25%的体力"
                 }
               ]
             },
@@ -127,13 +127,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 입힌 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5, [Burst] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度与5级破裂 强度"
                 },
                 {
-                  "desc": "[EndCoin] 이 스킬로 소모한 [BloodDinner] 10당 [BloomingThorns] 1 얻음 (최대 10)"
+                  "desc": "[EndCoin] 本技能每消耗10层血宴 ，使自身获得1层[BloomingThorns](最多10层)"
                 }
               ]
             }
@@ -146,20 +146,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "그걸 반복할 뿐...",
-          "desc": "[DuelCounter]\n[WhenUse] 자신의 [FestivalFever]가 5 이상이면 합 위력 +3\n[StartBattle] [BloomingThorns] 5 얻음\n[DefeatDuel] [BloomingThorns] 5 잃음",
+          "name": "只是重复…",
+          "desc": "[DuelCounter]\n[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的拼点威力+3\n[StartBattle] 使自身获得5层[BloomingThorns]\n[DefeatDuel] 使自身失去5层[BloomingThorns]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -172,8 +172,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "피날레",
-          "desc": "[WhenUse] [BloodDinner]을 절반만큼 소모\n[WinDuel] 피해량이 (이 스킬로 소모한 [BloodDinner])%만큼 증가 (최대 150%)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 이 스킬로 소모한 [BloodDinner]만큼 정신력 감소",
+          "name": "落幕",
+          "desc": "[WhenUse] 消耗一半的[BloodDinner]层数\n[WinDuel] 使本技能造成的伤害+(本技能消耗的[BloodDinner]层数)% (最多+150%)\n[DefeatDuel] 使本技能造成的伤害-50%，且本技能造成的伤害不会使目标陷入混乱\n[EndSkill] 使自身减少相当于本技能消耗的[BloodDinner]层数的理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -181,10 +181,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 6 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加6层流血 "
                 }
               ]
             },
@@ -194,10 +194,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] [Burst] 6 부여"
+                  "desc": "[WinDuelAttack] 使目标增加6级破裂 强度"
                 },
                 {
-                  "desc": "[WinDuelAttack] [Burst] 횟수 6 증가"
+                  "desc": "[WinDuelAttack] 对目标施加6层破裂 "
                 }
               ]
             },
@@ -207,7 +207,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[EndCoin] 이 스킬로 소모한 [BloodDinner] 10당 [BloomingThorns] 1 얻음 (최대 10)"
+                  "desc": "[EndCoin] 本技能每消耗10层血宴 ，使自身获得1层[BloomingThorns](最多10层)"
                 }
               ]
             }
@@ -220,20 +220,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "샘의 용",
-          "desc": "[WhenUse] 다음 턴에 [Agility] 2 얻음",
+          "name": "泉之龙",
+          "desc": "[WhenUse] 下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层迅捷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层易损 "
                 }
               ]
             }
@@ -246,20 +246,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가을 연꽃",
-          "desc": "[WhenUse] 다음 턴에 [Agility] 2 얻음",
+          "name": "秋之莲",
+          "desc": "[WhenUse] 下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层迅捷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层易损 "
                 }
               ]
             }
@@ -272,8 +272,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "흐릿한 궤적",
-          "desc": "[WhenUse] 다음 턴에 [Agility] 3 얻음",
+          "name": "微弱的轨迹",
+          "desc": "[WhenUse] 下回合使自身获得3层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
@@ -285,7 +285,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [SlashTakeDamageUp] 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层斩击易损 "
                 }
               ]
             }
@@ -298,8 +298,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "창백한 궤적",
-          "desc": "대상보다 속도가 5 이상 빠르면, 합 위력 +5",
+          "name": "苍白的轨迹",
+          "desc": "若自身的速度值高于目标5点或以上，则使本技能的拼点威力+5",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +311,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 추가 피해 100"
+                  "desc": "[OnSucceedAttack] 对目标额外造成100点伤害"
                 }
               ]
             }
@@ -324,20 +324,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "붉은살",
-          "desc": "[WhenUse] 다음 턴에 [Agility] 2 얻음",
+          "name": "赤箭",
+          "desc": "[WhenUse] 下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 추가 피해 50"
+                  "desc": "[OnSucceedAttack] 对目标额外造成50点伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 추가 피해 50"
+                  "desc": "[OnSucceedAttack] 对目标额外造成50点伤害"
                 }
               ]
             }
@@ -350,20 +350,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "검은살",
-          "desc": "[WhenUse] 다음 턴에 [Agility] 2 얻음",
+          "name": "黑箭",
+          "desc": "[WhenUse] 下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MentalCrack]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [MentalCrack] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[MentalCrack]"
                 }
               ]
             }
@@ -376,8 +376,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "물의 거울",
-          "desc": "[CanDuelGuard]\n[WhenUse] [Protection] 3 얻음\n[WinDuel] 이 스킬의 마지막 합 위력만큼 체력 피해를 입힘",
+          "name": "水之镜",
+          "desc": "[CanDuelGuard]\n[WhenUse] 使自身获得3层守护 \n[WinDuel] 对目标造成相当于本技能最终拼点威力的体力伤害",
           "coinlist": [
             {
               "coindescs": [
@@ -395,8 +395,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전자가속 레일 활성화",
-          "desc": "[StartBattle] 다음 턴에 [Enhancement] 10, [Agility] 10 얻음",
+          "name": "电子加速轨道活化",
+          "desc": "[StartBattle] 下回合使自身获得10层强壮 与10层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
@@ -414,8 +414,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "살",
-          "desc": "[WhenUse] [PenetrateDamageUp] 5 얻음",
+          "name": "箭",
+          "desc": "[WhenUse] 使自身获得5层突刺伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
