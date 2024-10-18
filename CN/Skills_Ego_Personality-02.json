@@ -494,7 +494,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有1级破裂 强度，使本技能造成的伤害+2%(最多+30%)"
+                  "desc": "[OnSucceedAttack] 目标每带有1级破裂 强度，使本硬币造成的伤害+2%(最多+30%)"
                 }
               ]
             }
@@ -526,7 +526,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加2层[Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目标每带有1级破裂 强度，使本技能造成的伤害+2%(最多+60%)"
+                  "desc": "[OnSucceedAttack] 目标每带有1级破裂 强度，使本硬币造成的伤害+2%(最多+60%)"
                 }
               ]
             }

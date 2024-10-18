@@ -1062,7 +1062,7 @@
         {
           "level": 1,
           "name": "欢迎来到梦幻的庆典！",
-          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5册，则使本技能的最终威力+2",
+          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的最终威力+2",
           "coinlist": [
             {
               "coindescs": [
