@@ -100,7 +100,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本技能造成的伤害+20%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+20%"
                 }
               ]
             }
@@ -227,7 +227,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本技能造成的伤害+20%"
+                  "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则使本硬币造成的伤害+20%"
                 }
               ]
             }
@@ -326,7 +326,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 "
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加2层流血 "
@@ -374,7 +374,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加10级流血 强度并使自身获得1层染血之手 "
@@ -435,7 +435,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 "
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加2层流血 "
@@ -747,7 +747,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加2层流血 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 使目标增加2级破裂 强度"
@@ -764,7 +764,7 @@
         {
           "level": 1,
           "name": "硬血削切",
-          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度，立即触发1次该效果，随后使自身失去1层流血 ",
+          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层",
           "coinlist": [
             {
               "coindescs": [
@@ -776,7 +776,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身获得1层[BloomingThorns]"
@@ -793,7 +793,7 @@
         {
           "level": 1,
           "name": "硬血强化展开",
-          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发2次该效果，随后使自身失去2层流血 \n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
+          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
           "coinlist": [
             {
               "coindescs": [
@@ -805,7 +805,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数x2.5)%的体力(最多20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数×2.5)%的体力(最多20%)"
                 }
               ]
             },
@@ -826,7 +826,7 @@
         {
           "level": 1,
           "name": "闪避",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的硬币威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
           "coinlist": [
             {}
           ]
@@ -861,7 +861,7 @@
         {
           "level": 1,
           "name": "硬血乱刺",
-          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度，立即触发1次该效果，随后使自身失去1层流血 ",
+          "desc": "[WhenUse] 自身每带有5层庆典的热潮 或目标每带有6级流血 强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身增加15级流血 强度并立即触发自身的流血 1次，随后使自身的流血 层数减少1层",
           "coinlist": [
             {
               "coindescs": [
@@ -873,7 +873,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身获得1层[BloomingThorns]"
@@ -890,7 +890,7 @@
         {
           "level": 1,
           "name": "硬血强化展开",
-          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发2次该效果，随后使自身失去2层流血 \n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
+          "desc": "[WhenUse] 使自身增加15级流血 强度并对自身施加2层流血 ，立即触发自身的流血 2次，随后使自身的流血 层数减少2层\n[EndBattle] 消耗所有硬化血液 与庆典的热潮 ",
           "coinlist": [
             {
               "coindescs": [
@@ -902,7 +902,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数x2.5)%的体力(最多20%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的庆典的热潮 层数×2.5)%的体力(最多20%)"
                 }
               ]
             },
@@ -923,7 +923,7 @@
         {
           "level": 1,
           "name": "闪避",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的硬币威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
+          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1\n[StartBattle] 使自身获得2层庆典的热潮 \n[OnDefeatEvade] 使自身失去2层庆典的热潮 ",
           "coinlist": [
             {}
           ]
@@ -990,7 +990,7 @@
         {
           "level": 1,
           "name": "让幸福笑容如鲜花般绽放吧！",
-          "desc": "[WhenUse] 若自身带有的[FestivalFever]层数不小于5，硬币威力+1\n[WhenUse] 若目标带有的[Laceration]强度不小于6，拼点威力+1",
+          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的硬币威力+1\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [
