@@ -1472,7 +1472,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的[BloodScissorPersonalityFirst]层数不低于10层，则使本技能造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×2)%(最多+38%)\n- 若自身的[BloodScissorPersonalityFirst]层数不低于20层，则改为使本技能造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×3)%(最多+90%)"
+                  "desc": "[OnSucceedAttack] 若自身的[BloodScissorPersonalityFirst]层数不低于10层，则使本硬币造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×2)%(最多+38%)\n- 若自身的[BloodScissorPersonalityFirst]层数不低于20层，则改为使本硬币造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×3)%(最多+90%)"
                 }
               ]
             }
@@ -1507,7 +1507,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的[BloodScissorPersonalityFirst]层数不低于10层，则使本技能造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×3)%(最多+57%)\n- 若自身的[BloodScissorPersonalityFirst]层数不低于20层，则改为使本技能造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×4)%(最多+120%)"
+                  "desc": "[OnSucceedAttack] 若自身的[BloodScissorPersonalityFirst]层数不低于10层，则使本硬币造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×3)%(最多+57%)\n- 若自身的[BloodScissorPersonalityFirst]层数不低于20层，则改为使本硬币造成的伤害+(自身的[BloodScissorPersonalityFirst]层数×4)%(最多+120%)"
                 }
               ]
             }
