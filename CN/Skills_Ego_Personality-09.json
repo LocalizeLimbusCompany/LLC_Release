@@ -389,24 +389,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[EndSkill] 자신과 현재 체력 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 12.5%만큼 회복",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[EndSkill] 使自身与现存体力比例最低的2名友方单位恢复自身体力上限12.5%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [NailPersonality] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层尖钉 "
                 }
               ]
             }
@@ -414,24 +414,24 @@
         },
         {
           "level": 3,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[EndSkill] 자신과 현재 체력 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 12.5%만큼 회복\n<style=\"highlight\">- 회복받는 대상이 보유한 부정적인 효과 종류 2개당 최대 체력의 2.5%만큼 회복량이 증가 (최대 7.5%)</style>",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[EndSkill] 使自身与现存体力比例最低的2名友方单位恢复自身体力上限12.5%的体力\n- 受到恢复的单位每带有2种负面状态，使其额外恢复2.5%的体力(最多7.5%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [NailPersonality] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层尖钉 "
                 }
               ]
             }
@@ -439,24 +439,24 @@
         },
         {
           "level": 4,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[EndSkill] 자신과 현재 체력 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 <style=\"highlight\">15%</style>만큼 회복\n- 회복받는 대상이 보유한 부정적인 효과 종류 <style=\"highlight\">1</style>개당 최대 체력의 2.5%만큼 회복량이 증가 (최대 <style=\"highlight\">10%</style>)\n<style=\"highlight\">- 이 스킬을 포함하여 질투 공명이 4 이상이면, 회복 대상 수 +1</style>",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[EndSkill] 使自身与现存体力比例最低的2名友方单位恢复自身体力上限15%的体力\n- 受到恢复的单位每带有1种负面状态，使其额外恢复2.5%的体力(最多10%)\n- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] [NailPersonality] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层尖钉 "
                 }
               ]
             }
@@ -469,27 +469,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명의 체력을 자신의 최대 체력의 15%만큼 회복",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] [NailPersonality] 2 부여"
+                  "desc": "[OnSucceedAttackTail] 对目标施加2层尖钉 "
                 }
               ]
             }
@@ -497,27 +497,27 @@
         },
         {
           "level": 3,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명의 체력을 자신의 최대 체력의 15%만큼 회복\n<style=\"highlight\">- 회복받는 대상이 보유한 부정적인 효과 종류 2개당 다음 턴까지 [AttackUp] 1 부여 (최대 2)</style>",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力\n- 受到恢复的单位每带有2种负面状态，下回合使其获得1层攻击等级提升 (最多2层)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] [NailPersonality] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 对目标施加2层尖钉 "
                 }
               ]
             }
@@ -525,27 +525,27 @@
         },
         {
           "level": 4,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명의 체력을 자신의 최대 체력의 <style=\"highlight\">20%</style>만큼 회복\n- 회복받는 대상이 보유한 부정적인 효과 종류 <style=\"highlight\">1</style>개당 다음 턴까지 [AttackUp] 1 부여 (최대 <style=\"highlight\">3</style>)\n<style=\"highlight\">- 이 스킬을 포함하여 질투 공명이 4 이상이면, 회복 대상 수 +1</style>",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限20%的体力\n- 受到恢复的单位每带有1种负面状态，下回合使其获得1层攻击等级提升 (最多3层)\n- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] [NailPersonality] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttackTail] 对目标施加3层尖钉 "
                 }
               ]
             }

@@ -407,24 +407,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[EndSkill] 若目标带有诅咒 ，则立刻触发目标的诅咒 2次并使其诅咒 层数减少2层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 3개당 [Curse] 1 추가로 부여 (최대 2)"
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 \n- 目标每带有3种除诅咒 与尖钉 以外的负面状态，额外对其施加1层诅咒 (最多2层)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [NailPersonality] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层尖钉 "
                 }
               ]
             }
@@ -432,27 +432,27 @@
         },
         {
           "level": 3,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "<style=\"highlight\">[BeforeAttack] 이 스킬을 포함하여 질투 공명이 4 이상이면 공격 가중치 +1</style>\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[BeforeAttack] 若包括本技能在内嫉妒共鸣数不低于4，则使本技能的攻击容量+1\n[EndSkill] 若目标带有诅咒 ，则立刻触发目标的诅咒 2次并使其诅咒 层数减少2层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 3개당 [Curse] 1 추가로 부여 (최대 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 \n- 目标每带有3种除诅咒 与尖钉 以外的负面状态，额外对其施加1层诅咒 (最多2层)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [NailPersonality] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层尖钉 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여 (턴 당 1회)</style>"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加2层束缚 (每回合最多1次)"
                 }
               ]
             }
@@ -460,30 +460,30 @@
         },
         {
           "level": 4,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "<style=\"highlight\">[BeforeAttack] 이 스킬을 포함하여 공명 수 3당 공격 가중치 +1 (최대 2)</style>\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[BeforeAttack] 包括本技能在内嫉妒共鸣数每有3点，使本技能的攻击容量+1(最多+2)\n[EndSkill] 若目标带有诅咒 ，则立刻触发目标的诅咒 2次并使其诅咒 层数减少2层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 <style=\"highlight\">2</style>개당 [Curse] 1 추가로 부여 (최대 2)"
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 \n- 目标每带有2种除诅咒 与尖钉 以外的负面状态，额外对其施加1层诅咒 (最多2层)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [NailPersonality] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加3层尖钉 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 대상의 [Curse]가 4 이상이면, [ParryingResultDown] 1 부여 (턴 당 1회)</style>"
+                  "desc": "[OnSucceedAttack] 若目标的诅咒 层数不低于4层，则对其施加1层拼点虚弱 (每回合最多1次)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여 (턴 당 1회)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加2层束缚 (每回合最多1次)"
                 }
               ]
             }

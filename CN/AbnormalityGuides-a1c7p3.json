@@ -3,8 +3,8 @@
     {
       "id": 8373,
       "codeName": "??-??-??-??",
-      "name": "색욕 죄종??",
-      "clue": "단서",
+      "name": "色欲罪种？？",
+      "clue": "线索",
       "storyList": [
         {
           "level": 1,
@@ -15,8 +15,8 @@
     {
       "id": 8374,
       "codeName": "??-??-??-??",
-      "name": "오만 죄종??",
-      "clue": "단서",
+      "name": "傲慢罪种？？",
+      "clue": "线索",
       "storyList": [
         {
           "level": 1,
@@ -26,9 +26,9 @@
     },
     {
       "id": 8376,
-      "codeName": " F-01-16-10",
+      "codeName": "F-01-16-10",
       "name": "玫瑰猎人",
-      "clue": "단서",
+      "clue": "线索",
       "storyList": [
         {
           "level": 1,
@@ -47,8 +47,8 @@
     {
       "id": 8379,
       "codeName": "T-04-16-02",
-      "name": "아파하는 테디",
-      "clue": "단서",
+      "name": "痛苦泰迪",
+      "clue": "线索",
       "storyList": [
         {
           "level": 1,
@@ -67,8 +67,8 @@
     {
       "id": 8375,
       "codeName": "F-04-16-04-TE",
-      "name": "사백 송이 장미",
-      "clue": "단서",
+      "name": "四百朵玫瑰",
+      "clue": "线索",
       "storyList": [
         {
           "level": 1,
@@ -88,7 +88,7 @@
       "id": 8377,
       "codeName": "F-01-16-10-a",
       "name": "玫瑰猎人",
-      "clue": "단서",
+      "clue": "线索",
       "storyList": []
     }
   ]

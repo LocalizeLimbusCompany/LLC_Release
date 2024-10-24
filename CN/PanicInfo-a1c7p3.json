@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 1029,
-      "panicName": "죄책감",
+      "panicName": "罪恶感",
       "lowMoraleDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 1 얻음",
       "panicDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 2 얻음."
     },
@@ -14,7 +14,7 @@
     },
     {
       "id": 1032,
-      "panicName": "죄책감",
+      "panicName": "罪恶感",
       "lowMoraleDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 1 얻음",
       "panicDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 2 얻음."
     },

@@ -2,31 +2,31 @@
   "dataList": [
     {
       "id": "837901",
-      "content": "<color=#ebcaa2>모든 수감자</color>가 <color=#fe4b48>{0}만큼 정신력 피해</color>"
+      "content": "<color=#ebcaa2>全体罪人</color><color=#fe4b48>受到了{0}点理智伤害</color>"
     },
     {
       "id": "837902_1",
-      "content": "<color=#ebcaa2>[{0}] 수감자</color>가 <color=#e30000>{1}만큼 체력 피해</color>, <color=#80c9ff>{2}만큼 정신력 회복</color>"
+      "content": "<color=#ebcaa2>罪人[{0}]</color><color=#e30000>受到了{1}点体力伤害</color>, <color=#80c9ff>恢复了{2}点理智值</color>"
     },
     {
       "id": "837902_2",
-      "content": "<color=#ebcaa2>[{0}]</color>가 매턴 %[{1}] {2}/% 얻음"
+      "content": "<color=#ebcaa2>[{0}]</color>每回合获得%{2} [{1}]/%"
     },
     {
       "id": "837601_success_1_1",
-      "content": "장미 사냥꾼 <color=#e30000>공격 레벨 감소 3, 방어 레벨 감소 3</color> 얻음"
+      "content": "玫瑰猎人<color=#e30000>获得3层攻击等级降低 与3层防御等级降低 </color> "
     },
     {
       "id": "837601_success_1_2",
-      "content": "장미 사냥꾼 <color=#e30000>공격 레벨 감소 3, 방어 레벨 감소 3</color> 얻음"
+      "content": "玫瑰猎人<color=#e30000>获得3层攻击等级降低 与3层防御等级降低 </color> "
     },
     {
       "id": "837601_failure_1_1",
-      "content": "{0} 수감자 <color=#e30000>최대 체력의 15%만큼 피해</color> 입음"
+      "content": "罪人{0}<color=#e30000>受到体力上限15%的伤害</color>"
     },
     {
       "id": "837601_failure_1_2",
-      "content": "장미 사냥꾼 <color=#f8c200>공격 레벨 증가 3, 방어 레벨 증가 3</color> 얻음"
+      "content": "玫瑰猎人<color=#f8c200>获得3层攻击等级提升 与3层防御等级提升 </color> "
     }
   ]
 }

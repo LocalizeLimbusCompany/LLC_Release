@@ -430,7 +430,7 @@
     },
     {
       "id": "GetImmediateConfirmedEgogifts",
-      "content": "<color=#ebcaa2>{reward} 획득!</color>"
+      "content": "<color=#ebcaa2>获得{reward}！</color>"
     }
   ]
 }

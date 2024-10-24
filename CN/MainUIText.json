@@ -1794,11 +1794,11 @@
     },
     {
       "id": "mainui_default_personality_blocked",
-      "content": "기본 인격 편성 불가"
+      "content": "基本人格无法出战"
     },
     {
       "id": "mainui_change_personality_of_character",
-      "content": "{0} 수감자 인격 변경 필요. 지원 인격이 추가됨."
+      "content": "需要改变罪人{0}的人格。追加支援人格。"
     }
   ]
 }

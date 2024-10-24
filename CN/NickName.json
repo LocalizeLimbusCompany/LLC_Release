@@ -7856,11 +7856,11 @@
     },
     {
       "name": "마을주민1",
-      "krname": "마을 주민",
+      "krname": "羊群牧场",
       "jpname": "",
       "enname": "",
       "fileName": "Village_people1",
-      "nickName": "양떼 목장",
+      "nickName": "羊群牧场",
       "jpNickName": "",
       "enNickName": "",
       "staringSide": "",
@@ -7878,7 +7878,7 @@
     },
     {
       "name": "장미침식혈귀",
-      "krname": "침식된 혈귀",
+      "krname": "玫瑰侵蚀血魔",
       "jpname": "",
       "enname": "",
       "fileName": "Rose_staff",
@@ -8054,7 +8054,7 @@
     },
     {
       "name": "돈키호테산초2",
-      "krname": "산초",
+      "krname": "桑丘",
       "jpname": "サンチョ",
       "enname": "Sancho",
       "fileName": "Donquixote_Sancho2",
@@ -8076,7 +8076,7 @@
     },
     {
       "name": "키호테빛",
-      "krname": "돈키호테",
+      "krname": "堂吉诃德",
       "jpname": "ドンキホーテ",
       "enname": "Don Quixote",
       "fileName": "Donquixote_real_light",

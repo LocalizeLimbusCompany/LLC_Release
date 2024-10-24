@@ -198,7 +198,7 @@
     },
     {
       "id": "servererror_invalid_purchasing_package",
-      "content": "상품거래에 실패하였습니다."
+      "content": "商品交易失败。"
     }
   ]
 }

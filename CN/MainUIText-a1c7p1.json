@@ -22,7 +22,7 @@
     },
     {
       "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
-      "content": "<color=#f8c200>인격, 에고 <color=#990000>{0}단계</color> 동기화, 환상해석 권장</color>"
+      "content": "<color=#f8c200>推荐人格同步&E.G.O异想解析<color=#990000>{0}阶段</color></color>"
     }
   ]
 }
