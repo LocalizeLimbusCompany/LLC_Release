@@ -3,32 +3,32 @@
     {
       "id": 1029,
       "panicName": "罪恶感",
-      "lowMoraleDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 1 얻음",
-      "panicDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 2 얻음."
+      "lowMoraleDescription": "回合结束时，下回合对自身施加1层[Vulnerable]与1层[MentalIncreaseDown]",
+      "panicDescription": "回合结束时，下回合对自身施加2层[Vulnerable]与2层[MentalIncreaseDown]"
     },
     {
       "id": 1031,
       "panicName": "피올림",
-      "lowMoraleDescription": "[Laceration]이 없는 대상이면, 합 위력 -1, 적중시 대상의 [Laceration] 위력만큼 체력 회복",
-      "panicDescription": "[Laceration]이 있는 대상이면, 합 위력 +2, [Laceration]이 없는 대상이면, 합 위력 -2, 적중시 대상의 [Laceration] 위력만큼 체력 회복"
+      "lowMoraleDescription": "若目标未带有[Laceration]，则使自身的拼点威力-1，攻击命中时使自身恢复相当于目标[Laceration]强度的理智值",
+      "panicDescription": "若目标带有[Laceration]，则使自身的拼点威力+2；若目标未带有[Laceration]，则使自身的拼点威力-2，攻击命中时使自身恢复相当于目标[Laceration]强度的理智值"
     },
     {
       "id": 1032,
       "panicName": "罪恶感",
-      "lowMoraleDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 1 얻음",
-      "panicDescription": "턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 2 얻음."
+      "lowMoraleDescription": "回合结束时，下回合对自身施加1层[Vulnerable]与1层[MentalIncreaseDown]",
+      "panicDescription": "回合结束时，下回合对自身施加2层[Vulnerable]与2层[MentalIncreaseDown]"
     },
     {
       "id": 1034,
-      "panicName": "책임의 무게",
-      "lowMoraleDescription": "- [Enhancement] 2, [Vulnerable] 1 얻음, 속도 최댓값 2 증가\n- 체력 회복량 30% 증가\n- 턴 종료 시 턴 시작 시보다 [RegainedStrength]의 수치가 낮으면 다음 턴에 [AttackUp] 2, [DefenseDown] 2 얻음",
-      "panicDescription": "- [Enhancement] 2, 속도 최댓값 2 증가\n- 체력 회복량 50% 증가\n- 턴 종료 시 턴 시작 시보다 [RegainedStrength]의 수치가 낮으면 다음 턴에 [AttackUp] 3, [DefenseDown] 5 얻음"
+      "panicName": "责任之重",
+      "lowMoraleDescription": "- 使自身获得2层[Enhancement]并对自身施加1层[Vulnerable]，自身的最大速度值+2\n- 恢复的体力+30%\n- 回合结束时，若自身的[RegainedStrength]层数低于回合开始，则下回合使自身获得2层[AttackUp]并对自身施加2层[DefenseDown]",
+      "panicDescription": "- 使自身获得2层[Enhancement]，自身的最大速度值+2\n- 恢复的体力+50%\n- 回合结束时，若自身的[RegainedStrength]层数低于回合开始，则下回合使自身获得3层[AttackUp]并对自身施加5层[DefenseDown]"
     },
     {
       "id": 1033,
-      "panicName": "깨어나는 살육의 고양감",
-      "lowMoraleDescription": "매 턴 시작 시, [AttackUp] 2 얻음. 정신력 효율 +2",
-      "panicDescription": "턴 시작 시, [DefenseUp] 6 얻음. 다음 턴에 [AttackUp] 3 얻음"
+      "panicName": "觉醒杀戮的昂扬感",
+      "lowMoraleDescription": "每回合开始时，使自身获得2层[AttackUp]。理智值效率+2",
+      "panicDescription": "回合开始时，使自身获得6层[DefenseUp]。下回合使自身获得3层[AttackUp]"
     }
   ]
 }

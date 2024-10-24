@@ -232,34 +232,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "갈망 - 미르칼라",
-          "abName": "사백송이의 장미",
-          "desc": "[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소",
+          "name": "渴望-蜜卡拉",
+          "abName": "四百朵玫瑰",
+          "desc": "[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] [RoseWedge] 횟수 2 증가"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [RoseWedge] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
@@ -269,7 +256,20 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 대상의 [Laceration] 1회 발동 (횟수 1 감소)"
+                  "desc": "[WinDuelAttack] 对目标施加2层[RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 触发目标的流血 1次(使目标的流血 层数减少1层)"
                 }
               ]
             }
@@ -277,40 +277,27 @@
         },
         {
           "level": 3,
-          "name": "갈망 - 미르칼라",
-          "abName": "사백송이의 장미",
-          "desc": "<style=\"highlight\">대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소",
+          "name": "渴望-蜜卡拉",
+          "abName": "四百朵玫瑰",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>"
+                  "desc": "[OnSucceedAttack] 若最大共鸣数不低于4，则触发目标的流血 1次(使目标的流血层数减少1层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] [RoseWedge] 횟수 2 증가<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [RoseWedge] 횟수 1 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若最大共鸣数不低于4，则触发目标的流血 1次(使目标的流血层数减少1层)"
                 }
               ]
             },
@@ -320,7 +307,20 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 대상의 [Laceration] <style=\"highlight\">1 + (최대 공명 수 / 2)회 발동. (최대 3회. 발동된 횟수만큼 [Laceration] 횟수 감소)</style>"
+                  "desc": "[WinDuelAttack] 对目标施加2层[RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 触发目标的流血 (1+(最大共鸣数/2))次(最多3次；根据触发的流血 次数，使目标的流血 层数相应减少)"
                 }
               ]
             }
@@ -328,40 +328,27 @@
         },
         {
           "level": 4,
-          "name": "갈망 - 미르칼라",
-          "abName": "사백송이의 장미",
-          "desc": "대상의 [Laceration] <style=\"highlight\">6 당 코인 위력 +1 (최대 2)</style>\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소",
+          "name": "渴望-蜜卡拉",
+          "abName": "四百朵玫瑰",
+          "desc": "目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若最大共鸣数不低于4，则触发目标的流血 1次(使目标的流血层数减少1层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)<style=\"highlight\"></style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] [RoseWedge] 횟수 2 증가<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [RoseWedge] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 若最大共鸣数不低于4，则触发目标的流血 1次(使目标的流血层数减少1层)"
                 }
               ]
             },
@@ -371,10 +358,23 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 대상의 [Laceration] 1 + (최대 공명 수 / 2)회 발동. (최대 3회. 발동된 횟수만큼 [Laceration] 횟수 감소)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] 对目标施加2层[RoseWedge]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EnemyKill] 적의 남은 체력을 초과하여 피해를 준 경우, 초과한 피해량을 고정 피해로 적 전체에 나눠서 가함. (최소 1)</style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 触发目标的流血 (1+(最大共鸣数/2))次(最多3次；根据触发的流血 次数，使目标的流血 层数相应减少)"
+                },
+                {
+                  "desc": "[EnemyKill] 对敌方单位造成超过其剩余体力的溢出伤害时，对全体敌方单位造成共计相当于溢出伤害量的固定伤害(最少1点)"
                 }
               ]
             }
@@ -387,37 +387,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "갈망 - 미르칼라",
-          "abName": "사백송이의 장미",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[WhenUse] 자신의 최대 체력의 10% 만큼 소모하여, 모든 적과 아군이 (자신이 소모한 체력 / 2)만큼 피해를 받음\n- 자신의 현재 체력이 최대 체력의 50% 미만이면, 대신 모든 아군에게 [Laceration]을 5 부여하고 1회 발동시킴 ([Laceration] 횟수 1 감소). 아군이 입은 [Laceration] 피해만큼 자신의 체력을 회복",
+          "name": "渴望-蜜卡拉",
+          "abName": "四百朵玫瑰",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 消耗自身体力上限10%的体力并对全体敌方与友方单位造成(消耗的体力/2)点伤害\n- 若现存体力低于体力上限的50%，则改为使全体友方单位增加5级流血 强度并触发其流血 1次(使其流血 层数减少1层)。使自身恢复相当于对友方单位造成流血伤害量的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使自身与目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] 2 부여"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] [RoseWedge] 횟수 2 증가"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [RoseWedge] 횟수 1 증가"
-                },
-                {
-                  "desc": "- 대상에게 [RoseWedge]가 없었으면, [RoseWedge] 위력이 추가로 4 증가"
+                  "desc": "[OnSucceedAttack] 使自身与目标增加2级流血 强度"
                 }
               ]
             },
@@ -427,7 +411,23 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)"
+                  "desc": "[WinDuelAttack] 对目标施加2层[RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[RoseWedge]"
+                },
+                {
+                  "desc": "- 若目标未带有[RoseWedge]，则额外使目标增加4级[RoseWedge]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 触发目标的流血 1次(使目标的流血 层数减少1层)"
                 }
               ]
             }
@@ -435,37 +435,21 @@
         },
         {
           "level": 3,
-          "name": "갈망 - 미르칼라",
-          "abName": "사백송이의 장미",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">자신과 대상의 [Laceration] 합이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 최대 체력의 10% 만큼 소모하여, 모든 적과 아군이 (자신이 소모한 체력 / 2) 만큼 피해를 받음\n- 자신의 현재 체력이 최대 체력의 50% 미만이면, 대신 모든 아군에게 [Laceration]을 5 부여하고 1회 발동시킴 ([Laceration] 횟수 1 감소). 아군이 입은 [Laceration] 피해만큼 자신의 체력을 회복",
+          "name": "渴望-蜜卡拉",
+          "abName": "四百朵玫瑰",
+          "desc": "[CantIdentify]\n随机指定目标\n若自身与目标的流血 强度之和不低于6级，则使本技能的硬币威力+1\n[WhenUse] 消耗自身体力上限10%的体力并对全体敌方与友方单位造成(消耗的体力/2)点伤害\n- 若现存体力低于体力上限的50%，则改为使全体友方单位增加5级流血 强度并触发其流血 1次(使其流血 层数减少1层)。使自身恢复相当于对友方单位造成流血伤害量的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 使自身与目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] <style=\"highlight\">3</style> 부여"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] [RoseWedge] 횟수 2 증가<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [RoseWedge] 횟수 1 증가<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "- 대상에게 [RoseWedge]가 없었으면, [RoseWedge] 위력이 추가로 4 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身与目标增加3级流血 强度"
                 }
               ]
             },
@@ -475,7 +459,23 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 대상의 [Laceration] <style=\"highlight\">1 + (최대 공명 수 /2)회 발동. (최대 3회, 발동된 횟수만큼 [Laceration] 횟수 감소)</style>"
+                  "desc": "[WinDuelAttack] 对目标施加2层[RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[RoseWedge]"
+                },
+                {
+                  "desc": "- 若目标未带有[RoseWedge]，则额外使目标增加4级[RoseWedge]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 触发目标的流血 (1+(最大共鸣数/2))次(最多3次；根据触发的流血 次数，使目标的流血 层数相应减少)"
                 }
               ]
             }
@@ -483,43 +483,27 @@
         },
         {
           "level": 4,
-          "name": "갈망 - 미르칼라",
-          "abName": "사백송이의 장미",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n자신과 대상의 [Laceration] 합 6 당 코인 위력 +1 <style=\"highlight\">(최대 3)</style>\n[WhenUse] 자신의 최대 체력의 10% 만큼 소모하여, 모든 적과 아군이 (자신이 소모한 체력 / 2) 만큼 피해를 받음\n- 자신의 현재 체력이 최대 체력의 50% 미만이면, 대신 모든 아군에게 [Laceration]을 5 부여하고 1회 발동시킴 ([Laceration] 횟수 1 감소). 아군이 입은 [Laceration] 피해만큼 자신의 체력을 회복",
+          "name": "渴望-蜜卡拉",
+          "abName": "四百朵玫瑰",
+          "desc": "[CantIdentify]\n随机指定目标\n自身与目标的流血 强度之和每有6级，使本技能的硬币威力+1(最多+3)\n[WhenUse] 消耗自身体力上限10%的体力并对全体敌方与友方单位造成(消耗的体力/2)点伤害\n- 若现存体力低于体力上限的50%，则改为使全体友方单位增加5级流血 强度并触发其流血 1次(使其流血 层数减少1层)。使自身恢复相当于对友方单位造成流血伤害量的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身与目标增加3级流血 强度"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 (횟수 1 감소)</style>"
+                  "desc": "[OnSucceedAttack] 触发自身与目标的流血 1次(使其流血 层数减少1层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신과 대상에게 [Laceration] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身与目标增加3级流血 强度"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 (횟수 1 감소)</style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] [RoseWedge] 횟수 2 증가<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [RoseWedge] 횟수 <style=\"highlight\">2</style> 증가"
-                },
-                {
-                  "desc": "- 대상에게 [RoseWedge]가 없었으면, [RoseWedge] 위력이 추가로 4 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 触发自身与目标的流血 1次(使其流血 层数减少1层)"
                 }
               ]
             },
@@ -529,10 +513,26 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 대상의 [Laceration] 1 + (최대 공명 수 /2)회 발동. (최대 3회, 발동된 횟수만큼 [Laceration] 횟수 감소)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] 对目标施加2层[RoseWedge]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EnemyKill] 적의 남은 체력을 초과하여 피해를 준 경우, 초과한 피해량을 고정 피해로 적 전체에 나눠서 가함. (최소 1)</style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[RoseWedge]"
+                },
+                {
+                  "desc": "- 若目标未带有[RoseWedge]，则额外使目标增加4级[RoseWedge]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 触发目标的流血 (1+(最大共鸣数/2))次(最多3次；根据触发的流血 次数，使目标的流血 层数相应减少)"
+                },
+                {
+                  "desc": "[EnemyKill] 对敌方单位造成超过其剩余体力的溢出伤害时，对全体敌方单位造成共计相当于溢出伤害量的固定伤害(最少1点)"
                 }
               ]
             }

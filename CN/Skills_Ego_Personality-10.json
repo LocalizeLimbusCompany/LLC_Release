@@ -496,24 +496,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 若目标带有诅咒 ，则立刻触发目标的诅咒 2次并使其诅咒 层数减少2层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttackTail] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [NailPersonality] 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层尖钉 "
                 }
               ]
             }
@@ -521,27 +521,27 @@
         },
         {
           "level": 3,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소<style=\"highlight\"></style>",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 若目标带有诅咒 ，则立刻触发目标的诅咒 2次并使其诅咒 层数减少2层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] [Laceration] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttackTail] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 4 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加4层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [NailPersonality] <style=\"highlight\">3</style> 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层尖钉 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 다음 턴에 [Binding] 2 부여 (턴 당 1회)</style>"
+                  "desc": "[OnSucceedAttackTail] 下回合对目标施加2层束缚 (每回合最多1次)"
                 }
               ]
             }
@@ -549,33 +549,33 @@
         },
         {
           "level": 4,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소<style=\"highlight\"></style>",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 若目标带有诅咒 ，则立刻触发目标的诅咒 2次并使其诅咒 层数减少2层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] [Laceration] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Curse] 4 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加4层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [NailPersonality] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加3层尖钉 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 이 스킬을 포함하여 질투 공명이 4 이상이면, [ParryingResultDown] 1 부여 (턴 당 1회)</style>"
+                  "desc": "[OnSucceedAttack] 若包括本技能在内嫉妒共鸣数不低于4，则对目标施加1层拼点虚弱 (每回合最多1次)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 다음 턴에 [Binding] 2 부여 (턴 당 1회)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 下回合对目标施加2层束缚 (每回合最多1次)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 다음 턴에 [DefenseDown] 2 부여 (턴 당 1회)</style>"
+                  "desc": "[OnSucceedAttackTail] 下回合对目标施加2层防御等级降低 (每回合最多1次)"
                 }
               ]
             }
