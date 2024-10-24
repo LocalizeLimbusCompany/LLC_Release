@@ -1791,6 +1791,14 @@
     {
       "id": "mainui_exp_dungeon_9_open_day",
       "content": "经验采光#7（打击）将在周五，周六，周日开放。"
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "기본 인격 편성 불가"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "{0} 수감자 인격 변경 필요. 지원 인격이 추가됨."
     }
   ]
 }

@@ -195,6 +195,10 @@
     {
       "id": "serverstate_error_thirdparty_api",
       "content": "外部服务器通讯连接错误。请稍后重试。"
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "상품거래에 실패하였습니다."
     }
   ]
 }
