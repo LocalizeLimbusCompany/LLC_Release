@@ -889,23 +889,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가족을 위한 헌신",
-          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음",
+          "name": "为家族的牺牲",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[WhenUse] 使自身增加10级流血 强度\n- 若现存体力不低于50%，则使自身额外增加15级流血 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层[BloodyHandGregFirst]"
                 }
               ]
             }
@@ -913,23 +913,23 @@
         },
         {
           "level": 2,
-          "name": "가족을 위한 헌신",
-          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음",
+          "name": "为家族的牺牲",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 使自身增加10级流血 强度\n- 若现存体力不低于50%，则使自身额外增加15级流血 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">2</style> 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[BloodyHandGregFirst]"
                 }
               ]
             }
@@ -937,23 +937,23 @@
         },
         {
           "level": 4,
-          "name": "가족을 위한 헌신",
-          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음\n",
+          "name": "为家族的牺牲",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[WhenUse] 目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 使自身增加10级流血 强度\n- 若现存体力不低于50%，则使自身额外增加15级流血 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得3层[BloodyHandGregFirst]"
                 }
               ]
             }
@@ -966,23 +966,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "죄어드는 죄악감",
-          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] 2 얻음",
+          "name": "紧扼而来的罪恶感",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[WhenUse] 使自身增加10级流血 强度\n[WhenUse] 若自身的[WornHeartGreg]层数不低于5层，则消耗至多60层血宴 ，每消耗6层血宴 ，使自身获得1层[BloodyHandGregFirst]\n- 若自身的[WornHeartGreg]层数低于5层，则使自身增加10级流血 强度并使自身获得2层[BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] 1 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层[BloodyHandGregFirst]"
                 }
               ]
             }
@@ -990,23 +990,23 @@
         },
         {
           "level": 2,
-          "name": "죄어드는 죄악감",
-          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] 2 얻음",
+          "name": "紧扼而来的罪恶感",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 使自身增加10级流血 强度\n[WhenUse] 若自身的[WornHeartGreg]层数不低于5层，则消耗至多60层血宴 ，每消耗6层血宴 ，使自身获得1层[BloodyHandGregFirst]\n- 若自身的[WornHeartGreg]层数低于5层，则使自身增加10级流血 强度并使自身获得2层[BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">2</style> 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1014,23 +1014,23 @@
         },
         {
           "level": 4,
-          "name": "죄어드는 죄악감",
-          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
+          "name": "紧扼而来的罪恶感",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[WhenUse] 目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 使自身增加10级流血 强度\n[WhenUse] 若自身的[WornHeartGreg]层数不低于5层，则消耗至多60层血宴 ，每消耗6层血宴 ，使自身获得1层[BloodyHandGregFirst]\n- 若自身的[WornHeartGreg]层数低于5层，则使自身增加10级流血 强度并使自身获得3层[BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得3层[BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1043,33 +1043,33 @@
       "levelList": [
         {
           "level": 3,
-          "name": "씻을 수 없는 죄",
-          "desc": "이 스킬에서 적중 시, 입힌 체력 피해량의 50%만큼 체력 회복 (스킬당 최대 100)\n[WhenUse] 자신의 잃은 체력 1%당 피해량 + 1% (최대 60%)\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodyHandGregFirst]을 10을 초과하는 만큼 소모하여 아래 효과를 얻음\n- (소모한 수치 x 3)만큼 자신의 체력을 회복\n- 소모한 수치가 10 이상이면, 코인 위력 +1\n[WhenUse] [Laceration] 10 얻음\n[EndSkill] 최대 체력의 10%만큼 체력 회복",
+          "name": "无法洗清的罪",
+          "desc": "本技能命中时，使自身恢复造成体力伤害量50%的体力(每个技能最多100点)\n[WhenUse] 自身每失去体力上限1%的体力，使本技能造成的伤害+1%(最多+60%)\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 消耗所有超出10层的[BloodyHandGregFirst]，并触发以下效果：\n- 使自身恢复(消耗的[BloodyHandGregFirst]层数×3)点体力\n- 若消耗的[BloodyHandGregFirst]层数不低于10层，则使本技能的硬币威力+1\n[WhenUse] 使自身增加10级流血 强度\n[EndSkill] 使自身恢复体力上限10%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] 2 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[BloodyHandGregFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             }
@@ -1077,33 +1077,33 @@
         },
         {
           "level": 4,
-          "name": "씻을 수 없는 죄",
-          "desc": "이 스킬에서 적중 시, 입힌 체력 피해량의 50%만큼 체력 회복 (스킬당 최대 100)\n[WhenUse] 자신의 잃은 체력 1%당 피해량 <style=\"highlight\">+ 1.5% (최대 90%)</style>\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodyHandGregFirst]을 10을 초과하는 만큼 소모하여 아래 효과를 얻음\n- (소모한 수치 x 3)만큼 자신의 체력을 회복\n- 소모한 수치가 10 이상이면, 코인 위력 +1\n<style=\"highlight\">- 소모한 수치가 20이면, 이 스킬의 마지막 코인 재사용</style>\n[WhenUse] [Laceration] 10 얻음\n[EndSkill] 최대 체력의 10%만큼 체력 회복",
+          "name": "无法洗清的罪",
+          "desc": "本技能命中时，使自身恢复造成体力伤害量50%的体力(每个技能最多100点)\n[WhenUse] 自身每失去体力上限1%的体力，使本技能造成的伤害+1.5%(最多+90%)\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 消耗所有超出10层的[BloodyHandGregFirst]，并触发以下效果：\n- 使自身恢复(消耗的[BloodyHandGregFirst]层数×3)点体力\n- 若消耗的[BloodyHandGregFirst]层数不低于10层，则使本技能的硬币威力+1\n- 若消耗了20层[BloodyHandGregFirst]，则重复使用本技能的最后一枚硬币\n[WhenUse] 使自身增加10级流血 强度\n[EndSkill] 使自身恢复体力上限10%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得3层[BloodyHandGregFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] <style=\"highlight\">2</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 }
               ]
             }
@@ -1116,8 +1116,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "빛바랜 인내",
-          "desc": "[StartBattle] [WornHeartGreg] 3 얻음 (턴 당 1회)",
+          "name": "褪色的忍耐",
+          "desc": "[StartBattle] 使自身获得3层[WornHeartGreg](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1130,8 +1130,8 @@
         },
         {
           "level": 4,
-          "name": "빛바랜 인내",
-          "desc": "<style=\"highlight\">[StartBattle] 자신의 현재 체력이 최대 체력의 40% 이상이면, [Laceration] 5 얻고 자신의 [Laceration] 최대 3회 발동 (턴 당 1회. 발동된 횟수만큼 [Laceration] 횟수 감소)\n[StartBattle] 자신의 현재 체력이 최대 체력의 40% 미만이면, [BloodDinner]을 최대 20 소모하여, 소모한 [BloodDinner]만큼 자신의 체력 회복 (턴 당 1회)</style>\n[StartBattle] [WornHeartGreg] 3 얻음 (턴 당 1회)",
+          "name": "褪色的忍耐",
+          "desc": "[StartBattle] 若现存体力不低于体力上限的40%，则使自身增加5级流血 强度并触发自身的流血至多3次(每回合最多1次。根据触发的流血 次数，相应使自身的流血 层数减少)\n[StartBattle] 若现存体力低于体力上限的40%，则消耗至多20层血宴 并使自身恢复相应的体力(每回合最多1次)\n[StartBattle] 使自身获得3层[WornHeartGreg](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [

@@ -318,7 +318,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "若[BloodDinner_Common_Accumulation]不低于100层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+15%)"
+                  "desc": "若[BloodDinner_Common_Accumulation]不低于100层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+20%)"
                 }
               ]
             },

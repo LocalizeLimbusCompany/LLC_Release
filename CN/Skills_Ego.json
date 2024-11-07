@@ -5,17 +5,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "오감도",
-          "abName": "이상",
+          "name": "乌瞰刀",
+          "abName": "李箱",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 모든 아군에게 다음 턴에 신속 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合使全体友方单位获得1层迅捷 "
                 }
               ]
             }
@@ -23,17 +23,17 @@
         },
         {
           "level": 3,
-          "name": "오감도",
-          "abName": "이상",
+          "name": "乌瞰刀",
+          "abName": "李箱",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 모든 아군에게 다음 턴에 신속 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合使全体友方单位获得3层迅捷 "
                 }
               ]
             }
@@ -41,20 +41,20 @@
         },
         {
           "level": 4,
-          "name": "오감도",
-          "abName": "이상",
+          "name": "乌瞰刀",
+          "abName": "李箱",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 모든 아군에게 다음 턴에 신속 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合使全体友方单位获得3层迅捷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 }
               ]
             }
@@ -67,14 +67,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 화상 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级烧伤 强度"
                 }
               ]
             }
@@ -82,14 +82,14 @@
         },
         {
           "level": 3,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 화상 4 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -97,17 +97,17 @@
         },
         {
           "level": 4,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 화상 6 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加6级烧伤 强度"
                 }
               ]
             }
@@ -120,14 +120,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
                 }
               ]
             }
@@ -135,14 +135,14 @@
         },
         {
           "level": 3,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -150,17 +150,17 @@
         },
         {
           "level": 4,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 화상 6 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加6级烧伤 强度"
                 }
               ]
             }
@@ -173,17 +173,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "소망석",
-          "abName": "탑돌이",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "祈愿石",
+          "abName": "绕佛塔",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 나태 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层怠惰易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层麻痹 "
                 }
               ]
             }
@@ -191,17 +191,17 @@
         },
         {
           "level": 3,
-          "name": "소망석",
-          "abName": "탑돌이",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "祈愿石",
+          "abName": "绕佛塔",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 나태 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层怠惰易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层麻痹 "
                 }
               ]
             }
@@ -214,17 +214,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "소망석",
-          "abName": "탑돌이",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "祈愿石",
+          "abName": "绕佛塔",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 나태 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层怠惰易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层麻痹 "
                 }
               ]
             }
@@ -232,20 +232,20 @@
         },
         {
           "level": 3,
-          "name": "소망석",
-          "abName": "탑돌이",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "祈愿石",
+          "abName": "绕佛塔",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 나태 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层怠惰易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层束缚 "
                 }
               ]
             }
@@ -258,14 +258,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "표상 방출기",
-          "abName": "파우스트",
+          "name": "表象放射器",
+          "abName": "浮士德",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 정신력이 가장 낮은 아군 4명의 정신력 8 회복"
+                  "desc": "[EndSkill] 使理智值最低的4名友方单位恢复8点理智值"
                 }
               ]
             }
@@ -273,14 +273,14 @@
         },
         {
           "level": 3,
-          "name": "표상 방출기",
-          "abName": "파우스트",
+          "name": "表象放射器",
+          "abName": "浮士德",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 정신력이 가장 낮은 아군 4명의 정신력 10 회복"
+                  "desc": "[EndSkill] 使理智值最低的4名友方单位恢复10点理智值"
                 }
               ]
             }
@@ -288,14 +288,14 @@
         },
         {
           "level": 4,
-          "name": "표상 방출기",
-          "abName": "파우스트",
+          "name": "表象放射器",
+          "abName": "浮士德",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 정신력이 가장 낮은 아군 4명의 정신력 12 회복"
+                  "desc": "[EndSkill] 使理智值最低的4名友方单位恢复12点理智值"
                 }
               ]
             }
@@ -308,17 +308,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "물주머니",
-          "abName": "단수어",
+          "name": "液囊",
+          "abName": "断首鱼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 아군 전체 정신력 10 회복"
+                  "desc": "[EndSkill] 使全体友方单位恢复10点理智值"
                 },
                 {
-                  "desc": "[EndSkill] 아군 전체 최대 체력의 10%만큼 체력 회복"
+                  "desc": "[EndSkill] 使全体友方单位恢复其体力上限10%的体力"
                 }
               ]
             }
@@ -326,17 +326,17 @@
         },
         {
           "level": 3,
-          "name": "물주머니",
-          "abName": "단수어",
+          "name": "液囊",
+          "abName": "断首鱼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 아군 전체 정신력 15 회복"
+                  "desc": "[EndSkill] 使全体友方单位恢复15点理智值"
                 },
                 {
-                  "desc": "[EndSkill] 아군 전체 최대 체력의 15%만큼 체력 회복"
+                  "desc": "[EndSkill] 使全体友方单位恢复其体力上限15%的体力"
                 }
               ]
             }
@@ -344,20 +344,20 @@
         },
         {
           "level": 4,
-          "name": "물주머니",
-          "abName": "단수어",
+          "name": "液囊",
+          "abName": "断首鱼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 아군 전체 정신력 15 회복"
+                  "desc": "[EndSkill] 使全体友方单位恢复15点理智值"
                 },
                 {
-                  "desc": "[EndSkill] 아군 전체 최대 체력의 15%만큼 체력 회복"
+                  "desc": "[EndSkill] 使全体友方单位恢复其体力上限15%的体力"
                 },
                 {
-                  "desc": "[EndSkillHead] 아군 전체 정신력 10 회복"
+                  "desc": "[EndSkillHead] 使全体友方单位恢复10点理智值"
                 }
               ]
             }
@@ -370,17 +370,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "물주머니",
-          "abName": "단수어",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "液囊",
+          "abName": "断首鱼",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 10 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成10点理智伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层虚弱 "
                 }
               ]
             }
@@ -388,17 +388,17 @@
         },
         {
           "level": 3,
-          "name": "물주머니",
-          "abName": "단수어",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "液囊",
+          "abName": "断首鱼",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 20 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成20点理智伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层虚弱 "
                 }
               ]
             }
@@ -406,20 +406,20 @@
         },
         {
           "level": 4,
-          "name": "물주머니",
-          "abName": "단수어",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "液囊",
+          "abName": "断首鱼",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 20 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成20点理智伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 대상에게 정신력 10 피해"
+                  "desc": "[OnSucceedAttackTail] 对目标造成10点理智伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层虚弱 "
                 }
               ]
             }
@@ -432,17 +432,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "저주못",
-          "abName": "아파하는 테디",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 관통 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层突刺易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 질투 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 }
               ]
             }
@@ -450,20 +450,20 @@
         },
         {
           "level": 3,
-          "name": "저주못",
-          "abName": "아파하는 테디",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 관통 취약 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层突刺易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 질투 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 저주 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层诅咒 "
                 }
               ]
             }
@@ -471,26 +471,26 @@
         },
         {
           "level": 4,
-          "name": "저주못",
-          "abName": "아파하는 테디",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 관통 취약 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层突刺易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 질투 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 저주 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 못 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层尖钉 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 저주가 있으면 피해량 +50%"
+                  "desc": "[OnSucceedAttack] 若目标带有诅咒 ，则使本硬币造成的伤害+50%"
                 }
               ]
             }
@@ -503,17 +503,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 관통 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层突刺易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 질투 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层嫉妒易损 "
                 }
               ]
             }
@@ -521,20 +521,20 @@
         },
         {
           "level": 3,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 관통 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层突刺易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 질투 취약 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层嫉妒易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 저주 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层诅咒 "
                 }
               ]
             }
@@ -542,26 +542,26 @@
         },
         {
           "level": 4,
-          "name": "저주못",
-          "abName": "아파하는 테디",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "诅咒之钉",
+          "abName": "痛苦泰迪",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 관통 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层突刺易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 질투 취약 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层嫉妒易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 저주 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 못 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层尖钉 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 저주가 있으면 피해량 +50%"
+                  "desc": "[OnSucceedAttack] 若目标带有诅咒 ，则使本硬币造成的伤害+50%"
                 }
               ]
             }
@@ -574,14 +574,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "라 샹그레 데 산쵸",
-          "abName": "돈키호테",
+          "name": "桑丘之血",
+          "abName": "堂吉诃德",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 출혈 4 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加4级流血 强度"
                 }
               ]
             }
@@ -589,17 +589,17 @@
         },
         {
           "level": 3,
-          "name": "라 샹그레 데 산쵸",
-          "abName": "돈키호테",
+          "name": "桑丘之血",
+          "abName": "堂吉诃德",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量50%的体力"
                 }
               ]
             }
@@ -607,17 +607,17 @@
         },
         {
           "level": 4,
-          "name": "라 샹그레 데 산쵸",
-          "abName": "돈키호테",
+          "name": "桑丘之血",
+          "abName": "堂吉诃德",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
                 }
               ]
             }
@@ -630,17 +630,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "물주머니",
-          "abName": "단수어",
+          "name": "液囊",
+          "abName": "断首鱼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 진동 폭발"
+                  "desc": "[OnSucceedAttackHead] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 15 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成15点理智伤害"
                 }
               ]
             }
@@ -648,20 +648,20 @@
         },
         {
           "level": 3,
-          "name": "물주머니",
-          "abName": "단수어",
+          "name": "液囊",
+          "abName": "断首鱼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 25 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成25点理智伤害"
                 },
                 {
-                  "desc": "대상이 흐트러짐, 사기저하, 패닉 상태라면 피해량의 30%만큼 추가 피해"
+                  "desc": "攻击陷入混乱、士气低落和陷入恐慌的单位时，对其追加本硬币伤害量30%的伤害"
                 }
               ]
             }
@@ -669,23 +669,23 @@
         },
         {
           "level": 4,
-          "name": "물주머니",
-          "abName": "단수어",
+          "name": "液囊",
+          "abName": "断首鱼",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 25 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成25点理智伤害"
                 },
                 {
-                  "desc": "대상이 흐트러짐, 사기저하, 패닉 상태라면 피해량의 30%만큼 추가 피해"
+                  "desc": "攻击陷入混乱、士气低落和陷入恐慌的单位时，对其追加本硬币伤害量30%的伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -698,17 +698,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "물주머니",
-          "abName": "단수어",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "液囊",
+          "abName": "断首鱼",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
                 }
               ]
             }
@@ -716,20 +716,20 @@
         },
         {
           "level": 3,
-          "name": "물주머니",
-          "abName": "단수어",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "液囊",
+          "abName": "断首鱼",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 7 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加7级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 7 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加7级沉沦 强度"
                 },
                 {
-                  "desc": "대상이 흐트러짐, 사기저하, 패닉 상태가 아니면 피해량의 50%만큼 추가 피해"
+                  "desc": "攻击没有陷入混乱、士气低落和陷入恐慌的单位时，对其追加本硬币伤害量50%的伤害"
                 }
               ]
             }
@@ -737,20 +737,20 @@
         },
         {
           "level": 4,
-          "name": "물주머니",
-          "abName": "단수어",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "液囊",
+          "abName": "断首鱼",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级沉沦 强度"
                 },
                 {
-                  "desc": "대상이 흐트러짐, 사기저하, 패닉 상태가 아니면 피해량의 50%만큼 추가 피해"
+                  "desc": "攻击没有陷入混乱、士气低落和陷入恐慌的单位时，对其追加本硬币伤害量50%的伤害"
                 }
               ]
             }
@@ -763,14 +763,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "삼라염상",
-          "abName": "료슈",
+          "name": "森罗炎象",
+          "abName": "良秀",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 화상 4 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -778,17 +778,17 @@
         },
         {
           "level": 3,
-          "name": "삼라염상",
-          "abName": "료슈",
+          "name": "森罗炎象",
+          "abName": "良秀",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 취약 1 부여"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
                 }
               ]
             }
@@ -796,20 +796,20 @@
         },
         {
           "level": 4,
-          "name": "삼라염상",
-          "abName": "료슈",
+          "name": "森罗炎象",
+          "abName": "良秀",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 취약 1 부여"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层易损 "
                 }
               ]
             }
@@ -822,14 +822,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "대상에게 화상이 있으면 스킬 위력 +2.\n[EnemyKill]다음 턴에 공격 위력 증가 1 얻음",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "若目标带有烧伤 ，则使本技能威力+2\n[EnemyKill] 下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -837,14 +837,14 @@
         },
         {
           "level": 3,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "대상에게 화상이 있으면 스킬 위력 +2.\n[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "若目标带有烧伤 ，则使本技能威力+2\n[EnemyKill] 下回合使自身获得2层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -852,14 +852,14 @@
         },
         {
           "level": 4,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "대상에게 화상이 있으면 스킬 위력 +2.\n대상의 화상 위력 1당 5%만큼 피해량 증가 (최대 100%)\n[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "若目标带有烧伤 ，则使本技能威力+2\n目标每带有1级烧伤 强度，使本技能造成的伤害+5%(最多+100%)\n[EnemyKill] 下回合使自身获得2层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -872,14 +872,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n대상에게 화상이 있으면 스킬 위력 +2.\n[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음.\n[EnemyKillFail] 다음 턴에 화상 10을 얻음",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标带有烧伤 ，则使本技能威力+2\n[EnemyKill] 下回合使自身获得2层强壮 \n[EnemyKillFail] 下回合使自身增加10级烧伤 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -887,14 +887,14 @@
         },
         {
           "level": 3,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n대상에게 화상이 있으면 스킬 위력 +4.\n[EnemyKill] 다음 턴에 공격 위력 증가 3 얻음.\n[EnemyKillFail] 다음 턴에 공격 위력 증가 3, 화상 10 얻음",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标带有烧伤 ，则使本技能威力+4\n[EnemyKill] 下回合使自身获得3层强壮 \n[EnemyKillFail] 下回合使自身获得3层强壮 并增加10级烧伤 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -902,14 +902,14 @@
         },
         {
           "level": 4,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n대상에게 화상이 있으면 스킬 위력 +4.\n대상의 화상 위력 1당 5%만큼 피해량 증가 (최대 100%)\n[EnemyKill] 다음 턴에 공격 위력 증가 3 얻음.\n[EnemyKillFail] 다음 턴에 공격 위력 증가 3, 화상 10 얻음",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标带有烧伤 ，则使本技能威力+4\n目标每带有1级烧伤 强度，使本技能造成的伤害+5%(最多+100%)\n[EnemyKill] 下回合使自身获得3层强壮 \n[EnemyKillFail] 下回合使自身获得3层强壮 并增加10级烧伤 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -922,23 +922,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "타인의 사슬",
-          "abName": "뫼르소",
+          "name": "他人之锁",
+          "abName": "默尔索",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 얻음"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 얻음"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加2层虚弱 "
                 }
               ]
             }
@@ -946,26 +946,26 @@
         },
         {
           "level": 3,
-          "name": "타인의 사슬",
-          "abName": "뫼르소",
+          "name": "他人之锁",
+          "abName": "默尔索",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 5 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加5层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 5 얻음"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加5层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 4 얻음"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加4层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 보호 2 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得2层守护 "
                 }
               ]
             }
@@ -973,26 +973,26 @@
         },
         {
           "level": 4,
-          "name": "타인의 사슬",
-          "abName": "뫼르소",
+          "name": "他人之锁",
+          "abName": "默尔索",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 5 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加5层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 얻음"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 3 얻음"
+                  "desc": "[OnSucceedAttack] 下回合对自身施加3层虚弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 보호 2 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得2层守护 "
                 }
               ]
             }
@@ -1005,14 +1005,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "나사빠진 일격",
-          "abName": "너 맞아볼래? 매우?",
-          "desc": "[EndSkill] 보호 3 얻음",
+          "name": "脱线一击",
+          "abName": "你想挨打吗？很想？",
+          "desc": "[EndSkill] 使自身获得3层守护 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层麻痹 "
                 }
               ]
             }
@@ -1020,14 +1020,14 @@
         },
         {
           "level": 3,
-          "name": "나사빠진 일격",
-          "abName": "너 맞아볼래? 매우?",
-          "desc": "[EndSkill] 보호 3 얻음\n[EndSkill] 다음 턴에 시술 1 얻음",
+          "name": "脱线一击",
+          "abName": "你想挨打吗？很想？",
+          "desc": "[EndSkill] 使自身获得3层守护 \n[EndSkill] 下回合使自身获得1层手术 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层麻痹 "
                 }
               ]
             }
@@ -1040,14 +1040,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "나사빠진 일격",
-          "abName": "너 맞아볼래? 매우?",
-          "desc": "[EndSkill] 다음 턴에 시술 2 얻음",
+          "name": "脱线一击",
+          "abName": "你想挨打吗？很想？",
+          "desc": "[EndSkill] 下回合使自身获得2层手术 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层麻痹 "
                 }
               ]
             }
@@ -1055,17 +1055,17 @@
         },
         {
           "level": 3,
-          "name": "나사빠진 일격",
-          "abName": "너 맞아볼래? 매우?",
-          "desc": "[EndSkill] 다음 턴에 시술 2 얻음",
+          "name": "脱线一击",
+          "abName": "你想挨打吗？很想？",
+          "desc": "[EndSkill] 下回合使自身获得2层手术 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 3 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加3层麻痹 "
                 },
                 {
-                  "desc": "피해량의 30%만큼 흐트러짐 손상 입힘"
+                  "desc": "使目标的混乱阈值前移本硬币伤害量的30%"
                 }
               ]
             }
@@ -1078,14 +1078,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "집행",
-          "abName": "하늘 집행관의 보좌",
-          "desc": "[EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명 최대 체력의 15%만큼 체력 회복",
+          "name": "执行",
+          "abName": "天之执行官的辅佐",
+          "desc": "[EndSkill] 使除自身以外现存体力最低的2名友方单位恢复其体力上限15%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 진동 폭발"
+                  "desc": "[OnSucceedAttackHead] 使目标震颤引爆 "
                 }
               ]
             }
@@ -1093,14 +1093,14 @@
         },
         {
           "level": 3,
-          "name": "집행",
-          "abName": "하늘 집행관의 보좌",
-          "desc": "[EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명 최대 체력의 30%만큼 체력을 회복, 다음 턴에 보호 2 부여",
+          "name": "执行",
+          "abName": "天之执行官的辅佐",
+          "desc": "[EndSkill] 使除自身以外现存体力最低的2名友方单位恢复其体力上限30%的体力；下回合使这2名友方单位获得2层守护 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -1113,14 +1113,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "집행",
-          "abName": "하늘 집행관의 보좌",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명에게 다음 턴에 취약 1 부여, 다음 턴에 피해량 증가 2 부여",
+          "name": "执行",
+          "abName": "天之执行官的辅佐",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 对除自身以外现存体力最低的2名友方单位在下回合施加1层易损 并使其获得2层伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 진동 폭발"
+                  "desc": "[OnSucceedAttackHead] 使目标震颤引爆 "
                 }
               ]
             }
@@ -1128,14 +1128,14 @@
         },
         {
           "level": 3,
-          "name": "집행",
-          "abName": "하늘 집행관의 보좌",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명에게 다음 턴에 취약 2 부여, 다음 턴에 피해량 증가 3 부여",
+          "name": "执行",
+          "abName": "天之执行官的辅佐",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 对除自身以外现存体力最低的2名友方单位在下回合施加2层易损 并使其获得3层伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -1148,14 +1148,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "허환경",
-          "abName": "홍루",
+          "name": "太虚幻境",
+          "abName": "鸿璐",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 침잠 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级沉沦 强度"
                 }
               ]
             }
@@ -1163,14 +1163,14 @@
         },
         {
           "level": 3,
-          "name": "허환경",
-          "abName": "홍루",
-          "desc": "[EndSkill] 정신력 15 회복",
+          "name": "太虚幻境",
+          "abName": "鸿璐",
+          "desc": "[EndSkill] 使自身恢复15点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
                 }
               ]
             }
@@ -1178,17 +1178,17 @@
         },
         {
           "level": 4,
-          "name": "허환경",
-          "abName": "홍루",
-          "desc": "[EndSkill] 정신력 15 회복",
+          "name": "太虚幻境",
+          "abName": "鸿璐",
+          "desc": "[EndSkill] 使自身恢复15点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
                 },
                 {
-                  "desc": "[EndSkill] 다음 턴에 모든 아군의 정신력 감소 효율 -2, E.G.O 사용시 정신력 감소량 -2"
+                  "desc": "[EndSkill] 下回合使全体友方单位理智值减少效率 -2，使用E.G.O时失去的理智值-2"
                 }
               ]
             }
@@ -1201,17 +1201,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "분홍욕망",
-          "abName": "분홍신",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 수비 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破绽 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 방어 레벨 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
                 }
               ]
             }
@@ -1219,17 +1219,17 @@
         },
         {
           "level": 3,
-          "name": "분홍욕망",
-          "abName": "분홍신",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 수비 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破绽 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 방어 레벨 감소 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层防御等级降低 "
                 }
               ]
             }
@@ -1237,17 +1237,17 @@
         },
         {
           "level": 4,
-          "name": "분홍욕망",
-          "abName": "분홍신",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 수비 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破绽 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 방어 레벨 감소 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加5层防御等级降低 "
                 }
               ]
             }
@@ -1260,20 +1260,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "[CantIdentify]\n속도가 가장 빠른 대상 공격",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 수비 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破绽 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 방어 레벨 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttackTail] 下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -1281,20 +1281,20 @@
         },
         {
           "level": 3,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "[CantIdentify]\n속도가 가장 빠른 대상 공격",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 수비 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破绽 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 방어 레벨 감소 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -1302,20 +1302,20 @@
         },
         {
           "level": 4,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "[CantIdentify]\n속도가 가장 빠른 대상 공격",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 수비 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破绽 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 방어 레벨 감소 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加5层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -1328,17 +1328,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "시체자루",
-          "abName": "히스클리프",
+          "name": "裹尸袋",
+          "abName": "希斯克利夫",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 공격 위력 증가 1 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层强壮 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 신속 2 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得2层迅捷 "
                 }
               ]
             }
@@ -1346,17 +1346,17 @@
         },
         {
           "level": 3,
-          "name": "시체자루",
-          "abName": "히스클리프",
+          "name": "裹尸袋",
+          "abName": "希斯克利夫",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 증가 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层强壮 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 신속 3 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得3层迅捷 "
                 }
               ]
             }
@@ -1364,20 +1364,20 @@
         },
         {
           "level": 4,
-          "name": "시체자루",
-          "abName": "히스클리프",
+          "name": "裹尸袋",
+          "abName": "希斯克利夫",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 증가 1 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层强壮 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 신속 3 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得3层迅捷 "
                 },
                 {
-                  "desc": "[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음"
+                  "desc": "[EnemyKill] 下回合使自身获得2层强壮 "
                 }
               ]
             }
@@ -1390,14 +1390,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "충전 횟수 5를 소모하여 스킬 위력 +3",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "消耗5层充能 并使本技能威力+3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 자신의 충전 횟수 3 증가"
+                  "desc": "[OnSucceedAttackTail] 使自身获得3层充能 "
                 }
               ]
             }
@@ -1405,14 +1405,14 @@
         },
         {
           "level": 3,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[WhenUse] 질투 공명 수만큼 자신의 충전 횟수 증가\n충전 횟수 5를 소모하여 스킬 위력 +3",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[WhenUse] 使自身获得(嫉妒共鸣数)层充能 \n消耗5层充能 并使本技能威力+3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 자신의 충전 횟수 5 증가"
+                  "desc": "[OnSucceedAttackTail] 使自身获得5层充能 "
                 }
               ]
             }
@@ -1420,14 +1420,14 @@
         },
         {
           "level": 4,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[WhenUse] 질투 공명 수만큼 자신의 충전 횟수 증가\n충전 횟수 5를 소모할때마다 스킬 위력 +3 (최대 12)",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[WhenUse] 使自身获得(嫉妒共鸣数)层充能 \n每消耗5层充能 使本技能威力+3(最多+12)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 자신의 충전 횟수 5 증가"
+                  "desc": "[OnSucceedAttackTail] 使自身获得5层充能 "
                 }
               ]
             }
@@ -1440,14 +1440,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n충전 횟수 전부 소모하여 스킬 위력 +6",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[CantIdentify]\n随机指定目标\n消耗所有充能 层数并使本技能威力+6",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 취약 3 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合对自身施加3层易损 "
                 }
               ]
             }
@@ -1455,14 +1455,14 @@
         },
         {
           "level": 3,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[WhenUse]질투 공명 수만큼 자신의 충전 횟수 증가\n충전 횟수 전부 소모하여 스킬 위력 +10",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身获得(嫉妒共鸣数)层充能 \n消耗所有充能 层数并使本技能威力+10",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 취약 3 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合对自身施加3层易损 "
                 }
               ]
             }
@@ -1470,14 +1470,14 @@
         },
         {
           "level": 4,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[WhenUse]질투 공명 수만큼 자신의 충전 횟수 증가\n충전 횟수 전부 소모하여 스킬 위력 +15",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身获得(嫉妒共鸣数)层充能 \n消耗所有充能 层数并使本技能威力+15",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 취약 3 얻음"
+                  "desc": "[OnSucceedAttackHead] 下回合对自身施加3层易损 "
                 }
               ]
             }
@@ -1490,17 +1490,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "작살박이",
-          "abName": "이스마엘",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "捕鲸叉",
+          "abName": "以实玛利",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 진동 1 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级震颤 强度"
                 }
               ]
             }
@@ -1508,17 +1508,17 @@
         },
         {
           "level": 3,
-          "name": "작살박이",
-          "abName": "이스마엘",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "捕鲸叉",
+          "abName": "以实玛利",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 6 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加6层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 }
               ]
             }
@@ -1526,20 +1526,20 @@
         },
         {
           "level": 4,
-          "name": "작살박이",
-          "abName": "이스마엘",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "捕鲸叉",
+          "abName": "以实玛利",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 6 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加6层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -1552,17 +1552,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 레벨 감소 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层攻击等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层麻痹 "
                 }
               ]
             }
@@ -1570,17 +1570,17 @@
         },
         {
           "level": 3,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 레벨 감소 7 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加7层攻击等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 }
               ]
             }
@@ -1588,20 +1588,20 @@
         },
         {
           "level": 4,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 레벨 감소 10 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加10层攻击等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 }
               ]
             }
@@ -1614,20 +1614,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "[CantIdentify]\n속도가 가장 빠른 대상 공격",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 레벨 감소 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层攻击等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -1635,20 +1635,20 @@
         },
         {
           "level": 3,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "[CantIdentify]\n속도가 가장 빠른 대상 공격",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 레벨 감소 7 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加7层攻击等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 4 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加4层束缚 "
                 }
               ]
             }
@@ -1656,20 +1656,20 @@
         },
         {
           "level": 4,
-          "name": "분홍욕망",
-          "abName": "분홍신",
-          "desc": "[CantIdentify]\n속도가 가장 빠른 대상 공격",
+          "name": "粉红欲望",
+          "abName": "粉红鞋",
+          "desc": "[CantIdentify]\n指定速度值最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 공격 레벨 감소 10 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加10层攻击等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加5层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 5 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加5层束缚 "
                 }
               ]
             }
@@ -1682,17 +1682,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "홍염살",
-          "abName": "홍염나방",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "红艳煞",
+          "abName": "红焰蛾",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "(분노 공명 수/2)만큼 화상 부여"
+                  "desc": "使目标增加(暴怒共鸣数/2)级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 무작위 적 3명에게 화상 3 부여"
+                  "desc": "[OnSucceedAttackHead] 随机使3名敌方单位增加3级烧伤 强度"
                 }
               ]
             }
@@ -1700,20 +1700,20 @@
         },
         {
           "level": 3,
-          "name": "홍염살",
-          "abName": "홍염나방",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "红艳煞",
+          "abName": "红焰蛾",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 피해량의 40%만큼 흐트러짐 손상 입힘"
+                  "desc": "[OnSucceedAttackHead] 使目标的混乱阈值前移本硬币伤害量的40%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 분노 공명 수만큼 화상 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加(暴怒共鸣数)级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 무작위 적 3명에게 화상 3 부여"
+                  "desc": "[OnSucceedAttackHead] 随机使3名敌方单位增加3级烧伤 强度"
                 }
               ]
             }
@@ -1721,20 +1721,20 @@
         },
         {
           "level": 4,
-          "name": "홍염살",
-          "abName": "홍염나방",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)",
+          "name": "红艳煞",
+          "abName": "红焰蛾",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 피해량의 40%만큼 흐트러짐 손상 입힘"
+                  "desc": "[OnSucceedAttackHead] 使目标的混乱阈值前移本硬币伤害量的40%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 분노 공명 수만큼 화상 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加(暴怒共鸣数)级烧伤 强度"
                 },
                 {
-                  "desc": "[EndSkillHead] 무작위 적 3명에게 화상 5 부여"
+                  "desc": "[EndSkillHead] 随机使3名敌方单位增加5级烧伤 强度"
                 }
               ]
             }
@@ -1747,14 +1747,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "홍염살",
-          "abName": "홍염나방",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[WhenUse] 최대 체력의 10%만큼 체력 감소",
+          "name": "红艳煞",
+          "abName": "红焰蛾",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身失去体力上限10%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 모든 캐릭터에게 분노 공명 수만큼 화상 부여"
+                  "desc": "[OnSucceedAttack] 使全体单位增加(暴怒共鸣数)级烧伤 强度"
                 }
               ]
             }
@@ -1762,17 +1762,17 @@
         },
         {
           "level": 3,
-          "name": "홍염살",
-          "abName": "홍염나방",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[WhenUse] 최대 체력의 10%만큼 체력 감소",
+          "name": "红艳煞",
+          "abName": "红焰蛾",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身失去体力上限10%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 모든 캐릭터에게 (분노 공명 수 *2)만큼 화상 부여"
+                  "desc": "[OnSucceedAttack] 使全体单位增加(暴怒共鸣数×2)级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 60%만큼 흐트러짐 손상 입힘"
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的60%"
                 }
               ]
             }
@@ -1780,17 +1780,17 @@
         },
         {
           "level": 4,
-          "name": "홍염살",
-          "abName": "홍염나방",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[WhenUse] 최대 체력의 10%만큼 체력 감소",
+          "name": "红艳煞",
+          "abName": "红焰蛾",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身失去体力上限10%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 모든 캐릭터에게 (분노 공명 수 *2)만큼 화상 부여"
+                  "desc": "[EndSkill] 使全体单位增加(暴怒共鸣数×2)级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 60%만큼 흐트러짐 손상 입힘"
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移本硬币伤害量的60%"
                 }
               ]
             }
@@ -1803,14 +1803,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "던져지는 것",
-          "abName": "로쟈",
-          "desc": "대상의 체력이 50%이상이면, 피해량 +10%",
+          "name": "覆水难收",
+          "abName": "罗佳",
+          "desc": "若目标现存体力不低于50%，则使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -1818,14 +1818,14 @@
         },
         {
           "level": 3,
-          "name": "던져지는 것",
-          "abName": "로쟈",
-          "desc": "대상의 체력이 50%이상이면, 피해량 +30%",
+          "name": "覆水难收",
+          "abName": "罗佳",
+          "desc": "若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             }
@@ -1833,20 +1833,20 @@
         },
         {
           "level": 4,
-          "name": "던져지는 것",
-          "abName": "로쟈",
-          "desc": "대상의 체력이 50%이상이면, 피해량 +30%",
+          "name": "覆水难收",
+          "abName": "罗佳",
+          "desc": "若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 정신력 회복 효율 +2"
+                  "desc": "[OnSucceedAttack] 下回合使自身理智值恢复效率 +2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 정신력 감소 효율 -2"
+                  "desc": "[OnSucceedAttack] 下回合使自身理智值减少效率 -2"
                 }
               ]
             }
@@ -1859,14 +1859,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -1874,17 +1874,17 @@
         },
         {
           "level": 3,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 분노 취약 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层暴怒易损 "
                 }
               ]
             }
@@ -1897,14 +1897,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 }
               ]
             }
@@ -1912,17 +1912,17 @@
         },
         {
           "level": 3,
-          "name": "4번째 성냥불",
-          "abName": "불타버린 소녀",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "终末火柴之光",
+          "abName": "焦化少女",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 분노 취약 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层暴怒易损 "
                 }
               ]
             }
@@ -1935,17 +1935,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "얼음다리",
-          "abName": "바바야가",
-          "desc": "대상의 체력이 50%이상이면, 피해량 +10%",
+          "name": "冰结之爪",
+          "abName": "芭芭雅嘎",
+          "desc": "若目标现存体力不低于50%，则使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 진동 폭발"
+                  "desc": "[OnSucceedAttackHead] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层沉沦 "
                 }
               ]
             }
@@ -1953,17 +1953,17 @@
         },
         {
           "level": 3,
-          "name": "얼음다리",
-          "abName": "바바야가",
-          "desc": "대상의 체력이 50%이상이면, 피해량 +30%",
+          "name": "冰结之爪",
+          "abName": "芭芭雅嘎",
+          "desc": "若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层沉沦 "
                 }
               ]
             }
@@ -1971,17 +1971,17 @@
         },
         {
           "level": 4,
-          "name": "얼음다리",
-          "abName": "바바야가",
-          "desc": "대상의 체력이 50%이상이면, 피해량 +30%",
+          "name": "冰结之爪",
+          "abName": "芭芭雅嘎",
+          "desc": "若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 5 부여\n[OnSucceedAttack] 침잠 횟수 5 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度\n[OnSucceedAttack] 对目标施加5层沉沦 "
                 }
               ]
             }
@@ -1994,17 +1994,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "얼음다리",
-          "abName": "바바야가",
-          "desc": "[CantIdentify]\n체력이 가장 많은 대상 공격\n대상의 체력이 50%이상이면, 피해량 +10%",
+          "name": "冰结之爪",
+          "abName": "芭芭雅嘎",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 진동 폭발"
+                  "desc": "[OnSucceedAttackHead] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 횟수 4 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加4层沉沦 "
                 }
               ]
             }
@@ -2012,17 +2012,17 @@
         },
         {
           "level": 3,
-          "name": "얼음다리",
-          "abName": "바바야가",
-          "desc": "[CantIdentify]\n체력이 가장 많은 대상 공격\n대상의 체력이 50%이상이면, 피해량 +30%",
+          "name": "冰结之爪",
+          "abName": "芭芭雅嘎",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 횟수 6 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加6层沉沦 "
                 }
               ]
             }
@@ -2030,17 +2030,17 @@
         },
         {
           "level": 4,
-          "name": "얼음다리",
-          "abName": "바바야가",
-          "desc": "[CantIdentify]\n체력이 가장 많은 대상 공격\n대상의 체력이 50%이상이면, 피해량 +30%",
+          "name": "冰结之爪",
+          "abName": "芭芭雅嘎",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n若目标现存体力不低于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 침잠 10 부여\n[OnSucceedAttack] 침잠 횟수 8 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加10级沉沦 强度\n[OnSucceedAttack] 对目标施加8层沉沦 "
                 }
               ]
             }
@@ -2053,17 +2053,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "지식나무의 가지",
-          "abName": "싱클레어",
+          "name": "智慧的青枝",
+          "abName": "辛克莱",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 파열 6 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加6级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 정신력 10 감소"
+                  "desc": "[OnSucceedAttack] 使自身失去10点理智值"
                 }
               ]
             }
@@ -2071,20 +2071,20 @@
         },
         {
           "level": 3,
-          "name": "지식나무의 가지",
-          "abName": "싱클레어",
+          "name": "智慧的青枝",
+          "abName": "辛克莱",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 파열 12 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加12级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 정신력 10 감소"
+                  "desc": "[OnSucceedAttackHead] 使自身失去10点理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 정신력 10 회복"
+                  "desc": "[OnSucceedAttackTail] 使自身恢复10点理智值"
                 }
               ]
             }
@@ -2092,21 +2092,21 @@
         },
         {
           "level": 4,
-          "name": "지식나무의 가지",
-          "abName": "싱클레어",
+          "name": "智慧的青枝",
+          "abName": "辛克莱",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 파열 12 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加12级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 정신력 10 감소. <style=\"highlight\">다음 턴에 공격 위력 증가 1을 얻음</style>"
+                  "desc": "[OnSucceedAttackHead] 使自身失去10点理智值并在下回合获得1层强壮 "
                 },
                 {},
                 {
-                  "desc": "[OnSucceedAttackTail] 정신력 10 회복. <style=\"highlight\">다음 턴에 보호 1을 얻음</style>"
+                  "desc": "[OnSucceedAttackTail] 使自身恢复10点理智值并在下回合获得1层守护 "
                 },
                 {}
               ]
@@ -2120,14 +2120,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "다가올날",
-          "abName": "종말달력",
-          "desc": "대상의 체력이 25%미만일 때 피해량 +10%",
+          "name": "迫近之日",
+          "abName": "终末日历",
+          "desc": "若目标现存体力不高于25%，则使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] 아군 전체가 각자 최대 체력의 10%만큼 체력 회복"
+                  "desc": "[EnemyKill] 使全体友方单位恢复各自体力上限10%的体力"
                 }
               ]
             }
@@ -2135,17 +2135,17 @@
         },
         {
           "level": 3,
-          "name": "다가올날",
-          "abName": "종말달력",
-          "desc": "대상의 체력이 25%미만일 때 피해량 +20%",
+          "name": "迫近之日",
+          "abName": "终末日历",
+          "desc": "若目标现存体力不高于25%，则使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] 다음 턴에 공격 위력 증가 1 얻음"
+                  "desc": "[EnemyKill] 下回合使自身获得1层强壮 "
                 },
                 {
-                  "desc": "[EnemyKill] 아군 전체가 각자 최대 체력의 15%만큼 체력 회복"
+                  "desc": "[EnemyKill] 使全体友方单位恢复各自体力上限15%的体力"
                 }
               ]
             }
@@ -2153,17 +2153,17 @@
         },
         {
           "level": 4,
-          "name": "다가올날",
-          "abName": "종말달력",
-          "desc": "대상의 체력이 25%미만일 때 피해량 +40%",
+          "name": "迫近之日",
+          "abName": "终末日历",
+          "desc": "若目标现存体力不高于25%，则使本技能造成的伤害+40%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] 다음 턴에 공격 위력 증가 1 얻음"
+                  "desc": "[EnemyKill] 下回合使自身获得1层强壮 "
                 },
                 {
-                  "desc": "[EnemyKill] 아군 전체가 각자 최대 체력의 15%만큼 체력 회복"
+                  "desc": "[EnemyKill] 使全体友方单位恢复各自体力上限15%的体力"
                 }
               ]
             }
@@ -2176,14 +2176,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "다가올날",
-          "abName": "종말달력",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n대상의 체력이 25%미만일 때 피해량 +15%",
+          "name": "迫近之日",
+          "abName": "终末日历",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标现存体力不高于25%，则使本技能造成的伤害+15%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] 다음 턴에 출혈 10 얻음"
+                  "desc": "[EnemyKillFail] 下回合使自身增加10级流血 强度"
                 }
               ]
             }
@@ -2191,17 +2191,17 @@
         },
         {
           "level": 3,
-          "name": "다가올날",
-          "abName": "종말달력",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n대상의 체력이 25%미만일 때 피해량 +25%",
+          "name": "迫近之日",
+          "abName": "终末日历",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标现存体力不高于25%，则使本技能造成的伤害+25%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] 다음 턴에 출혈 10 얻음"
+                  "desc": "[EnemyKillFail] 下回合使自身增加10级流血 强度"
                 },
                 {
-                  "desc": "[EnemyKillFail] 다음 턴에 공격 위력 증가 3 얻음"
+                  "desc": "[EnemyKillFail] 下回合使自身获得3层强壮 "
                 }
               ]
             }
@@ -2209,17 +2209,17 @@
         },
         {
           "level": 4,
-          "name": "다가올날",
-          "abName": "종말달력",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n대상의 체력이 25%미만일 때 피해량 +50%",
+          "name": "迫近之日",
+          "abName": "终末日历",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标现存体力不高于25%，则使本技能造成的伤害+50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] 다음 턴에 출혈 10 얻음"
+                  "desc": "[EnemyKillFail] 下回合使自身增加10级流血 强度"
                 },
                 {
-                  "desc": "[EnemyKillFail] 다음 턴에 공격 위력 증가 3 얻음"
+                  "desc": "[EnemyKillFail] 下回合使自身获得3层强壮 "
                 }
               ]
             }
@@ -2232,14 +2232,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "토 파토스 마토스",
-          "abName": "오티스",
-          "desc": "대상의 체력이 50%미만일 때 피해량+10%",
+          "name": "致智慧与苦难",
+          "abName": "奥提斯",
+          "desc": "若目标现存体力不高于50%，则使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 }
               ]
             }
@@ -2247,14 +2247,14 @@
         },
         {
           "level": 3,
-          "name": "토 파토스 마토스",
-          "abName": "오티스",
-          "desc": "대상의 체력이 50%미만일 때 피해량+30%",
+          "name": "致智慧与苦难",
+          "abName": "奥提斯",
+          "desc": "若目标现存体力不高于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级破裂 强度"
                 }
               ]
             }
@@ -2262,17 +2262,17 @@
         },
         {
           "level": 4,
-          "name": "토 파토스 마토스",
-          "abName": "오티스",
-          "desc": "대상의 체력이 50%미만일 때 피해량+30%",
+          "name": "致智慧与苦难",
+          "abName": "奥提斯",
+          "desc": "若目标现存体力不高于50%，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级破裂 强度"
                 },
                 {
-                  "desc": "[EnemyKill] 무작위 아군 1명에게 피해량 증가 1 부여"
+                  "desc": "[EnemyKill] 随机使1名友方单位获得1层伤害强化 "
                 }
               ]
             }
@@ -2285,17 +2285,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "검은줄기",
-          "abName": "흑단여왕의 사과",
+          "name": "黑檀枝干",
+          "abName": "黑檀女王的苹果",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 출혈 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -2303,20 +2303,20 @@
         },
         {
           "level": 3,
-          "name": "검은줄기",
-          "abName": "흑단여왕의 사과",
+          "name": "黑檀枝干",
+          "abName": "黑檀女王的苹果",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 출혈 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 탐식 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层暴食易损 "
                 }
               ]
             }
@@ -2329,17 +2329,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "검은줄기",
-          "abName": "흑단여왕의 사과",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "黑檀枝干",
+          "abName": "黑檀女王的苹果",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 출혈 3 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -2347,20 +2347,20 @@
         },
         {
           "level": 3,
-          "name": "검은줄기",
-          "abName": "흑단여왕의 사과",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "黑檀枝干",
+          "abName": "黑檀女王的苹果",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 출혈 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 탐식 취약 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层暴食易损 "
                 }
               ]
             }
@@ -2373,14 +2373,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[EndSkill] 정신력 12 회복",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[EndSkill] 使自身恢复12点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 색욕 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层色欲易损 "
                 }
               ]
             }
@@ -2388,14 +2388,14 @@
         },
         {
           "level": 3,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[EndSkill] 정신력 18 회복\n[EndSkill] 본인 제외 무작위 아군 2명에게 공격 위력 증가 1 부여",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[EndSkill] 使自身恢复18点理智值\n[EndSkill] 随机使除自身以外的2名友方单位获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 색욕 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层色欲易损 "
                 }
               ]
             }
@@ -2408,20 +2408,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 색욕 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层色欲易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 취약 1 부여"
+                  "desc": "[OnSucceedAttackTail] 对目标施加1层易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 취약 1 얻음"
+                  "desc": "[OnSucceedAttackTail] 对自身施加1层易损 "
                 }
               ]
             }
@@ -2429,20 +2429,20 @@
         },
         {
           "level": 3,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 본인 제외 무작위 아군 2명에게 공격 위력 증가 1 부여",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 随机使除自身以外的2名友方单位获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 색욕 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层色欲易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加2层易损 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 취약 2 얻음"
+                  "desc": "[OnSucceedAttackTail] 对自身施加2层易损 "
                 }
               ]
             }
@@ -2455,14 +2455,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "어느날 갑자기",
-          "abName": "그레고르",
+          "name": "某一日，突然",
+          "abName": "格里高尔",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级某1种随机效果的强度，该效果可能为烧伤 、流血 、震颤 、破裂 或沉沦 "
                 }
               ]
             }
@@ -2470,14 +2470,14 @@
         },
         {
           "level": 3,
-          "name": "어느날 갑자기",
-          "abName": "그레고르",
+          "name": "某一日，突然",
+          "abName": "格里高尔",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级某1种随机效果的强度，该效果可能为烧伤 、流血 、震颤 、破裂 或沉沦 "
                 }
               ]
             }
@@ -2485,14 +2485,14 @@
         },
         {
           "level": 4,
-          "name": "어느날 갑자기",
-          "abName": "그레고르",
+          "name": "某一日，突然",
+          "abName": "格里高尔",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级某1种随机效果的强度，该效果可能为烧伤 、流血 、震颤 、破裂 或沉沦 "
                 }
               ]
             }
@@ -2505,17 +2505,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "눈속임",
-          "abName": "황금빛의 사과",
+          "name": "障眼把戏",
+          "abName": "金苹果",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层麻痹 "
                 }
               ]
             }
@@ -2523,20 +2523,20 @@
         },
         {
           "level": 3,
-          "name": "눈속임",
-          "abName": "황금빛의 사과",
+          "name": "障眼把戏",
+          "abName": "金苹果",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 4 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加4层麻痹 "
                 }
               ]
             }
@@ -2544,20 +2544,20 @@
         },
         {
           "level": 4,
-          "name": "눈속임",
-          "abName": "황금빛의 사과",
+          "name": "障眼把戏",
+          "abName": "金苹果",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层麻痹 "
                 }
               ]
             }
@@ -2570,17 +2570,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "눈속임",
-          "abName": "황금빛의 사과",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "障眼把戏",
+          "abName": "金苹果",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 마비 2 부여"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层麻痹 "
                 }
               ]
             }
@@ -2588,20 +2588,20 @@
         },
         {
           "level": 3,
-          "name": "눈속임",
-          "abName": "황금빛의 사과",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "障眼把戏",
+          "abName": "金苹果",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 구더기 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层蛆虫 "
                 }
               ]
             }
@@ -2609,20 +2609,20 @@
         },
         {
           "level": 4,
-          "name": "눈속임",
-          "abName": "황금빛의 사과",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "障眼把戏",
+          "abName": "金苹果",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 출혈 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 마비 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加4层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 구더기 6 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加6层蛆虫 "
                 }
               ]
             }
@@ -2635,14 +2635,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "초롱",
-          "abName": "요정초롱",
+          "name": "提灯",
+          "abName": "精灵提灯",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 40%만큼 자신의 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量40%的体力"
                 }
               ]
             }
@@ -2650,14 +2650,14 @@
         },
         {
           "level": 3,
-          "name": "초롱",
-          "abName": "요정초롱",
+          "name": "提灯",
+          "abName": "精灵提灯",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 60%만큼 자신의 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量60%的体力"
                 }
               ]
             }
@@ -2670,17 +2670,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "초롱",
-          "abName": "요정초롱",
-          "desc": "[CantIdentify]\n체력이 가장 많은 대상 공격",
+          "name": "提灯",
+          "abName": "精灵提灯",
+          "desc": "[CantIdentify]\n指定体力最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 20%만큼 자신의 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量20%的体力"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 파열 3 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加3级破裂 强度"
                 }
               ]
             }
@@ -2688,17 +2688,17 @@
         },
         {
           "level": 3,
-          "name": "초롱",
-          "abName": "요정초롱",
-          "desc": "[CantIdentify]\n체력이 가장 많은 대상 공격",
+          "name": "提灯",
+          "abName": "精灵提灯",
+          "desc": "[CantIdentify]\n指定体力最高的单位",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 30%만큼 자신의 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量30%的体力"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 파열 5 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加5级破裂 强度"
                 }
               ]
             }
@@ -2711,14 +2711,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수 10을 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得10层充能 "
                 }
               ]
             }
@@ -2726,17 +2726,17 @@
         },
         {
           "level": 3,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수 10을 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得10层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 질투 공명 수에 비례하여 모든 아군에게 충전 횟수 부여."
+                  "desc": "[OnSucceedAttackHead] 使全体友方单位获得(嫉妒共鸣数)层充能 "
                 }
               ]
             }
@@ -2744,17 +2744,17 @@
         },
         {
           "level": 4,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수 10을 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得10层充能 "
                 },
                 {
-                  "desc": "[EndSkill] 질투 공명 수에 비례하여 모든 아군에게 충전 횟수 부여."
+                  "desc": "[EndSkill] 使全体友方单位获得(嫉妒共鸣数)层充能 "
                 }
               ]
             }
@@ -2767,14 +2767,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수 10, 파열 10을 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得10层充能 并增加10级破裂 强度"
                 }
               ]
             }
@@ -2782,17 +2782,17 @@
         },
         {
           "level": 3,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수 10, 파열 10을 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得10层充能 并增加10级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 모든 아군에게 취약 5, 파열 10, 충전 횟수 10 부여"
+                  "desc": "[OnSucceedAttackHead] 使全体友方单位获得10层充能 与5层易损 并增加10级破裂 强度"
                 }
               ]
             }
@@ -2800,17 +2800,17 @@
         },
         {
           "level": 4,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수 10, 파열 10을 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得10层充能 并增加10级破裂 强度"
                 },
                 {
-                  "desc": "[EndSkill] 모든 아군에게 취약 5, 파열 10, 충전 횟수 12 부여"
+                  "desc": "[EndSkill] 使全体友方单位获得12层充能 与5层易损 并增加10级破裂 强度"
                 }
               ]
             }
@@ -2823,17 +2823,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 충전 횟수 5 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得5层充能 "
                 }
               ]
             }
@@ -2841,20 +2841,20 @@
         },
         {
           "level": 3,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 충전 횟수 7 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得7层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 무작위 아군 2명에게 질투 위력 증가 1, 신속 1 부여"
+                  "desc": "[OnSucceedAttackHead] 下回合随机使2名友方单位获得1层嫉妒强壮 与1层迅捷 "
                 }
               ]
             }
@@ -2862,20 +2862,20 @@
         },
         {
           "level": 4,
-          "name": "전봇대",
-          "abName": "골목파수견",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 },
                 {
-                  "desc": "[EndSkill] 자신의 충전 횟수 7 증가"
+                  "desc": "[EndSkill] 使自身获得7层充能 "
                 },
                 {
-                  "desc": "[EndSkillHead] 다음 턴에 무작위 아군 2명에게 질투 위력 증가 1, 신속 1 부여, 자신의 충전 횟수 3 증가"
+                  "desc": "[EndSkillHead] 下回合随机使2名友方单位获得1层嫉妒强壮 与1层迅捷 ，并使自身获得3层充能 "
                 }
               ]
             }
@@ -2888,17 +2888,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加5层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 충전 횟수 7 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得7层充能 "
                 }
               ]
             }
@@ -2906,20 +2906,20 @@
         },
         {
           "level": 3,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加5层麻痹 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 자신의 충전 횟수 10 증가"
+                  "desc": "[OnSucceedAttack] 使自身获得10层充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 다음 턴에 무작위 캐릭터 2명에게 마비 2, 속박 2 부여"
+                  "desc": "[OnSucceedAttackTail] 下回合随机对2名单位施加2层麻痹 与2层束缚 "
                 }
               ]
             }
@@ -2927,20 +2927,20 @@
         },
         {
           "level": 4,
-          "name": "전봇대",
-          "abName": "골목파수견",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "电线杆",
+          "abName": "巷头恶犬",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加5层麻痹 "
                 },
                 {
-                  "desc": "[EndSkill] 자신의 충전 횟수 10 증가"
+                  "desc": "[EndSkill] 使自身获得10层充能 "
                 },
                 {
-                  "desc": "[EndSkillTail] 다음 턴에 무작위 캐릭터 2명에게 마비 2, 속박 2 부여, 충전 횟수 3 증가"
+                  "desc": "[EndSkillTail] 下回合随机对2名单位施加2层麻痹 与2层束缚 ，并使其获得3层充能 "
                 }
               ]
             }
@@ -2953,14 +2953,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[BeforeAttack] 보유한 색욕 E.G.O 자원에 비례하여 피해량이 증가함 (최대 25%)",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害(最多+25%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层烧伤 "
                 }
               ]
             }
@@ -2968,14 +2968,14 @@
         },
         {
           "level": 3,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[BeforeAttack] 보유한 색욕 E.G.O 자원에 비례하여 피해량이 증가함 (최대 50%)",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害(最多+50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层烧伤 "
                 }
               ]
             }
@@ -2988,14 +2988,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 보유한 색욕 E.G.O 자원에 비례하여 피해량이 증가함 (최대 25%)\n이후 (색욕 공명 수)만큼 색욕 자원 소모. 소모한 자원 1개당 피해량 +5%",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n\n[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害(最多+25%)\n随后消耗(色欲共鸣数)的色欲罪孽碎片; 每消耗1个资源增加5%伤害",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层烧伤 "
                 }
               ]
             }
@@ -3003,14 +3003,14 @@
         },
         {
           "level": 3,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 보유한 색욕 E.G.O 자원에 비례하여 피해량이 증가함 (최대 50%)\n이후 (색욕 공명 수)만큼 색욕 자원 소모. 소모한 자원 1개당 피해량 +10%",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n\n[BeforeAttack] 根据当前色欲罪孽碎片数增加伤害(最多+50%)\n随后消耗(色欲共鸣数)的色欲罪孽碎片; 每消耗1个资源增加10%伤害",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 횟수 4 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加4层烧伤 "
                 }
               ]
             }
@@ -3023,17 +3023,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n대상이 아군인 경우, 피해량이 항상 0으로 고정",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n若指定友方单位，则不会造成伤害",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 대상이 아군인 경우, 자신의 최대 체력의 5% 만큼 대상의 체력 회복"
+                  "desc": "[OnSucceedAttackHead] 若指定友方单位，则为其恢复自身体力上限5%的体力"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 화상 7 부여. 대상이 아군인 경우, 다음 턴에 신속 2 부여"
+                  "desc": "[OnSucceedAttackTail] 使目标增加7级烧伤 强度；若指定友方单位，则下回合使其获得2层迅捷 "
                 }
               ]
             }
@@ -3041,17 +3041,17 @@
         },
         {
           "level": 3,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n대상이 아군인 경우, 피해량이 항상 0으로 고정",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n若指定友方单位，则不会造成伤害",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 대상이 아군인 경우, 자신의 최대 체력의 10% 만큼 대상의 체력 회복"
+                  "desc": "[OnSucceedAttackHead] 若指定友方单位，则为其恢复自身体力上限10%的体力"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 화상 7 부여. 대상이 아군인 경우, 다음 턴에 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O 자원 획득량 +</color></link></u> 1, 신속 2 부여"
+                  "desc": "[OnSucceedAttackTail] 使目标增加7级烧伤 强度；若指定友方单位，则下回合使其获得2层迅捷 和1层罪孽碎片获取量提升 "
                 }
               ]
             }
@@ -3064,14 +3064,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n\n[BeforeAttack] 무작위 E.G.O 자원을 3개 소모하여 피해량 10% 증가",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层烧伤 "
                 }
               ]
             }
@@ -3079,14 +3079,14 @@
         },
         {
           "level": 3,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n\n[BeforeAttack] 무작위 E.G.O 자원을 3개 소모하여 피해량 20% 증가",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层烧伤 "
                 }
               ]
             }
@@ -3094,14 +3094,14 @@
         },
         {
           "level": 4,
-          "name": "평생 스튜",
-          "abName": "바질리스프크",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n\n[BeforeAttack] 무작위 E.G.O 자원을 3개 소모하여 피해량 30% 증가",
+          "name": "一生炖菜",
+          "abName": "冠汤翼蜥",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n\n[BeforeAttack] 随机消耗3个罪孽碎片，并使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层烧伤 "
                 }
               ]
             }
@@ -3114,14 +3114,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 50%)",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 (대상의 파열 X 7.5)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 75%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x7.5)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加75%)"
                 }
               ]
             }
@@ -3129,17 +3129,17 @@
         },
         {
           "level": 3,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 <style=\"highlight\">75</style>%)",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">충전 횟수를 소모한 경우, 차원 균열 3 부여</style>"
+                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加3层次元裂痕 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 (대상의 파열 X <style=\"highlight\">10</style>)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
                 }
               ]
             }
@@ -3147,17 +3147,17 @@
         },
         {
           "level": 4,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 75%)<style=\"highlight\"></style>",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수를 소모한 경우, 차원 균열 <style=\"highlight\">5</style> 부여"
+                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加5层次元裂痕 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 (대상의 파열 X 10)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 100%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
                 }
               ]
             }
@@ -3170,17 +3170,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 50%)",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "[CantIdentify] \n随机指定目标\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 (대상의 파열 X 7.5)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 75%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x7.5)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加75%)"
                 }
               ]
             }
@@ -3188,20 +3188,20 @@
         },
         {
           "level": 3,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 <style=\"highlight\">75</style>%)",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "[CantIdentify] \n随机指定目标\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 충전 횟수를 소모한 경우, 차원 균열 3 부여</style>"
+                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加3层次元裂痕 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 파열 <style=\"highlight\">6</style> 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 (대상의 파열 X <style=\"highlight\">10</style>)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
                 }
               ]
             }
@@ -3209,20 +3209,20 @@
         },
         {
           "level": 4,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 75%)<style=\"highlight\"></style>",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "[CantIdentify] \n随机指定目标\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수를 소모한 경우, 차원 균열 <style=\"highlight\">5</style> 부여"
+                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加5层次元裂痕 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 파열 6 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加6级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 (대상의 파열 X 10)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 100%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
                 }
               ]
             }
@@ -3235,14 +3235,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수 3 증가. 다음 턴에 신속 2를 얻음",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 使自身获得3层充能 ；下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 취약 1, 차원 균열 2 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 和2层次元裂痕 "
                 }
               ]
             }
@@ -3250,14 +3250,14 @@
         },
         {
           "level": 3,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수 5 증가. 다음 턴에 신속 2를 얻음",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 使自身获得5层充能 ；下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 취약 1, 차원 균열 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 和4层次元裂痕 "
                 }
               ]
             }
@@ -3270,14 +3270,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "[CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 다음 턴에 신속 2를 얻음.\n충전 횟수 10을 소모하여 적중시 부여하는 취약, 차원 균열 +1",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "[CantIdentify] \n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得2层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外+1层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 취약 1, 차원 균열 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 和3层次元裂痕 "
                 }
               ]
             }
@@ -3285,14 +3285,14 @@
         },
         {
           "level": 3,
-          "name": "차원찢개",
-          "abName": "길 잃은 승객",
-          "desc": "[CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 다음 턴에 신속 <style=\"highlight\">3</style>을 얻음.\n충전 횟수 10을 소모하여 적중시 부여하는 취약, 차원 균열  <style=\"highlight\">+2</style>",
+          "name": "次元撕裂者",
+          "abName": "迷失的乘客",
+          "desc": "[CantIdentify] \n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得3层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外+2层",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 취약 1, 차원 균열 4 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加1层易损 和4层次元裂痕 "
                 }
               ]
             }
@@ -3305,20 +3305,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[EndSkill] 다음 턴에 신속 1, 분노 위력 증가 1, 타격 위력 증가 1 얻음",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[EndSkill] 下回合使自身获得1层迅捷 ，1层暴怒强壮 ，1层打击强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 수치만큼 진동 부여"
+                  "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 3 감소. 진동 폭발로 대상이 흐트러진 경우, 무작위 적 5명의 화상 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少3层。若目标因震颤引爆 而陷入混乱，则随机对5名敌方单位施加1层烧伤 "
                 }
               ]
             }
@@ -3326,23 +3326,23 @@
         },
         {
           "level": 3,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[EndSkill] 다음 턴에 신속 2, 분노 위력 증가 1, 타격 위력 증가 1 얻음",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[EndSkill] 下回合使自身获得2层迅捷 ，1层暴怒强壮 ，1层打击强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 7 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加7级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 수치만큼 진동 부여"
+                  "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 무작위 적 5명에게 화상 2 부여"
+                  "desc": "[OnSucceedAttack] 随机使5名敌方单位增加2级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 2 감소. 진동 폭발로 대상이 흐트러진 경우, 무작위 적 5명의 화상 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层。若目标因震颤引爆 而陷入混乱，则随机对5名敌方单位施加2层烧伤 "
                 }
               ]
             }
@@ -3350,23 +3350,23 @@
         },
         {
           "level": 4,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[EndSkill] 다음 턴에 신속 2, 분노 위력 증가 1, 타격 위력 증가 1 얻음",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[EndSkill] 下回合使自身获得2层迅捷 ，1层暴怒强壮 ，1层打击强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 수치만큼 진동 부여"
+                  "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 무작위 적 5명에게 화상 3 부여"
+                  "desc": "[OnSucceedAttack] 随机使5名敌方单位增加3级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 2 감소. 진동 폭발로 대상이 흐트러진 경우, 무작위 적 5명의 화상 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层。若目标因震颤引爆 而陷入混乱，则随机对5名敌方单位施加3层烧伤 "
                 }
               ]
             }
@@ -3379,20 +3379,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 신속 1, 분노 위력 증가 1, 타격 위력 증가 1 얻음",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 下回合使自身获得1层迅捷 ，1层暴怒强壮 ，1层打击强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 수치만큼 진동 부여"
+                  "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度 ，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 3 감소. 진동 폭발로 대상이 흐트러진 경우, 무작위 캐릭터 5명의 화상 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少3层。若目标因震颤引爆 而陷入混乱，则随机对5名单位施加2层烧伤 "
                 }
               ]
             }
@@ -3400,23 +3400,23 @@
         },
         {
           "level": 3,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 신속 2, 분노 위력 증가 1, 타격 위력 증가 1 얻음",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 下回合使自身获得2层迅捷 ，1层暴怒强壮 ，1层打击强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 10 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加10级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 수치만큼 진동 부여"
+                  "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度 ，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 무작위 캐릭터 5명에게 화상 2 부여"
+                  "desc": "[OnSucceedAttack] 随机使5名单位增加2级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 2 감소. 진동 폭발로 대상이 흐트러진 경우, 무작위 캐릭터 5명의 화상 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层 。若目标因震颤引爆 而陷入混乱，则随机对5名单位施加3层烧伤 "
                 }
               ]
             }
@@ -3424,23 +3424,23 @@
         },
         {
           "level": 4,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 신속 2, 분노 위력 증가 1, 타격 위력 증가 1 얻음",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 下回合使自身获得2层迅捷 ，1层暴怒强壮 ，1层打击强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 12 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加12级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 화상 수치만큼 진동 부여"
+                  "desc": "[OnSucceedAttack] 根据目标带有的烧伤 强度 ，相应增加震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 무작위 캐릭터 5명에게 화상 3 부여"
+                  "desc": "[OnSucceedAttack] 随机使5名单位增加3级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 2 감소. 진동 폭발로 대상이 흐트러진 경우, 무작위 캐릭터 5명의 화상 횟수 4 증가"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层 。若目标因震颤引爆 而陷入混乱，则随机对5名单位施加4层烧伤 "
                 }
               ]
             }
@@ -3453,17 +3453,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[EndSkill] 다음 턴에 모든 아군에게 분노 피해량 증가 1 부여",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[EndSkill] 下回合使全体友方单位获得1层暴怒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 7 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成7点理智伤害"
                 }
               ]
             }
@@ -3471,17 +3471,17 @@
         },
         {
           "level": 3,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[EndSkill] 다음 턴에 모든 아군에게 분노 피해량 증가 1 부여",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[EndSkill] 下回合使全体友方单位获得1层暴怒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 15 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成15点理智伤害"
                 }
               ]
             }
@@ -3494,20 +3494,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 모든 캐릭터에게 분노 취약, 분노 피해량 증가 1 부여",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 下回合使全体单位获得1层暴怒易损 和1层暴怒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 7 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成7点理智伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 2 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层"
                 }
               ]
             }
@@ -3515,20 +3515,20 @@
         },
         {
           "level": 3,
-          "name": "카포테",
-          "abName": "놋쇠 황소",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 모든 캐릭터에게 분노 취약, 분노 피해량 증가 1 부여",
+          "name": "斗牛披风",
+          "abName": "黄铜公牛",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 下回合使全体单位获得1层暴怒易损 和1层暴怒伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 화상 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 정신력 15 피해"
+                  "desc": "[OnSucceedAttack] 对目标造成15点理智伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수 2 감소. 진동 폭발로 대상이 흐트러진 경우, 무작위 캐릭터 3명에게 화상 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 。震颤引爆 时，使目标的震颤 层数减少2层。若目标因震颤引爆 而陷入混乱，则随机使3名单位增加2级烧伤 强度"
                 }
               ]
             }
@@ -3541,17 +3541,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[BeforeAttack] 호흡 횟수 4 증가",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[BeforeAttack] 使自身获得4层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 진동 폭발"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -3559,20 +3559,20 @@
         },
         {
           "level": 3,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[BeforeAttack] 호흡 횟수 6 증가",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[BeforeAttack] 使自身获得6层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 진동 폭발. 침잠 횟수 2 증가"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 并对目标施加2层沉沦 "
                 }
               ]
             }
@@ -3580,20 +3580,20 @@
         },
         {
           "level": 4,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[BeforeAttack] 호흡 횟수 7 증가",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[BeforeAttack] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 진동 폭발. 침잠 횟수 3 증가"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 并对目标施加3层沉沦 "
                 }
               ]
             }
@@ -3606,17 +3606,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n[BeforeAttack] 호흡 횟수 5 증가",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n[BeforeAttack] 使自身获得5层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 진동 폭발"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 "
                 }
               ]
             }
@@ -3624,23 +3624,23 @@
         },
         {
           "level": 3,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n[BeforeAttack] 호흡 횟수 7 증가",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 파열 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层束缚 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 진동 폭발. 침잠 횟수, 파열 횟수 2 증가"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 并对目标施加2层沉沦 与2层破裂 "
                 }
               ]
             }
@@ -3648,23 +3648,23 @@
         },
         {
           "level": 4,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 공격\n[BeforeAttack] 호흡 횟수 7 증가",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[CantIdentify]\n指定体力最低的单位\n[BeforeAttack] 使自身获得7层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 침잠 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 파열 6 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加6级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 진동 폭발. 침잠 횟수, 파열 횟수 3 증가"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 并对目标施加3层沉沦 与3层破裂 "
                 }
               ]
             }
@@ -3678,13 +3678,13 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[BeforeAttack] 자신의 충전 횟수 5 증가",
+          "abName": "电击蜈蚣",
+          "desc": "[BeforeAttack] 使自身获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 방출 전류 5 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加5层电流释放 "
                 }
               ]
             }
@@ -3693,13 +3693,13 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[BeforeAttack] 자신의 충전 횟수 7 증가",
+          "abName": "电击蜈蚣",
+          "desc": "[BeforeAttack] 使自身获得7层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 방출 전류 10 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加10层电流释放 "
                 }
               ]
             }
@@ -3708,13 +3708,13 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[BeforeAttack] 자신의 충전 횟수 10 증가",
+          "abName": "电击蜈蚣",
+          "desc": "[BeforeAttack] 使自身获得10层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 방출 전류 15 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加15层电流释放 "
                 }
               ]
             }
@@ -3728,13 +3728,13 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[CantIdentify]\n충전을 보유한 무작위 대상 우선 공격\n[BeforeAttack] 자신의 충전 횟수 5 증가",
+          "abName": "电击蜈蚣",
+          "desc": "[CantIdentify]\n优先指定带有充能 的单位\n[BeforeAttack] 使自身获得5层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 방출 전류 5 부여. 대상의 충전 횟수 5 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加5层电流释放 并使其获得5层充能 "
                 }
               ]
             }
@@ -3743,13 +3743,13 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[CantIdentify]\n충전을 보유한 무작위 대상 우선 공격\n[BeforeAttack] 자신의 충전 횟수 7 증가",
+          "abName": "电击蜈蚣",
+          "desc": "[CantIdentify]\n优先指定带有充能 的单位\n[BeforeAttack] 使自身获得7层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 방출 전류 10 부여. 대상의 충전 횟수 5 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加10层电流释放 并使其获得5层充能 "
                 }
               ]
             }
@@ -3758,13 +3758,13 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[CantIdentify]\n충전을 보유한 무작위 대상 우선 공격\n[BeforeAttack] 자신의 충전 횟수 10 증가",
+          "abName": "电击蜈蚣",
+          "desc": "[CantIdentify]\n优先指定带有充能 的单位\n[BeforeAttack] 使自身获得10层充能 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 방출 전류 15 부여. 대상의 충전 횟수 7 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加15层电流释放 并使其获得7层充能 "
                 }
               ]
             }
@@ -3778,13 +3778,13 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[BeforeAttack] 자신의 잃은 체력의 10%당 충전 횟수 1 증가 (최대 5)\n다음 턴에 신속 2를 얻음",
+          "abName": "电击蜈蚣",
+          "desc": "[BeforeAttack] 自身每失去10%体力，使自身获得1层充能 (最多获得5层)\n下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 "
                 }
               ]
             }
@@ -3793,13 +3793,13 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[BeforeAttack] 자신의 잃은 체력의 10%당 충전 횟수 1 증가 (최대 7)\n다음 턴에 신속 2를 얻음",
+          "abName": "电击蜈蚣",
+          "desc": "[BeforeAttack] 自身每失去10%体力，使自身获得1层充能 (最多获得7层)\n下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 마비 3, 우울 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层麻痹 与1层忧郁易损 "
                 }
               ]
             }
@@ -3813,16 +3813,16 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 잃은 체력의 10%당 충전 횟수 1 증가 (최대 5)\n다음 턴에 신속 2를 얻음",
+          "abName": "电击蜈蚣",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 自身每失去10%体力，使自身获得1层充能 (最多获得5层)\n下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수를 전부 소모하여 피해량의 (소모한 충전 횟수 x 1.5)% 만큼 우울 속성 추가 피해를 줌 (최대 30%)"
+                  "desc": "[OnSucceedAttack] 消耗所有充能 层数并对目标追加本硬币伤害量(消耗的充能 层数×1.5)%的忧郁伤害(最多追加30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 공격 종료 시 체력을 최대 체력의 10%만큼 소모하여 자신의 충전 횟수 7 증가"
+                  "desc": "[OnSucceedAttackTail] 攻击结束后，消耗自身体力上限10%的体力并使自身获得7层充能 "
                 }
               ]
             }
@@ -3831,16 +3831,16 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 잃은 체력의 10%당 충전 횟수 1 증가 (최대 7)\n다음 턴에 신속 2를 얻음",
+          "abName": "电击蜈蚣",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 自身每失去10%体力，使自身获得1层充能 (最多获得7层)\n下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수를 전부 소모하여 피해량의 (소모한 충전 횟수 x 2.5)% 만큼 우울 속성 추가 피해를 줌 (최대 50%)"
+                  "desc": "[OnSucceedAttack] 消耗所有充能 层数并对目标追加本硬币伤害量(消耗的充能 层数×2.5)%的忧郁伤害(最多追加50%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 공격 종료 시 체력을 최대 체력의 10%만큼 소모하여 자신의 충전 횟수 10 증가"
+                  "desc": "[OnSucceedAttackTail] 攻击结束后，消耗自身体力上限10%的体力并使自身获得10层充能 "
                 }
               ]
             }
@@ -3849,19 +3849,19 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "충격 지네",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 잃은 체력의 10%당 충전 횟수 1 증가 (최대 7)\n다음 턴에 신속 2를 얻음",
+          "abName": "电击蜈蚣",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 自身每失去10%体力，使自身获得1层充能 (最多获得7层)\n下回合使自身获得2层迅捷 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 충전 횟수를 전부 소모하여 피해량의 (소모한 충전 횟수 x 2.5)% 만큼 우울 속성 추가 피해를 줌 (최대 50%)"
+                  "desc": "[OnSucceedAttack] 消耗所有充能 层数并对目标追加本硬币伤害量(消耗的充能 层数×2.5)%的忧郁伤害(最多追加50%)"
                 },
                 {
-                  "desc": "[EndSkill] 충전 횟수 전부 소모"
+                  "desc": "[EndSkill] 消耗所有充能 层数"
                 },
                 {
-                  "desc": "[EndSkillTail] 체력을 최대 체력의 10%만큼 소모하여 자신의 충전 횟수 10 증가"
+                  "desc": "[EndSkillTail] 消耗自身体力上限10%的体力并使自身获得10层充能 "
                 }
               ]
             }
@@ -3874,23 +3874,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[BeforeAttack] 이번 턴, 다음 턴 동안 모든 아군에게 나태 위력 증가 1, 나태 피해량 증가 1, 보호 2 부여",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[BeforeAttack] 本回合与下回合中，使全体友方单位获得1层怠惰强壮 ，1层怠惰伤害强化 与2层守护 ",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 3,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[BeforeAttack] 이번 턴, 다음 턴 동안 모든 아군에게 나태 위력 증가 1, 나태 피해량 증가 2, 보호 3 부여",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[BeforeAttack] 本回合与下回合中，使全体友方单位获得1层怠惰强壮 ，2层怠惰伤害强化 与3层守护 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 자신의 정신력 15 회복"
+                  "desc": "[OnSucceedAttackHead] 使自身恢复15点理智值"
                 }
               ]
             }
@@ -3903,14 +3903,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 이번 턴과 다음 2턴간 나태 위력 증가 1, 나태 피해량 증가 1를 얻음",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 本回合与下2回合中，使自身获得1层怠惰强壮 与1层怠惰伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 이번 턴, 다음 턴 동안 나태 취약, 관통 취약 1 부여"
+                  "desc": "[OnSucceedAttack] 本回合与下回合中，对目标施加1层怠惰易损 与1层突刺易损 "
                 }
               ]
             }
@@ -3918,14 +3918,14 @@
         },
         {
           "level": 3,
-          "name": "여우비",
-          "abName": "떠돌이 여우",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 이번 턴과 다음 2턴간 나태 위력 증가 2, 나태 피해량 증가 2를 얻음",
+          "name": "狐雨",
+          "abName": "流浪狐狸",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 本回合与下2回合中，使自身获得2层怠惰强壮 与2层怠惰伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 이번 턴, 다음 턴 동안 나태 취약, 관통 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 本回合与下回合中，对目标施加2层怠惰易损 与2层突刺易损 "
                 }
               ]
             }
@@ -3938,17 +3938,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적안",
-          "abName": "거미봉오리",
+          "name": "赤瞳",
+          "abName": "蜘蛛巢",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 다음 턴에 더하기 코인 약화 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则下回合对目标施加1层加算硬币弱化 "
                 }
               ]
             }
@@ -3956,20 +3956,20 @@
         },
         {
           "level": 3,
-          "name": "적안",
-          "abName": "거미봉오리",
+          "name": "赤瞳",
+          "abName": "蜘蛛巢",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 다음 턴에 더하기 코인 약화 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则下回合对目标施加1层加算硬币弱化 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 속도가 자신보다 느릴 때 다음 턴에 참격 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 若目标的速度值低于自身，则下回合对目标施加2层斩击易损 "
                 }
               ]
             }
@@ -3977,20 +3977,20 @@
         },
         {
           "level": 4,
-          "name": "적안",
-          "abName": "거미봉오리",
+          "name": "赤瞳",
+          "abName": "蜘蛛巢",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 다음 턴에 더하기 코인 약화 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则下回合对目标施加1层加算硬币弱化 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 속도가 자신보다 느릴 때 다음 턴에 참격 취약 2 부여"
+                  "desc": "[OnSucceedAttack] 若目标的速度值低于自身，则下回合对目标施加2层斩击易损 "
                 }
               ]
             }
@@ -4003,17 +4003,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적안",
-          "abName": "거미봉오리",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "赤瞳",
+          "abName": "蜘蛛巢",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 다음 턴에 더하기 코인 약화 2 부여"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则下回合对目标施加2层加算硬币弱化 "
                 }
               ]
             }
@@ -4021,20 +4021,20 @@
         },
         {
           "level": 3,
-          "name": "적안",
-          "abName": "거미봉오리",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "赤瞳",
+          "abName": "蜘蛛巢",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 3 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 다음 턴에 더하기 코인 약화 2 부여"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则下回合对目标施加2层加算硬币弱化 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 속도가 자신보다 느릴 때 다음 턴에 참격 취약 1-3 부여"
+                  "desc": "[OnSucceedAttack] 若目标的速度值低于自身，则下回合对目标施加1~3层斩击易损 "
                 }
               ]
             }
@@ -4047,14 +4047,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적안(開)",
-          "abName": "거미봉오리",
-          "desc": "메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 코인 위력 +4",
+          "name": "赤瞳(开)",
+          "abName": "蜘蛛巢",
+          "desc": "若主要目标的速度值低于自身3点及以上，则使本技能的硬币威力+4",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 피해량 +20%"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则使本技能造成的伤害+20%"
                 }
               ]
             }
@@ -4062,17 +4062,17 @@
         },
         {
           "level": 3,
-          "name": "적안(開)",
-          "abName": "거미봉오리",
-          "desc": "메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 코인 위력 +4",
+          "name": "赤瞳(开)",
+          "abName": "蜘蛛巢",
+          "desc": "若主要目标的速度值低于自身3点及以上，则使本技能的硬币威力+4",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 피해량 +20%"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则使本技能造成的伤害+20%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬로 대상을 흐트러짐 상태로 만들거나 처치하면, 체력이 가장 낮은 아군 1명과 자신의 체력을 최대 체력의 10%만큼 회복"
+                  "desc": "[OnSucceedAttack] 若以本技能击杀目标或使目标陷入混乱，则使自身及除自身以外体力最低的1名友方单位恢复其体力上限10%的体力"
                 }
               ]
             }
@@ -4080,17 +4080,17 @@
         },
         {
           "level": 4,
-          "name": "적안(開)",
-          "abName": "거미봉오리",
-          "desc": "메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 코인 위력 +7",
+          "name": "赤瞳(开)",
+          "abName": "蜘蛛巢",
+          "desc": "若主要目标的速度值低于自身3点及以上，则使本技能的硬币威力+7",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 피해량 +40%"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则使本技能造成的伤害+40%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬로 대상을 흐트러짐 상태로 만들거나 처치하면, 체력이 가장 낮은 아군 1명과 자신의 체력을 최대 체력의 10%만큼 회복"
+                  "desc": "[OnSucceedAttack] 若以本技能击杀目标或使目标陷入混乱，则使自身及除自身以外体力最低的1名友方单位恢复其体力上限10%的体力"
                 }
               ]
             }
@@ -4103,14 +4103,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "적안(開)",
-          "abName": "거미봉오리",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 최종 위력 +7",
+          "name": "赤瞳(开)",
+          "abName": "蜘蛛巢",
+          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身3点及以上，则使本技能的最终威力+7",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 피해량 +30%"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则使本技能造成的伤害+30%"
                 }
               ]
             }
@@ -4118,17 +4118,17 @@
         },
         {
           "level": 3,
-          "name": "적안(開)",
-          "abName": "거미봉오리",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 최종 위력 +7",
+          "name": "赤瞳(开)",
+          "abName": "蜘蛛巢",
+          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身3点及以上，则使本技能的最终威力+7",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 피해량 +30%"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则使本技能造成的伤害+30%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬로 대상을 흐트러짐 상태로 만들거나 처치하면, 체력이 가장 낮은 아군 1명과 자신의 체력을 최대 체력의 10%만큼 회복"
+                  "desc": "[OnSucceedAttack] 若以本技能击杀目标或使目标陷入混乱，则使自身及除自身以外体力最低的1名友方单位恢复其体力上限10%的体力"
                 }
               ]
             }
@@ -4136,17 +4136,17 @@
         },
         {
           "level": 4,
-          "name": "적안(開)",
-          "abName": "거미봉오리",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 최종 위력 +10",
+          "name": "赤瞳(开)",
+          "abName": "蜘蛛巢",
+          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身3点及以上，则使本技能的最终威力+10",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 속박이 3 이상 있을 때 피해량 +50%"
+                  "desc": "[OnSucceedAttack] 若目标的束缚 层数不低于3层，则使本技能造成的伤害+50%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 이 스킬로 대상을 흐트러짐 상태로 만들거나 처치하면, 체력이 가장 낮은 아군 1명과 자신의 체력을 최대 체력의 10%만큼 회복"
+                  "desc": "[OnSucceedAttack] 若以本技能击杀目标或使目标陷入混乱，则使自身及除自身以外体力最低的1名友方单位恢复其体力上限10%的体力"
                 }
               ]
             }
@@ -4159,17 +4159,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
+          "name": "空即是色",
+          "abName": "无我入定",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层虚弱 "
                 },
                 {
-                  "desc": "[EndSkill] 자신을 제외하고 정신력이 가장 낮은 아군 4명의 정신력 12 회복"
+                  "desc": "[EndSkill] 使除自身以外理智值最低的4名友方单位恢复12点理智值"
                 }
               ]
             }
@@ -4177,17 +4177,17 @@
         },
         {
           "level": 3,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[BeforeAttack] 자신의 정신력이 15 이상이면 공격 가중치 +1",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[BeforeAttack] 若自身的理智值不低于15点，则使本技能的攻击容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层虚弱 "
                 },
                 {
-                  "desc": "[EndSkill] 자신을 제외하고 정신력이 가장 낮은 아군 4명의 정신력 17 회복"
+                  "desc": "[EndSkill] 使除自身以外理智值最低的4名友方单位恢复17点理智值"
                 }
               ]
             }
@@ -4195,17 +4195,17 @@
         },
         {
           "level": 4,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[BeforeAttack] 자신의 정신력이 15 이상이면 공격 가중치 +2",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[BeforeAttack] 若自身的理智值不低于15点，则使本技能的攻击容量+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层虚弱 "
                 },
                 {
-                  "desc": "[EndSkill] 자신을 제외하고 정신력이 가장 낮은 아군 4명의 정신력 25 회복"
+                  "desc": "[EndSkill] 使除自身以外理智值最低的4名友方单位恢复25点理智值"
                 }
               ]
             }
@@ -4218,20 +4218,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[CantIdentify]\n무작위 대상 공격",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[CantIdentify]\n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신을 제외한 아군 1명에게 방어 레벨 감소 3 부여"
+                  "desc": "[OnSucceedAttack] 随机对除自身以外的1名友方单位施加3层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 방어 레벨 증가 2 얻음."
+                  "desc": "[OnSucceedAttack] 下回合使自身获得2层防御等级提升 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 피해량 증가 1 얻음."
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层伤害强化 "
                 }
               ]
             }
@@ -4239,23 +4239,23 @@
         },
         {
           "level": 3,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 정신력이 -15 이하면, 공격 가중치 +1",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若自身的理智值不高于-15点，则使本技能的攻击容量+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신을 제외한 아군 1명에게 방어 레벨 감소 3 부여"
+                  "desc": "[OnSucceedAttack] 随机对除自身以外的1名友方单位施加3层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 방어 레벨 증가 2 얻음."
+                  "desc": "[OnSucceedAttack] 下回合使自身获得2层防御等级提升 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 피해량 증가 1 얻음."
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层伤害强化 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 자신의 정신력 4 회복"
+                  "desc": "[OnSucceedAttackTail] 使自身恢复4点理智值"
                 }
               ]
             }
@@ -4263,26 +4263,26 @@
         },
         {
           "level": 4,
-          "name": "공즉시색",
-          "abName": "나는 비워내느니",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 정신력이 -15 이하면, 공격 가중치 +2",
+          "name": "空即是色",
+          "abName": "无我入定",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若自身的理智值不高于-15点，则使本技能的攻击容量+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신을 제외한 아군 1명에게 방어 레벨 감소 3 부여"
+                  "desc": "[OnSucceedAttack] 随机对除自身以外的1名友方单位施加3层防御等级降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 방어 레벨 증가 2 얻음."
+                  "desc": "[OnSucceedAttack] 下回合使自身获得2层防御等级提升 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 피해량 증가 1 얻음."
+                  "desc": "[OnSucceedAttack] 下回合使自身获得1层伤害强化 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 자신의 정신력 4 회복"
+                  "desc": "[OnSucceedAttackTail] 使自身恢复4点理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 취약 1 부여"
+                  "desc": "[OnSucceedAttackTail] 对目标施加1层易损 "
                 }
               ]
             }
