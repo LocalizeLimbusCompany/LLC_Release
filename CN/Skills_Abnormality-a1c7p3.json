@@ -1159,7 +1159,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "捉住套索",
+          "name": "捉捕套索",
           "desc": "[StartBattle] 若带有[ThornNoose]的敌方单位数不高于3名，则对目标施加1层[ThornNoose]",
           "coinlist": [
             {
