@@ -1290,7 +1290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加\n"
+                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加"
                 },
                 {
                   "desc": "[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"

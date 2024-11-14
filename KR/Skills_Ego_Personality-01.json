@@ -354,7 +354,7 @@
                   "desc": "[AllyKill] [BoseProjektil]당 다음 코인의 피해량 <style=\"highlight\">+7% (최대 49%)</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1</style>"
+                  "desc": "[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[AllyKillFail] [Breath] <style=\"highlight\">3</style> 얻음"
