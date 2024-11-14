@@ -1331,6 +1331,22 @@
     {
       "id": "introduce_sentence_167",
       "content": "我也曾深信过{0}是伟大的。"
+    },
+    {
+      "id": "introduce_word_168",
+      "content": "游行"
+    },
+    {
+      "id": "introduce_sentence_168",
+      "content": "要与我一同，参加这永无止尽的{0}吗？"
+    },
+    {
+      "id": "introduce_word_169",
+      "content": "弹丸"
+    },
+    {
+      "id": "introduce_sentence_169",
+      "content": "让这凶恶的{0}贯穿他们……！"
     }
   ]
 }
