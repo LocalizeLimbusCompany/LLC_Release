@@ -982,7 +982,7 @@
     },
     {
       "id": "mail_date",
-      "content": "日期"
+      "content": "领取日期"
     },
     {
       "id": "mail_sender",
@@ -1810,7 +1810,7 @@
     },
     {
       "id": "mass_announcer_spoiler_caution",
-      "content": "수령 목록에 클리어 하지 않은 챕터의\n스포일러가 될 수 있는 아나운서가\n포함되어 있습니다.\n\n보상을 수령하시겠습니까?"
+      "content": "将领取的奖励列表中\n播报员可能包含\n对尚未通过的章节的剧透。\n\n是否领取奖励？"
     },
     {
       "id": "select_all",

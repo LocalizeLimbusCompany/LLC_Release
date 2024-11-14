@@ -974,16 +974,16 @@
         {
           "level": 1,
           "name": "退下…",
-          "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음",
+          "desc": "[StartBattle] 消耗至多20层血宴 ，每消耗10层血宴 ，使自身与体力上限最高的1名友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             }
@@ -992,16 +992,16 @@
         {
           "level": 2,
           "name": "退下…",
-          "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+          "desc": "[StartBattle] 消耗至多20层血宴 ，每消耗10层血宴 ，使自身与体力上限最高的1名友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             }
@@ -1010,16 +1010,16 @@
         {
           "level": 4,
           "name": "退下…",
-          "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당 코인 위력 +1 (최대 2)</style>",
+          "desc": "[StartBattle] 消耗至多20层血宴 ，每消耗10层血宴 ，使自身与体力上限最高的1名友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n[WhenUse] 目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 }
               ]
             }
@@ -1033,15 +1033,15 @@
         {
           "level": 1,
           "name": "四散、消亡吧",
-          "desc": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음",
+          "desc": "[StartBattle] 使自身与体力上限最低的1名友方单位获得1层强壮 。消耗至多30层血宴 ，每消耗10层血宴 ，使自身与该友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层强壮 与2层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
@@ -1049,10 +1049,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -1061,15 +1061,15 @@
         {
           "level": 2,
           "name": "四散、消亡吧",
-          "desc": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1을 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+          "desc": "[StartBattle] 使自身与体力上限最低的1名友方单位获得1层强壮 。消耗至多30层血宴 ，每消耗10层血宴 ，使自身与该友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层强壮 与2层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
@@ -1077,10 +1077,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -1089,15 +1089,15 @@
         {
           "level": 4,
           "name": "四散、消亡吧",
-          "desc": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>",
+          "desc": "[StartBattle] 使自身与体力上限最低的1名友方单位获得1层强壮 。消耗至多30层血宴 ，每消耗10层血宴 ，使自身与该友方单位获得1层[BloomingThornsRodionFirst](每回合最多2次)\n- 优先指定属于<血魔>的友方单位\n- 若获得状态的友方单位属于<血魔>，则使其额外获得1层强壮 与2层[BloomingThornsRodionFirst]\n- 若未消耗血宴 ，则使自身增加5级流血 强度\n[WhenUse] 目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
@@ -1105,10 +1105,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -1122,35 +1122,35 @@
         {
           "level": 3,
           "name": "庆典总会结束",
-          "desc": "[BeforeUse] 자신의 [BloomingThornsRodionFirst]가 25 이상이면, '돈키호테류 경혈 오의 피날레'로 발동됨\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 3 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 3 부여",
+          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]层数不低于25层，则改为使用“堂吉诃德派硬血奥义 落幕”\n[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得3层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得3层[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -1159,35 +1159,35 @@
         {
           "level": 4,
           "name": "庆典总会结束",
-          "desc": "[BeforeUse] 자신의 [BloomingThornsRodionFirst]가 25 이상이면, '돈키호테류 경혈 오의 피날레'로 발동됨\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 3 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 3 부여",
+          "desc": "[BeforeUse] 若自身的[BloomingThornsRodionFirst]层数不低于25层，则改为使用“堂吉诃德派硬血奥义 落幕”\n[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得3层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得3层[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
                 }
               ]
             }
@@ -1201,19 +1201,19 @@
         {
           "level": 1,
           "name": "堂吉诃德派硬血15式 阳伞",
-          "desc": "[DuelCounter]\n[WhenUse] 자신을 제외하고 ([Laceration] x [Laceration] 횟수) 값이 가장 높은 아군 2명의 [Laceration] 횟수를 3 감소시키고, (감소 전 [Laceration] x 감소시킨 [Laceration] 횟수) 만큼 [BloodDinner] 증가\n - 이 효과로 [Laceration] 횟수가 0이 되면 [Laceration] 소멸\n[WinDuel] [BloomingThornsRodionFirst] 4 얻음",
+          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 强度与流血 层数之积)最高的2名友方单位的流血 层数减少3层，并获得(减少前的流血 强度×减少的流血 层数)层血宴 \n - 若该效果使其流血 层数降至0层，则解除其流血 \n[WinDuel] 使自身获得4层[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -1222,19 +1222,19 @@
         {
           "level": 4,
           "name": "堂吉诃德派硬血15式 阳伞",
-          "desc": "[DuelCounter]\n[WhenUse] 자신을 제외하고 ([Laceration] x [Laceration] 횟수) 값이 가장 높은 아군 2명의 [Laceration] 횟수를 3 감소시키고, (감소 전 [Laceration] x 감소시킨 [Laceration] 횟수) 만큼 [BloodDinner] 증가\n - 이 효과로 [Laceration] 횟수가 0이 되면 [Laceration] 소멸\n<style=\"highlight\"> - 대상 아군이 <혈귀>면, [Laceration] 횟수 추가 2 감소</style>\n[WinDuel] [BloomingThornsRodionFirst] 4 얻음",
+          "desc": "[DuelCounter]\n[WhenUse] 使除自身以外(流血 强度与流血 层数之积)最高的2名友方单位的流血 层数减少3层，并获得(减少前的流血 强度×减少的流血 层数)层血宴 \n - 若该效果使其流血 层数降至0层，则解除其流血 \n - 若该友方单位属于<血魔>，则使其流血 层数额外减少2层\n[WinDuel] 使自身获得4层[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             }
@@ -1248,35 +1248,35 @@
         {
           "level": 1,
           "name": "堂吉诃德派硬血奥义 落幕",
-          "desc": "[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 5 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 5 부여\n[WhenUse] 자신의 [BloodDinner_Accumulation] 5 당 피해량 1% 증가 (최대 50%)\n[EndSkill] 자신의 [BloomingThornsRodionFirst] 전부 소모",
+          "desc": "[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得5层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得5层[BloomingThornsRodionFirst]\n[WhenUse] 自身每带有5层[BloodDinner_Accumulation]，使本技能造成的伤害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }
@@ -1285,35 +1285,35 @@
         {
           "level": 4,
           "name": "堂吉诃德派硬血奥义 落幕",
-          "desc": "<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 5 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 5 부여\n[WhenUse] 자신의 [BloodDinner_Accumulation] 5 당 피해량 1% 증가 (최대 50%)\n[EndSkill] 자신의 [BloomingThornsRodionFirst] 전부 소모",
+          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 本回合与下回合使自身与(最大共鸣数)名友方单位获得5层[FestivalFeverRodion]，自身每带有50层[BloodDinner_Accumulation]，额外获得1层[FestivalFeverRodion](最多10层)\n[WhenUse] 使自身与(最大共鸣数)名友方单位获得5层[BloomingThornsRodionFirst]\n[WhenUse] 自身每带有5层[BloodDinner_Accumulation]，使本技能造成的伤害+1%(最多+50%)\n[EndSkill] 消耗自身所有[BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
                 }
               ]
             }

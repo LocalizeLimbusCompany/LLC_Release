@@ -175,7 +175,7 @@
     {
       "id": 841001,
       "name": "复还的血之冲动",
-      "desc": "- [RegainedStrength]的层数不低于10层时，转化为[RegainedStrength_2nd]\n- [RegainedStrength]的层数不低于20层时，转化为[RegainedStrength_3rd]\n- 若[RegainedStrength]的层数被消耗至阈值以下，则转换为前一阶段"
+      "desc": "- [RegainedStrength]的层数不低于10层时，转化为[RegainedStrength_2nd]\n- [RegainedStrength]的层数不低于20层时，转化为[RegainedStrength_3rd]\n- 若[RegainedStrength]的层数被消耗至阈值以下，则转换至前一阶段"
     },
     {
       "id": 841002,

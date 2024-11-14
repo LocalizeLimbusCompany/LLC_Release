@@ -534,7 +534,7 @@
         {
           "level": 1,
           "name": "血点画",
-          "desc": "[WinDuel] 若目标带有流血，则下回合使自身获得1层强壮 ",
+          "desc": "[WinDuel] 若目标带有流血 ，则下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
