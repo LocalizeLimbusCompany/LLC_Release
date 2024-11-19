@@ -420,7 +420,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层流血 "
                 }
               ]
             }

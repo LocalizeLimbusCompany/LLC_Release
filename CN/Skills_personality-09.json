@@ -274,7 +274,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "若目标的烧伤 层数不低于6层，则使未带有烧伤 或烧伤 层数最低的2名敌方单位增加3级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目标的烧伤 层数不低于6层，则使未带有烧伤 或烧伤 层数最低的2名敌方单位增加3级烧伤 强度"
                 }
               ]
             }
@@ -494,7 +494,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对自身施加1层震颤"
+                  "desc": "[OnSucceedAttack] 对自身施加1层震颤 "
                 },
                 {
                   "desc": "[WinDuelAttack] 对目标施加1层震颤 "
@@ -518,7 +518,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] 对目标施加1层震颤 "
+                  "desc": "[OnSucceedAttack] 对自身施加1层震颤 "
                 },
                 {
                   "desc": "[WinDuelAttack] 对目标施加1层震颤 "

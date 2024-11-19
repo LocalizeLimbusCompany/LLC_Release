@@ -317,7 +317,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加2级呼吸法 强度"
+                  "desc": "[OnSucceedAttackHead] 使自身增加2级呼吸法 强度"
                 }
               ]
             },
