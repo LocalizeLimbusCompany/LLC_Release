@@ -82,7 +82,7 @@
     },
     {
       "id": "VENDINGMACHINE_A",
-      "content": "售货机"
+      "content": "自动贩卖机"
     },
     {
       "id": "PACKAGE_A_Comment",
@@ -98,7 +98,7 @@
     },
     {
       "id": "VENDINGMACHINE_A_Comment",
-      "content": "[※ 使用付费狂气在售货机中购买的物品]"
+      "content": "[※ 使用付费狂气在自动贩卖机中购买的物品]"
     },
     {
       "id": "detail_not_return",

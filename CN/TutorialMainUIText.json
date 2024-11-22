@@ -742,11 +742,11 @@
     },
     {
       "id": "tutorial_mainui_12_vendingmachine",
-      "content": "售货机"
+      "content": "自动贩卖机"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_01_title_01",
-      "content": "售货机商品列表"
+      "content": "自动贩卖机商品列表"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
@@ -754,7 +754,7 @@
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
-      "content": "售货机种类"
+      "content": "自动贩卖机种类"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
@@ -762,7 +762,7 @@
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
-      "content": "选择售货机商品"
+      "content": "选择自动贩卖机商品"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
@@ -1294,11 +1294,11 @@
     },
     {
       "id": "tutorial_manual_1_season_information_08_title_01",
-      "content": "售货机"
+      "content": "自动贩卖机"
     },
     {
       "id": "tutorial_manual_1_season_information_08_desc_01",
-      "content": "随着新赛季的开始，与提取相同，新赛季的人格和E.G.O也将持续加入售货机列表。\n此外，之前赛季的战斗通行证中的人格与E.G.O也可通过售货机获取。\n\n不过，前一赛季的可提取人格和E.G.O会从售货机列表中移除。"
+      "content": "随着新赛季的开始，与提取相同，新赛季的人格和E.G.O也将持续加入自动贩卖机列表。\n此外，之前赛季的战斗通行证中的人格与E.G.O也可通过自动贩卖机获取。\n\n不过，前一赛季的可提取人格和E.G.O会从自动贩卖机列表中移除。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon",
