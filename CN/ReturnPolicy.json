@@ -110,7 +110,7 @@
     },
     {
       "id": "detail_not_return_get_mail",
-      "content": "- 在信箱领取后无法退款"
+      "content": "- 在邮箱领取组合包物品后无法退款"
     },
     {
       "id": "detail_not_return_platform",
@@ -118,7 +118,7 @@
     },
     {
       "id": "detail_not_return_get_mail_one_item",
-      "content": "- 若一次性从信箱中领取了一个或多个组合包内容，则无法退款。"
+      "content": "- 若一次性从邮箱中领取了一个或多个组合包物品，则无法退款。"
     }
   ]
 }

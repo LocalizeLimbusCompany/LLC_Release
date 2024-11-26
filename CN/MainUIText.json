@@ -470,7 +470,7 @@
     },
     {
       "id": "mainui_mail_warning2",
-      "content": "※从信箱里领取的物品可能会被收回。"
+      "content": "※从邮箱里领取的物品可能会被收回。"
     },
     {
       "id": "main_information",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "mailbox",
-      "content": "信箱"
+      "content": "邮箱"
     },
     {
       "id": "remain_days_label",
