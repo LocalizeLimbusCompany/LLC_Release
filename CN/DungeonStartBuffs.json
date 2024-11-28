@@ -2,443 +2,443 @@
   "dataList": [
     {
       "id": "ADDITIONAL_START_COST",
-      "description": "[通用]\n\n获得 {0}初始经费"
+      "description": "开始时，初始经费+{0}"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE",
-      "description": "[通用]\n\n战斗胜利后获得的经费增加 {0}% （不受开局增益与其他E.G.O饰品的影响）"
+      "description": "[공용]\n\n전투 승리 시 획득하는 코스트 {0}% 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)"
     },
     {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE",
-      "description": "[通用]\n\n额外出现3件E.G.O饰品"
+      "description": "[공용]\n\nE.G.O 기프트 3종 추가로 등장"
     },
     {
       "id": "ADDITIONAL_3_TIER_START_EGO_GIFT_CHANCE",
-      "description": "[通用]\n\n镌星时，获得200星芒（仅限最初1次，不受激活影响）"
+      "description": "[공용]\n\n별새김 진행 시, 별빛 200 획득 (최초 1회 한정, 활성화 영향을 받지 않음)"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
-      "description": "[初始E.G.O饰品]\n\nE.G.O饰品可选择数+{0}"
+      "description": "开始时，E.G.O饰品可选择数+{0}"
     },
     {
       "id": "ACQUIRE_4_TIER_START_EGO_GIFT",
-      "description": "[初始E.G.O饰品]\n\n额外获得在初始阶段所选项目的4级随机E.G.O饰品。"
+      "description": "[시작 E.G.O 기프트]\n\n시작 단계에서 선택한 항목의 4등급 무작위 E.G.O 기프트를 추가로 획득"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
-      "description": "[商店]\n\n展出的E.G.O饰品等级提升，且低概率出现4级以上的E.G.O饰品"
+      "description": "[상점]\n\nE.G.O 기프트의 출현 등급이 상승하고 4등급 이상의 E.G.O 기프트가 낮은 확률로 출현"
     },
     {
       "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
-      "description": "[商店]\n\n商店里展出的E.G.O饰品数量 +{0}"
+      "description": "[상점]\n\n상점에 등장하는 E.G.O 기프트 수 +{0}"
     },
     {
       "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
-      "description": "[商店]\n\n刷新所需经费减少{0}%"
+      "description": "[상점]\n\n코스트를 소모하는 새로고침 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE",
-      "description": "[商店]\n\n购买E.G.O饰品所需经费减少{0}%"
+      "description": "[상점]\n\nE.G.O 기프트 구매 비용 {0}% 감소"
     },
     {
       "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE",
-      "description": "[商店]\n\n售卖E.G.O饰品时获得的经费增加{0}%"
+      "description": "[상점]\n\nE.G.O 기프트 판매 시 획득하는 코스트 {0}% 증가"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST",
-      "description": "[休息点]\n\n强化E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\nE.G.O 기프트 강화 비용 {0}% 감소"
     },
     {
       "id": "AttackLevelAdder",
-      "description": "攻击等级+{0}"
+      "description": "공격 레벨 + {0}"
     },
     {
       "id": "AttackLevelMultiply",
-      "description": "攻击等级+{0}%"
+      "description": "공격 레벨 + {0}%"
     },
     {
       "id": "DefenseLevelAdder",
-      "description": "防御等级+{0}"
+      "description": "방어 레벨 + {0}"
     },
     {
       "id": "DefenseLevelMultiply",
-      "description": "防御等级+{0}%"
+      "description": "방어 레벨 + {0}%"
     },
     {
       "id": "MaxHpAdder",
-      "description": "体力上限+{0}"
+      "description": "최대 체력 + {0} 증가"
     },
     {
       "id": "MaxHpMultiply",
-      "description": "体力上限+{0}%"
+      "description": "최대 체력 + {0}% 증가"
     },
     {
       "id": "MaxSpeedUpAdder",
-      "description": "最大速度值+{0}"
+      "description": "속도 최댓값 + {0}"
     },
     {
       "id": "AttackDamageAdder",
-      "description": "造成的伤害+{0}"
+      "description": "가하는 피해량 + {0} 증가"
     },
     {
       "id": "AttackDamageMultiply",
-      "description": "造成的伤害+{0}%"
+      "description": "가하는 피해량 + {0}% 증가"
     },
     {
       "id": "TakeAttackDamageReducer",
-      "description": "受到的伤害-{0}"
+      "description": "받는 피해량 {0} 감소"
     },
     {
       "id": "TakeAttackDamageMultipliedReducer",
-      "description": "受到的伤害-{0}%"
+      "description": "받는 피해량 {0}% 감소"
     },
     {
       "id": "StickCoinHeadAndTailToMaxPer",
-      "description": "每{0}回合，根据友方单位使用的技能硬币种类，使硬币全部为正面或反面"
+      "description": "{0} 턴마다 사용하는 아군 인격 스킬의 코인 결과가 종류에 따라 전부 앞면 혹은 뒷면으로 결정"
     },
     {
       "id": "RemoveBreakSection",
-      "description": "友方单位的第一混乱阈值无效"
+      "description": "아군 인격의 첫 번째 흐트러짐 구간을 무효로 함"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S1",
-      "description": "[商店]\n\n提升出现更高等级E.G.O饰品的概率（提升率与其他连接的增益相同）"
+      "description": "[상점]\n\n등장하는 E.G.O 기프트의 출현 등급 상승 (다른 연결된 버프와 동일하게 확률 증가)"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S2",
-      "description": "[商店]\n\n提升出现更高等级E.G.O饰品的概率（提升率与其他连接的增益相同）"
+      "description": "[상점]\n\n등장하는 E.G.O 기프트의 출현 등급 상승 (다른 연결된 버프와 동일하게 확률 증가)"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S3",
-      "description": "[商店]\n\n提升出现更高等级E.G.O饰品的概率（提升率与其他连接的增益相同）"
+      "description": "[상점]\n\n등장하는 E.G.O 기프트의 출현 등급 상승 (다른 연결된 버프와 동일하게 확률 증가)"
     },
     {
       "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT_NESTING",
-      "description": "[商店]\n\n商店里展出的E.G.O饰品数量 +1"
+      "description": "[상점]\n\n상점에 등장하는 E.G.O 기프트 수 +1"
     },
     {
       "id": "ADDITIONAL_START_COST_ADD_S1",
-      "description": "[通用]\n\n额外获得50初始经费"
+      "description": "[공용]\n\n시작 코스트 50을 추가로 획득"
     },
     {
       "id": "ADDITIONAL_START_COST_ADD_S2",
-      "description": "[通用]\n\n额外获得50初始经费"
+      "description": "[공용]\n\n시작 코스트 50을 추가로 획득"
     },
     {
       "id": "ADDITIONAL_START_COST_ADD_S3",
-      "description": "[通用]\n\n额外获得50初始经费"
+      "description": "[공용]\n\n시작 코스트 50을 추가로 획득"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_NORMAL",
-      "description": "[通用]\n\n常规遭遇战胜利后获得的经费增加10%（不受开局增益与其他E.G.O饰品的影响）"
+      "description": "[공용]\n\n일반 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_ABNORMALITY",
-      "description": "[通用]\n\n集中遭遇战胜利后获得的经费增加10%（不受开局增益与其他E.G.O饰品的影响）"
+      "description": "[공용]\n\n집중 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_HARD",
-      "description": "[通用]\n\n危险遭遇战胜利后获得的经费增加10%（不受开局增益与其他E.G.O饰品的影响）"
+      "description": "[공용]\n\n위험 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)"
     },
     {
       "id": "ADDITIONAL_BATTLE_WIN_COST_RATE_BOSS",
-      "description": "[通用]\n\n阶层头目战胜利后获得的经费增加10%（不受开局增益与其他E.G.O饰品的影响）"
+      "description": "[공용]\n\n층 보스 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)"
     },
     {
       "id": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE_NESTING",
-      "description": "[商店]\n\n刷新所需经费减少{0}%"
+      "description": "[상점]\n\n코스트를 소모하는 새로고침 비용 {0}% 감소"
     },
     {
       "id": "FREE_SHOP_REFRESH_EGO_GIFT_COST_RATE",
-      "description": "[商店]\n\n刷新时有20%的概率不消耗经费"
+      "description": "[상점]\n\n20% 확률로 새로고침할 때 비용이 소모되지 않음"
     },
     {
       "id": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE",
-      "description": "[商店]\n\n技能替换所需经费减少20%"
+      "description": "[상점]\n\n스킬 교체 비용 20% 감소"
     },
     {
       "id": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE_NESTING",
-      "description": "[商店]\n\n技能替换所需经费减少20%"
+      "description": "[상점]\n\n스킬 교체 비용 20% 감소"
     },
     {
       "id": "FREE_UPGRADE_EGO_GIFT_COST",
-      "description": "[休息点]\n\n强化时有20%的概率不消耗经费"
+      "description": "[쉼터]\n\n20% 확률로 강화할 때 비용을 되돌려줌"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_COMBUSTION",
-      "description": "[休息点]\n\n拥有烧伤关键词的E.G.O饰品强化所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n화상 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_LACERATION",
-      "description": "[休息点]\n\n拥有流血关键词的E.G.O饰品强化所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n출혈 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_VIBRATION",
-      "description": "[休息点]\n\n拥有震颤关键词的E.G.O饰品强化所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n진동 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BURST",
-      "description": "[休息点]\n\n拥有破裂关键词的E.G.O饰品强化所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n파열 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_SINKING",
-      "description": "[休息点]\n\n拥有沉沦关键词的E.G.O饰品强化所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n침잠 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_BREATH",
-      "description": "[休息点]\n\n拥有呼吸法关键词的E.G.O饰品强化所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n호흡 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_CHARGE",
-      "description": "[休息点]\n\n拥有充能关键词的E.G.O饰品强化所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n충전 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소"
     },
     {
       "id": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE_NESTING",
-      "description": "[商店]\n\n售卖E.G.O饰品时获得的经费增加20%"
+      "description": "[상점]\n\nE.G.O 기프트 판매 시 획득하는 코스트 20% 추가로 증가"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_COMBUSTION",
-      "description": "[商店]\n\n购买拥有烧伤关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n화상 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_LACERATION",
-      "description": "[商店]\n\n购买拥有流血关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n출혈 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_VIBRATION",
-      "description": "[商店]\n\n购买拥有震颤关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n진동 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BURST",
-      "description": "[商店]\n\n购买拥有破裂关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n파열 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SINKING",
-      "description": "[商店]\n\n购买拥有沉沦关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n침잠 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BREATH",
-      "description": "[商店]\n\n购买拥有呼吸法关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n호흡 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE",
-      "description": "[商店]\n\n购买拥有充能关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n충전 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_NONE",
-      "description": "[商店]\n\n购买无关键词的E.G.O饰品时所需经费额外减少{0}%"
+      "description": "[상점]\n\n별도 키워드가 없는 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소"
     },
     {
       "id": "SlashAttackDamageMultiply",
-      "description": "斩击伤害量增加{0}%"
+      "description": "가하는 참격 피해량 {0}% 증가"
     },
     {
       "id": "PenetrateAttackDamageMultiply",
-      "description": "突刺伤害量增加{0}%"
+      "description": "가하는 관통 피해량 {0}% 증가"
     },
     {
       "id": "HitAttackDamageMultiply",
-      "description": "打击伤害量增加{0}%"
+      "description": "가하는 타격 피해량 {0}% 증가"
     },
     {
       "id": "SlashResistReducer",
-      "description": "斩击抗性减少{0}"
+      "description": "참격 내성 {0}만큼 감소"
     },
     {
       "id": "PenetrateResistReducer",
-      "description": "突刺抗性减少{0}"
+      "description": "관통 내성 {0}만큼 감소"
     },
     {
       "id": "HitResistReducer",
-      "description": "打击抗性减少{0}"
+      "description": "타격 내성 {0}만큼 감소"
     },
     {
       "id": "EGO_RESOURCE",
-      "description": "[战斗]\n\n所有罪孽碎片+{0}"
+      "description": "[전투]\n\n모든 속성 E.G.O 자원 +{0}"
     },
     {
       "id": "ADDITIONAL_ALLTYPE_EGOSTOCK",
-      "description": "[战斗]\n\n所有罪孽碎片+{0}"
+      "description": "[전투]\n\n모든 속성 E.G.O 자원 +{0}"
     },
     {
       "id": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING",
-      "description": "[战斗]\n\n所有罪孽碎片+{0}"
+      "description": "[전투]\n\n모든 속성 E.G.O 자원 +{0}"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL1",
-      "description": "[商店]\n\n购买E.G.O饰品所需经费减少{0}%"
+      "description": "[상점]\n\nE.G.O 기프트의 구매 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER1",
-      "description": "[商店]\n\n购买1级E.G.O饰品所需经费额外减少{0}%"
+      "description": "[상점]\n\n1등급 E.G.O 기프트의 구매 비용 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER2",
-      "description": "[商店]\n\n购买2级E.G.O饰品所需经费额外减少{0}%"
+      "description": "[상점]\n\n2등급 E.G.O 기프트의 구매 비용 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER3",
-      "description": "[商店]\n\n购买3级E.G.O饰品所需经费额外减少{0}%"
+      "description": "[상점]\n\n3등급 E.G.O 기프트의 구매 비용 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER4",
-      "description": "[商店]\n\n购买4级及以上E.G.O饰品所需经费额外减少{0}%"
+      "description": "[상점]\n\n4등급 이상 E.G.O 기프트의 구매 비용 {0}% 추가로 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL2",
-      "description": "[商店]\n\n购买E.G.O饰品所需经费减少{0}%"
+      "description": "[상점]\n\nE.G.O 기프트의 구매 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL3",
-      "description": "[商店]\n\n购买E.G.O饰品所需经费减少{0}%"
+      "description": "[상점]\n\nE.G.O 기프트의 구매 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SLASH",
-      "description": "[商店]\n\n购买斩击E.G.O饰品所需经费减少{0}%"
+      "description": "[상점]\n\n참격 E.G.O 기프트의 구매 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_PENETRATE",
-      "description": "[商店]\n\n购买突刺E.G.O饰品所需经费减少{0}%"
+      "description": "[상점]\n\n관통 E.G.O 기프트의 구매 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_HIT",
-      "description": "[商店]\n\n购买打击E.G.O饰品所需经费减少{0}%"
+      "description": "[상점]\n\n타격 E.G.O 기프트의 구매 비용 {0}% 감소"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER1",
-      "description": "[商店]\n\n售卖1级E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[상점]\n\n1등급 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER2",
-      "description": "[商店]\n\n售卖2级E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[상점]\n\n2등급 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER3",
-      "description": "[商店]\n\n售卖3级E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[상점]\n\n3등급 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER4MORE",
-      "description": "[商店]\n\n售卖4级E.G.O饰品时获得的经费额外增加{0}%"
+      "description": "[상점]\n\n4등급 이상 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가"
     },
     {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE_TIER1TOTIER2",
-      "description": "[通用]\n\n将{0}件2级E.G.O饰品加入商店、合成结果、战斗奖励中\n\n<一览>\n- 郁火（2级，烧伤）\n- 敬畏（2级，流血）\n- 酸味的酒香（2级，震颤）\n- 镜触觉通感（2级，震颤）\n- 有烟火药（2级，破裂）\n- 破伞（2级，破裂）\n- 庄严（2级，沉沦）\n- 老旧的木雕人偶（2级，呼吸法）\n- 巡逻用手电筒（2级，充能）\n- 裁缝用剪刀（2级，斩击）\n- 决意（2级，斩击）\n- 曾经的祝福（2级，突刺）\n- 撕裂的弹带（2级，突刺）\n- 加压绷带（2级，打击）\n- 时间缰绳（2级，打击）\n- 神谕（2级）"
+      "description": "[공용]\n\n2등급 E.G.O 기프트 {0}종이 상점, 합성 결과, 전투 보상 목록에 추가로 등장\n\n<목록>\n- 울화통 (2등급, 화상)\n- 경외심 (2등급, 출혈)\n- 시큼한 주향 (2등급, 진동)\n- 거울 촉각 공감각 (2등급, 진동)\n- 유연 화약 (2등급, 파열)\n- 해진 우산 (2등급, 파열)\n- 장엄 (2등급, 침잠)\n- 낡은 목각 인형 (2등급, 호흡)\n- 순찰용 손전등 (2등급, 충전)\n- 재단용 가위 (2등급, 참격)\n- 결의 (2등급, 참격)\n- 축복이었던 (2등급, 관통)\n- 찢어진 밴돌리어 (2등급, 관통)\n- 압박 붕대 (2등급, 타격)\n- 시간 굴레 (2등급, 타격)\n- 오라클 (2등급)"
     },
     {
       "id": "ADDITIONAL_EGO_GIFT_CHANCE_TIER3TOTIER4",
-      "description": "[通用]\n\n将{0}件3-4级E.G.O饰品加入商店、合成结果、战斗奖励中\n\n<一览>\n- 土归土（3级，烧伤）\n- 烟霾与铁丝网（3级，流血）\n- 真理之钟（3级，震颤）\n- 标准负荷电池（3级，破裂）\n- 仲冬夜之噩梦（3级，沉沦）\n- 四叶草（3级，呼吸法）\n- 物理屏蔽力场（3级，充能）\n- 火光花（3级，烧伤）\n- 安息之地（3级，流血）\n- 齿轮发条（3级，震颤）\n- 寻死者（3级，破裂）\n- 彼方之星（3级，沉沦）\n- 留恋（3级，呼吸法）\n- 仿造发电机（3级，充能）\n- 宣判之刻（3级，斩击）\n- 磨尖的树枝（3级，突刺）\n- 紧握的雕像（3级，打击）\n- 强压的重担（3级）\n\n- 业火残片（4级，烧伤）\n- 魅惑残片（4级，流血）\n- 惰性残片（4级，震颤）\n- 欲望残片（4级，破裂）\n- 蚕食残片（4级，沉沦）\n- 骄慢残片（4级，呼吸法）\n- 摩擦残片（4级，充能）\n- 被剪去的记忆（4级，斩击）\n- 破洞的记忆（4级，突刺）\n- 破碎的记忆（4级，打击）"
+      "description": "[공용]\n\n3~4등급 E.G.O 기프트 {0}종이 상점, 합성 결과, 전투 보상 목록에 추가로 등장\n\n<목록>\n- 먼지에서 먼지로 (3등급, 화상)\n- 연기와 철조망 (3등급, 출혈)\n- 진실의 종 (3등급, 진동)\n- 근무용 통상 배터리 (3등급, 파열)\n- 한겨울 밤의 악몽 (3등급, 침잠)\n- 네잎클로버 (3등급, 호흡)\n- 물리 간섭 보호장 (3등급, 충전)\n- 불빛꽃 (3등급, 화상)\n- 안식처 (3등급, 출혈)\n- 톱니바퀴 태엽 (3등급, 진동)\n- 죽음바라기 (3등급, 파열)\n- 머나먼 별 (3등급, 침잠)\n- 미련 (3등급, 호흡)\n- 모조발전기 (3등급, 충전)\n- 선고의 순간 (3등급, 참격)\n- 벼려진 가지 (3등급, 관통)\n- 굳게 쥔 상 (3등급, 타격)\n- 강요된 무게 (3등급)\n\n- 업화 조각 (4등급, 화상)\n- 매혹 조각 (4등급, 출혈)\n- 타성 조각 (4등급, 진동)\n- 욕망 조각 (4등급, 파열)\n- 잠식 조각 (4등급, 침잠)\n- 교만 조각 (4등급, 호흡)\n- 마찰 조각 (4등급, 충전)\n- 잘려나간 기억 (4등급, 참격)\n- 구멍난 기억 (4등급, 관통)\n- 바스라진 기억 (4등급, 타격)"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL1",
-      "description": "[休息点]\n\n强化E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\nE.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER1",
-      "description": "[休息点]\n\n强化1级E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\n1등급 E.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER2",
-      "description": "[休息点]\n\n强化2级E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\n2등급 E.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER3",
-      "description": "[休息点]\n\n强化3级E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\n3등급 E.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER4MORE",
-      "description": "[休息点]\n\n强化4级及以上E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\n4등급 이상 E.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL2",
-      "description": "[休息点]\n\n强化E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\nE.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL3",
-      "description": "[休息点]\n\n强化E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\nE.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_SLASH",
-      "description": "[休息点]\n\n强化斩击E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\n참격 E.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_PENETRATE",
-      "description": "[休息点]\n\n强化突刺E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\n관통 E.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_HIT",
-      "description": "[休息点]\n\n强化打击E.G.O饰品所需经费减少{0}%"
+      "description": "[쉼터]\n\n타격 E.G.O 기프트의 강화 비용 {0}% 감소"
     },
     {
       "id": "REDUCE_UPGRADE_EGO_GIFT_COST_NONE",
-      "description": "[休息点]\n\n强化无关键词的E.G.O饰品所需经费额外减少{0}%"
+      "description": "[쉼터]\n\n키워드가 없는 E.G.O 기프트의 강화 비용 {0}% 추가로 감소"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_NUMBER",
-      "description": "[阶层主题]\n\n阶层主题可选择数+{0}"
+      "description": "[층 테마]\n\n층 테마 등장 수 +{0}"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_NUMBER_NESTING",
-      "description": "[阶层主题]\n\n阶层主题可选择数+{0}"
+      "description": "[층 테마]\n\n층 테마 등장 수 +{0}"
     },
     {
       "id": "ADDITIONAL_BATTLE_REWARD_CASE_NUMBER",
-      "description": "[遭遇战奖励卡]\n\n遭遇战奖励卡可选择数+{0}"
+      "description": "[전투 보상 카드]\n\n전투 보상 카드 등장 수 +{0}"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_NUMBER_SUB1",
-      "description": "[阶层主题]\n\n阶层主题可选择数+{0}"
+      "description": "[층 테마]\n\n층 테마 등장 수 +{0}"
     },
     {
       "id": "ADDITIONAL_CHIP",
-      "description": "[限定]\n\n镌星时，获得200星芒（仅限最初1次，不受激活影响）"
+      "description": "[한정]\n\n별새김 진행 시, 별빛 200 획득 (최초 1회 한정, 활성화 영향을 받지 않음)"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_BUF",
-      "description": "[初始E.G.O饰品]\n\n初始E.G.O饰品列表中增加7种E.G.O饰品\n\n<一览>\n- 郁火（2级，烧伤）\n- 敬畏（2级，流血）\n- 酸味的酒香（2级，震颤）\n- 有烟火药（2级，破裂）\n- 庄严（2级，沉沦）\n- 老旧的木雕人偶（2级，呼吸法）\n- 巡逻用手电筒（2级，充能）"
+      "description": "[시작 E.G.O 기프트]\n\nE.G.O 기프트 7종이 시작 E.G.O 기프트 목록에 추가로 등장\n\n<목록>\n- 울화통 (2등급, 화상)\n- 경외심 (2등급, 출혈)\n- 시큼한 주향 (2등급, 진동)\n- 유연 화약 (2등급, 파열)\n- 장엄 (2등급, 침잠)\n- 낡은 목각 인형 (2등급, 호흡)\n- 순찰용 손전등 (2등급, 충전)"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_COMBUSTION",
-      "description": "[初始E.G.O饰品]\n\n解锁烧伤E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n화상 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_LACERATION",
-      "description": "[初始E.G.O饰品]\n\n解锁流血E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n출혈 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_VIBRATION",
-      "description": "[初始E.G.O饰品]\n\n解锁震颤E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n진동 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_BURST",
-      "description": "[初始E.G.O饰品]\n\n解锁破裂E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n파열 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_SINKING",
-      "description": "[初始E.G.O饰品]\n\n解锁沉沦E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n침잠 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_BREATH",
-      "description": "[初始E.G.O饰品]\n\n解锁呼吸法E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n호흡 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHARGE",
-      "description": "[初始E.G.O饰品]\n\n解锁充能E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n충전 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_ATK",
-      "description": "[初始E.G.O饰品]\n\n初始E.G.O饰品列表中增加6种E.G.O饰品\n\n<一览>\n- 裁缝用剪刀（2级，斩击）\n- 决意（2级，斩击）\n- 曾经的祝福（2级，突刺）\n- 撕裂的弹带（2级，突刺）\n- 加压绷带（2级，打击）\n- 时间缰绳（2级，打击）"
+      "description": "[시작 E.G.O 기프트]\n\nE.G.O 기프트 6종이 시작 E.G.O 기프트 목록에 추가로 등장\n\n<목록>\n- 재단용 가위 (2등급, 참격)\n- 결의 (2등급, 참격)\n- 축복이었던 (2등급, 관통)\n- 찢어진 밴돌리어 (2등급, 관통)\n- 압박 붕대 (2등급, 타격)\n- 시간 굴레 (2등급, 타격)"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_SLASH",
-      "description": "[初始E.G.O饰品]\n\n解锁斩击E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n참격 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_PENETRATE",
-      "description": "[初始E.G.O饰品]\n\n解锁突刺E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n관통 E.G.O 기프트 항목을 선택할 수 있음"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_CHANCE_HIT",
-      "description": "[初始E.G.O饰品]\n\n解锁打击E.G.O饰品类别"
+      "description": "[시작 E.G.O 기프트]\n\n타격 E.G.O 기프트 항목을 선택할 수 있음"
     }
   ]
 }

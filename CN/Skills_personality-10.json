@@ -471,7 +471,7 @@
         {
           "level": 1,
           "name": "霞光剑刃",
-          "desc": "[WhenUse] 若自身处于不稳定E.G.O状态， 则消耗5点理智值\n[BeforeAttack] 若自身处于不稳定E.G.O状态，则使本技能的攻击容量+1\n[EndSkill] 若自身处于不稳定E.G.O状态，则消耗5点理智值",
+          "desc": "[WhenUse] 若自身处于不稳定E.G.O状态，则消耗5点理智值\n[BeforeAttack] 若自身处于不稳定E.G.O状态，则使本技能的攻击容量+1\n[EndSkill] 若自身处于不稳定E.G.O状态，则消耗5点理智值",
           "coinlist": [
             {
               "coindescs": [
