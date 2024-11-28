@@ -802,7 +802,7 @@
     },
     {
       "id": "introduce_sentence_101",
-      "content": "凝视……{0}锋……"
+      "content": "凝视……{0}之锋芒……"
     },
     {
       "id": "introduce_word_102",
@@ -1347,6 +1347,22 @@
     {
       "id": "introduce_sentence_169",
       "content": "让这凶恶的{0}贯穿他们……！"
+    },
+    {
+      "id": "introduce_word_170",
+      "content": "跑腿"
+    },
+    {
+      "id": "introduce_sentence_170",
+      "content": "……我下次不会再帮你{0}了。"
+    },
+    {
+      "id": "introduce_word_171",
+      "content": "平衡"
+    },
+    {
+      "id": "introduce_sentence_171",
+      "content": "才不是失去{0}。"
     }
   ]
 }

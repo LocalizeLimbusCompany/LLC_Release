@@ -725,7 +725,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱 "
+                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 "
                 }
               ]
             },
@@ -741,12 +741,12 @@
         {
           "level": 2,
           "name": "派送箱-崩解刀",
-          "desc": "<style=\"highlight\">자신의 [DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+          "desc": "若自身的派送箱-罗佳 层数不低于10层或目标的破裂 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数，且本技能的命中时效果不会增加破裂 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n<style=\"highlight\">- 자신의 [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음</style>"
+                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 "
                 }
               ]
             },
@@ -762,12 +762,12 @@
         {
           "level": 4,
           "name": "派送箱-崩解刀",
-          "desc": "<style=\"highlight\">자신의 [DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+          "desc": "自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数，且本技能的命中时效果不会增加破裂 强度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n- 자신의 [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 "
                 }
               ]
             },
@@ -788,12 +788,12 @@
         {
           "level": 1,
           "name": "派送箱-工具射出",
-          "desc": "자신의 [DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+          "desc": "若自身的派送箱-罗佳 层数不低于10层或目标的破裂 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱 "
+                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 "
                 }
               ]
             },
@@ -807,7 +807,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有10层派送箱 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多2层，每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 自身每带有10层派送箱-罗佳 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多2层，每回合最多1次)"
                 }
               ]
             }
@@ -816,12 +816,12 @@
         {
           "level": 2,
           "name": "派送箱-工具射出",
-          "desc": "<style=\"highlight\">자신의 [DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+          "desc": "自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n<style=\"highlight\">- 자신의 [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음</style>"
+                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 "
                 }
               ]
             },
@@ -835,7 +835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有5层派送箱 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多4层，每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 自身每带有5层派送箱-罗佳 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多4层，每回合最多1次)"
                 }
               ]
             }
@@ -844,26 +844,26 @@
         {
           "level": 4,
           "name": "派送箱-工具射出",
-          "desc": "<style=\"highlight\">[DevyatDimensionalSack] 1당 피해량 +2% (최대 40%)</style>\n자신의 [DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+          "desc": "自身每带有1层派送箱-罗佳 ，使本技能造成的伤害+2%(最多+40%)\n自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能命中时不消耗目标的破裂 层数",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n- 자신의 [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] <style=\"highlight\">2</style> 추가로 얻음"
+                  "desc": "[OnSucceedAttack] 使自身获得1层派送箱-罗佳 \n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得2层派送箱-罗佳 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)\n<style=\"highlight\">- 자신의 [DevyatDimensionalSack]가 15 이상이면, [Agility] 1 추가로 얻음</style>"
+                  "desc": "[OnSucceedAttackHead] 下回合使自身获得1层迅捷 (每回合最多1次)\n- 若自身的派送箱-罗佳 层数不低于15层，则使自身额外获得1层迅捷 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自身每带有5层派送箱 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多6层，每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 自身每带有5层派送箱-罗佳 或目标每带有5级破裂 强度，对目标施加1层防御等级降低 (最多6层，每回合最多1次)"
                 }
               ]
             }
@@ -877,7 +877,7 @@
         {
           "level": 3,
           "name": "波鲁！加把劲！",
-          "desc": "[DevyatDimensionalSack] 1당 피해량 +2% (최대 40%)\n자신의 [DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst] 횟수를 부여하지 않는 대신 마지막 코인을 재사용",
+          "desc": "自身每带有1层派送箱-罗佳 ，使本技能造成的伤害+2%(最多+40%)\n若自身的派送箱-罗佳 层数不低于10层或目标的破裂 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能的命中时效果不会施加破裂 层数，而改为重复使用最后一枚硬币",
           "coinlist": [
             {},
             {
@@ -890,7 +890,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的派送箱 层数不低于15层，则使本硬币造成的伤害+15%"
+                  "desc": "[OnSucceedAttack] 若自身的派送箱-罗佳 层数不低于15层，则使本硬币造成的伤害+15%"
                 },
                 {
                   "desc": "[EndSkill] 若使目标陷入混乱或击杀目标，则下回合使自身获得1层迅捷 (每回合最多1次)"
@@ -902,20 +902,20 @@
         {
           "level": 4,
           "name": "波鲁！加把劲！",
-          "desc": "[DevyatDimensionalSack] 1당 피해량 <style=\"highlight\">+4%</style> (최대 <style=\"highlight\">80%</style>)\n<style=\"highlight\">자신의 [DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst] 횟수를 부여하지 않는 대신 마지막 코인을 재사용",
+          "desc": "自身每带有1层派送箱-罗佳 ，使本技能造成的伤害+4%(最多+80%)\n自身每带有10层派送箱-罗佳 或目标每带有6级破裂 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若目标的破裂 强度不低于15级且破裂 层数不低于3层，则本技能的命中时效果不会施加破裂 层数，而改为重复使用最后一枚硬币",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 (每回合最多1次)\n- 自身每带有10层派送箱 ，对目标额外施加1层破裂 (最多额外施加2层)"
+                  "desc": "[OnSucceedAttack] 对目标施加3层破裂 (每回合最多1次)\n- 自身每带有10层派送箱-罗佳 ，对目标额外施加1层破裂 (最多额外施加2层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的派送箱 层数不低于15层，则使本硬币造成的伤害+25%"
+                  "desc": "[OnSucceedAttack] 若自身的派送箱-罗佳 层数不低于15层，则使本硬币造成的伤害+25%"
                 },
                 {
                   "desc": "[EndSkill] 若使目标陷入混乱或击杀目标，则下回合使自身获得2层迅捷 (每回合最多1次)"
@@ -932,7 +932,7 @@
         {
           "level": 1,
           "name": "派送辅助及管理流程",
-          "desc": "[StartBattle] 자신의 [DevyatDimensionalSack]가 15 이상이면, ‘이건... 잠시 전략적 휴식이야!’로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 ([DevyatDimensionalSack]/2)%만큼 보호막을 얻음 (최대 15%, 턴 당 1회)\n[WhenUse] [DevyatDimensionalSack] 2 얻음 (턴 당 1회)\n- 자신의 [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음",
+          "desc": "[StartBattle] 若自身的派送箱-罗佳 不低于15层，则改为使用“只是…战略性休息而已！”(每回合最多1次)\n[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱-罗佳 层数/2)%的护盾(最多15%，每回合最多1次)\n[WhenUse] 使自身获得2层派送箱-罗佳 (每回合最多1次)\n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 ",
           "coinlist": [
             {}
           ]
@@ -940,7 +940,7 @@
         {
           "level": 4,
           "name": "派送辅助及管理流程",
-          "desc": "[StartBattle] 자신의 [DevyatDimensionalSack]가 15 이상이면, ‘이건... 잠시 전략적 휴식이야!’로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 <style=\"highlight\">([DevyatDimensionalSack])%</style>만큼 보호막을 얻음 (최대 <style=\"highlight\">25%</style>, 턴 당 1회)\n[WhenUse] [DevyatDimensionalSack] 2 얻음 (턴 당 1회)\n- 자신의 [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음",
+          "desc": "[StartBattle] 若自身的派送箱-罗佳 不低于15层，则改为使用“只是…战略性休息而已！”(每回合最多1次)\n[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱-罗佳 层数)%的护盾(最多25%，每回合最多1次)\n[WhenUse] 使自身获得2层派送箱-罗佳 (每回合最多1次)\n- 若自身的派送箱-罗佳 层数低于15层，则使自身额外获得1层派送箱-罗佳 ",
           "coinlist": [
             {}
           ]
@@ -953,7 +953,7 @@
         {
           "level": 1,
           "name": "只是…战略性休息而已！",
-          "desc": "[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱 层数/2)%的护盾(最多15%，每回合最多1次)\n[EndBattle] 激活战略性休息福利模式 ",
+          "desc": "[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱-罗佳 层数/2)%的护盾(最多15%，每回合最多1次)\n[EndBattle] 激活战略性休息福利模式 ",
           "coinlist": [
             {}
           ]
@@ -961,7 +961,7 @@
         {
           "level": 4,
           "name": "只是…战略性休息而已！",
-          "desc": "[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱 层数)%的护盾(最多25%，每回合最多1次)\n[EndBattle] 激活战略性休息福利模式 ",
+          "desc": "[StartBattle] 若使用的为本技能，则使自身获得体力上限(自身的派送箱-罗佳 层数)%的护盾(最多25%，每回合最多1次)\n[EndBattle] 激活战略性休息福利模式 ",
           "coinlist": [
             {}
           ]
