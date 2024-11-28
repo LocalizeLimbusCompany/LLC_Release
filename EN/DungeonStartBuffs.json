@@ -22,7 +22,7 @@
     },
     {
       "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
-      "description": "Number of E.G.O Gifts shold at Shops +{0}"
+      "description": "Number of E.G.O Gifts sold at Shops +{0}"
     },
     {
       "id": "ACQUIRE_2_TIER_SHOP_EGO_GIFT_ON_ENTER_2ND_FLOOR",

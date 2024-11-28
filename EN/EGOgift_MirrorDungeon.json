@@ -4658,12 +4658,12 @@
       ]
     },
     {
-      "id": 91921,
+      "id": 19192,
       "name": "Layered Bandages+",
       "desc": "Turn End: among allies with Bleed, two Identities with the least HP heal 5% of their max HP.",
       "simpleDesc": [
         {
-          "abilityID": 91921,
+          "abilityID": 19192,
           "simpleDesc": "Heal 2 allies with Bleed"
         }
       ]

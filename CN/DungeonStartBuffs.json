@@ -42,7 +42,7 @@
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",
-      "description": "进入商店时，随机获得{0}件3级及以下的合成・售卖专用E.G.O饰品"
+      "description": "进入商店时，随机获得{0}件3级及以下的合成·售卖专用E.G.O饰品"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3RD_FLOOR",
