@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count",
-      "content": "还有E.G.O饰品可选次数。\n\n确定不选择E.G.O饰品，直接继续吗？\n\n（若不选择E.G.O饰品，则会根据所剩可选次数随机获得苦难。）"
+      "content": "仍有E.G.O饰品可选次数。\n\n确定不选择E.G.O饰品，直接继续吗？\n\n（若不选择E.G.O饰品，则会根据所剩可选次数随机获得苦难。）"
     },
     {
       "id": "mirror_dungeon_easy_difficulty",
@@ -22,15 +22,15 @@
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_reset_selection",
-      "content": "重置选择效果"
+      "content": "重置效果选项"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_applied_effect",
-      "content": "生效中的效果"
+      "content": "已生效的效果"
     },
     {
       "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
-      "content": "未编入队伍的人格获得1点休息奖励"
+      "content": "未编入队伍的人格将获得1点休息奖励"
     },
     {
       "id": "mirror_dungeon_5_buffs_title_1",
@@ -42,7 +42,7 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_title_3",
-      "content": "双星系商店"
+      "content": "双星商店"
     },
     {
       "id": "mirror_dungeon_5_buffs_title_4",
@@ -54,7 +54,7 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_title_6",
-      "content": "完全的可能性"
+      "content": "全面的可能性"
     },
     {
       "id": "mirror_dungeon_5_buffs_title_13",
