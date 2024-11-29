@@ -6,7 +6,7 @@
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE",
-      "description": "售卖E.G.O饰品时，售价增加{0}(每个商店1次)"
+      "description": "售卖E.G.O饰品时，售价增加{0}%(每个商店1次)"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_SLOT",
