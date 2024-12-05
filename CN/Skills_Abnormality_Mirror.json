@@ -1051,7 +1051,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 每把旧伞使本硬币的伤害+15%"
+                  "desc": "[OnSucceedAttackHead] 每把旧伞使本硬币造成的伤害+15%"
                 }
               ]
             }

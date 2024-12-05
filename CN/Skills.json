@@ -7416,7 +7416,7 @@
                   "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量15%的斩击伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层弱点分析 "
+                  "desc": "[OnSucceedAttack] 下回合对目标施加弱点分析 "
                 }
               ]
             }
@@ -7441,7 +7441,7 @@
                   "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量15%的斩击伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层弱点分析 "
+                  "desc": "[OnSucceedAttack] 下回合对目标施加弱点分析 "
                 }
               ]
             }

@@ -318,7 +318,7 @@
     },
     {
       "id": "mirrordungeon_egogift_combine_guide_result_label",
-      "content": "合成时，根据合成材料点数合成的E.G.O饰品等级将通过如下方式决定。"
+      "content": "合成时，根据合成材料总点数合成的E.G.O饰品等级将通过如下方式决定。"
     },
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_header",
@@ -382,23 +382,23 @@
     },
     {
       "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
-      "content": "다음 층에서\n특별한 상점 등장 확률"
+      "content": "下一阶层\n出现特殊商店的概率"
     },
     {
       "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
-      "content": "휴식 보너스 부족"
+      "content": "休息奖励不足"
     },
     {
       "id": "mirror_theme_pack_baton",
-      "content": "장기 전투"
+      "content": "长线战斗"
     },
     {
       "id": "mirrordungeon_theme_hard_no_pool",
-      "content": "Hard 난이도 개방 조건을 달성하였습니다. 다음 층 테마팩 선택 창부터 난이도를 전환할 수 있습니다."
+      "content": "您已达成解锁困难难度的条件。您可以自下一阶层的主题卡包选择菜单起切换难度。"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_3_0",
-      "content": "4개 이상"
+      "content": "4件以上"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_3_1",
@@ -410,7 +410,7 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_title_100",
-      "content": "시작의 별"
+      "content": "起始之星"
     },
     {
       "id": "mirror_dungeon_5_buffs_title_101",
@@ -422,7 +422,7 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_title_103",
-      "content": "쏟아지는 유성우"
+      "content": "流星雨"
     },
     {
       "id": "mirror_dungeon_5_buffs_title_104",
@@ -430,7 +430,7 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_title_105",
-      "content": "위성계 상점"
+      "content": "卫星商店"
     },
     {
       "id": "mirror_dungeon_5_buffs_title_106",
@@ -438,7 +438,7 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_title_107",
-      "content": "별빛의 인도"
+      "content": "星芒引导"
     },
     {
       "id": "mirror_dungeon_5_buffs_title_108",
@@ -450,31 +450,31 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_over10",
-      "content": "휴식 보너스 [10] 이상 보유"
+      "content": "休息奖励不低于[10]点"
     },
     {
       "id": "mirror_dungeon_5_buffs_over20",
-      "content": "휴식 보너스 [20] 이상 보유"
+      "content": "休息奖励不低于[20]点"
     },
     {
       "id": "mirror_dungeon_5_buffs_over30",
-      "content": "휴식 보너스 [30] 이상 보유"
+      "content": "休息奖励不低于[30]点"
     },
     {
       "id": "mirror_dungeon_5_buffs_over40",
-      "content": "휴식 보너스 [40] 이상 보유"
+      "content": "休息奖励不低于[40]点"
     },
     {
       "id": "mirror_dungeon_5_buffs__over50",
-      "content": "휴식 보너스 [50] 이상 보유"
+      "content": "休息奖励不低于[50]点"
     },
     {
       "id": "mirror_dungeon_5_buffs__over60",
-      "content": "휴식 보너스 [60] 이상 보유"
+      "content": "休息奖励不低于[60]点"
     },
     {
       "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
-      "content": "특별한 상점에서 합성을 진행하는 경우에는 점수 총합에 보정치가 적용됩니다."
+      "content": "在特殊商店进行合成时，总点数将有补正值。"
     },
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade",

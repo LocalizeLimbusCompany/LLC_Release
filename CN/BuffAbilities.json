@@ -158,7 +158,7 @@
     },
     {
       "id": "DefaultMaxHpMultiplier",
-      "desc": "최대 체력 {0}%"
+      "desc": "体力上限{0}%"
     }
   ]
 }
