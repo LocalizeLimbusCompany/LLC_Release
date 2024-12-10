@@ -576,7 +576,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "推倒",
+          "name": "摧垮",
           "desc": "[WhenUse] 消耗10层[BloodDinner]并使自身获得1层[BloodArmor]\n[WhenUse] 自身每带有10层[BloodArmor]，使本技能的硬币威力+1 (最多+2)\n[WhenUse] 自身每带有15级[Laceration]，使本技能的硬币威力+1 (最多+3)",
           "coinlist": [
             {
@@ -689,7 +689,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "堂吉诃德派硬血4式-截断",
+          "name": "堂吉诃德派硬血4式-剜除",
           "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1\n[WinDuel] 自身的[BloodArmor]每有1阶段，使本技能造成的伤害+20% (最多+60%)\n[DefeatDuel] 消耗4层[BloodArmor]并使自身获得20点护盾体力",
           "coinlist": [
             {
@@ -1543,7 +1543,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "堂吉诃德派硬血4式-截断",
+          "name": "堂吉诃德派硬血4式-剜除",
           "desc": "直到使用本技能时，自身不会陷入混乱\n[WhenUse] 消耗至多100层血宴 ，每消耗10层血宴 ，使自身获得1层[RegainedStrength]并恢复15点理智值\n[WhenUse] 自身每带有30层[BloodDinner_Accumulation]，使本技能的拼点威力+1(最多+15)\n[DefeatDuel] 使本技能造成的伤害-50%，且本技能造成的伤害不会使目标陷入混乱\n[EndSkill] 本回合与下回合内，对自身施加层数相当于本技能增加的拼点威力的攻击等级降低 与防御等级降低 (最多15层)",
           "coinlist": [
             {
