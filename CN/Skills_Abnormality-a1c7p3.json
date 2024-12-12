@@ -603,7 +603,7 @@
         {
           "level": 1,
           "name": "致伤",
-          "desc": "[WhenUse] [BloodDinner]을 최대 20 소모하여, 소모한 [BloodDinner] 10당 [BloodArmor] 1 얻음\n[WhenUse] [BloodArmor]가 10 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Laceration] 15 당, 코인 위력 +1 (최대 3)",
+          "desc": "[WhenUse] 消耗至多20层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层[BloodArmor]\n[WhenUse] 自身每带有10层[BloodArmor]，使本技能的硬币威力+1 (最多+2)\n[WhenUse] 自身每带有15级[Laceration]，使本技能的硬币威力+1 (最多+3)",
           "coinlist": [
             {
               "coindescs": [
