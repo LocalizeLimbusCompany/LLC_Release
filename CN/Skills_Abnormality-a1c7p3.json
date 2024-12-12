@@ -603,7 +603,7 @@
         {
           "level": 1,
           "name": "致伤",
-          "desc": "[WhenUse] 消耗至多20层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层[BloodArmor]\n[WhenUse] 自身每带有10层[BloodArmor]，使本技能的硬币威力+1 (最多+2)\n[WhenUse] 自身每带有15级[Laceration]，使本技能的硬币威力+1 (最多+3)",
+          "desc": "[WhenUse] [BloodDinner]을 최대 20 소모하여, 소모한 [BloodDinner] 10당 [BloodArmor] 1 얻음\n[WhenUse] [BloodArmor]가 10 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Laceration] 15 당, 코인 위력 +1 (최대 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -748,7 +748,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "堂吉诃德派硬血2式-血甲",
+          "name": "堂吉诃德派硬血2式-硬血",
           "desc": "可无视速度值与本技能拼点\n[StartBattle] 消耗200层[BloodDinner]并使自身获得500点护盾体力，5层[BloodArmor]与1层[SwirlingBlood]\n- 若[BloodDinner]层数不足，则使自身增加50级[Laceration]强度，立即触发自身的[Laceration]1次并使自身的[Laceration]层数减少2层。随后使自身获得500点护盾体力，5层[BloodArmor]与1层[SwirlingBlood](该伤害不会使自身的体力低于1)\n[WinDuel] 使自身获得200点护盾体力\n[DefeatDuel] 带有通过本技能获得的护盾体力时，对自身施加3层[Vulnerable]\n[DefeatDuel] 使本技能造成的伤害-50%，且本技能造成的伤害不会使目标陷入混乱\n[EndSkill] 结束本回合",
           "coinlist": [
             {
