@@ -404,27 +404,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "크리스마스 악몽",
-          "abName": "아늑한 침대",
-          "desc": "[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 10 회복하고 다음 턴에 [Enhancement] 1 얻음",
+          "name": "圣诞梦魇",
+          "abName": "舒适卧床",
+          "desc": "[EndSkill] 若自身体力为最大值，则在回合结束时使自身恢复10点理智值并在下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱、士气低落或陷入恐慌，则在下回合对其施加1层虚弱 "
                 }
               ]
             }
@@ -432,30 +432,30 @@
         },
         {
           "level": 3,
-          "name": "크리스마스 악몽",
-          "abName": "아늑한 침대",
-          "desc": "<style=\"highlight\">대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)</style>\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 10 회복하고 다음 턴에 [Enhancement] 1 얻음",
+          "name": "圣诞梦魇",
+          "abName": "舒适卧床",
+          "desc": "若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)\n[EndSkill] 若自身体力为最大值，则在回合结束时使自身恢复10点理智值并在下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 잃은 체력의 (2 + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复自身已失去体力(2+最大共鸣数)%的体力(每个技能最多30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱、士气低落或陷入恐慌，则在下回合对其施加1层虚弱 "
                 }
               ]
             }
@@ -463,30 +463,30 @@
         },
         {
           "level": 4,
-          "name": "크리스마스 악몽",
-          "abName": "아늑한 침대",
-          "desc": "대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 <style=\"highlight\">15</style> 회복하고 다음 턴에 [Enhancement] 1 얻음<style=\"highlight\"></style>",
+          "name": "圣诞梦魇",
+          "abName": "舒适卧床",
+          "desc": "若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)\n[EndSkill] 若自身体力为最大值，则在回合结束时使自身恢复15点理智值并在下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 잃은 체력의 (<style=\"highlight\">3</style> + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复自身已失去体力(3+最大共鸣数)%的体力(每个技能最多30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1, <style=\"highlight\">가장 높은 공명 속성의 취약을 1</style> 부여"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱、士气低落或陷入恐慌，则在下回合对其施加1层虚弱 与1层最大共鸣数罪孽属性的易损"
                 }
               ]
             }
@@ -499,27 +499,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "크리스마스 악몽",
-          "abName": "아늑한 침대",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 10 회복하고 다음 턴에 [Enhancement] 1 얻음",
+          "name": "圣诞梦魇",
+          "abName": "舒适卧床",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使自身恢复10点体力\n[EndSkill] 若自身体力为最大值，则在回合结束时使自身恢复10点理智值并在下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱、士气低落或陷入恐慌，则在下回合对其施加1层虚弱 "
                 }
               ]
             }
@@ -527,30 +527,30 @@
         },
         {
           "level": 3,
-          "name": "크리스마스 악몽",
-          "abName": "아늑한 침대",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)</style>\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 <style=\"highlight\">15</style> 회복하고 다음 턴에 [Enhancement] 1 얻음",
+          "name": "圣诞梦魇",
+          "abName": "舒适卧床",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)\n[BeforeAttack] 使自身恢复10点体力\n[EndSkill] 若自身体力为最大值，则在回合结束时使自身恢复15点理智值并在下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 잃은 체력의 (2 + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复自身已失去体力(2+最大共鸣数)%的体力(每个技能最多30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱、士气低落或陷入恐慌，则在下回合对其施加1层虚弱 "
                 }
               ]
             }
@@ -558,30 +558,30 @@
         },
         {
           "level": 4,
-          "name": "크리스마스 악몽",
-          "abName": "아늑한 침대",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 <style=\"highlight\">20</style> 회복하고 다음 턴에 [Enhancement] 1 얻음",
+          "name": "圣诞梦魇",
+          "abName": "舒适卧床",
+          "desc": "[CantIdentify]\n随机指定目标\n若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)\n[BeforeAttack] 使自身恢复10点体力\n[EndSkill] 若自身体力为最大值，则在回合结束时使自身恢复20点理智值并在下回合使自身获得1层强壮 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 자신의 잃은 체력의 (<style=\"highlight\">3</style> + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)"
+                  "desc": "[OnSucceedAttack] 使自身恢复自身已失去体力(3+最大共鸣数)%的体力(每个技能最多30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 4 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加4级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1, <style=\"highlight\">가장 높은 공명 속성의 취약을 2</style> 부여"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱、士气低落或陷入恐慌，则在下回合对其施加1层虚弱 与2层最大共鸣数罪孽属性的易损"
                 }
               ]
             }

@@ -468,8 +468,8 @@
         {
           "level": 1,
           "name": "圣诞梦魇",
-          "abName": "아늑한 침대",
-          "desc": "[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[EndSkill]  若有目标陷入混乱、士气低落或陷入恐慌，则使自身恢复10点理智值",
+          "abName": "舒适卧床",
+          "desc": "[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[EndSkill] 若有目标陷入混乱、士气低落或陷入恐慌，则使自身恢复10点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -490,26 +490,26 @@
         {
           "level": 3,
           "name": "圣诞梦魇",
-          "abName": "아늑한 침대",
-          "desc": "<style=\"highlight\">대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)</style>\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[EndSkill] 공격 대상 중 흐트러짐, 사기저하, 패닉 상태인 대상이 있으면, 정신력 10 회복",
+          "abName": "舒适卧床",
+          "desc": "若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[EndSkill] 若有目标陷入混乱、士气低落或陷入恐慌，则使自身恢复10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 5 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 2 감소"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少2层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -518,26 +518,26 @@
         {
           "level": 4,
           "name": "圣诞梦魇",
-          "abName": "아늑한 침대",
-          "desc": "대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[EndSkill] 공격 대상 중 흐트러짐, 사기저하, 패닉 상태인 대상이 있으면, 정신력 10 회복<style=\"highlight\"></style>",
+          "abName": "舒适卧床",
+          "desc": "若目标的理智值低于0点，则每相差1点，使本技能造成的伤害+1%(最多+45%)\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[EndSkill] 若有目标陷入混乱、士气低落或陷入恐慌，则使自身恢复10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 5 증가<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion] <style=\"highlight\">2회.</style> 대상의 [Vibration] 횟수 2 감소"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 2次，并使其震颤 层数减少2层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -551,8 +551,8 @@
         {
           "level": 1,
           "name": "圣诞梦魇",
-          "abName": "아늑한 침대",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[BeforeAttack] 자신의 체력 10 회복",
+          "abName": "舒适卧床",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[BeforeAttack] 使自身恢复10点体力",
           "coinlist": [
             {
               "coindescs": [
@@ -580,8 +580,8 @@
         {
           "level": 3,
           "name": "圣诞梦魇",
-          "abName": "아늑한 침대",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">메인 공격 대상이 흐트러짐, 사기저하, 패닉 상태면, 기본 위력 +1</style>\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[BeforeAttack] 자신의 체력 10 회복\n<style=\"highlight\">[EndSkill] 흐트러짐, 사기저하, 패닉 상태인 적 1명 당 정신력 5 회복</style>",
+          "abName": "舒适卧床",
+          "desc": "[CantIdentify]\n随机指定目标\n若主要目标陷入混乱、士气低落或陷入恐慌，则使本技能的基础威力+1\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[BeforeAttack] 使自身恢复10点体力\n[EndSkill] 每有1名敌方单位陷入混乱、士气低落或陷入恐慌，使自身恢复5点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -589,7 +589,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여, [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度并对其施加2层沉沦 "
                 }
               ]
             },
@@ -603,10 +603,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -615,8 +615,8 @@
         {
           "level": 4,
           "name": "圣诞梦魇",
-          "abName": "아늑한 침대",
-          "desc": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상이 흐트러짐, 사기저하, 패닉 상태면, 기본 위력 +<style=\"highlight\">2</style>\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 흐트러짐, 사기저하, 패닉 상태인 적 1명 당 정신력 5 회복<style=\"highlight\"></style>",
+          "abName": "舒适卧床",
+          "desc": "[CantIdentify]\n随机指定目标\n若主要目标陷入混乱、士气低落或陷入恐慌，则使本技能的基础威力+2\n[BeforeAttack] 对自身施加(最大共鸣数+5)层震颤 (最多10层)\n[BeforeAttack] 使自身恢复10点体力\n[EndSkill] 每有1名敌方单位陷入混乱、士气低落或陷入恐慌，使自身恢复5点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -624,27 +624,27 @@
                   "desc": "[OnSucceedAttack] 对目标施加5层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여, [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其增加5级沉沦 强度并对其施加2层沉沦 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目标未陷入混乱、士气低落或陷入恐慌，则使其震颤引爆 ，并使其震颤 层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
