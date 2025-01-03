@@ -332,11 +332,11 @@
       "simpleDesc": [
         {
           "abilityID": 9765,
-          "simpleDesc": "增加呼吸法强度"
+          "simpleDesc": "增加呼吸法 强度"
         },
         {
           "abilityID": 97651,
-          "simpleDesc": "获得随机正面状态"
+          "simpleDesc": "施加随机正面状态"
         },
         {
           "abilityID": 97652,
