@@ -473,7 +473,7 @@
       "options": [
         {
           "message": "阅读石板上的文字。",
-          "messageDesc": "暴食、傲慢优势判定 成功后，获得1件泛用E.G.O饰品"
+          "messageDesc": "进行暴食、傲慢优势判定，获得1件泛用E.G.O饰品"
         },
         {
           "message": "抹去石板上的文字。",
@@ -541,7 +541,7 @@
       "options": [
         {
           "message": "靠近花甸。",
-          "messageDesc": "暴食、色欲优势判定 成功后，获得1件流血E.G.O饰品"
+          "messageDesc": "进行暴食、色欲优势判定，获得1件流血E.G.O饰品"
         },
         {
           "message": "招手回应。",
@@ -983,7 +983,7 @@
         },
         {
           "message": "我从未想过没有酒的生活。",
-          "messageDesc": "怠惰、暴食优势判定 成功后，获得1件E.G.O饰品",
+          "messageDesc": "进行怠惰、暴食优势判定，获得1件E.G.O饰品",
           "result": [
             ""
           ]
@@ -1001,7 +1001,7 @@
         },
         {
           "message": "选择愤怒的骷髅头。",
-          "messageDesc": "暴怒、嫉妒优势判定 成功后获得1件破裂E.G.O饰品"
+          "messageDesc": "暴怒、嫉妒优势判定 成功后，获得1件破裂E.G.O饰品"
         },
         {
           "message": "选择发狂的骷髅头。",
@@ -1192,7 +1192,7 @@
       "options": [
         {
           "message": "切断环形垫圈。",
-          "messageDesc": "忧郁、嫉妒优势判定 成功后，获得1件充能E.G.O饰品",
+          "messageDesc": "进行忧郁、嫉妒优势判定，获得1件充能E.G.O饰品",
           "result": [
             ""
           ]
@@ -1496,7 +1496,7 @@
       "options": [
         {
           "message": "接受手术。",
-          "messageDesc": "怠惰、忧郁优势判定 进行后，获得1件泛用E.G.O饰品",
+          "messageDesc": "进行怠惰、忧郁优势判定，获得1件泛用E.G.O饰品",
           "result": [
             ""
           ]
@@ -1517,7 +1517,7 @@
       "options": [
         {
           "message": "把它用一名罪人的血灌满。",
-          "messageDesc": "色欲、忧郁优势判定 进行后，获得1件泛用E.G.O饰品",
+          "messageDesc": "进行色欲、忧郁优势判定，获得1件泛用E.G.O饰品",
           "result": [
             ""
           ]
@@ -1712,7 +1712,7 @@
         },
         {
           "message": "把锅拿开。",
-          "messageDesc": "暴怒、色欲优势判定 成功后，获得1件烧伤E.G.O饰品",
+          "messageDesc": "进行暴怒、色欲优势判定，获得1件烧伤E.G.O饰品",
           "result": [
             ""
           ]
