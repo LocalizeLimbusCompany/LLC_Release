@@ -1847,6 +1847,10 @@
     {
       "id": "mini_story_warning_spoiler_checkbox_desc",
       "content": "不再显示弹出窗口"
+    },
+    {
+      "id": "mainui_settings_push_notification",
+      "content": "通知设置"
     }
   ]
 }
