@@ -1334,7 +1334,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_04",
-      "content": "能够查看在镜像迷宫中出现过的E.G.O饰品。\n在镜像迷宫中，未获得过的E.G.O饰品将显示为“无数据”"
+      "content": "能够查看在镜像迷宫中出现过的E.G.O饰品。\n在镜像迷宫中，未获得过的E.G.O饰品将显示为“无数据”。"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_05",
@@ -1590,7 +1590,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_03_desc_01",
-      "content": "战斗中更无法更改编队，且与其他战斗方式不同，编队完成并进入关卡后所进行的人格同步或异想解析，将不会反馈进此编队中"
+      "content": "战斗中更无法更改编队，且与其他战斗方式不同，编队完成并进入关卡后所进行的人格同步或异想解析，将不会反馈进此编队中。"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_04_title_01",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_05_desc_01",
-      "content": "选择站点并进入战斗"
+      "content": "选择站点并进入战斗。"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_05_desc_02",
@@ -1778,7 +1778,7 @@
     },
     {
       "id": "tutorial_mainui_22_railway2_page_2_desc_01",
-      "content": "可以通过路线前往第一站（起点站）"
+      "content": "可以通过路线前往第一站（起点站）。"
     },
     {
       "id": "tutorial_mainui_22_railway2_page_2_desc_02",

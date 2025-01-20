@@ -1462,7 +1462,7 @@
     },
     {
       "id": "user_level_maximum_notice",
-      "content": "执行经理到达最大等级"
+      "content": "执行经理已到达最大等级。"
     },
     {
       "id": "user_level_limit_increase_notice",

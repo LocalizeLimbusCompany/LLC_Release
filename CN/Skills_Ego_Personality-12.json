@@ -62,7 +62,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层伤害弱化 ，下回合对其施加2层束缚 "
+                  "desc": "[OnSucceedAttack] 对目标施加1层伤害弱化 ，下回合对其施加2层束缚 。"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加1层该罪孽属性的易损 与1层该罪孽属性的威力降低 \n- 若该共鸣数不低于4，则对其额外施加1层该罪孽属性的易损 "
