@@ -891,17 +891,17 @@
     },
     {
       "id": 10211,
-      "title": "LCE E.G.O::\n홍염살",
-      "name": "파우스트",
-      "nameWithTitle": "파우스트",
-      "desc": "파우스트의 열한번째 인격"
+      "title": "LCE E.G.O::\n红艳煞",
+      "name": "浮士德",
+      "nameWithTitle": "浮士德",
+      "desc": "浮士德的第11人格"
     },
     {
       "id": 10111,
-      "title": "LCE E.G.O::\n초롱",
-      "name": "이상",
-      "nameWithTitle": "이상",
-      "desc": "이상의 열한번째 인격"
+      "title": "LCE E.G.O::\n提灯",
+      "name": "李箱",
+      "nameWithTitle": "李箱",
+      "desc": "李箱的第11人格"
     }
   ]
 }

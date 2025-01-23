@@ -116,7 +116,7 @@
           "level": 1,
           "name": "凶弹",
           "abName": "凶弹射手",
-          "desc": "체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+          "desc": "指定体力最低的目标(优先友方单位)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[BoseProjektil](最多7层)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使自身增加1级呼吸法 强度(最多7级)\n[EndSkill] 消耗所有[BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -153,7 +153,7 @@
           "level": 3,
           "name": "凶弹",
           "abName": "凶弹射手",
-          "desc": "체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모<style=\"highlight\"></style>",
+          "desc": "指定体力最低的目标(优先友方单位)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[BoseProjektil](最多7层)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使自身增加1级呼吸法 强度(最多7级)\n[EndSkill] 消耗所有[BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 4,
           "name": "凶弹",
           "abName": "凶弹射手",
-          "desc": "체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n<style=\"highlight\">- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+          "desc": "指定体力最低的目标(优先友方单位)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[BoseProjektil](最多7层)\n- 若该共鸣为傲慢共鸣，则改为使自身获得(最大共鸣数×2)层[BoseProjektil](最多7层)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使自身增加1级呼吸法 强度(最多7级)\n[EndSkill] 消耗所有[BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -238,7 +238,7 @@
           "level": 1,
           "name": "凶弹",
           "abName": "凶弹射手",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+          "desc": "[CantIdentify]\n指定体力最低的目标(优先友方单位)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[BoseProjektil](最多7层)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使本技能造成的伤害+2%(最多+14%)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使自身增加1级呼吸法 强度(最多7级)\n[EndSkill] 消耗所有[BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -284,7 +284,7 @@
           "level": 3,
           "name": "凶弹",
           "abName": "凶弹射手",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 <style=\"highlight\">+3% (최대 21%)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+          "desc": "[CantIdentify]\n指定体力最低的目标(优先友方单位)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[BoseProjektil](最多7层)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使本技能造成的伤害+3%(最多+21%)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使自身增加1级呼吸法 强度(最多7级)\n[EndSkill] 消耗所有[BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "凶弹",
           "abName": "凶弹射手",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n<style=\"highlight\">- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)</style>\n[BeforeAttack] [BoseProjektil]당 피해량 <style=\"highlight\">+4% (최대 28%)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+          "desc": "[CantIdentify]\n指定体力最低的目标(优先友方单位)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[BoseProjektil](最多7层)\n- 若该共鸣为傲慢共鸣，则改为使自身获得(最大共鸣数×2)层[BoseProjektil](最多7层)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使本技能造成的伤害+4%(最多+28%)\n[BeforeAttack] 自身每带有1层[BoseProjektil]，使自身增加1级呼吸法 强度(最多7级)\n[EndSkill] 消耗所有[BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [

@@ -2,67 +2,67 @@
   "dataList": [
     {
       "id": "lcb_checkup_stagebutton_not_clear",
-      "content": "7-36 클리어 시 개방"
+      "content": "通过7-36后解锁"
     },
     {
       "id": "lcb_checkup_stagebutton_normal",
-      "content": "스테이지"
+      "content": "关卡"
     },
     {
       "id": "lcb_checkup_stagebutton_end_event",
-      "content": "이벤트 기간 종료"
+      "content": "活动结束"
     },
     {
       "id": "lcb_checkup_storybutton_before_start",
-      "content": "<size=75%>이벤트 첫 번째 이야기\n감상 시 개방</size>"
+      "content": "<size=75%>观看活动剧情第1关后\n开放</size>"
     },
     {
       "id": "lcb_checkup_storybutton_normal",
-      "content": "상영관 이동"
+      "content": "跳转至放映室"
     },
     {
       "id": "lcb_checkup_rewardShopButton",
-      "content": "보상 교환"
+      "content": "奖励兑换"
     },
     {
       "id": "lcb_checkup_scrap_guide_title",
-      "content": "이벤트 재화 안내"
+      "content": "活动道具介绍"
     },
     {
       "id": "lcb_checkup_scrap_guide_desc",
-      "content": "!!! 이거 사용하는 곳 없는지 확인하고 없으면 제거 !!! 이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로<color=#ff99e6>[기밀서류]</color>를 획득할 수 있습니다.\n\n<color=#ff99e6>[기밀서류]</color>는 획득 즉시, <color=#ff99e6>[정보서류]</color> 20개로 전환됩니다."
+      "content": "通关活动关卡、主线剧情、镜像迷宫时，您将有低概率获得<color=#ff99e6>[机密文件]</color>。\n\n<color=#ff99e6>[机密文件]</color>会立即转换为20个<color=#ff99e6>[情报文件]</color>。"
     },
     {
       "id": "lcb_checkup_rewardpage_desc",
-      "content": "이벤트 스테이지와 주요 이야기 최초 클리어,\n거울 던전 클리어를 통해 <color=#ac1605>[정보서류]</color>를 획득할 수 있으며,\n낮은 확률로 <color=#ac1605>[기밀서류]</color>를 추가로 획득할 수 있습니다.\n\n<color=#ac1605>[기밀서류]</color>는 획득 즉시, <color=#ac1605>[정보서류]</color> 20개로 전환됩니다."
+      "content": "首次通关活动关卡与主线剧情，\n以及通关镜像迷宫时，可获得<color=#ac1605>情报文件</color>，\n并有低概率额外获得<color=#ac1605>机密文件</color>。\n\n<color=#ac1605>机密文件</color>获得后，将立刻转化为20个<color=#ac1605>情报文件</color>"
     },
     {
       "id": "lcb_checkup_reward_popup_desc",
-      "content": "이벤트 스테이지와 주요 이야기 최초 클리어, 거울 던전 클리어를 통해 <color=#ac1605>[정보서류]</color>를 획득할 수 있습니다.\n\n<color=#ac1605>[보상 교환]</color>창에서 <color=#ac1605>[정보서류]</color>를 지불하여 다양한 보상을 얻을 수 있습니다."
+      "content": "首次通关活动关卡与主线剧情、以及通关镜像迷宫时，可获得<color=#ac1605>情报文件</color>。\n\n可在<color=#ac1605>奖励兑换</color>窗口中花费<color=#ac1605>情报文件</color>，以获得各种各样的奖励。"
     },
     {
       "id": "lcb_checkup_reward_popup_num_of_owned_items",
-      "content": "보유 아이템 수"
+      "content": "持有道具数"
     },
     {
       "id": "lcb_checkup_bonusUI_Title",
-      "content": "증가"
+      "content": "增加"
     },
     {
       "id": "lcb_checkup_bonusUI_Title_contain_false",
-      "content": "미보유"
+      "content": "未拥有"
     },
     {
       "id": "lcb_checkup_bonusUI_Desc",
-      "content": "이벤트 기간 동안 해당 인격 및 E.G.O 편성 시, <color=#ac1605>[정보서류]</color>의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 <color=#ac1605>120%</color>까지 적용됩니다."
+      "content": "活动期间，编队内存在下列人格与E.G.O时<color=#ac1605>情报文件</color>获取量提升。\n获取量提升合计最大值为<color=#ac1605>120%</color>。"
     },
     {
       "id": "lcb_checkup_bonus_popup_title",
-      "content": "이벤트 특화 대상"
+      "content": "活动加成角色"
     },
     {
       "id": "lcb_checkup_bonus_preview",
-      "content": "이벤트 특화 대상"
+      "content": "活动加成角色"
     }
   ]
 }

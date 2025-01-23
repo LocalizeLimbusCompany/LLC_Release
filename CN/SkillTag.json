@@ -242,7 +242,7 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[파괴되지 않고 적중시]"
+      "name": "[未摧毁 - 命中时]"
     }
   ]
 }

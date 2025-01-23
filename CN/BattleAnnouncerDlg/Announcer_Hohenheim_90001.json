@@ -2,163 +2,163 @@
   "dataList": [
     {
       "id": "announcer_911401_90001_1",
-      "dlg": "역시, 관리자의 지휘가 있으면 승률이 높군. 좋은 기록이 되었네.",
+      "dlg": "果然，经理的指挥能够提高胜率。不错的记录。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911404_90001_1",
-      "dlg": "관리자가 유사시 격리되었을 때를 상정한 평가일세. 진지하게 임하게.",
+      "dlg": "这是假设经理在特殊情况下与你们分离时的评定。请认真对待。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911404_90001_2",
-      "dlg": "질투 죄종까지 지휘 없이 진행하면 어렵겠군… 관리자?",
+      "dlg": "看来在不经指挥的情况下罪人们连战胜嫉妒罪种都很困难……经理？",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911406_90001_1",
-      "dlg": "조건은 전투 시 중상을 입는 수감자가 없게끔 하는 것일세.",
+      "dlg": "这次的条件是确保战斗中没有罪人遭到重伤，",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911406_90001_2",
-      "dlg": "흠, 이 정도는 어렵지 않았나. 다음 실험을 진행하지.",
+      "dlg": "嗯，这种程度不算很难吗。进行下一项测试。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911406_90001_3",
-      "dlg": "공격을 허용했군. 관리자, 수감자들의 손실에 무감각한 것은 아닌가?",
+      "dlg": "允许罪人们进攻了。经理，你对罪人们的损失是否有些太麻木了？",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911406_90001_4",
-      "dlg": "실험 조건은 달성하지 못했군, 뭐. 계속 해보게.",
+      "dlg": "没有达成测试条件。嘛，再试试吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911407_90001_1",
-      "dlg": "조건은 최대한 빠르게 개체를 제압하는 것일세.",
+      "dlg": "这次的条件是尽可能快地镇压个体。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911407_90001_2",
-      "dlg": "예상한 정도의 첫 제압이군. 뭐, 특별히 수정할 변인은 아니지.",
+      "dlg": "这是预想之内的首次镇压。嘛，我不觉得有需要特意修正的变数。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911407_90001_3",
-      "dlg": "생각보다 시간을 끌었네. 가능하면 이번 지휘 안에 끝내길 기대하지.",
+      "dlg": "花费了比预想中更长的时间。可以的话希望能在这次指挥中结束战斗。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911407_90001_4",
-      "dlg": "놀랄만한 성과는 아니니 너무 기뻐하진 말게. 다음 실험을 진행하지.",
+      "dlg": "不要太激动，这并非什么惊人的成果。进入下次测试。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911407_90001_5",
-      "dlg": "아슬아슬했지만… 조건은 통과했네. PASS로 평가하지.",
+      "dlg": "虽然很惊险……但满足了条件。给你们PASS评价吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911407_90001_6",
-      "dlg": "실험 조건은 달성하지 못했군, 뭐. 계속 해보게.",
+      "dlg": "没有达成测试条件。嘛，再试试吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_1",
-      "dlg": "이번엔 좀 까다로운 조건일세. 개체 스스로 자멸하기 전에 처리하게.",
+      "dlg": "这次的条件有些苛刻。在个体自毁之前处理掉它吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_2",
-      "dlg": "노련하군. 이런 형태의 죄종도 많이 경험했던가?",
+      "dlg": "真是老练的应对。也许你们面对过很多次这种形态的罪种吗？",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_3",
-      "dlg": "흠, 까다로운 조건 치고 좋은 성과였군. 좋아, 다음 실험을 진행하지.",
+      "dlg": "嗯，在严苛的条件下取得了不错的成果。很好，进入下次测试吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_4",
-      "dlg": "죄종의 자멸을 걱정할 게 아니라 수감자를 걱정해야 했군… 뭐. 우선 마지막까지 해보게.",
+      "dlg": "不应该担心罪种的自毁而应该先担心罪人……嘛，总之先坚持到最后吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911408_90001_5",
-      "dlg": "실험 조건은 달성하지 못했군, 뭐. 계속 해보게.",
+      "dlg": "没有达成测试条件。嘛，再试试吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_1",
-      "dlg": "이번엔 회피 능력을 관찰해보도록 하지. 피치 못할 경우를 제외하고 타격 없이 처리해보게.",
+      "dlg": "这次来观察一下诸位的回避能力吧。请试着在不受攻击的情况下进行处理，无法避免的情况除外。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_2",
-      "dlg": "말로만 수감자를 위하는 지휘는 아니군. 보고와 일치하는 데이터라는 점은 훌륭하네.",
+      "dlg": "看来经理并非是只在口头上关心罪人的指挥者。与报告中的数据一致，很好。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_3",
-      "dlg": "흠, 수감자의 실수였나? 지휘체계의 부족함은 아니길 바라지.",
+      "dlg": "嗯，是罪人的失误吗？希望不是因不成熟的指挥体系所导致。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911409_90001_4",
-      "dlg": "실수가 10회나 지속되었다는 건 지휘의 실패로 보네만… 뭐, 계속 해보게.",
+      "dlg": "我认为连续十次的失败是由于指挥的失策所导致……嘛，继续吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_1",
-      "dlg": "마지막이니만큼 어려운 조건을 걸어보지. 각 수감자와 같은 형태를 한 수감자를 처리해보게.",
+      "dlg": "既然是最后的测试，就试试更难的条件吧。让我们来处理与各罪人形态相同的罪人。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_2",
-      "dlg": "자네는 회사의 자산이 되기 전부터 비상하다는 이야기를 들었지. 입증되었어, 축하하네.",
+      "dlg": "听说你在成为公司资产之前就已经非常出色了。恭喜你，这一点被证实了。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_3",
-      "dlg": "…흠. 아무래도 그 구속구의 영향도 죄종에게 전이되나보군. 이건 좀 흥미로운데.",
+      "dlg": "……嗯。看来那束缚用具的影响也转移到了罪种身上。这相当有趣。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_4",
-      "dlg": "조건을 제시하면 조건에 맞게 진행해야… 아니, 됐네. 남은 것이라도 의도와 맞게 수행해주게.",
+      "dlg": "请按照我给出的条件提示去进行……不，算了。剩下的测试就按照自己的想法去进行吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
     {
       "id": "announcer_911410_90001_5",
-      "dlg": "뭐… 까다로웠으니 이런 결과도 납득은 할 수 있네. 하지만 실험은 실패일세.",
+      "dlg": "嘛……因为测试太难了，所以我也能接受这样的结果。但失败就是失败。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     }

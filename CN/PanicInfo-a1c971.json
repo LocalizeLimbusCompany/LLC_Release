@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 1036,
-      "panicName": "고뇌",
-      "lowMoraleDescription": "턴 시작 시, [Vulnerable] 1, [MentalIncreaseDown] 2 얻음",
-      "panicDescription": "턴 시작 시, [Vulnerable] 2, [MentalIncreaseDown] 3 얻음."
+      "panicName": "烦恼",
+      "lowMoraleDescription": "回合开始时，对自身施加1层[Vulnerable]与2层[MentalIncreaseDown]",
+      "panicDescription": "回合开始时，对自身施加2层[Vulnerable]与3层[MentalIncreaseDown]"
     }
   ]
 }

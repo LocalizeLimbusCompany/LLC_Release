@@ -356,15 +356,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "흉통",
-          "abName": "지난 날의 침낭",
-          "desc": "[BeforeAttack] 최대 공명 수만큼 [Breath] 얻음 (최대 4)\n- [Breath]이 15 이상이면, 대신 최종 위력 + (최대 공명 수) (최대 4)\n[BeforeAttack] (최대 공명 수/2)만큼 [Breath] 횟수 증가 (최대 2)\n- [Breath] 횟수가 5 이상이면, 대신 코인 위력 + (최대 공명 수/2) (최대 2)\n[TargetKill] 다음 턴에 [HoldingBreath] 1 얻음 (턴 당 최대 2)",
+          "name": "胸痛",
+          "abName": "往昔的睡袋",
+          "desc": "[BeforeAttack] 使自身增加(最大共鸣数)级呼吸法 强度(最多4级)\n- 若自身的呼吸法 强度不低于15级，则改为使本技能的最终威力+(最大共鸣数)(最多+4)\n[BeforeAttack] 使自身获得(最大共鸣数/2)层呼吸法 (最多2层)\n- 若自身的呼吸法 层数不低于5层，则改为使本技能的硬币威力+(最大共鸣数/2)(最多+2)\n[TargetKill] 下回合使自身获得1层[HoldingBreath](每回合最多2次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [HoldingBreath] 2 얻음 (턴 당 1회)"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[HoldingBreath](每回合最多1次)"
                 }
               ]
             }
@@ -372,18 +372,18 @@
         },
         {
           "level": 3,
-          "name": "흉통",
-          "abName": "지난 날의 침낭",
-          "desc": "[BeforeAttack] 최대 공명 수만큼 [Breath] 얻음 (최대 <style=\"highlight\">6</style>)\n- [Breath]이 15 이상이면, 대신 최종 위력 + (최대 공명 수) (최대 <style=\"highlight\">6</style>)\n[BeforeAttack] (최대 공명 수/2)만큼 [Breath] 횟수 증가 (최대 2)\n- [Breath] 횟수가 5 이상이면, 대신 코인 위력 + (최대 공명 수/2) (최대 2)\n[TargetKill] 다음 턴에 [HoldingBreath] <style=\"highlight\">2</style> 얻음 (턴 당 최대 <style=\"highlight\">4</style>)",
+          "name": "胸痛",
+          "abName": "往昔的睡袋",
+          "desc": "[BeforeAttack] 使自身增加(最大共鸣数)级呼吸法 强度(最多6级)\n- 若自身的呼吸法 强度不低于15级，则改为使本技能的最终威力+(最大共鸣数)(最多+6)\n[BeforeAttack] 使自身获得(最大共鸣数/2)层呼吸法 (最多2层)\n- 若自身的呼吸法 层数不低于5层，则改为使本技能的硬币威力+(最大共鸣数/2)(最多+2)\n[TargetKill] 下回合使自身获得2层[HoldingBreath](每回合最多4次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 20%)</style>"
+                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+20%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [HoldingBreath] 2 얻음 (턴 당 1회)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[HoldingBreath](每回合最多1次)"
                 }
               ]
             }
@@ -391,18 +391,18 @@
         },
         {
           "level": 4,
-          "name": "흉통",
-          "abName": "지난 날의 침낭",
-          "desc": "[BeforeAttack] 최대 공명 수만큼 [Breath] 얻음 (최대 6)\n- [Breath]이 15 이상이면, 대신 최종 위력 + (최대 공명 수) (최대 6)\n[BeforeAttack] (최대 공명 수/2)만큼 [Breath] 횟수 증가 (최대 <style=\"highlight\">3</style>)\n- [Breath] 횟수가 5 이상이면, 대신 코인 위력 + (최대 공명 수/2) (최대 <style=\"highlight\">3</style>)\n[TargetKill] 다음 턴에 [HoldingBreath] 2 얻음 (턴 당 최대 <style=\"highlight\">6</style>)",
+          "name": "胸痛",
+          "abName": "往昔的睡袋",
+          "desc": "[BeforeAttack] 使自身增加(最大共鸣数)级呼吸法 强度(最多6级)\n- 若自身的呼吸法 强度不低于15级，则改为使本技能的最终威力+(最大共鸣数)(最多+6)\n[BeforeAttack] 使自身获得(最大共鸣数/2)层呼吸法 (最多3层)\n- 若自身的呼吸法 层数不低于5层，则改为使本技能的硬币威力+(最大共鸣数/2)(最多+3)\n[TargetKill] 下回合使自身获得2层[HoldingBreath](每回合最多6次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 <style=\"highlight\">40%</style>)"
+                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+40%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [HoldingBreath] <style=\"highlight\">4</style> 얻음 (턴 당 1회)"
+                  "desc": "[OnSucceedAttack] 使自身获得4层[HoldingBreath](每回合最多1次)"
                 }
               ]
             }
@@ -415,15 +415,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "흉통",
-          "abName": "지난 날의 침낭",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n공격 대상에 아군이 포함되어 있으면 피해량 +30%\n\n[BeforeAttack] [Breath]이 15 미만이면, 최대 체력의 10%만큼 체력을 소모하여 [Breath] 5 얻고, [Breath] 횟수 5 증가\n- 이 효과로 흐트러지거나 사망하지 않음\n\n[EndSkill] 대상이 사망했으면, 다음 턴에 [HoldingBreath] 2 얻음 (턴 당 1회). 대상이 아군이면 아래 효과 추가 발동\n- 처치된 아군으로 인해 대기 해제되거나 전투에 참여하는 아군이 [Breath] 2 얻고, [Breath] 횟수 2 증가",
+          "name": "胸痛",
+          "abName": "往昔的睡袋",
+          "desc": "[CantIdentify]\n优先指定体力最低的目标(优先友方单位)\n若本技能指定了友方单位为目标，则使本技能造成的伤害+30%\n\n[BeforeAttack] 若自身的呼吸法 强度低于15级，则消耗自身体力上限10%的体力并使自身增加5级呼吸法 强度，获得5层呼吸法 \n- 不会因该效果陷入混乱或阵亡\n\n[EndSkill] 若击杀目标，则下回合使自身获得2层[HoldingBreath](每回合最多1次)。若该目标为友方单位，则触发以下效果：\n- 使因友方单位阵亡而参战或待机解除的友方单位增加2级呼吸法 强度并使其获得2层呼吸法 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [HoldingBreath] 4 얻음 (턴 당 1회)"
+                  "desc": "[OnSucceedAttack] 使自身获得4层[HoldingBreath](每回合最多1次)"
                 }
               ]
             }
@@ -431,18 +431,18 @@
         },
         {
           "level": 3,
-          "name": "흉통",
-          "abName": "지난 날의 침낭",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n공격 대상에 아군이 포함되어 있으면 피해량 +30%\n\n[BeforeAttack] [Breath]이 15 미만이면, 최대 체력의 10%만큼 체력을 소모하여 [Breath] 5 얻고, [Breath] 횟수 5 증가\n- 이 효과로 흐트러지거나 사망하지 않음\n<style=\"highlight\">- 공격 대상에 포함된 아군 1명당 [Breath] 1 얻음 (최대 2)</style>\n\n[EndSkill] 대상이 사망했으면, 다음 턴에 [HoldingBreath] 2 얻음 (턴 당 1회). 대상이 아군이면 아래 효과 추가 발동\n- 처치된 아군으로 인해 대기 해제되거나 전투에 참여하는 아군이 [Breath] <style=\"highlight\">4</style> 얻고, [Breath] 횟수 2 증가\n<style=\"highlight\">- 이 스킬로 소모한 정신력의 절반만큼 회복</style>",
+          "name": "胸痛",
+          "abName": "往昔的睡袋",
+          "desc": "[CantIdentify]\n优先指定体力最低的目标(优先友方单位)\n若本技能指定了友方单位为目标，则使本技能造成的伤害+30%\n\n[BeforeAttack] 若自身的呼吸法 强度低于15级，则消耗自身体力上限10%的体力并使自身增加5级呼吸法 强度，获得5层呼吸法 \n- 不会因该效果陷入混乱或阵亡\n- 本技能每指定1名友方单位，使自身增加1级呼吸法 强度(最多2级)\n\n[EndSkill] 若击杀目标，则下回合使自身获得2层[HoldingBreath](每回合最多1次)。若该目标为友方单位，则触发以下效果：\n- 使因友方单位阵亡而参战或待机解除的友方单位增加4级呼吸法 强度并使其获得2层呼吸法 \n- 使自身恢复本技能消耗量一半的理智值",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 20%)</style>"
+                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+20%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [HoldingBreath] 4 얻음 (턴 당 1회)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身获得4层[HoldingBreath](每回合最多1次)"
                 }
               ]
             }
@@ -450,18 +450,18 @@
         },
         {
           "level": 4,
-          "name": "흉통",
-          "abName": "지난 날의 침낭",
-          "desc": "[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n공격 대상에 아군이 포함되어 있으면 피해량 +30%\n\n[BeforeAttack] [Breath]이 15 미만이면, 최대 체력의 10%만큼 체력을 소모하여 [Breath] 5 얻고, [Breath] 횟수 5 증가\n- 이 효과로 흐트러지거나 사망하지 않음\n- 공격 대상에 포함된 아군 1명당 [Breath] <style=\"highlight\">2</style> 얻음 (최대 <style=\"highlight\">4</style>)\n\n[EndSkill] 대상이 사망했으면, 다음 턴에 [HoldingBreath] 3 얻음 (턴 당 1회). 대상이 아군이면 아래 효과 추가 발동\n- 처치된 아군으로 인해 대기 해제되거나 전투에 참여하는 아군이 [Breath] 4 얻고, [Breath] 횟수 <style=\"highlight\">4</style> 증가\n<style=\"highlight\">- 이 스킬로 소모한 정신력을 회복하고, 소모한 E.G.O 자원을 속성 별로 1개씩 얻음</style>",
+          "name": "胸痛",
+          "abName": "往昔的睡袋",
+          "desc": "[CantIdentify]\n优先指定体力最低的目标(优先友方单位)\n若本技能指定了友方单位为目标，则使本技能造成的伤害+30%\n\n[BeforeAttack] 若自身的呼吸法 强度低于15级，则消耗自身体力上限10%的体力并使自身增加5级呼吸法 强度，获得5层呼吸法 \n- 不会因该效果陷入混乱或阵亡\n- 本技能每指定1名友方单位，使自身增加2级呼吸法 强度(最多4级)\n\n[EndSkill] 若击杀目标，则下回合使自身获得3层[HoldingBreath](每回合最多1次)。若该目标为友方单位，则触发以下效果：\n- 使因友方单位阵亡而参战或待机解除的友方单位增加4级呼吸法 强度并使其获得4层呼吸法 \n- 使自身恢复本技能消耗的理智值并获得本技能消耗的每种罪孽碎片各1个",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 <style=\"highlight\">40%</style>)"
+                  "desc": "使本硬币暴击时造成的伤害+(自身的呼吸法 强度与层数之和)%(最多+40%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [HoldingBreath] <style=\"highlight\">7</style> 얻음 (턴 당 1회)"
+                  "desc": "[OnSucceedAttack] 使自身获得7层[HoldingBreath](每回合最多1次)"
                 }
               ]
             }

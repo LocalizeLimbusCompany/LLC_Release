@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "바위 세례",
-          "desc": "[WhenUse] 대상의 [Vibration]이 5 이상이면, 기본 위력 +1",
+          "name": "岩石洗礼",
+          "desc": "[WhenUse] 若目标的震颤 强度不低于5级，则使本技能的基础威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级震颤 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加3层震颤 "
                 }
               ]
             }
@@ -31,16 +31,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돌 모으기",
-          "desc": "[WinDuel] 대상에게 [Vibration]이 있으면, 기본 위력 +2",
+          "name": "积聚岩石",
+          "desc": "[WinDuel] 若目标带有震颤 ，则使本技能的基础威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级震颤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -53,19 +53,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "솟아나는 나태",
-          "desc": "[WhenUse] 대상의 [Vibration] 3 당, 코인 위력 +1 (최대 3)\n[WinDuel] 대상의 [Vibration] 5 당, 이 스킬의 공격 가중치 +1 (최대 2)",
+          "name": "迸发的怠惰",
+          "desc": "[WhenUse] 目标每带有3级震颤 强度，使本技能的硬币威力+1(最多+3)\n[WinDuel] 目标每带有5级震颤 强度，使本技能的攻击容量+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationEcho]으로 [Switch_Vibration]"
+                  "desc": "[OnSucceedAttack] 使目标振幅转换 为震颤-回响 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수 2 당, [VibrationExplosion] 1회 (최대 2회). [Vibration] 횟수 2 감소"
+                  "desc": "[OnSucceedAttack] 目标每带有2层震颤 ，使其震颤引爆 1次(最多2次)，并使其震颤 层数减少2层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 횟수 4 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加4层震颤 "
                 }
               ]
             }
@@ -78,8 +78,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "가드",
-          "desc": "보호막 체력이 있는 동안 피격 시, 공격자에게 [Vibration] 2 부여\n[WhenUse] 보호 3 얻음.",
+          "name": "防御",
+          "desc": "若自身带有护盾时受到攻击，则使攻击者增加2级震颤 强度 \n[WhenUse] 使自身获得3层守护 ",
           "coinlist": [
             {
               "coindescs": [
@@ -97,8 +97,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "잠식 충돌",
-          "desc": "[WhenUse] 대상의 [Sinking]이 5 이상이면, 코인 위력 +1",
+          "name": "蚕食冲撞",
+          "desc": "[WhenUse] 若目标的沉沦 强度不低于5级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -106,7 +106,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 2 부여, [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度并对其施加2层沉沦 "
                 }
               ]
             }
@@ -119,16 +119,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "물벼락",
-          "desc": "[WhenUse] 대상에게 [Sinking]이 있으면, 기본 위력 +2",
+          "name": "激流",
+          "desc": "[WhenUse] 若目标带有沉沦 ，则使本技能的基础威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 8부여, [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加8级沉沦 强度并对其施加2层沉沦 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 무작위 대상 2명 에게 [Sinking] 4 부여, [Sinking] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 随机使2名目标增加4级沉沦 强度并对其施加2层沉沦 "
                 }
               ]
             }
@@ -141,16 +141,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "쏟아지는 우울",
-          "desc": "[WhenUse] 대상의 [Sinking] 3 당, 코인 위력 +1 (최대 3)\n[WinDuel] 대상의 [Sinking] 5 당, 이 스킬의 공격 가중치 +1 (최대 2)",
+          "name": "倾泄的忧郁",
+          "desc": "[WhenUse] 目标每带有3级沉沦 强度，使本技能的硬币威力+1(最多+3)\n[WinDuel] 目标每带有5级沉沦 强度，使本技能的攻击容量+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Sinking] 5 부여, [Sinking] 횟수 4 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加5级沉沦 强度并对其施加4层沉沦 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Sinking] 3 당, 다음 코인 위력 +1 (최대 3)"
+                  "desc": "[OnSucceedAttack] 目标每带有3级沉沦 强度，使本技能下一枚硬币的威力+1(最多+3)"
                 }
               ]
             },
@@ -160,7 +160,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [SinkingSurge]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标沉沦泛滥 "
                 }
               ]
             }
@@ -173,8 +173,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "회피",
-          "desc": "대상의 정신력이 0 미만이면, 코인 위력 +1\n대상의 [Sinking]이 10 이상이면, 기본 위력 +1\n[OnSucceedEvade] 대상의 정신력 5 감소",
+          "name": "闪避",
+          "desc": "若目标的理智值低于0点，则使本技能的硬币威力+1\n若目标的沉沦 强度不低于10级，则使本技能的基础威力+1\n[OnSucceedEvade] 使目标失去5点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -192,20 +192,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "무너뜨리기",
-          "desc": "[WhenUse] [BloodDinner]을 20 소모하여, [BloodDinner] 10당 [BloodArmor] 1 얻음.\n[WhenUse] [BloodArmor] 10당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Laceration] 10당, 코인 위력 +1 (최대 3)",
+          "name": "摧垮",
+          "desc": "[WhenUse] 消耗至多20层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层[BloodArmor]\n[WhenUse] 自身每带有10层[BloodArmor]，使本技能的硬币威力+1(最多+2)\n[WhenUse] 自身每带有10级[Laceration]，使本技能的硬币威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 }
               ]
             }
@@ -218,20 +218,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "상처내기",
-          "desc": "[WhenUse] [BloodDinner]을 20 소모하여, [BloodDinner] 10당 [BloodArmor] 1 얻음.\n[WhenUse] [BloodArmor] 10당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Laceration] 10당, 코인 위력 +1 (최대 3)",
+          "name": "致伤",
+          "desc": "[WhenUse] 消耗至多20层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层[BloodArmor]\n[WhenUse] 自身每带有10层[BloodArmor]，使本技能的硬币威力+1(最多+2)\n[WhenUse] 自身每带有10级[Laceration]，使本技能的硬币威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             }
@@ -244,20 +244,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돈키호테류 경혈 4식 - 도려내기",
-          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WinDuel] [BloodArmor] 단계에 따라, 이 스킬의 피해량 +20% (최대 60%)\n[DefeatDuel] [BloodArmor] 4 소모",
+          "name": "堂吉诃德派硬血4式-剜除",
+          "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1\n[WinDuel] 自身的[BloodArmor]每有1阶段，使本技能造成的伤害+20%(最多+60%)\n[DefeatDuel] 消耗4层[BloodArmor]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度"
                 }
               ]
             }
@@ -270,27 +270,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돈키호테류 경혈11식 - 후벼파기",
-          "desc": "[WhenUse] 대상의 [Laceration]이 3당, 기본 위력 +1 (최대 3)\n[WinDuel] [BloodArmor] 단계에 따라, 이 스킬의 피해량 +20% (최대 60%)\n[DefeatDuel] [BloodArmor] 4 소모",
+          "name": "堂吉诃德派硬血11式-贯穿",
+          "desc": "[WhenUse] 目标每带有3级[Laceration]强度，使本技能的基础威力+1(最多+3)\n[WinDuel] 自身的[BloodArmor]每有1阶段，使本技能造成的伤害+20% (最多+60%)\n[DefeatDuel] 消耗4层[BloodArmor]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Laceration]을 횟수만큼 발동시킴. 대상의 [Laceration] 횟수를 1까지 소모시킴"
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration](目标的[Laceration]层数)次并消耗目标的[Laceration]层数至1层"
                 }
               ]
             }
@@ -303,20 +303,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돈키호테 아류 산초 4식 - 추적",
-          "desc": "[Laceration]이 가장 많은 대상 우선 공격\n[BeforeAttack] 자신의 [BloodArmor] 10 당 공격 가중치 +1 (최대 3)\n[WhenUse] 대상의 [Laceration] 5 당, 합 위력 +1 (최대 3)\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 15당 [BloodArmor] 1 얻음. 코인 위력 +1 (최대 2)\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 10 얻고 발동시킴. [Laceration] 횟수 1 감소\n[EndSkill] 이 스킬로 입히는 피해량만큼 [BloodDinner] 증가",
+          "name": "堂吉诃德派桑丘变体4式-追踪",
+          "desc": "优先指定流血 最多的目标\n[BeforeAttack] 自身每带有10层[BloodArmor]，使本技能的攻击容量+1(最多+3)\n[WhenUse] 目标每带有5级流血 强度，使本技能的拼点威力+1(最多+3)\n[WhenUse] 消耗至多30层血宴 ，每消耗15层血宴 ，使自身获得1层[BloodArmor]并使本技能的硬币威力+1(最多2)\n- 若未消耗血宴 ，则使自身增加10级流血 强度，立即触发自身的流血 ，并使自身的流血 层数减少2层\n[EndSkill] 获得层数相当于本技能伤害量的血宴 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 8 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加8级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여\n- 이 스킬에서 [BloodDinner]을 30 소모했다면, [Binding] 2 추가 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层束缚 \n- 若本技能消耗了30层血宴 ，则额外施加2层束缚 "
                 }
               ]
             }
@@ -329,27 +329,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돈키호테 아류 산초 3식 - 기습",
-          "desc": "[Laceration]이 가장 많은 대상 우선 공격\n[BeforeAttack] 대상의 [Laceration] 10당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 [Laceration] 5 당, 합 위력 +1 (최대 3)\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 15당 [BloodArmor] 1 얻음. 코인 위력 +1 (최대 2)\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 10 얻고 발동시킴. [Laceration] 횟수 1 감소\n[EndSkill] 이 스킬로 입히는 피해량만큼 [BloodDinner] 증가",
+          "name": "堂吉诃德派桑丘变体3式-突袭",
+          "desc": "优先指定流血 最多的目标\n[BeforeAttack] 目标每带有10级流血 强度，使本技能的攻击容量+1(最多+2)\n[WhenUse] 目标每带有5级流血 强度，使本技能的拼点威力+1(最多+3)\n[WhenUse] 消耗至多30层血宴 ，每消耗15层血宴 ，使自身获得1层[BloodArmor]并使本技能的硬币威力+1(最多2)\n- 若未消耗血宴 ，则使自身增加10级流血 强度，立即触发自身的流血 ，并使自身的流血 层数减少1层\n[EndSkill] 获得层数相当于本技能伤害量的血宴 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여\n- 이 스킬에서 [BloodDinner]을 50 소모했다면, [Paralysis] 2 추가 부여"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 \n- 若本技能消耗了50层血宴 ，则额外施加2层麻痹 "
                 }
               ]
             }
@@ -362,8 +362,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "돈키호테류 경혈 2식 - 경혈",
-          "desc": "속도에 상관없이 이 스킬과 합을 할 수 있음\n[StartBattle] [SwirlingBlood]를 1 얻음\n[StartBattle] [BloodDinner]을 100 소모하여, 소모한 [BloodDinner] 10당 [BloodArmor] 1, 보호막 체력 20을얻음.\n- [BloodDinner]이 부족할 경우, [Laceration] 50을 얻고 발동시킴. [Laceration] 횟수 2 감소. 200만큼 보호막 체력을 얻음 (이 피해로 체력이 1미만이 되지 않음)\n[DefeatDuel] 이 스킬로 얻은 보호막 효과가 있는 동안 [Vulnerable]을 3 얻음\n[DefeatDuel] 이 스킬로 입히는 피해량 -50%\n[EndSkill] 전투 종료",
+          "name": "堂吉诃德派硬血2式-硬血",
+          "desc": "可无视速度值与本技能拼点\n[StartBattle] 使自身获得1层[SwirlingBlood]\n[StartBattle] 消耗100层血宴 ，每消耗10层[BloodDinner]，使自身获得1层[BloodArmor]，20点护盾体力\n- 若[BloodDinner]层数不足，则使自身增加50级[Laceration]强度，并使自身的[Laceration]层数减少2层。随后使自身获得200点护盾体力(该伤害不会使自身的体力低于1)\n[DefeatDuel] 带有通过本技能获得的护盾体力时，对自身施加3层[Vulnerable]\n[DefeatDuel] 使本技能造成的伤害-50%\n[EndSkill] 结束本回合",
           "coinlist": [
             {
               "coindescs": [
@@ -392,7 +392,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加5级流血 强度并对其施加3层流血 "
                 }
               ]
             }
@@ -405,8 +405,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "라 어벤투라 아 테르미나도",
-          "desc": "대상의 [Laceration]당, 피해량 +10% (최대 200%)\n[BloodArmor] 3 당 피해량 +10% (최대 100%)\n[StartBattle] [BloodDinner]을 (45 - 현재 정신력)만큼 소모하여 정신력을 45까지 회복\n- [BloodDinner]이 부족할 경우, [Laceration] 20을 얻고, 정신력을 45까지 회복\n- 남은 [BloodDinner]만큼 보호막 체력을 얻음 (최대 100)\n[WinDuel] 대상에게 [Laceration] 10 부여\n[EndSkill] 대상에게 가한 체력 피해량만큼 [BloodDinner] 증가\n[EndSkill] 대상이 사망했으면, 대상의 최대 체력만큼 [BloodDinner] 증가",
+          "name": "冒险结束了",
+          "desc": "目标每带有1级流血 强度，使本技能造成的伤害+10%(最多+200%)\n自身每带有3层[BloodArmor]，使本技能造成的伤害+10%(最多+100%)\n[StartBattle] 消耗(45-自身的理智值)层血宴 并使自身理智值恢复至45点\n- 若血宴 层数不足，则使自身增加20级流血 强度并使自身理智值恢复至45点\n- 获得相当于剩余血宴 层数的护盾体力(最多100点)\n[WinDuel] 使目标增加10级流血 强度\n[EndSkill] 获得相当于对目标造成伤害量的血宴 层数\n[EndSkill] 若击杀目标，则获得相当于目标体力上限的血宴 层数",
           "coinlist": [
             {
               "coindescs": [
@@ -414,10 +414,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 3 증가"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加10级流血 强度并对其施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상을 제외한 모든 적들에게 [Laceration] 5 부여, [Laceration] 횟수 3 증가"
+                  "desc": "[OnSucceedAttack] 使除目标以外的全体敌方单位增加5级流血 强度并对其施加3层流血 "
                 }
               ]
             }
@@ -430,8 +430,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "라 어벤투라 아 테르미나도...",
-          "desc": "모든 대상의 [Laceration] 합산 10당, 피해량 +40% (최대 200%)\n자신의 누적 소모 [BloodDinner]당 피해량 +10% (최대 100%)\n[StartBattle] [BloodDinner]을 (45 - 현재 정신력)만큼 소모하여 정신력을 45까지 회복\n- [BloodDinner]이 부족할 경우, [Laceration] 20을 얻고, 정신력을 45까지 회복\n- 남은 [BloodDinner]만큼 보호막 체력을 얻음 (최대 100)\n[WinDuel] 대상에게 [Laceration] 10 부여\n[EndSkill] 대상에게 가한 체력 피해량만큼 [BloodDinner] 증가\n[EndSkill] 대상이 사망했으면, 대상의 최대 체력만큼 [BloodDinner] 증가",
+          "name": "冒险结束了…",
+          "desc": "全体目标总计每带有10级流血 强度，使本技能造成的伤害+40%(最多+200%)\n自身每消耗1层血宴 ，使本技能造成的伤害+10%(最多+100%)\n[StartBattle] 消耗(45-自身的理智值)层血宴 并使自身理智值恢复至45点\n- 若血宴 层数不足，则使自身增加20级流血 强度并使自身理智值恢复至45点\n- 获得相当于剩余血宴 层数的护盾体力(最多100点)\n[WinDuel] 使目标增加10级流血 强度\n[EndSkill] 获得相当于对目标造成伤害量的血宴 层数\n[EndSkill] 若击杀目标，则获得相当于目标体力上限的血宴 层数",
           "coinlist": [
             {
               "coindescs": [
@@ -439,7 +439,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[Laceration] 10 부여, [Laceration] 횟수 3 증가"
+                  "desc": "使目标增加10级流血 强度并对其施加3层流血 "
                 }
               ]
             }
@@ -452,16 +452,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "압착",
-          "desc": "[WhenUse] 자신의 [Breath] 위력 5당 최종 위력 +1 (최대 3)",
+          "name": "压缩",
+          "desc": "[WhenUse] 自身每带有5级呼吸法 强度，使本技能的最终威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 위력 2 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加2级震颤 强度"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [Vibration] 위력 3 부여, 대상의 [Vibration] 횟수 2 증가"
+                  "desc": "[CriticalOnSucceedAttack] 使目标增加3级震颤 强度并对其施加2层震颤 "
                 }
               ]
             }
@@ -474,19 +474,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "분해",
-          "desc": "[WhenUse] 자신의 [Breath] 위력 3당 최종 위력 +1 (최대 5)",
+          "name": "分解",
+          "desc": "[WhenUse] 自身每带有3级呼吸法 强度，使本技能的最终威力+1(最多+5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 위력 3 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度"
                 },
                 {
-                  "desc": "[WinDuelAttack] [Vibration] 횟수 3 증가"
+                  "desc": "[WinDuelAttack] 对目标施加3层震颤 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 1회. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
                 }
               ]
             }
@@ -499,8 +499,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "분석 시행",
-          "desc": "[WhenUse] 자신의 [Breath] 위력이 10 이상이면, [Breath] 위력을 소모하여 소모한 [Breath] 위력 3당 최종 위력 +2 (최대 4)",
+          "name": "执行分析",
+          "desc": "[WhenUse] 若自身的呼吸法 强度不低于10级，则消耗呼吸法 强度，每消耗3级呼吸法 强度，使本技能的最终威力+2(最多+4)",
           "coinlist": [
             {
               "coindescs": [
@@ -508,13 +508,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 5 이상이면 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                  "desc": "[OnSucceedAttack] 若目标的震颤 层数不低于5层，则使目标震颤引爆 并使其震颤 层数减少1层"
                 },
                 {
-                  "desc": "[WinDuelAttack] [Vibration] 위력 5 부여, [Vibration] 횟수 3 증가"
+                  "desc": "[WinDuelAttack] 使目标增加5级震颤 强度并对其施加3层震颤 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 2次，并使其震颤 层数减少2层"
                 }
               ]
             }
@@ -527,8 +527,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "소멸 시퀀스 가동",
-          "desc": "[WhenUse] [Breath] 위력과 [Breath] 횟수를 절반만큼 소모\n- (소모한 [Breath] 위력과 [Breath] 횟수의 합/2)만큼 최종 위력이 증가 (최대 20)\n- (소모한 [Breath] 위력 x 2)%만큼 피해량이 증가 (최대 50%)\n- (소모한 [Breath] 횟수 x 4)%만큼 크리티컬 피해량이 증가 (최대 100%)\n[DefeatDuel] 남은 [Breath] 횟수가 절반으로 감소",
+          "name": "启动销毁程序",
+          "desc": "[WhenUse] 消耗自身一半的呼吸法 强度与层数\n- 使本技能的最终威力+(消耗的呼吸法 强度与层数之和/2)(最多+20)\n- 使本技能造成的伤害+(消耗的呼吸法 强度×2)%(最多+50%)\n- 使本技能暴击时造成的伤害+(消耗的呼吸法 层数×4)%(最多+100%)\n[DefeatDuel] 使自身剩余的呼吸法 层数减半",
           "coinlist": [
             {
               "coindescs": [
@@ -536,13 +536,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "직전 턴에 체력 피해를 받지 않았다면, 크리티컬로 적중"
+                  "desc": "若自身上回合未受到体力伤害，则使本硬币必定暴击"
                 },
                 {
-                  "desc": "직전 턴에 체력 피해를 받았다면, 크리티컬로 적중하지 않고 피해량이 80%만큼 감소"
+                  "desc": "若自身上回合受到了体力伤害，则使本硬币必定不会暴击，并使造成的伤害-80%"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion] 3회. 대상의 [Vibration] 횟수 3 감소"
+                  "desc": "[CriticalOnSucceedAttack] 使目标震颤引爆 3次，并使其震颤 层数减少3层"
                 }
               ]
             }
@@ -555,8 +555,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "고찰",
-          "desc": "[WhenUse] 자신의 [Breath] 위력 3당 최종 위력 +1 (최대 5)\n[WhenUse] [Breath] 위력 4 얻음\n- 보호막이 있으면, [Breath] 횟수 2 추가로 증가",
+          "name": "考察",
+          "desc": "[WhenUse] 自身每带有3级呼吸法 强度，使本技能的最终威力+1(最多+5)\n[WhenUse] 使自身增加4级呼吸法 强度\n- 若自身带有护盾，则额外使自身获得2层呼吸法 ",
           "coinlist": [
             {}
           ]
