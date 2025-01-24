@@ -34,7 +34,7 @@
     },
     {
       "id": "lcb_checkup_rewardpage_desc",
-      "content": "首次通关活动关卡与主线剧情，\n以及通关镜像迷宫时，可获得<color=#ac1605>情报文件</color>，\n并有低概率额外获得<color=#ac1605>机密文件</color>。\n\n<color=#ac1605>机密文件</color>获得后，将立刻转化为20个<color=#ac1605>情报文件</color>"
+      "content": "首次通关活动关卡与主线剧情，\n以及通关镜像迷宫时，可获得<color=#ac1605>情报文件</color>，\n并有低概率额外获得<color=#ac1605>机密文件</color>。\n\n<color=#ac1605>机密文件</color>获得后，将立即转化为20个<color=#ac1605>情报文件</color>。"
     },
     {
       "id": "lcb_checkup_reward_popup_desc",

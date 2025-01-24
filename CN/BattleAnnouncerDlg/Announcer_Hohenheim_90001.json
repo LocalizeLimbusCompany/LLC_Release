@@ -20,7 +20,7 @@
     },
     {
       "id": "announcer_911406_90001_1",
-      "dlg": "这次的条件是确保战斗中没有罪人遭到重伤，",
+      "dlg": "这次的条件是确保战斗中没有罪人遭到重伤。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
@@ -32,7 +32,7 @@
     },
     {
       "id": "announcer_911406_90001_3",
-      "dlg": "允许罪人们进攻了。经理，你对罪人们的损失是否有些太麻木了？",
+      "dlg": "你让罪人们受到攻击了。经理，你对罪人们的损失是否有些太麻木了？",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
@@ -86,7 +86,7 @@
     },
     {
       "id": "announcer_911408_90001_2",
-      "dlg": "真是老练的应对。也许你们面对过很多次这种形态的罪种吗？",
+      "dlg": "真是老练的应对。你们面对过很多次这种形态的罪种吗？",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
@@ -128,7 +128,7 @@
     },
     {
       "id": "announcer_911409_90001_4",
-      "dlg": "我认为连续十次的失败是由于指挥的失策所导致……嘛，继续吧。",
+      "dlg": "我认为连续十次的失败是由指挥的失策所致……嘛，继续吧。",
       "imgStr": "hohenheim_announcer",
       "isHide": true
     },
