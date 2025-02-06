@@ -5,30 +5,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "쾌청 베기",
-          "desc": "[StartBattle] 메인 타겟의 [Laceration]이 5이상이면, 공격 가중치 +1\n[StartBattle] 이번 턴에 사용하는 공격 스킬이 4개 이상이면, 최종 위력 +5\n[WinDuel] 모든 아군 정신력 15 회복\n대상의 [Laceration]이 7 이상이면, 피해량 +30%",
+          "name": "斩破长空",
+          "desc": "[StartBattle] 若目标的流血 强度不低于5级，则使本技能的攻击容量+1\n[StartBattle] 若本回合自身使用的攻击技能不低于4个，则使本技能的最终威力+5\n[WinDuel] 使全体友方单位恢复15点理智值\n若目标的流血 强度不低于7级，则使本技能造成的伤害+30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加2级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttackHead] 使目标增加3级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "대상의 [Laceration]이 7 이상이면, 피해량 +50%"
+                  "desc": "若目标的流血 强度不低于7级，则使本硬币造成的伤害+50%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 횟수 10 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加10层流血 "
                 }
               ]
             }
@@ -41,16 +41,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "뒷골목의 규칙",
-          "desc": "[WhenUse] 자신 제외 살아있는 아군 수만큼 1코인 추가 (최대 3)",
+          "name": "后巷规矩",
+          "desc": "[WhenUse] 除自身以外每有1名友方单位存活，使本技能额外增加1枚硬币(最多3次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2, [Laceration] 횟수 2 증가"
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度并对其施加2层流血 "
                 },
                 {
-                  "desc": "[EnemyKill] 모든 아군 정신력 20 회복"
+                  "desc": "[EnemyKill] 使全体友方单位恢复20点理智值"
                 }
               ]
             }

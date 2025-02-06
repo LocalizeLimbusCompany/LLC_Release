@@ -1438,19 +1438,19 @@
     },
     {
       "id": "introduce_word_181",
-      "content": "식구"
+      "content": "家人"
     },
     {
       "id": "introduce_sentence_181",
-      "content": "우리 {0}(을/를) 건드렸겠다?"
+      "content": "你想对我们的{0}动手？"
     },
     {
       "id": "introduce_word_182",
-      "content": "결전"
+      "content": "决战"
     },
     {
       "id": "introduce_sentence_182",
-      "content": "당신의 {0} 신청, 받아들이죠."
+      "content": "你的{0}申请，我接受了。"
     }
   ]
 }

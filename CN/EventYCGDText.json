@@ -38,7 +38,7 @@
     },
     {
       "id": "ycgd_reward_popup_desc",
-      "content": "이벤트 스테이지와 주요 이야기 최초 클리어, 거울 던전 클리어를 통해 <color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다.\n\n<color=#1998fe>[보상 교환]</color> 창에서 <color=#1998fe>[피에 절은 검집]</color>을\n지불하여 다양한 보상을 얻을 수 있습니다."
+      "content": "通关活动关卡、迷宫，首次通关主线故事关卡，以及通关镜像迷宫时，您可获得<color=#1998fe>[染血剑鞘]</color>。\n\n您可在<color=#1998fe>[奖励兑换]</color>窗口中花费<color=#1998fe>[染血剑鞘]</color>\n以获得各种各样的奖励。"
     },
     {
       "id": "ycgd_reward_popup_num_of_owned_items",
@@ -58,11 +58,11 @@
     },
     {
       "id": "ycgd_bonus_popup_title",
-      "content": "이벤트 특화 대상"
+      "content": "活动加成角色"
     },
     {
       "id": "ycgd_bonus_preview",
-      "content": "이벤트 특화 대상"
+      "content": "活动加成角色"
     },
     {
       "id": "ycgd_chapter_map_difficulty_ui_9107",
@@ -74,7 +74,7 @@
     },
     {
       "id": "ycgd_chapter_map_difficulty_ui_unlock_condition",
-      "content": "{0}-{1} 이후 어려움 난이도 개방"
+      "content": "通关{0}-{1}后解锁困难难度"
     }
   ]
 }

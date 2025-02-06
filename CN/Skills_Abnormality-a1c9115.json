@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "살주",
-          "desc": "[WhenUse] 자신의 [Breath] 횟수 3 증가",
+          "name": "弑主妖剑",
+          "desc": "[WhenUse] 使自身获得3层呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -14,13 +14,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 10 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-10"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Breath] 3 얻음, [Breath] 횟수 1 증가"
+                  "desc": "[OnSucceedAttack] 使自身增加3级呼吸法 强度并获得1层呼吸法 "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层流血 "
                 }
               ]
             },
@@ -30,13 +30,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 10 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-10"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 [SlashDamageUp] 2 얻음"
+                  "desc": "[OnSucceedAttack] 下回合使自身获得2层斩击伤害强化 "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown] 2 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加2层斩击抗性弱化 "
                 }
               ]
             },
@@ -46,16 +46,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 10 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-10"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 5 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加5级流血 强度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 2 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 下回合对目标施加2层麻痹 "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 3 증가"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加3层流血 "
                 }
               ]
             }
@@ -68,8 +68,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "골단",
-          "desc": "[StartBattle] 보호막 100 얻음\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +5",
+          "name": "断汝筋骨",
+          "desc": "[StartBattle] 使自身获得100点护盾\n[WhenUse] 若护盾未被全部消耗，则使本技能的拼点威力+5",
           "coinlist": [
             {
               "coindescs": [
@@ -77,10 +77,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 20 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-20"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown] 3 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加3层斩击抗性弱化 "
                 }
               ]
             },
@@ -90,13 +90,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 20 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-20"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 크리티컬 피해량 +100%"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使本硬币暴击时造成的伤害+100%"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加10级流血 强度并对其施加2层流血 "
                 }
               ]
             },
@@ -106,10 +106,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 20 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-20"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함."
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若护盾未被全部消耗，则对目标造成(自身的[Grudge]层数/本技能的攻击容量)点固定伤害"
                 }
               ]
             }
@@ -122,8 +122,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "골단",
-          "desc": "[StartBattle] 보호막 250 얻음\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +10",
+          "name": "断汝筋骨",
+          "desc": "[StartBattle] 使自身获得250点护盾\n[WhenUse] 使自身获得3层呼吸法 \n[WhenUse] 若护盾未被全部消耗，则使本技能的拼点威力+10",
           "coinlist": [
             {
               "coindescs": [
@@ -131,10 +131,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 23 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-23"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [SlashResistDown] 3 부여"
+                  "desc": "[OnSucceedAttack] 对目标施加3层斩击抗性弱化 "
                 }
               ]
             },
@@ -144,16 +144,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 23 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-23"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 크리티컬 피해량 +100%"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使本硬币暴击时造成的伤害+100%"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 5 부여"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 下回合对目标施加5层麻痹 "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加10级流血 强度并对其施加2层流血 "
                 }
               ]
             },
@@ -163,10 +163,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 23 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-23"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함."
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若护盾未被全部消耗，则对目标造成(自身的[Grudge]层数/本技能的攻击容量)点固定伤害"
                 }
               ]
             }
@@ -179,8 +179,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "골단",
-          "desc": "[CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]가 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복",
+          "name": "断汝筋骨",
+          "desc": "[CantChangeTarget]\n优先指定体力最低的目标\n[EnemyKill] 使自身的[Grudge]层数变为2倍\n[EnemyKill] 使自身恢复(自身的[Grudge]层数)点体力",
           "coinlist": [
             {
               "coindescs": [
@@ -188,7 +188,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 25 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-25"
                 }
               ]
             },
@@ -198,7 +198,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 25 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-25"
                 }
               ]
             },
@@ -208,10 +208,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "파괴된 코인이면, 최종 위력 25 감소"
+                  "desc": "若本硬币被摧毁，则使本技能的最终威力-25"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Grudge] 수치만큼 고정 피해."
+                  "desc": "[OnSucceedAttack] 对目标造成(自身的[Grudge]层数)点固定伤害"
                 }
               ]
             }

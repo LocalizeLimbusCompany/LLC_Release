@@ -348,7 +348,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若护盾未被全部消耗，则对目标造成([Grudge]层数/攻击容量)点固定伤害"
+                  "desc": "[OnSucceedAttack] 若护盾未被全部消耗，则对目标造成(自身的[Grudge]层数/本技能的攻击容量)点固定伤害"
                 }
               ]
             }
@@ -381,7 +381,7 @@
         {
           "level": 1,
           "name": "舍吾皮肉",
-          "desc": "반격 스킬을 발동시킨 스킬로 받은 피해량만큼 다음 턴에 [Grudge]를 얻음",
+          "desc": "下回合使自身获得(激活本反击技能的技能所造成的伤害)层[Grudge]",
           "coinlist": [
             {
               "coindescs": [
@@ -425,7 +425,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若护盾未被全部消耗，则造成([Grudge]层数/攻击容量)点固定伤害"
+                  "desc": "[OnSucceedAttack] 若护盾未被全部消耗，则对目标造成(自身的[Grudge]层数/本技能的攻击容量)点固定伤害"
                 }
               ]
             }
@@ -458,14 +458,14 @@
         {
           "level": 1,
           "name": "断汝筋骨",
-          "desc": "[CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]가 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복",
+          "desc": "[CantChangeTarget]\n优先指定体力最低的目标\n[EnemyKill] 使自身的[Grudge]层数变为2倍\n[EnemyKill] 使自身恢复(自身的[Grudge]层数)点体力",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成([Grudge]层数)点固定伤害"
+                  "desc": "[OnSucceedAttack] 对目标造成(自身的[Grudge]层数)点固定伤害"
                 }
               ]
             }
