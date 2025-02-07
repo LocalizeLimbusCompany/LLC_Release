@@ -38,7 +38,7 @@
     },
     {
       "id": "announcer_ally_adv_27_1",
-      "dlg": "争斗的结束多半是这样……无论对方还是我们都失去了不少人。即使这样，最后剩下的都曾是我们。"
+      "dlg": "争斗的结束多半是这样……无论对方还是我们都失去了不少人。即便如此，最后剩下的都是我们。"
     },
     {
       "id": "announcer_danger_27_1",
@@ -66,7 +66,7 @@
     },
     {
       "id": "announcer_disadvatk_attr_27_1",
-      "dlg": "这真惹人来气……你怎么教育他们的？"
+      "dlg": "真是令人恼火……你怎么教育他们的？"
     },
     {
       "id": "announcer_enemy_specialbuff_27_1",
@@ -82,7 +82,7 @@
     },
     {
       "id": "announcer_ally_specialdebuff_27_1",
-      "dlg": "嗯……真让我来气，这帮……！拿出气势！"
+      "dlg": "嗯……真让我来气，你们这帮人……！拿出气势来！"
     },
     {
       "id": "announcer_enemy_destroy_27_1",
