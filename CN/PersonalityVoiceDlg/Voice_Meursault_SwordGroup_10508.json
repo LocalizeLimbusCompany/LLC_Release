@@ -73,7 +73,7 @@
     {
       "id": "battle_endcommand_10508_1",
       "desc": "进行攻击",
-      "dlg": "如要斩，则需赌上你的性命。"
+      "dlg": "如要斩，则需赌上性命。"
     },
     {
       "id": "battle_enemy_break_10508_1",
