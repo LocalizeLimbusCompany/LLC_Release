@@ -6,7 +6,7 @@
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE",
-      "description": "<color=#ff6000>E.G.O饰品售价</color>增加{0}%(每个商店1次)"
+      "description": "<color=#ff6000>E.G.O饰品售卖所得经费</color>增加{0}%(每个商店1次)"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_SLOT",
