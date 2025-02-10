@@ -48,5 +48,5 @@ if (Test-Path -Path "./Error.txt") {
           $upload_headers = @{
               "Authorization" = "$ServerAuthorization"
           }
-          curl -X POST https://api.zeroasso.top/upload -F "file=@./LimbusLocalize_BIE_Dev.7z" -H "Authorization: $ServerAuthorization" --ssl-no-revoke
+          curl -X POST https://api.zeroasso.top/v2/grey_test/upload -F "file=@./LimbusLocalize_BIE_Dev.7z" -H "X-Admin-Secret: $ServerAuthorization" --ssl-no-revoke
         }
