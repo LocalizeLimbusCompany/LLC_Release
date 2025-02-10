@@ -587,7 +587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T公司产加速切断器",
+          "name": "T公司制加速切割机",
           "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {
@@ -735,7 +735,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T公司产时间捕捉器",
+          "name": "T公司制时间捕捉器",
           "desc": "[WhenUse] 对自身施加2层震颤 ",
           "coinlist": [
             {

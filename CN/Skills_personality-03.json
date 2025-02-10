@@ -872,7 +872,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T公司产加速切断器",
+          "name": "T公司制加速切割机",
           "desc": "[WhenUse] 对自身施加3层震颤 ",
           "coinlist": [
             {
@@ -893,7 +893,7 @@
         },
         {
           "level": 2,
-          "name": "T公司产加速切断器",
+          "name": "T公司制加速切割机",
           "desc": "[WhenUse] 对自身施加3层震颤 \n[WhenUse] 若目标的震颤 强度不低于6级，则使本技能的拼点威力+1",
           "coinlist": [
             {
@@ -921,7 +921,7 @@
         },
         {
           "level": 4,
-          "name": "T公司产加速切断器",
+          "name": "T公司制加速切割机",
           "desc": "[WhenUse] 对自身施加3层震颤 \n[WhenUse] 目标每带有6级震颤 强度，使本技能的拼点威力+1(最多+2)",
           "coinlist": [
             {
