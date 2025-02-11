@@ -1,0 +1,17 @@
+name: 公告热更新
+
+on:
+  push:
+    paths:
+      - 'Readme/Readme.json'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Trigger Update
+        run: |
+         curl -X POST -H "X-Admin-Secret: ${{ secrets.API_PWD }}" -H "Content-Type: application/json" https://api.zeroasso.top/v2/readme/trigger_update

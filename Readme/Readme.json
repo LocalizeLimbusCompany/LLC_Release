@@ -41,14 +41,14 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"都市零协会汉化组\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://space.bilibili.com/1247764479\"},{\"formatKey\":\"Text\",\"formatValue\":\"边狱公司中文WIKI\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://limbuscompany.huijiwiki.com\"},{\"formatKey\":\"Text\",\"formatValue\":\"LLC 官网\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://www.zeroasso.top\"}]}"
     },
     {
-      "id": 2967,
+      "id": 2900,
       "version": 0,
       "type": 0,
       "startDate": "2025-02-11T00:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Mod V2025021101",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v2025021101\\n- 翻译内容最新进度跟进\"}]}"
+      "title_KR": "Mod V0.7.0",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v0.7.0\\n- 拆分资源和代码\"}]}"
     },
     {
       "id": 2966,

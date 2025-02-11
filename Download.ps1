@@ -2,7 +2,6 @@ param(
     [string]$Authorization,
     [string]$ServerAuthorization
 )
-Set-Location "LocalizeLimbusCompany/Localize"
 
 $ErrorFile = "./Error.txt"
 if ((Test-Path -Path $ErrorFile)) {
@@ -18,7 +17,7 @@ Invoke-WebRequest -Uri "https://paratranz.cn/api/projects/6860/artifacts" -Heade
 # 预留时间来生成zip，延迟7500ms
 Start-Sleep -m 7500
 $response = Invoke-WebRequest -Uri $url -Headers $headers -Method Get
-[IO.File]::WriteAllBytes("./LocalizeLimbusCompany/Localize/test.zip", $response.Content)
+[IO.File]::WriteAllBytes("./test.zip", $response.Content)
 
 # Unzip the file to the current directory
 Expand-Archive -Path "test.zip" -DestinationPath "." -Force
@@ -37,14 +36,13 @@ if (Test-Path -Path "./Error.txt") {
           $commitMessage = $(Get-Date -Format "MM-dd")+" AutoUpdate"
           git commit -m $commitMessage
           git push https://github-actions[bot]:${ secrets.GH_TOKEN }@github.com/LocalizeLimbusCompany/LLC_Release
-          Set-Location "../"
           $Path = "Release"
-          $BIE_LLC_Path = "$Path/LimbusLocalize/BepInEx/plugins/LLC"
+          $BIE_LLC_Path = "$Path/BepInEx/plugins/LLC"
           New-Item -Path "$BIE_LLC_Path" -Name "Localize" -ItemType "directory" -Force
-          Copy-Item -Path Localize/CN $BIE_LLC_Path/Localize -Force -Recurse
-          Set-Location "$Path/LimbusLocalize"
-	 7z a -t7z "../LimbusLocalize_BIE_Dev.7z" "BepInEx/" -mx=9 -ms
-          Set-Location "../"
+          Copy-Item -Path CN $BIE_LLC_Path/Localize -Force -Recurse
+          Copy-Item -Path Readme $BIE_LLC_Path/Localize -Force -Recurse
+          Set-Location "$Path"
+          7z a -t7z "./LimbusLocalize_BIE_Dev.7z" "BepInEx/" -mx=9 -ms
           $upload_headers = @{
               "Authorization" = "$ServerAuthorization"
           }
