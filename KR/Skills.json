@@ -4068,7 +4068,7 @@
         {
           "level": 4,
           "name": "밀쳐내기",
-          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 4 증가\n대상의 진동이 8 이상이면, 스킬 위력 +2",
+          "desc": "[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 4 증가\n대상의 [Vibration]이 8 이상이면, 스킬 위력 +2",
           "coinlist": [
             {
               "coindescs": [
@@ -8806,7 +8806,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 진동이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Vibration]이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여"
                 }
               ]
             }
@@ -8830,7 +8830,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 진동이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Vibration]이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여"
                 }
               ]
             }
@@ -8854,7 +8854,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 진동이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Vibration]이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여"
                 }
               ]
             }

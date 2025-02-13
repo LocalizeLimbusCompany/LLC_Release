@@ -128,7 +128,7 @@
       "simpleDesc": [
         {
           "abilityID": 9167,
-          "simpleDesc": "On Clash Win, inflict Tremor equal to the # of remaining Coins. If the target does not have Tremor, inflict Tremor Count"
+          "simpleDesc": "On Clash Win, inflict Tremor equal to the # of remaining Coins. If the target does not have [Vibration], inflict Tremor Count"
         },
         {
           "abilityID": 91671,

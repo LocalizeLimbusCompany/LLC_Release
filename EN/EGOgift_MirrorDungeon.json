@@ -1005,7 +1005,7 @@
     {
       "id": 19042,
       "name": "Smokes and Wires+",
-      "desc": "Allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose <style=\"upgradeHighlight\">3</style> Speed next turn.",
+      "desc": "Against enemies, allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose <style=\"upgradeHighlight\">3</style> Speed next turn.",
       "simpleDesc": [
         {
           "abilityID": 19042,
@@ -1020,7 +1020,7 @@
     {
       "id": 29042,
       "name": "Smokes and Wires++",
-      "desc": "Allies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 3 Speed next turn.",
+      "desc": "Against enemies, allies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 3 Speed next turn.",
       "simpleDesc": [
         {
           "abilityID": 29042,

@@ -75,7 +75,7 @@
     {
       "id": 9163,
       "name": "宝石振動子",
-      "desc": "[Vibration]回数を消耗したスキルでマッチ勝利時、対象に振動がなければ対象の[Vibration]回数を2増加\n\n該当する攻撃スキルを含めて怠惰共鳴3以上なら、代わりに対象の[Vibration]回数を3増加",
+      "desc": "[Vibration]回数を消耗したスキルでマッチ勝利時、対象に[Vibration]がなければ対象の[Vibration]回数を2増加\n\n該当する攻撃スキルを含めて怠惰共鳴3以上なら、代わりに対象の[Vibration]回数を3増加",
       "simpleDesc": [
         {
           "abilityID": 9163,
@@ -128,7 +128,7 @@
       "simpleDesc": [
         {
           "abilityID": 9167,
-          "simpleDesc": "マッチ勝利時、残りコイン数だけ振動付与。対象に振動がなければ振動回数が増加"
+          "simpleDesc": "マッチ勝利時、残りコイン数だけ振動付与。対象に[Vibration]がなければ[Vibration]回数が増加"
         },
         {
           "abilityID": 91671,

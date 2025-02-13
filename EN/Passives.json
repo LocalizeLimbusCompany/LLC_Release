@@ -57,7 +57,7 @@
     },
     {
       "id": 1040301,
-      "name": "Kokuundō",
+      "name": "Kokuuntō",
       "desc": "Deal +10% damage to targets with Bleed."
     },
     {
@@ -583,12 +583,12 @@
     {
       "id": 1120501,
       "name": "Sawblade Fired Up",
-      "desc": "Inflict +1 Rupture to targets with Tremor"
+      "desc": "Inflict +1 Rupture to targets with [Vibration]"
     },
     {
       "id": 1120521,
       "name": "Sawblade Maintenance",
-      "desc": "1 ally with the lowest Speed inflicts +1 Rupture to targets with Tremor"
+      "desc": "1 ally with the lowest Speed inflicts +1 Rupture to targets with [Vibration]"
     },
     {
       "id": 1010401,
@@ -673,7 +673,7 @@
     {
       "id": 1080701,
       "name": "Crushin' Crabs",
-      "desc": "On hit against a target with Tremor, inflict +1 Sinking Count"
+      "desc": "On hit against a target with [Vibration], inflict +1 Sinking Count"
     },
     {
       "id": 1080721,

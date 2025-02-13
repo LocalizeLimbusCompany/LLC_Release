@@ -75,7 +75,7 @@
     {
       "id": 9163,
       "name": "보석 진동자",
-      "desc": "[Vibration] 횟수를 소모한 스킬로 합 승리시, 대상에게 진동이 없다면 대상의 [Vibration] 횟수 2 증가.\n\n해당 공격 스킬을 포함하여 나태 공명 3 이상이면, 대신 대상의 [Vibration] 횟수 3 증가",
+      "desc": "[Vibration] 횟수를 소모한 스킬로 합 승리시, 대상에게 [Vibration]이 없다면 대상의 [Vibration] 횟수 2 증가.\n\n해당 공격 스킬을 포함하여 나태 공명 3 이상이면, 대신 대상의 [Vibration] 횟수 3 증가",
       "simpleDesc": [
         {
           "abilityID": 9163,
@@ -128,7 +128,7 @@
       "simpleDesc": [
         {
           "abilityID": 9167,
-          "simpleDesc": "합 승리 시, 남은 코인만큼 진동 부여. 대상에게 진동이 없으면, 진동 횟수 증가"
+          "simpleDesc": "합 승리 시, 남은 코인만큼 진동 부여. 대상에게 [Vibration]이 없으면, 진동 횟수 증가"
         },
         {
           "abilityID": 91671,

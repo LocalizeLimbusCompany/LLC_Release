@@ -4024,7 +4024,7 @@
         {
           "level": 4,
           "name": "Shove",
-          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nIf target has 8+ Tremor, Skill Power +2",
+          "desc": "[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nIf target has 8+ [Vibration], Skill Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -8727,7 +8727,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor, inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -8751,7 +8751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor, inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -8775,7 +8775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Tremor, inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -10414,7 +10414,7 @@
         {
           "level": 4,
           "name": "Weighty Bash",
-          "desc": "At 10+ Charge Count, Final Power +1\nAt 7+ Speed, deal +25% Damage\n[WhenUse] Gain +2 Charge Count",
+          "desc": "At 10+ Charge Count, Final Power +2\nAt 7+ Speed, deal +25% Damage\n[WhenUse] Gain +2 Charge Count",
           "coinlist": [
             {
               "coindescs": [

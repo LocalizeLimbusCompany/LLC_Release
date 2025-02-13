@@ -1005,7 +1005,7 @@
     {
       "id": 19042,
       "name": "煙と鉄条網+",
-      "desc": "味方がスキル効果で与える[Laceration]威力数値が2倍になる。\n\nターン終了時、[Laceration]または特殊出血状態の敵は次のターンに<style=\"upgradeHighlight\">速度が3減少。",
+      "desc": "味方がスキル効果で敵に与える[Laceration]威力数値が2倍になる。\n\nターン終了時、[Laceration]または特殊出血状態の敵は次のターンに<style=\"upgradeHighlight\">速度が3減少。",
       "simpleDesc": [
         {
           "abilityID": 19042,
@@ -1020,7 +1020,7 @@
     {
       "id": 29042,
       "name": "煙と鉄条網++",
-      "desc": "味方がスキル効果で与える<style=\"upgradeHighlight\">[Laceration]威力数値を2.5倍で適用。</style>\n\nターン終了時、[Laceration]または特殊出血状態の敵全員が次のターンに速度が3減少。",
+      "desc": "味方がスキル効果で敵に与える<style=\"upgradeHighlight\">[Laceration]威力数値を2.5倍で適用。</style>\n\nターン終了時、[Laceration]または特殊出血状態の敵全員が次のターンに速度が3減少。",
       "simpleDesc": [
         {
           "abilityID": 29042,
@@ -4900,7 +4900,7 @@
         },
         {
           "abilityID": 92001,
-          "simpleDesc": "貫通量ダメージ増加"
+          "simpleDesc": "貫通ダメージ量増加"
         },
         {
           "abilityID": 92002,
