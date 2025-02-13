@@ -8727,7 +8727,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的震颤 强度不低于5级，下回合对其施加1层虚弱 "
+                  "desc": "[OnSucceedAttack] 若目标的震颤 强度不低于5级，则下回合对其施加1层虚弱 "
                 }
               ]
             }
