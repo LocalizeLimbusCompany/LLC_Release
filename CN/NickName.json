@@ -1344,7 +1344,7 @@
     },
     {
       "name": "침식직원1",
-      "krname": "被侵蚀的员工1",
+      "krname": "被侵蚀的员工",
       "jpname": "",
       "enname": "",
       "fileName": "Abnormality_Employee",
@@ -1366,7 +1366,7 @@
     },
     {
       "name": "침식직원2",
-      "krname": "被侵蚀的员工2",
+      "krname": "被侵蚀的员工",
       "jpname": "",
       "enname": "",
       "fileName": "Abnormality_Employee2",

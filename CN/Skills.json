@@ -9021,7 +9021,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标处于混乱状态，则使本硬币的伤害量+10%"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱，则使本硬币造成的伤害+10%"
                 }
               ]
             },
@@ -9031,7 +9031,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标处于混乱状态，则使本硬币的伤害量+10%"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱，则使本硬币造成的伤害+10%"
                 }
               ]
             }
@@ -9055,7 +9055,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标处于混乱状态，则使本硬币的伤害量+10%"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱，则使本硬币造成的伤害+10%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标的震颤 层数不低于5层，则使目标增加3级破裂 强度"
@@ -9068,7 +9068,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标处于混乱状态，则使本硬币的伤害量+10%"
+                  "desc": "[OnSucceedAttack] 若目标陷入混乱，则使本硬币造成的伤害+10%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标的震颤 层数不低于5层，则使目标增加3级破裂 强度"
