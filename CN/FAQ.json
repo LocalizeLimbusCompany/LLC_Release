@@ -90,11 +90,11 @@
     },
     {
       "id": "faq_account_title_2",
-      "content": "我想知道该如何链接我的账号。"
+      "content": "我想知道该如何绑定我的账号。"
     },
     {
       "id": "faq_account_desc_2",
-      "content": "若要链接您的账号，请转到“设置”→“其他”→“账号”。\n\n如果您使用的是游客账号，则链接后该账号将转换为注册账号。请注意，当失去即时访问权限时，未进行链接的账号容易丢失数据。\n\n※注意事项\n为防止账号数据丢失，进行过一次及以上链接的账号必须与至少一个外部服务保持链接状态。"
+      "content": "若要绑定您的账号，请转到“设置”→“其他”→“账号”。\n\n如果您使用的是游客账号，则绑定后该账号将转换为注册账号。请注意，当失去即时访问权限时，未进行绑定的账号容易丢失数据。\n\n※注意事项\n为防止账号数据丢失，进行过一次及以上绑定的账号必须与至少一个外部服务保持绑定状态。"
     },
     {
       "id": "faq_account_title_3",
@@ -102,7 +102,7 @@
     },
     {
       "id": "faq_account_desc_3",
-      "content": "如果您忘记了链接游戏的账号ID或密码，请联系相应服务平台的客服寻求帮助。\n\n谷歌客服：<color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n苹果客服：<color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服：<color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>\n\n※注意事项\n请注意，在迁移设备或删除应用程序时，未进行过链接的游客账号可能会永久丢失。"
+      "content": "如果您忘记了绑定了游戏的账号ID或密码，请联系相应服务平台的客服寻求帮助。\n\n谷歌客服：<color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n苹果客服：<color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服：<color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>\n\n※注意事项\n请注意，在迁移设备或删除应用程序时，未进行过绑定的游客账号可能会永久丢失。"
     },
     {
       "id": "faq_account_title_4",
@@ -110,7 +110,7 @@
     },
     {
       "id": "faq_account_desc_4",
-      "content": "即使您迁移到其他设备或删除后重新安装应用程序，也可以使用现有账号进行登录继续游玩。\n\n但是请注意，当失去对应用程序的访问权限后，未进行过链接的游客账号数据可能会丢失。"
+      "content": "即使您迁移到其他设备或删除后重新安装应用程序，也可以使用现有账号进行登录继续游玩。\n\n但请注意，当失去对应用程序的访问权限后，未进行过绑定的游客账号数据可能会丢失。"
     },
     {
       "id": "faq_account_title_5",
@@ -118,7 +118,7 @@
     },
     {
       "id": "faq_account_desc_5",
-      "content": "您只能删除（注销）与其他服务平台链接的账号。\n游客账号在注销前也需要进行链接。\n要删除（注销）帐户，请依次进入“设置”→“其他”→“注销账号”界面。\n\n※当您选择注销账号时，您将获得14天宽限期，在此之后，账号将完全注销。\n※删除账号后，所有游戏数据都将丢失，请谨慎行事。"
+      "content": "您只能删除（注销）与其他服务平台绑定的账号。\n游客账号在注销前也需要进行绑定。\n要删除（注销）帐户，请依次进入“设置”→“其他”→“注销账号”界面。\n\n※当您选择注销账号时，您将获得14天宽限期，在此之后，账号将完全注销。\n※删除账号后，所有游戏数据都将丢失，请谨慎行事。"
     },
     {
       "id": "faq_account_title_6",
@@ -138,11 +138,11 @@
     },
     {
       "id": "faq_account_title_8",
-      "content": "关于未能链接账号的解决方法"
+      "content": "关于绑定账号失败的解决方法"
     },
     {
       "id": "faq_account_desc_8",
-      "content": "由于无法确保该进程中是否存在欺诈行为，我们无法就与游戏账号相关的外部账号进行链接的问题提供帮助。该情况下请联系相应平台的客服寻求帮助。\n\n谷歌客服: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n苹果客服: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>"
+      "content": "由于无法确保该进程中是否存在欺诈行为，我们无法就与游戏账号相关的外部账号进行绑定的问题提供帮助。该情况下请联系相应平台的客服寻求帮助。\n\n谷歌客服: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\n苹果客服: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nSteam客服: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>"
     },
     {
       "id": "faq_normal",
