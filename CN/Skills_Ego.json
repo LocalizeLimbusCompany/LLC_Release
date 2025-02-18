@@ -2102,11 +2102,11 @@
                   "desc": "[OnSucceedAttackHead] 使目标增加12级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身失去10点理智值并在下回合获得1层强壮 "
+                  "desc": "[OnSucceedAttackHead] 使自身失去10点理智值<style=\"highlight\">并在下回合获得1层强壮 </style>"
                 },
                 {},
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复10点理智值并在下回合获得1层守护 "
+                  "desc": "[OnSucceedAttackTail] 使自身恢复10点理智值<style=\"highlight\">并在下回合获得1层守护 </style>"
                 },
                 {}
               ]
@@ -3131,15 +3131,15 @@
           "level": 3,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多<style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加3层次元裂痕 "
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">若消耗了充能 层数，则对目标施加3层次元裂痕 </style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 <style=\"highlight\">强度x10</style>)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加<style=\"highlight\">100%</style>)"
                 }
               ]
             }
@@ -3149,15 +3149,15 @@
           "level": 4,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
+          "desc": "指定站位最靠后的单位(仅限常规遭遇战)\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加5层次元裂痕 "
+                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加<style=\"highlight\">5</style>层次元裂痕 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3190,18 +3190,18 @@
           "level": 3,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "[CantIdentify] \n随机指定目标\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
+          "desc": "[CantIdentify] \n随机指定目标\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多<style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加3层次元裂痕 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若消耗了充能 层数，则对目标施加3层次元裂痕 </style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加6级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">6</style>级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 <style=\"highlight\">强度x10</style>)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加<style=\"highlight\">100%</style>)"
                 }
               ]
             }
@@ -3211,18 +3211,18 @@
           "level": 4,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "[CantIdentify] \n随机指定目标\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最多+75%)",
+          "desc": "[CantIdentify] \n随机指定目标\n\n[BeforeAttack] 消耗充能 层数并增加本技能造成的伤害(最大75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加5层次元裂痕 "
+                  "desc": "[OnSucceedAttack] 若消耗了充能 层数，则对目标施加<style=\"highlight\">5</style>层次元裂痕 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加6级破裂 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加6级破裂 强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)"
+                  "desc": "[OnSucceedAttack] 对目标追加本硬币伤害量(目标的破裂 强度x10)%的傲慢伤害，并使目标的破裂 层数减少5层(最多追加100%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3287,7 +3287,7 @@
           "level": 3,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "[CantIdentify] \n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得3层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外+2层",
+          "desc": "[CantIdentify] \n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得<style=\"highlight\">3</style>层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外<style=\"highlight\">+2</style>层",
           "coinlist": [
             {
               "coindescs": [

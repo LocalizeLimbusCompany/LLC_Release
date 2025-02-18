@@ -37,7 +37,7 @@
           "level": 4,
           "name": "往昔",
           "abName": "某日的肖像",
-          "desc": "[EndSkill] 随机使目标增加共计6+(忧郁共鸣数×1.5)级沉沦 强度",
+          "desc": "[EndSkill] 随机使目标增加共计6+(忧郁共鸣数<style=\"highlight\">×1.5</style>)级沉沦 强度",
           "coinlist": [
             {
               "coindescs": [

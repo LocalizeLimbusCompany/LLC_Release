@@ -170,39 +170,39 @@
           "level": 3,
           "name": "永恒",
           "abName": "时间鸭",
-          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(3.5×速度差)%(最多+35%)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数×2)级震颤 强度(最多5级)\n- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(<style=\"highlight\">3.5</style>×速度差)%(最大<style=\"highlight\">35%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数×2)级震颤 强度(最多5级)\n<style=\"highlight\">- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)</style>\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加5层震颤 "
+                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加5层震颤 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 "
+                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半"
+                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -212,42 +212,42 @@
           "level": 4,
           "name": "永恒",
           "abName": "时间鸭",
-          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(5×速度差)%(最多+50%)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数×2)级震颤 强度(最多10级)\n- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多10层)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(速度差×<style=\"highlight\">5</style>)%(最多<style=\"highlight\">+50%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数<style=\"highlight\">×2</style>)级震颤 强度(最多<style=\"highlight\">10</style>级)\n- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多<style=\"highlight\">10</style>层)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级震颤 强度并对其施加10层震颤 "
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">10</style>级震颤 强度并对其施加<style=\"highlight\">10</style>层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 "
+                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半"
+                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -289,24 +289,24 @@
           "level": 3,
           "name": "永恒",
           "abName": "时间鸭",
-          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身，则使本技能造成的伤害+(2×速度差)%(最多+16%)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数)级震颤 强度(最多4级)\n- [BeforeAttack] 若最大共鸣为怠惰完全共鸣，则对目标施加2层震颤 ",
+          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身，则使本技能造成的伤害+(速度差×<style=\"highlight\">2</style>)%(最多<style=\"highlight\">+16%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数)级震颤 强度(最多4级)\n<style=\"highlight\">- [BeforeAttack] 若最大共鸣为怠惰完全共鸣，则对目标施加2层震颤 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度并对其施加3层震颤 "
+                  "desc": "[OnSucceedAttack] 使目标增加3级震颤 强度并对其施加3层震颤 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 "
+                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半"
+                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -316,27 +316,27 @@
           "level": 4,
           "name": "永恒",
           "abName": "时间鸭",
-          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身，则使本技能造成的伤害+(2.5×速度差)%(最多+20%)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数)级震颤 强度(最多5级)\n- [BeforeAttack] 若最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)",
+          "desc": "[CantIdentify]\n随机指定目标\n若主要目标的速度值低于自身，则使本技能造成的伤害+(速度差×<style=\"highlight\">2.5</style>)%(最多<style=\"highlight\">+20%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数)级震颤 强度(最多<style=\"highlight\">5</style>级)\n- [BeforeAttack] 若最大共鸣为怠惰完全共鸣，<style=\"highlight\">则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级震颤 强度并对其施加5层震颤 "
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">5</style>级震颤 强度并对其施加<style=\"highlight\">5</style>层震颤 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 "
+                  "desc": "[OnSucceedAttack] 使目标以震颤-永恒 振幅纠缠 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目标震颤引爆 ，并使其震颤 层数减少1层</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半"
+                  "desc": "[OnSucceedAttack] 下回合使目标的最大速度值减半<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -380,7 +380,7 @@
           "level": 3,
           "name": "套索",
           "abName": "玫瑰猎人",
-          "desc": "若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 \n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1",
+          "desc": "<style=\"highlight\">若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1</style>\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n<style=\"highlight\">[BeforeAttack] 下回合使自身获得2层迅捷 \n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -409,7 +409,7 @@
           "level": 4,
           "name": "套索",
           "abName": "玫瑰猎人",
-          "desc": "若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 \n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n- 若该共鸣为暴食共鸣，则使本技能的攻击容量+1",
+          "desc": "若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 \n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n<style=\"highlight\">- 若该共鸣为暴食共鸣，则使本技能的攻击容量+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -472,7 +472,7 @@
           "level": 3,
           "name": "套索",
           "abName": "玫瑰猎人",
-          "desc": "[CantIdentify]\n随机指定目标\n若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 ",
+          "desc": "[CantIdentify]\n随机指定目标\n<style=\"highlight\">若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1</style>\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n<style=\"highlight\">[BeforeAttack] 下回合使自身获得2层迅捷 </style>",
           "coinlist": [
             {
               "coindescs": [
@@ -504,7 +504,7 @@
           "level": 4,
           "name": "套索",
           "abName": "玫瑰猎人",
-          "desc": "[CantIdentify]\n随机指定目标\n若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 \n[EndSkill] 若使目标陷入混乱或击杀目标，则下回合使自身获得1层暴食威力提升 ",
+          "desc": "[CantIdentify]\n随机指定目标\n若自身与目标的速度值之和不低于6，则使本技能的硬币威力+1\n目标每带有7级破裂 强度，使本技能的硬币威力+1(最多+2)\n[BeforeAttack] 下回合使自身获得2层迅捷 \n<style=\"highlight\">[EndSkill] 若使目标陷入混乱或击杀目标，则下回合使自身获得1层暴食威力提升 </style>",
           "coinlist": [
             {
               "coindescs": [

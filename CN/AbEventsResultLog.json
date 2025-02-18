@@ -446,7 +446,7 @@
     },
     {
       "id": "804701_nobodygonnacry_success_1_2",
-      "content": "下回合对[{0}]施加<color=#00ff9c>{2} {1}</color>"
+      "content": "下回合对罪人[{0}]施加<color=#00ff9c>{2} {1}</color>"
     },
     {
       "id": "804701_nobodygonnacry_failure_1_1",

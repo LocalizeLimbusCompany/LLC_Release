@@ -466,7 +466,7 @@
     },
     {
       "id": "mainui_mail_warning",
-      "content": "※最多可保管100个，过期的礼物将被<color=red>删除</color>。"
+      "content": "※最多可保管100个，过期的礼物将被<color=#990000>删除</color>。"
     },
     {
       "id": "mainui_mail_warning2",

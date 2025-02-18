@@ -609,14 +609,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得7层充能 "
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">7</style>层充能 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度×3)层充能 (最多9层)"
+                  "desc": "[OnSucceedAttack] 使自身获得(自身的充能 强度×3)层充能 (最多9层)<style=\"highlight\"></style>"
                 }
               ]
             },

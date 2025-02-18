@@ -68,112 +68,112 @@
     {
       "id": "battle_8173_phaseclear_2",
       "desc": "",
-      "dlg": "<color=purple>真恶心。</color>"
+      "dlg": "真恶心。"
     },
     {
       "id": "battle_8173_phaseclear_3",
       "desc": "",
-      "dlg": "<color=purple>我们无法安息。</color>"
+      "dlg": "我们无法安息。"
     },
     {
       "id": "battle_8173_kill_1",
       "desc": "",
-      "dlg": "<color=purple>不，你必须承受更多痛苦！</color>"
+      "dlg": "不，你必须承受更多痛苦！"
     },
     {
       "id": "battle_8173_kill_2",
       "desc": "",
-      "dlg": "<color=purple>我们甚至无权呼吸。</color>"
+      "dlg": "我们甚至无权呼吸。"
     },
     {
       "id": "battle_8173_kill_3",
       "desc": "",
-      "dlg": "<color=purple>凄惨地合上眼吧。</color>"
+      "dlg": "凄惨地合上眼吧。"
     },
     {
       "id": "battle_8173_skill_1",
       "desc": "",
-      "dlg": "<color=purple>毁灭之时。</color>"
+      "dlg": "毁灭之时。"
     },
     {
       "id": "battle_8173_skill_2",
       "desc": "",
-      "dlg": "<color=purple>愿所有人在痛苦的深渊里挣扎！</color>"
+      "dlg": "愿所有人在痛苦的深渊里挣扎！"
     },
     {
       "id": "battle_8173_phase_1_1",
       "desc": "",
-      "dlg": "<color=purple>你在哪儿……？回我身边来啊，凯瑟琳！</color>"
+      "dlg": "你在哪儿……？回我身边来啊，凯瑟琳！"
     },
     {
       "id": "battle_8173_phase_1_2",
       "desc": "",
-      "dlg": "<color=white>希斯克利夫！</color>"
+      "dlg": "希斯克利夫！"
     },
     {
       "id": "battle_8173_phase_1_3",
       "desc": "",
-      "dlg": "<color=purple>你在哪儿……我能听见你的声音。但愿……</color>"
+      "dlg": "你在哪儿……我能听见你的声音。但愿……"
     },
     {
       "id": "battle_8173_phase_2",
       "desc": "",
-      "dlg": "<color=purple>愿你在苦痛中醒来，我的凯瑟琳。</color>"
+      "dlg": "愿你在苦痛中醒来，我的凯瑟琳。"
     },
     {
       "id": "battle_8173_phase_3",
       "desc": "",
-      "dlg": "<color=purple>求你了，凯瑟琳。在我面前现身吧……将我撕碎吧。\n让我看着你的眼睛咽气吧。</color>"
+      "dlg": "求你了，凯瑟琳。在我面前现身吧……将我撕碎吧。\n让我看着你的眼睛咽气吧。"
     },
     {
       "id": "7SV-016",
       "desc": "",
-      "dlg": "<color=red>你已经可以停止奔跑了。</color>"
+      "dlg": "你已经可以停止奔跑了。"
     },
     {
       "id": "7SV-017",
       "desc": "",
-      "dlg": "<color=red>与如此脆弱之人一同，你究竟能遇到怎样的冒险呢。</color>"
+      "dlg": "与如此脆弱之人一同，你究竟能遇到怎样的冒险呢。"
     },
     {
       "id": "S703V-1312",
       "desc": "",
-      "dlg": "<color=red>我名为……吉诃德！</color>"
+      "dlg": "我名为……吉诃德！"
     },
     {
       "id": "S703V-1313",
       "desc": "",
-      "dlg": "<color=red>我堂吉诃德！用此枪，终结这……荒唐而又幼稚的梦！</color>"
+      "dlg": "我堂吉诃德！用此枪，终结这……荒唐而又幼稚的梦！"
     },
     {
       "id": "S703V-1314",
       "desc": "",
-      "dlg": "<color=yellow>我名为桑丘！</color>"
+      "dlg": "我名为桑丘！"
     },
     {
       "id": "S703V-1314-1",
       "desc": "",
-      "dlg": "<color=yellow>用此枪终结化脓腐烂的怠惰之梦！</color>"
+      "dlg": "用此枪终结化脓腐烂的怠惰之梦！"
     },
     {
       "id": "7SV-104-01",
       "desc": "",
-      "dlg": "<color=yellow>哪怕无法触碰到梦……</color>"
+      "dlg": "哪怕无法触碰到梦……"
     },
     {
       "id": "7SV-104-02",
       "desc": "",
-      "dlg": "<color=yellow>直到我触及它为止……</color>"
+      "dlg": "直到我触及它为止……"
     },
     {
       "id": "7SV-104-03",
       "desc": "",
-      "dlg": "<color=yellow>我都将前进……</color>"
+      "dlg": "我都将前进……"
     },
     {
       "id": "7SV-104-04",
       "desc": "",
-      "dlg": "<color=yellow>不……吾将勇往直前直至终点！！</color>"
+      "dlg": "不……吾将勇往直前直至终点！！"
     }
   ]
 }

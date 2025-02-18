@@ -218,7 +218,7 @@
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count",
-      "content": "※ 通过站点时，<color=yellow>该站历经的回合数</color>将被加至<color=yellow>总回合数</color>中。"
+      "content": "※ 通过站点时，<style=\"yellow\">该站历经的回合数</style>将被加至<style=\"yellow\">总回合数</style>中。"
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_defeat_info_save_battle",
@@ -226,7 +226,7 @@
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_all_died_turn_count",
-      "content": "※ 仅当通过站点后，<color=yellow>该站历经的回合数</color>才将被加至<color=yellow>总回合数</color>中。"
+      "content": "※ 仅当通过站点后，<style=\"yellow\">该站历经的回合数</style>才将被加至<style=\"yellow\">总回合数</style>中。"
     }
   ]
 }
