@@ -214,7 +214,7 @@
           "level": 3,
           "name": "电子哀鸣",
           "abName": "梦中的电子羊",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(嫉妒共鸣数-2)(最多+2)\n[BeforeAttack] 使本技能造成的伤害+(嫉妒共鸣数-3)×8%(最多+24%)\n[BeforeAttack] 若自身的充能 层数低于20层，则每相差1层充能 ，消耗自身体力上限1.5%的体力以获得至20层充能 \n[BeforeAttack] 消耗至多20层充能 ，每消耗1层充能 ，使本技能造成的伤害+3.5%(最多+70%)",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(嫉妒共鸣数-2)(最多+<style=\"highlight\">2</style>)\n[BeforeAttack] 使本技能造成的伤害+(嫉妒共鸣数-3)×<style=\"highlight\">8</style>%(最多+<style=\"highlight\">24</style>%)\n[BeforeAttack] 若自身的充能 层数低于20层，则每相差1层充能 ，消耗自身体力上限1.5%的体力以获得至20层充能 \n[BeforeAttack] 消耗至多20层充能 ，每消耗1层充能 ，使本技能造成的伤害+<style=\"highlight\">3.5</style>%(最多+<style=\"highlight\">70</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -229,7 +229,7 @@
           "level": 4,
           "name": "电子哀鸣",
           "abName": "梦中的电子羊",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(嫉妒共鸣数-2)(最多+3)\n[BeforeAttack] 使本技能造成的伤害+(嫉妒共鸣数-3)×12%(最多+36%)\n[BeforeAttack] 若自身的充能 层数低于20层，则每相差1层充能 ，消耗自身体力上限1%的体力以获得至20层充能 \n[BeforeAttack] 消耗至多20层充能 ，每消耗1层充能 ，使本技能造成的伤害+5%(最多+100%)",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(嫉妒共鸣数-2)(最多+<style=\"highlight\">3</style>)\n[BeforeAttack] 使本技能造成的伤害+(嫉妒共鸣数-3)×<style=\"highlight\">12</style>%(最多+<style=\"highlight\">36</style>%)\n[BeforeAttack] 若自身的充能 层数低于20层，则每相差1层充能 ，消耗自身体力上限<style=\"highlight\">1</style>%的体力以获得至20层充能 \n[BeforeAttack] 消耗至多20层充能 ，每消耗1层充能 ，使本技能造成的伤害+<style=\"highlight\">5</style>%(最多+<style=\"highlight\">100</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -300,7 +300,7 @@
           "level": 3,
           "name": "渴望-蜜卡拉",
           "abName": "四百朵玫瑰",
-          "desc": "使用本技能期间，自身的体力不会降至1点以下。\n若目标的流血 强度不低于10级，则使本技能的硬币威力+1\n自身每带有100层[BloodDinner_Accumulation]，使本技能的拼点威力+1(最多+3)\n[BeforeAttack] 若血宴 层数低于75层，则令本技能每次命中时使目标增加1级流血 强度\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
+          "desc": "使用本技能期间，自身的体力不会降至1点以下。\n<style=\"highlight\">若目标的流血 强度不低于10级，则使本技能的硬币威力+1</style>\n自身每带有100层[BloodDinner_Accumulation]，使本技能的拼点威力+1(最多+<style=\"highlight\">3</style>)\n[BeforeAttack] 若血宴 层数低于<style=\"highlight\">75</style>层，则令本技能每次命中时使目标增加1级流血 强度\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
           "coinlist": [
             {
               "coindescs": [
@@ -308,7 +308,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+10%)"
+                  "desc": "每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+10%)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -318,7 +318,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "若[BloodDinner_Common_Accumulation]不低于100层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+20%)"
+                  "desc": "若[BloodDinner_Common_Accumulation]不低于100层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+<style=\"highlight\">15</style>%)"
                 }
               ]
             },
@@ -328,7 +328,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "若[BloodDinner_Common_Accumulation]不低于200层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+25%)"
+                  "desc": "若[BloodDinner_Common_Accumulation]不低于200层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+<style=\"highlight\">25</style>%)"
                 }
               ]
             },
@@ -338,7 +338,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "若[BloodDinner_Common_Accumulation]不低于300层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+40%)"
+                  "desc": "若[BloodDinner_Common_Accumulation]不低于300层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+<style=\"highlight\">40</style>%)"
                 },
                 {
                   "desc": "[WinDuelAttack] 根据最大色欲完全共鸣数，相应对目标施加[ThirstyRose](最多3层)"
@@ -369,7 +369,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "若[BloodDinner_Common_Accumulation]不低于100层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+20%)"
+                  "desc": "若[BloodDinner_Common_Accumulation]不低于100层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+<style=\"highlight\">20</style>%)"
                 }
               ]
             },
@@ -379,7 +379,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "若[BloodDinner_Common_Accumulation]不低于200层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+30%)"
+                  "desc": "若[BloodDinner_Common_Accumulation]不低于200层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+<style=\"highlight\">30</style>%)"
                 }
               ]
             },
@@ -389,7 +389,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "若[BloodDinner_Common_Accumulation]不低于300层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+50%)"
+                  "desc": "若[BloodDinner_Common_Accumulation]不低于300层，则每有1层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+0.1%(最多+<style=\"highlight\">50</style>%)"
                 },
                 {
                   "desc": "[WinDuelAttack] 根据最大色欲完全共鸣数，相应对目标施加[ThirstyRose](最多4层)"
@@ -453,7 +453,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "每有100层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+10%(最多+50%)"
+                  "desc": "每有100层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+<style=\"highlight\">10</style>%(最多+<style=\"highlight\">50</style>%)"
                 },
                 {
                   "desc": "[WinDuelAttack] 根据最大色欲完全共鸣数，相应对目标施加[ThirstyRose](最多4层)"
@@ -484,7 +484,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "每有100层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+20%(最多+100%)"
+                  "desc": "每有100层[BloodDinner_Common_Accumulation]，使本硬币造成的伤害+<style=\"highlight\">20</style>%(最多+<style=\"highlight\">100</style>%)"
                 },
                 {
                   "desc": "[WinDuelAttack] 根据最大色欲完全共鸣数，相应对目标施加[ThirstyRose](最多5层)"

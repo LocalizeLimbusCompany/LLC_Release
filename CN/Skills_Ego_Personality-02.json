@@ -170,7 +170,7 @@
           "level": 3,
           "name": "永恒",
           "abName": "时间鸭",
-          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(<style=\"highlight\">3.5</style>×速度差)%(最大<style=\"highlight\">35%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数×2)级震颤 强度(最多5级)\n<style=\"highlight\">- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)</style>\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "desc": "若目标的速度值低于自身，则使本技能造成的伤害+(<style=\"highlight\">3.5</style>×速度差)%(最多+<style=\"highlight\">35%</style>)\n[BeforeAttack] 若最大共鸣数不低于3，则使目标增加(最大共鸣数×2)级震颤 强度(最多5级)\n<style=\"highlight\">- 若该最大共鸣为怠惰完全共鸣，则根据增加的震颤 强度，对目标施加相应层数的震颤 (最多5层)</style>\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [

@@ -182,7 +182,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限18%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限<style=\"highlight\">18</style>%的体力"
                 }
               ]
             },
@@ -195,7 +195,7 @@
                   "desc": "[OnSucceedAttackHead] 重复使用本硬币(每个技能最多5次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量6~10%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量<style=\"highlight\">6~10</style>%的体力"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加1层暴食易损 "
@@ -216,7 +216,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复体力上限20%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢复体力上限<style=\"highlight\">20</style>%的体力"
                 }
               ]
             },
@@ -229,7 +229,7 @@
                   "desc": "[OnSucceedAttackHead] 重复使用本硬币(每个技能最多5次)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量8~12%的体力"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量<style=\"highlight\">8~12</style>%的体力"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加1层暴食易损 "
@@ -273,7 +273,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量15%的体力"
+                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量<style=\"highlight\">15</style>%的体力"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] 使目标增加2~5级流血 强度"
@@ -291,7 +291,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量20%的体力"
+                  "desc": "[OnSucceedAttackTail] 使自身恢复本硬币伤害量<style=\"highlight\">20</style>%的体力"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] 使目标增加3~6级流血 强度"
