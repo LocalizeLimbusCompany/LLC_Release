@@ -213,7 +213,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咬断",
+          "name": "啮",
           "desc": "[WhenUse] 自身每带有4级呼吸法 强度，使本技能的最终威力+1(最多+5)",
           "coinlist": [
             {
