@@ -283,11 +283,11 @@
       "simpleDesc": [
         {
           "abilityID": 9762,
-          "simpleDesc": "施加随机负面状态"
+          "simpleDesc": "施加随机减益效果"
         },
         {
           "abilityID": 97621,
-          "simpleDesc": "获得随机正面状态"
+          "simpleDesc": "获得随机增益效果"
         }
       ]
     },
@@ -313,11 +313,11 @@
       "simpleDesc": [
         {
           "abilityID": 9764,
-          "simpleDesc": "施加随机负面状态"
+          "simpleDesc": "施加随机减益效果"
         },
         {
           "abilityID": 97641,
-          "simpleDesc": "获得随机正面状态"
+          "simpleDesc": "获得随机增益效果"
         },
         {
           "abilityID": 97642,
@@ -336,7 +336,7 @@
         },
         {
           "abilityID": 97651,
-          "simpleDesc": "施加随机正面状态"
+          "simpleDesc": "施加随机增益效果"
         },
         {
           "abilityID": 97652,

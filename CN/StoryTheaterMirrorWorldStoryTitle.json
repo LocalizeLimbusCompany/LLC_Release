@@ -178,7 +178,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10806",
-      "content": "六协会南部4科：以实玛利的故事"
+      "content": "六协会 南部4科：以实玛利的故事"
     },
     {
       "id": "MirrorWorld_Story_Title_P10506",
@@ -471,6 +471,10 @@
     {
       "id": "MirrorWorld_Story_Title_P10712",
       "content": "黑云会 若众：希斯克利夫的故事"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10112",
+      "content": "六协会 南部3科：李箱的故事"
     }
   ]
 }

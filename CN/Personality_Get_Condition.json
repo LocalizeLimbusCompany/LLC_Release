@@ -943,6 +943,14 @@
     {
       "id": "10712_getCondition_gacksung",
       "content": "黑云会 若众 希斯克利夫 3阶段同步完成"
+    },
+    {
+      "id": "10112_getCondition_normal",
+      "content": "获得六协会 南部3科 李箱"
+    },
+    {
+      "id": "10112_getCondition_gacksung",
+      "content": "六协会 南部3科 李箱 3阶段同步完成"
     }
   ]
 }

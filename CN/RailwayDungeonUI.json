@@ -34,7 +34,7 @@
     },
     {
       "id": "stage_info",
-      "content": "站点情报"
+      "content": "站点信息"
     },
     {
       "id": "stage_number",
@@ -170,7 +170,7 @@
     },
     {
       "id": "railway_clear_turn_count_by_stage",
-      "content": "各站点通关回合数"
+      "content": "各区段通关回合数"
     }
   ]
 }

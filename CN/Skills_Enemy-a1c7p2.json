@@ -812,7 +812,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[FestivalFever]"
                 }
               ]
             }
@@ -909,7 +909,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得2层[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[FestivalFever]"
                 }
               ]
             }
@@ -1099,7 +1099,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 使目标增加5级流血 强度并对其施加2层流血 "
+                  "desc": "[WinDuelAttack] 使目标增加4级流血 强度并对其施加3层流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身获得2~3层[BloomingThorns]"

@@ -174,7 +174,7 @@
         {
           "level": 1,
           "name": "闪避",
-          "desc": "若目标的理智值低于0点，则使本技能的硬币威力+1\n若目标的沉沦 强度不低于10级，则使本技能的基础威力+1\n[OnSucceedEvade] 使目标失去5点理智值",
+          "desc": "[OnSucceedEvade] 使目标失去5点理智值",
           "coinlist": [
             {
               "coindescs": [

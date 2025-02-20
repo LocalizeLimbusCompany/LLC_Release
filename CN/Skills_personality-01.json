@@ -1628,6 +1628,303 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "炎斩",
+          "desc": "若目标的烧伤 强度不低于6级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "炎斩",
+          "desc": "若目标烧伤 强度不低于3级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "炎斩",
+          "desc": "目标每带有3级烧伤 强度，使本技能的硬币威力+1(最多+2)\n目标每带有10级烧伤 强度，使本技能造成的伤害+10%(最多+30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "长驱直入",
+          "desc": "若目标的烧伤 强度不低于6级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若目标的烧伤 强度不低于6级，则对其施加2层烧伤 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "长驱直入",
+          "desc": "目标每带有6级烧伤 强度，使本技能的硬币威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目标每带有1级烧伤 强度，使本硬币造成的伤害+2.5%(最多+30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的烧伤 强度不低于6级，则对其施加2层烧伤 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "长驱直入",
+          "desc": "目标每带有6级烧伤 强度，使本技能的硬币威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目标每带有1级烧伤 强度，使本硬币造成的伤害+5%(最多+60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的烧伤 强度不低于6级，则对其施加2层烧伤 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "剑之所向",
+          "desc": "若目标的烧伤 强度不低于6级，则使本技能的硬币威力+1\n目标每带有6级烧伤 强度，使本技能造成的伤害+10%(最多+30%)\n[EndSkill] 使理智值最低的1名友方单位恢复10点理智值\n- 若击杀目标，或目标的烧伤 强度不低于10级，则额外使1名友方单位恢复理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目标每带有1级烧伤 强度，使本硬币造成的伤害+2%(最多+60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其烧伤 强度点暴怒伤害(最多30点)，并使其烧伤 层数减少2层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "剑之所向",
+          "desc": "目标每带有6级烧伤 强度，使本技能的硬币威力+1(最多+2)\n目标每带有6级烧伤 强度，使本技能造成的伤害+10%(最多+30%)\n[EndSkill] 使理智值最低的1名友方单位恢复15点理智值\n- 若击杀目标，或目标的烧伤 强度不低于10级，则额外使1名友方单位恢复理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "目标每带有1级烧伤 强度，使本硬币造成的伤害+2%(最多+60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其烧伤 强度点暴怒伤害(最多30点)，并使其烧伤 层数减少2层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "炎反",
+          "desc": "[BeforeHit] 使自身获得相当于目标烧伤 强度的护盾(最多10点，每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度\n- 若自身带有护盾，则使目标额外增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度\n- 若自身带有护盾，则使目标额外增加1级烧伤 强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "炎反",
+          "desc": "[BeforeHit] 使自身获得相当于目标烧伤 强度的护盾(最多15点，每回合最多1次)\n[WhenUse] 若目标的烧伤 强度不低于10级，则使本技能造成的伤害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度\n- 若自身带有护盾，则使目标额外增加1级烧伤 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级烧伤 强度\n- 若自身带有护盾，则使目标额外增加1级烧伤 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

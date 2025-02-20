@@ -538,7 +538,7 @@
     },
     {
       "id": "mainui_currencies",
-      "content": "货币"
+      "content": "道具"
     },
     {
       "id": "mainui_inventory",
@@ -854,7 +854,7 @@
     },
     {
       "id": "used_currencies",
-      "content": "所用货币"
+      "content": "所用道具"
     },
     {
       "id": "mainui_ask_purchase_enkephalin_module",

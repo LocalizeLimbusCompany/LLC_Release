@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "无法洗清的罪…",
-          "desc": "[WhenUse] 使自身增加20级流血 强度并对自身施加1层流血 \n[DefeatDuel] 对自身施加1层流血 ",
+          "desc": "[WhenUse] 使自身增加20级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "应得的惩罚…",
-          "desc": "[WhenUse] 使自身增加20级流血 强度并对自身施加1层流血 \n[DefeatDuel] 对自身施加1层流血 ",
+          "desc": "[WhenUse] 使自身增加20级流血 强度并对自身施加1层流血 ",
           "coinlist": [
             {
               "coindescs": [
@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层[WornHeart]与1层[BloodyHand]"
+                  "desc": "[OnSucceedAttack] 使自身获得1层[WornHeart]与2层[BloodyHand]"
                 }
               ]
             }
@@ -82,14 +82,23 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] 对目标施加2层流血 \n[OnSucceedAttack] 若现存体力不低于50%，则触发自身的流血 并使自身的流血 层数减少1层"
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若现存体力不低于50%，则触发自身的流血 。消耗自身的1层流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得3层[WornHeart]与3层[BloodyHand]\n[OnSucceedAttack] 若自身的[WornHeart]层数不低于10层，则使自身额外获得3层[BloodyHand]并在下回合获得1层攻击等级提升 "
+                  "desc": "[OnSucceedAttack] 使自身获得3层[WornHeart]与3层[BloodyHand]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若[WornHeart]的层数为10层，则使自身额外获得3层[BloodyHand]，下回合使自身获得1层攻击等级提升 "
                 }
               ]
             }
@@ -122,12 +131,15 @@
         {
           "level": 1,
           "name": "如此丰富…",
-          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 消耗至多30层血宴 ，每消耗10层血宴 ，使本技能的硬币威力+1\n[DefeatDuel] 下回合对自身施加1层易损 ",
+          "desc": "[WhenUse] 若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 消耗至多30层血宴 ，每消耗10层血宴 ，使本技能的硬币威力+1(第1枚硬币攻击结束后解除本效果)\n[DefeatDuel] 下回合对自身施加1层易损 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             },
@@ -141,7 +153,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复相当于本硬币伤害量的体力(最多30点)\n[OnSucceedAttack] 若本技能消耗了30层血宴 ，且自身的[BloodyHand_3rd]层数不低于30层，则重复使用本硬币1次\n- 若本技能未消耗血宴 ，则使自身增加20级流血 强度"
+                  "desc": "[OnSucceedAttack] 使自身恢复相当于本硬币伤害量的体力(最多30点)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若本技能消耗了30层血宴 ，且自身带有的[BloodyHand_3rd]的层数不低于30层，则重复使用本硬币1次"
+                },
+                {
+                  "desc": "- 若本技能未消耗血宴 ，则使自身增加20级流血 强度"
                 }
               ]
             }
@@ -155,7 +173,7 @@
         {
           "level": 1,
           "name": "为家族的牺牲",
-          "desc": "[WhenUse] 若现存体力不低于50%，则触发自身的流血 (最多3次；根据触发的流血 次数，相应使自身的流血 层数减少；不会因该伤害而陷入混乱)\n[WhenUse] 使全体友方单位恢复5点理智值(包括自身)",
+          "desc": "[StartBattle] 若现存体力不低于50%，则触发自身的流血 (最多3次；根据触发的流血 次数，相应使自身的流血 层数减少；不会因该伤害而陷入混乱)\n[StartBattle] 使全体友方单位恢复5点理智值(包括自身)",
           "coinlist": [
             {
               "coindescs": [

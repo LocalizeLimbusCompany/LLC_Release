@@ -243,6 +243,10 @@
     {
       "id": "UnBrokenCoinOnSucceedAttack",
       "name": "[未摧毁 - 命中时]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[受到攻击前]"
     }
   ]
 }
