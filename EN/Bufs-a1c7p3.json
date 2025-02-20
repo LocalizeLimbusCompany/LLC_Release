@@ -3,21 +3,21 @@
     {
       "id": "BloodyHand_2nd",
       "name": "Bloodied Hand II",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- On Hit with this unit's Skill, inflict 2 more Rupture\n- Gain 1 Offense Level for every 6 Stack\n- On Hit with this unit's Skill, inflict 1 Bleed both on self and against the target",
+      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- Gain 1 Offense Level for every 6 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHand_3rd",
       "name": "Bloodied Hand III",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- Gain 1 Attack Power\n- On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target",
+      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- Gain 1 Attack Power\n- At 30 Stack: On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- At 30 Stack: On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WornHeart",
       "name": "Ailing Heart",
-      "desc": "- Max Stack: 10\n- Enters Encounter with 3 Stack\n- Turn Start: gain 1 Defense Level Down for every Stack\n- Turn Start: gain 1 Offense Level Down for every 2 Stack\n- Turn Start: at 10 Stack, gain 3 Fragile and lose 5 SP\n- At 10 Stack: On Hit, heal 40% of the damage dealt to this unit's Part and Core",
+      "desc": "- Max Stack: 10\n- Enters Encounter with 3 Stack\n- Turn Start: gain 1 Defense Level Down for every Stack\n- Turn Start: gain 1 Offense Level Up for every 2 Stack\n- Turn Start: at 10 Stack, gain 3 Fragile and lose 5 SP\n- At 10 Stack: On Hit, heal 40% of the damage dealt to this unit's Part and Core, and gain 2 Bloodied Hand",
       "summary": "",
       "undefined": "-"
     },

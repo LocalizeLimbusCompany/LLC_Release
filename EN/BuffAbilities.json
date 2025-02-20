@@ -48,7 +48,7 @@
     },
     {
       "id": "TakeHpHealMultiplier",
-      "desc": "HP Healed from Skill Effects {0}%"
+      "desc": "HP Healed from Skill and Coin Effects {0}%"
     },
     {
       "id": "RecoverSelfHpOnSucceedAttackByDmg",
@@ -159,6 +159,190 @@
     {
       "id": "DefaultMaxHpMultiplier",
       "desc": "Max HP {0}%"
+    },
+    {
+      "id": "ResistAdderForLastBoss",
+      "desc": "Final Boss of Section 3 {0} Resistance {1}"
+    },
+    {
+      "id": "MRR519P",
+      "desc": "Whenever an ally dies, inflict fixed damage equal to 20% of the dead ally's max HP against all enemies"
+    },
+    {
+      "id": "HealSelfOnSucceedAttackByDmgRatio",
+      "desc": "On Hit, if the hit reduced the target's HP, heal by {0}% of the damage dealt"
+    },
+    {
+      "id": "MRR524P",
+      "desc": "All Skills deal +1% more damage for every 10 {0} on self (max 30%)"
+    },
+    {
+      "id": "MRR525",
+      "desc": "Turn End: lose {1} {0} Count"
+    },
+    {
+      "id": "CoinScaleAdderByAtkType",
+      "desc": "{0} Skills gain Plus Coin Power +{1}, Minus Coin Power -{1}"
+    },
+    {
+      "id": "GiveBuffOnReleaseStandBy",
+      "desc": "Gain {1} {0} when Substituting in"
+    },
+    {
+      "id": "MRR532",
+      "desc": "After using an Awakening E.G.O, also consume 1 E.G.O resource from 3 random Sin Affinities with more than 1 E.G.O resource."
+    },
+    {
+      "id": "LacerationStackAndTurnAdder",
+      "desc": "+{0} to {1} Potency and Count inflicted with Skill & Coin effects"
+    },
+    {
+      "id": "MRR536",
+      "desc": "When hit by a Skill, randomly gain 1 of the following next turn: {0}, {1} (4 times max)"
+    },
+    {
+      "id": "MRR540",
+      "desc": "Skills that consume {0} gain the following: Final Power +1, deal +10% more damage"
+    },
+    {
+      "id": "MRR541",
+      "desc": "When mainly targeting the unit with the lowest {1}, Skill Final Power +{0}"
+    },
+    {
+      "id": "MRR518P",
+      "desc": "Combat Start: 3 currently earliest Deployed allies gain 10 Poise Potency"
+    },
+    {
+      "id": "MRR520P",
+      "desc": "On death, inflict fixed damage equal to {0}% of the dead unit's max HP against all enemies (for Focused Encounters, all Parts)"
+    },
+    {
+      "id": "MRR517",
+      "desc": "When hit by a Skill, gain 2 Offense Level Up next turn (max 6)"
+    },
+    {
+      "id": "MRR5051",
+      "desc": "On Hit with Skills that consumed 8+ {0} Count: +0.1 to {1} Resistance on the target for this Encounter\n- Once per Skill per Enemy\n- Max Resistance adjustment with this effect: 0.3"
+    },
+    {
+      "id": "MRR5052",
+      "desc": "Skills that gain or consume {0} Count deal +(10 + (Charge Count consumed x 2))% more damage (max 50%)"
+    },
+    {
+      "id": "MRR506",
+      "desc": "Turn End: for each Keyword, against all enemy Parts with 2+ Count, inflict {1} damage equal to {0} Potency on each Part; then, reduce their {0} Count by 1, trigger {2} once, and reduce their {3} Count by 1"
+    },
+    {
+      "id": "MRR507",
+      "desc": "Skills that inflict {0} Potency or Count: Final Power +2"
+    },
+    {
+      "id": "MRR508",
+      "desc": "Deal +({0} Potency on the target)% more damage against targets at less than 0 SP or without SP (max 45%)"
+    },
+    {
+      "id": "MRR509P",
+      "desc": "Deal +{0}% more damage against Destroyed or Staggered Parts"
+    },
+    {
+      "id": "GiveBuffOnFirstRoundStartPerWave",
+      "desc": "First Turn Start of a wave: gain {1} {0} Potency and +{2} {0} Count"
+    },
+    {
+      "id": "GiveBuffOnBattleStartAR",
+      "desc": "If {0} Reson. was activated, all allies gain {2} {1} Potency and +{3} {1} Count at Combat Start"
+    },
+    {
+      "id": "MRR511PMaxSpeedAdder",
+      "desc": "#1 Deployed ally: Max Speed +1"
+    },
+    {
+      "id": "MRR511PMinSpeedAdder",
+      "desc": "#1 Deployed ally: Min Speed +1"
+    },
+    {
+      "id": "MRR511PMinSpeedChangeSkill",
+      "desc": "#1 Deployed Ally: lose a Skill 1, but gain a Skill 3"
+    },
+    {
+      "id": "MRR512",
+      "desc": "Starting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal {0} SP, gain {2} {1} for the Encounter, and gain {3} E.G.O resource for each one of their Skills 1, 2, and 3"
+    },
+    {
+      "id": "AddSinStockOnKillTargetByUsedSkillAttribute",
+      "desc": "After using an Attack or a Counter Skill, if the enemy is defeated, gain {0} E.G.O resource of the Skill Affinity that was used (once per Skill, including E.G.O Skills)"
+    },
+    {
+      "id": "MRR514",
+      "desc": "When backup enemies enter the battle, inflict 5 Bleed and +3 Bleed against them at Combat Start. If there is a <Bloodfiend> among allies: when above conditions are met: activate Bleed on all enemies once and reduce their Bleed Count by 1"
+    },
+    {
+      "id": "EnemyLevelTextOnly",
+      "desc": "Enemy Level {0}"
+    },
+    {
+      "id": "MRR501",
+      "desc": "+{0} to Burn, Bleed, Tremor, Rupture, and Sinking Potency inflicted against enemies with Skills & Coin effects"
+    },
+    {
+      "id": "TakeBuffTurnAdder",
+      "desc": "{1} to {0} Count gained by allies with Skills & Coin effects"
+    },
+    {
+      "id": "MRR503",
+      "desc": "{0} allies with the least SP heal {1} SP at Turn End (excluding: allies that are Panicked or Corroded)"
+    },
+    {
+      "id": "CriticalDamageBoostWithBuffUse",
+      "desc": "On Crit, at more than {1} {0} Potency, consume up to {1} of the excess {0} Potency to deal +(Poise Potency consumed x {2})% more damage on Critical Hit (max {3}%)"
+    },
+    {
+      "id": "GainSinStockOnDieByDefaultSkill",
+      "desc": "When defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has"
+    },
+    {
+      "id": "MRR547",
+      "desc": "Turn Start: All enemy Skills gain Final Power +1~3"
+    },
+    {
+      "id": "MRR544",
+      "desc": "Turn Start: All ally Skills gain Final Power +1~3"
+    },
+    {
+      "id": "MRR551",
+      "desc": "Turn Start: at max HP, gain {1} {0} Potency and +{2} Count (once per enemy per Part per Encounter)"
+    },
+    {
+      "id": "MRR552",
+      "desc": "On death, 1 ally with the least current HP gains {1} {0} next turn"
+    },
+    {
+      "id": "MRR553",
+      "desc": "E.G.O Skills deal +{0}% more damage"
+    },
+    {
+      "id": "MRR521",
+      "desc": "Remove the first Stagger threshold"
+    },
+    {
+      "id": "MRR557",
+      "desc": "Deal +(10 + {0} Potency + {0} Count)% more damage on Critical Hit (max 50%)"
+    },
+    {
+      "id": "LacerationStackAndTurnAdderIfNotZero",
+      "desc": "+{0} to {1} Potency and Count inflicted with Skill & Coin effects"
+    },
+    {
+      "id": "AttackDmgMultiplierSpecificType",
+      "desc": "{0} Skills deal +30% more damage"
+    },
+    {
+      "id": "MRR565MaxSpeedAdder",
+      "desc": "Max Speed {0}"
+    },
+    {
+      "id": "MRR565MinSpeedAdder",
+      "desc": "Min Speed {0}"
     }
   ]
 }

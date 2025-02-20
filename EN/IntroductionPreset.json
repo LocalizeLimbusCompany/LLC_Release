@@ -1451,6 +1451,22 @@
     {
       "id": "introduce_sentence_182",
       "content": "I accept your {0} challenge."
+    },
+    {
+      "id": "introduce_word_183",
+      "content": "Embers"
+    },
+    {
+      "id": "introduce_sentence_183",
+      "content": "Ah, be wary of (the) {0}."
+    },
+    {
+      "id": "introduce_word_184",
+      "content": "Breathe"
+    },
+    {
+      "id": "introduce_sentence_184",
+      "content": "Do you recall the moment when you could {0} free for the first time?"
     }
   ]
 }

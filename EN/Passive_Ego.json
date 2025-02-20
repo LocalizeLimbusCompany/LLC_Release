@@ -454,6 +454,11 @@
       "id": 2040811,
       "name": "Breath",
       "desc": "Next Turn Start after using this E.G.O Skill: gain 1 [NebulizerInhale] (once per turn)\n- If this Skill defeated enemies, gain additional [NebulizerInhale] equal to the number of targets defeated\n- If this Skill defeated allies, gain (targets defeated x 2) additional [NebulizerInhale]\n- This value Stacks over this Encounter's duration"
+    },
+    {
+      "id": 2020811,
+      "name": "Breath",
+      "desc": "Next Turn Start after using this E.G.O Skill: gain 1 [NebulizerExhale] (once per turn)\n- This value Stacks throughout the Encounter\n\nCombat Start: gain 1 [NebulizerExhale] every time this unit applies 10 [Breath] Count to allies with [NebulizerExhale] effects\n\nTurn End: starting from allies with the lowest HP percentages, heal ([NebulizerExhale] Stack)% HP for (highest Reson.) allies (max 6)\n- If the unit receiving healing has 20+ [Breath] Potency, activate healing 1 more time"
     }
   ]
 }

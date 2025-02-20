@@ -962,14 +962,13 @@
           "desc": "",
           "coinlist": [
             {},
-            {},
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] 攻撃レベル減少 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに束縛 2を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに束縛2を付与"
                 }
               ]
             },

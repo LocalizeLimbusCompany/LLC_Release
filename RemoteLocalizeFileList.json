@@ -8,6 +8,7 @@
         "AbEventsResultLog_Refraction2",
         "AbEventsResultLog_Refraction3",
         "AbEventsResultLog_Refraction4",
+        "AbEventsResultLog_Refraction5",
         "DungeonArea1-1",
         "DungeonArea1-2",
         "BattlePass",
@@ -81,7 +82,9 @@
         "MirrorDungeonUI_5",
         "Walpu5EventText",
         "EventLCBCheckupText",
-        "AbEventsResultLog-a1c971"
+        "AbEventsResultLog-a1c971",
+        "EventLCBCheckupText",
+        "RailwayDungeonUI_5"
     ],
     "character": [
         "Characters"
@@ -95,6 +98,7 @@
         "Enemies_Refraction2",
         "Enemies_Refraction3",
         "Enemies_Refraction4",
+        "Enemies_Refraction5",
         "Enemies91-4",
         "Enemies-a1c5p1",
         "Enemies-a1c5p2",
@@ -155,6 +159,7 @@
         "Skills_Abnormality_Refraction2",
         "Skills_Abnormality_Refraction3",
         "Skills_Abnormality_Refraction4",
+        "Skills_Abnormality_Refraction5",
         "Skills_Abnormality-ycgd",
         "Skills_Abnormality_Mirror",
         "Skills_Tutorial",
@@ -202,6 +207,7 @@
         "Passives_Abnormality_Refraction2",
         "Passives_Abnormality_Refraction3",
         "Passives_Abnormality_Refraction4",
+        "Passives_Abnormality_Refraction5",
         "Passives_Abnormality91-4",
         "Passives_Abnormality-ycgd",
         "Passive_Ego",
@@ -240,6 +246,7 @@
         "Bufs_Refraction2",
         "Bufs_Refraction3",
         "Bufs_Refraction4",
+        "Bufs_Refraction5",
         "Bufs-a1c5p1",
         "Bufs-a1c5p2",
         "Bufs-a1c5p3",
@@ -275,6 +282,7 @@
         "BattleKeywords_Refraction2",
         "BattleKeywords_Refraction3",
         "BattleKeywords_Refraction4",
+        "BattleKeywords_Refraction5",
         "BattleKeywords-a1c5p1",
         "BattleKeywords-a1c5p2",
         "BattleKeywords-a1c5p3",
@@ -303,6 +311,7 @@
         "AbEvents_Refraction2",
         "AbEvents_Refraction3",
         "AbEvents_Refraction4",
+        "AbEvents_Refraction5",
         "AbEvents_Mirror",
         "AbEvents-a1c5p1",
         "AbEvents-a1c5p2",
@@ -341,6 +350,7 @@
         "AbnormalityGuides_Refraction2",
         "AbnormalityGuides_Refraction3",
         "AbnormalityGuides_Refraction4",
+        "AbnormalityGuides_Refraction5",
         "AbnormalityGuides_Mirror",
         "AbnormalityGuides-a1c5p1",
         "AbnormalityGuides-a1c5p2",
@@ -362,6 +372,7 @@
         "ActionEvents_Refraction2",
         "ActionEvents_Refraction3",
         "ActionEvents_Refraction4",
+        "ActionEvents_Refraction5",
         "ActionEvents_Mirror",
         "ActionEvents-a1c5p1",
         "ActionEvents-a1c5p2",
@@ -447,7 +458,8 @@
         "RailwayDungeonNode1-1",
         "RailwayDungeonNode2",
         "RailwayDungeonNode3",
-        "RailwayDungeonNode4"
+        "RailwayDungeonNode4",
+        "RailwayDungeonNode5"
     ],
     "railwayDungeon": [
         "RailwayDungeon"
@@ -622,7 +634,8 @@
         "Voice_Yisang_LCE_10111",
         "Voice_Faust_LCE_10211",
         "Voice_Ishmael_Kurokumo_10811",
-        "Voice_Heathcliff_Kurokumo_10712"
+        "Voice_Heathcliff_Kurokumo_10712",
+        "Voice_Yisang_LiuAssoc_10112"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -740,7 +753,8 @@
         "RailwayDungeonStationName1-1",
         "RailwayDungeonStationName2",
         "RailwayDungeonStationName3",
-        "RailwayDungeonStationName4"
+        "RailwayDungeonStationName4",
+        "RailwayDungeonStationName5"
     ],
     "railwayDungeonBuff": [
         "RailwayDungeonBuff"

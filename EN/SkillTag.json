@@ -243,6 +243,10 @@
     {
       "id": "UnBrokenCoinOnSucceedAttack",
       "name": "[On Hit without Cracking]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[Before Getting Hit]"
     }
   ]
 }

@@ -772,7 +772,7 @@
             {},
             {},
             {},
-            {              
+            {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Sinking] 횟수 2 증가"
@@ -789,12 +789,12 @@
             {},
             {},
             {},
-            {              
+            {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Sinking] 횟수 3 증가"
                 }
-            ]
+              ]
             }
           ]
         }
@@ -833,7 +833,6 @@
         }
       ]
     },
-
     {
       "id": 1010901,
       "levelList": [
@@ -1388,7 +1387,6 @@
         }
       ]
     },
-
     {
       "id": 1011101,
       "levelList": [
@@ -1624,6 +1622,303 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] [Burst] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "염참",
+          "desc": "대상의 [Combustion] 6 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "염참",
+          "desc": "대상의 [Combustion] <style=\"highlight\">3</style> 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "염참",
+          "desc": "대상의 [Combustion] <style=\"highlight\">3 당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n<style=\"highlight\">대상의 [Combustion] 10 당, 피해량 +10% (최대 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "정면돌파",
+          "desc": "대상의 [Combustion] 6 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, [Combustion] 횟수 2 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "정면돌파",
+          "desc": "대상의 [Combustion] 6 당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 [Combustion]당, 피해량 +2.5% (최대 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, [Combustion] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "정면돌파",
+          "desc": "대상의 [Combustion] 6 당, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 [Combustion]당, 피해량 +<style=\"highlight\">5</style>% (최대  <style=\"highlight\">60</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, [Combustion] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "검의 흐름",
+          "desc": "대상의 [Combustion] 6 이상이면, 코인 위력 +1\n대상의 [Combustion] 6 당, 피해량 +10% (최대 30%)\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 아군 1명 정신력 10 회복\n- 공격 대상을 처치했거나 공격 대상의 [Combustion]이 10 이상이면, 인원 1명 추가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 [Combustion]당, 피해량 +2% (최대 60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 위력만큼 분노 속성 피해를 줌 (최대 30). 대상의 [Combustion] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "검의 흐름",
+          "desc": "대상의 [Combustion] 6 <style=\"highlight\">당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n대상의 [Combustion] 6 당, 피해량 +10% (최대 30%)\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 아군 1명 정신력 <style=\"highlight\">15</style> 회복\n- 공격 대상을 처치했거나 공격 대상의 [Combustion]이 10 이상이면, 인원 1명 추가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "대상의 [Combustion]당, 피해량 +2% (최대 60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 위력만큼 분노 속성 피해를 줌 (최대 30). 대상의 [Combustion] 횟수 2 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "염반",
+          "desc": "[BeforeHit] 대상의 [Combustion]만큼 보호막을 얻음 (최대 10, 턴 당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "염반",
+          "desc": "[BeforeHit] 대상의 [Combustion]만큼 보호막을 얻음 (최대 15, 턴 당 1회)\n[WhenUse] 대상의 [Combustion]이 10 이상이면, 피해량 +10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여"
                 }
               ]
             }

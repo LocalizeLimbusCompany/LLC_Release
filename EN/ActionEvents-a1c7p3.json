@@ -8,12 +8,14 @@
             "options": [
                 {
                     "message": "Hug the teddy bear.",
+                    "messageDesc": "Select to reduce the Abnormality's Clash Power. Pass a Lust check, and the selected Identity loses some HP but greatly heals SP",
                     "result": [
                         ""
                     ]
                 },
                 {
                     "message": "Look away.",
+                    "messageDesc": "All Identities lose SP",
                     "result": [
                         "Perhaps the nails looked too threatening.\n\nNo one wanted to get close to the bear plush.\n\nIt slumps its shoulders, clearly hurt.\n\nIt's clear that most Sinners felt bad about this decision."
                     ]

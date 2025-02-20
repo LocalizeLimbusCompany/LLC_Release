@@ -174,7 +174,7 @@
                 {
                     "level": 1,
                     "name": "回避",
-                    "desc": "対象の精神力が0未満なら、コイン威力 +1\n対象の[Sinking]が10以上なら、基本威力 +1\n[OnSucceedEvade] 対象の精神力が5減少",
+                    "desc": "[OnSucceedEvade] 対象の精神力を5減少",
                     "coinlist": [
                         {
                             "coindescs": [

@@ -170,7 +170,7 @@
     },
     {
       "id": "railway_clear_turn_count_by_stage",
-      "content": "ステージ別クリアターン数"
+      "content": "区間別クリアターン数"
     }
   ]
 }

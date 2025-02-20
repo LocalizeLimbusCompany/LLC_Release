@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "씻을 수 없는 죄를...",
-          "desc": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가\n[DefeatDuel] 자신의 [Laceration] 횟수 1 증가",
+          "desc": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "마땅한 벌을...",
-          "desc": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가\n[DefeatDuel] 자신의 [Laceration] 횟수 1 증가",
+          "desc": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가",
           "coinlist": [
             {
               "coindescs": [
@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 1 얻음"
+                  "desc": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 2 얻음"
                 }
               ]
             }
@@ -82,14 +82,23 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] [Laceration] 횟수 2 증가\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴. 자신의 [Laceration] 횟수 1 소모"
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴. 자신의 [Laceration] 횟수 1 소모"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 3 얻음\n[OnSucceedAttack] [WornHeart]이 10이면, [BloodyHand]을 추가로 3 얻고 다음 턴에 [AttackUp] 1 얻음"
+                  "desc": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 3 얻음"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [WornHeart]이 10이면, [BloodyHand]을 추가로 3 얻고 다음 턴에 [AttackUp] 1 얻음"
                 }
               ]
             }
@@ -122,12 +131,15 @@
         {
           "level": 1,
           "name": "이토록 풍요로울 수가...",
-          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 10당 코인 위력 +1\n[DefeatDuel] 다음 턴에 [Vulnerable] 1 얻음",
+          "desc": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 10당 코인 위력 +1 (첫번째 코인의 공격 종료시 효과 소멸)\n[DefeatDuel] 다음 턴에 [Vulnerable] 1 얻음",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] [Laceration] 4 부여"
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
                 }
               ]
             },
@@ -141,7 +153,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 30)\n[OnSucceedAttack] 이 스킬에서 [BloodDinner]을 30 소모했고, [BloodyHand_3rd]이 30이면 이 코인 1회 재사용\n- 이 스킬에서 [BloodDinner]을 소모하지 못했으면, 자신에게 [Laceration] 20 부여"
+                  "desc": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 30)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 이 스킬에서 [BloodDinner]을 30 소모했고, [BloodyHand_3rd]이 30이면 이 코인 1회 재사용"
+                },
+                {
+                  "desc": "- 이 스킬에서 [BloodDinner]을 소모하지 못했으면, 자신에게 [Laceration] 20 부여"
                 }
               ]
             }
@@ -155,7 +173,7 @@
         {
           "level": 1,
           "name": "가족을 위한 헌신",
-          "desc": "[WhenUse] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴 (최대 3회. 발동된 횟수만큼 출혈 횟수 감소. 이 피해로 흐트러지지 않음)\n[WhenUse] 모든 아군의 정신력 5 회복 (자신 포함)",
+          "desc": "[StartBattle] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴 (최대 3회. 발동된 횟수만큼 출혈 횟수 감소. 이 피해로 흐트러지지 않음)\n[StartBattle] 모든 아군의 정신력 5 회복 (자신 포함)",
           "coinlist": [
             {
               "coindescs": [

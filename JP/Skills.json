@@ -8227,7 +8227,7 @@
         {
           "level": 1,
           "name": "やめ…",
-          "desc": "[StartBattle] 自分の精神力を5~10回復",
+          "desc": "[StartBattle] 自分の精神力を5～10回復",
           "coinlist": [
             {}
           ]

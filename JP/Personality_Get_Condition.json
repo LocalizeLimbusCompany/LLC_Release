@@ -943,6 +943,14 @@
     {
       "id": "10712_getCondition_gacksung",
       "content": "黒雲会若衆ヒースクリフ 同期化3段階達成"
+    },
+    {
+      "id": "10112_getCondition_normal",
+      "content": "南部リウ協会3課イサン 獲得時"
+    },
+    {
+      "id": "10112_getCondition_gacksung",
+      "content": "南部リウ協会3課イサン 同期化3段階達成"
     }
   ]
 }

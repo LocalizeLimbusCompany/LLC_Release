@@ -812,7 +812,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] [BloomingThorns]を2得る"
+                                    "desc": "[OnSucceedAttack] [FestivalFever]を2得る"
                                 }
                             ]
                         }
@@ -909,7 +909,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] [BloomingThorns]を2得る"
+                                    "desc": "[OnSucceedAttack] [FestivalFever]を2得る"
                                 }
                             ]
                         }
@@ -1099,7 +1099,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] [Laceration]5を付与、[Laceration]回数が2増加"
+                                    "desc": "[WinDuelAttack] [Laceration]4を付与、[Laceration]回数が3増加"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] [BloomingThorns]を2～3得る"

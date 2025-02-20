@@ -1628,6 +1628,303 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "炎斬",
+          "desc": "対象の[Combustion]が6以上ならコイン威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "炎斬",
+          "desc": "対象の[Combustion]が<style=\"highlight\">3</style>以上ならコイン威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "炎斬",
+          "desc": "対象の[Combustion]<style=\"highlight\">3につき</style>コイン威力 +1<style=\"highlight\">(最大2)</style>\n<style=\"highlight\">対象の[Combustion]10につき、ダメージ量 +10%(最大30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "正面突破",
+          "desc": "対象の[Combustion]が6以上ならコイン威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、[Combustion]回数が2増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "正面突破",
+          "desc": "対象の[Combustion]6につきコイン威力 +1(最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "対象の[Combustion]1につき、ダメージ量 +2.5%(最大30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、[Combustion]回数が2増加<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "正面突破",
+          "desc": "対象の[Combustion]6につきコイン威力 +1(最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "対象の[Combustion]1につき、ダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">60</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、[Combustion]回数が2増加<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "剣の流れ",
+          "desc": "対象の[Combustion]が6以上なら、コイン威力 +1\n対象の[Combustion]6につき、ダメージ量 +10% (最大30%)\n[EndSkill] 自分を除く、精神力が最も低い味方1名の精神力が10回復\n- 攻撃対象を倒すか、攻撃対象の[Combustion]が10以上なら、回復対象が1名追加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "対象の[Combustion]1につき、ダメージ量 +2%(最大60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]威力だけ憤怒属性ダメージを与える(最大30) 対象の[Combustion]回数が2減少"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "剣の流れ",
+          "desc": "対象の[Combustion]6<style=\"highlight\">につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n対象の[Combustion]6につき、ダメージ量 +10% (最大30%)\n[EndSkill] 自分を除く、精神力が最も低い味方1名の精神力が<style=\"highlight\">15</style>回復\n- 攻撃対象を倒すか、攻撃対象の[Combustion]が10以上なら、回復対象が1名追加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "対象の[Combustion]1につき、ダメージ量 +2%(最大60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]威力だけ憤怒属性ダメージを与える(最大30) 対象の[Combustion]回数が2減少"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "炎反",
+          "desc": "[BeforeHit] 対象の[Combustion]だけバリアを得る(最大10, 1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "炎反",
+          "desc": "[BeforeHit] 対象の[Combustion]だけバリアを得る(最大15, 1ターンにつき1回)\n[WhenUse] 対象の[Combustion]が10以上なら、ダメージ量 +10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "This Unforgivable Sin...",
-          "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\n[DefeatDuel] Gain +1 [Laceration] Count",
+          "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "The Deserved Penance...",
-          "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\n[DefeatDuel] Gain +1 [Laceration] Count",
+          "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -51,7 +51,7 @@
         {
           "level": 1,
           "name": "Did you think about blood today?",
-          "desc": "[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 30 [BloodDinner]: heal the ally with the least HP by ([BloodDinner] consumed x 2). (excludes self; rounded down)",
+          "desc": "[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 30 [BloodDinner]: heal the Core and the Part of the ally with the least HP by ([BloodDinner] consumed x 2). (excludes self; rounded down)",
           "coinlist": [
             {
               "coindescs": [
@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [WornHeart] and 1 [BloodyHand]"
+                  "desc": "[OnSucceedAttack] Gain 2 [WornHeart] and [BloodyHand]"
                 }
               ]
             }
@@ -82,14 +82,23 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] Inflict +2 [Laceration] Count\n[OnSucceedAttack] If this unit has 50%+ HP, activate [Laceration] on self and consume 1 [Laceration] Count on self"
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] At 50%+ HP, activate [Laceration] on self. Lose 1 [Laceration] Count on self"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [WornHeart] and [BloodyHand]\n[OnSucceedAttack] At 10 [WornHeart], gain 3 additional [BloodyHand] and gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttack] Gain 3 [WornHeart] and [BloodyHand]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] At 10 [WornHeart], gain 3 additional [BloodyHand] and gain 1 [AttackUp] next turn"
                 }
               ]
             }
@@ -122,12 +131,15 @@
         {
           "level": 1,
           "name": "How Bountiful...",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 30 [BloodDinner]: gain Coin Power +1 for every [BloodDinner] consumed\n[DefeatDuel] Gain 1 [Vulnerable] next turn",
+          "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 30 [BloodDinner]: gain Coin Power +1 for every 10 [BloodDinner] consumed (effect expires after the first Coin attack)\n[DefeatDuel] Gain 1 [Vulnerable] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
                 }
               ]
             },
@@ -141,7 +153,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to the damage dealt (max 30)\n[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], and if this unit is at 30+ [BloodyHand_3rd], Reuse this Coin once\n- If this Skill failed to consume [BloodDinner], gain 20 [Laceration]"
+                  "desc": "[OnSucceedAttack] Heal HP equal to damage dealt (Max 30)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], and if this unit is at 30+ [BloodyHand_3rd], Reuse this Coin once"
+                },
+                {
+                  "desc": "- If this unit failed to consume [BloodDinner] with this Skill, gain 20 [Laceration]"
                 }
               ]
             }
@@ -155,7 +173,7 @@
         {
           "level": 1,
           "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce Bleed Count every time it is activated; cannot be Staggered from this damage)\n[WhenUse] All allies heal 5 SP (including self)",
+          "desc": "[StartBattle] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce Bleed Count every time it is activated; cannot be Staggered from this damage)\n[StartBattle] All allies heal 5 SP (including self)",
           "coinlist": [
             {
               "coindescs": [

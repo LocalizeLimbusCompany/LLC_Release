@@ -814,7 +814,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] [BloomingThorns] 2 얻음"
+                                    "desc": "[OnSucceedAttack] [FestivalFever] 2 얻음"
                                 }
                             ]
                         }
@@ -911,7 +911,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] [BloomingThorns] 2 얻음"
+                                    "desc": "[OnSucceedAttack] [FestivalFever] 2 얻음"
                                 }
                             ]
                         }
@@ -1101,7 +1101,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[WinDuelAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가"
+                                    "desc": "[WinDuelAttack] [Laceration] 4 부여, [Laceration] 횟수 3 증가"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] [BloomingThorns] 2 ~ 3 얻음"

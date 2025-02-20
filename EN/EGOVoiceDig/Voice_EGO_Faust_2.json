@@ -64,6 +64,16 @@
       "id": "battle_erosion_20207_1",
       "desc": "E.G.O Corrosion",
       "dlg": "Get lost...! The apple, the apple...! Where did you hide it?!"
+    },
+    {
+      "id": "battle_awaken_20208_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Do you recall the moment when you could breathe free for the first time?\nFor me... that moment is now."
+    },
+    {
+      "id": "battle_erosion_20208_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Take a deep breath... For it will be your last."
     }
   ]
 }

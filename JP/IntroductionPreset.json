@@ -1451,6 +1451,22 @@
     {
       "id": "introduce_sentence_182",
       "content": "あなたの{0}の申し入れ、お受けしましょう。"
+    },
+    {
+      "id": "introduce_word_183",
+      "content": "残り火"
+    },
+    {
+      "id": "introduce_sentence_183",
+      "content": "あぁ、{0}残り火に気を付けたまえ。"
+    },
+    {
+      "id": "introduce_word_184",
+      "content": "気道"
+    },
+    {
+      "id": "introduce_sentence_184",
+      "content": "初めて{0}が開けた瞬間を覚えてますか。"
     }
   ]
 }

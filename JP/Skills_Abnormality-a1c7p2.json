@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "フィナーレ",
-          "desc": "[WhenUse] [BloodDinner]を半分消耗\n[WinDuel] ダメージ量が(このスキルで消耗した[BloodDinner])%だけ増加(最大150%)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージによって対象が混乱しない\n[EndSkill] このスキルで消耗した[BloodDinner]だけ精神力が減少",
+          "desc": "[WhenUse] [BloodDinner]を半分消耗\n[WinDuel] ダメージ量が(このスキルで消耗した[BloodDinner])%だけ増加(最大150%)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージによって対象が混乱しない\n[EndSkill] 精神力が-45になる",
           "coinlist": [
             {
               "coindescs": [

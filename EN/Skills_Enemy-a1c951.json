@@ -113,7 +113,7 @@
                                     "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Gain 3 [Binding] next turn"
+                                    "desc": "[CriticalOnSucceedAttack] Inflict 3 [Binding] next turn"
                                 }
                             ]
                         }

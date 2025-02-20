@@ -1982,7 +1982,27 @@
     {
       "id": 1081121,
       "name": "Cloud Workshop Blade",
-      "desc": "1 ally with the fastest Speed inflicts +1 more [Laceration]"
+      "desc": "1 ally with the fastest Speed inflicts +1 more [Laceration] Potency or Count with Skill and Coin effects against enemies"
+    },
+    {
+      "id": 1011201,
+      "name": "Inner Ardor",
+      "desc": "Turn End: heal 1 ally with the least SP by (5 + highest Reson.) (max 10) (excludes: self and Panicked or E.G.O Corroded allies)\n- If the said ally has Base Skills that inflict [Combustion] Potency or Count, heal 5 additional SP to them"
+    },
+    {
+      "id": 1011211,
+      "name": "Inner Ardor",
+      "desc": "Turn End: heal 1 ally with the least SP by (5 + highest Reson.) (max 10) (excludes: self and Panicked or E.G.O Corroded allies)\n- If the said ally has Base Skills that inflict [Combustion] Potency or Count, heal 5 additional SP to them\n- At 4+ Wrath Reson., heal 1 additional ally"
+    },
+    {
+      "id": 1011221,
+      "name": "Liu Defensive Square",
+      "desc": "For 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End"
+    },
+    {
+      "id": 1011231,
+      "name": "Liu Defensive Square",
+      "desc": "For 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End\n- If the said allies have Base Skills that inflict [Combustion] Potency or Count, heal 5~10 SP instead"
     }
   ]
 }

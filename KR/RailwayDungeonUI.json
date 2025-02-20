@@ -170,7 +170,7 @@
     },
     {
       "id": "railway_clear_turn_count_by_stage",
-      "content": "스테이지별 클리어 턴 수"
+      "content": "구간별 클리어 턴 수"
     }
 
   ]

@@ -52,7 +52,7 @@
     {
       "id": 9162,
       "name": "Hemorrhagic Shock",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nOn ally Clash Win: activate the enemy's [Laceration] once. (once per turn for each ally)\n\nEnemies become Staggerable by [Laceration] Damage; if the an enemy gets Staggered due to [Laceration] damage mid-Clash, activate [Laceration] (# of remaining enemy Coins) times\n\nIf all enemies have [Laceration], they lose 2 Defense Levels. At Turn End, inflict (# of [Laceration] activations x 2) [DefenseDown] (max 20)\n\nWhen inflicting [Laceration] Potency or 'Unique Bleed' with Skill effects, inflict 3 [Laceration] Potency and +1 [Laceration] Count on the target",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nOn ally Clash Win: activate the enemy's [Laceration] once. (once per turn for each ally)\n\nEnemies become Staggerable by [Laceration] Damage; if an enemy gets Staggered due to [Laceration] damage mid-Clash, activate [Laceration] (# of remaining enemy Coins) times\n\nIf all enemies have [Laceration], they lose 2 Defense Levels. At Turn End, inflict (# of [Laceration] activations x 2) [DefenseDown] (max 20)\n\nWhen inflicting [Laceration] Potency or 'Unique Bleed' with Skill effects, inflict 3 [Laceration] Potency and +1 [Laceration] Count on the target",
       "simpleDesc": [
         {
           "abilityID": 9162,

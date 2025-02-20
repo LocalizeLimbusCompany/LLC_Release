@@ -3143,6 +3143,218 @@
     {
       "id": "TutoEvent5502_P9_D1",
       "content": "Even after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+    },
+    {
+      "id": "TutoRailway5_P1_T1",
+      "content": "Refraction Railway Line 5"
+    },
+    {
+      "id": "TutoRailway5_P1_D1",
+      "content": "How to Enter"
+    },
+    {
+      "id": "TutoRailway5_P1_D2",
+      "content": "Select the activated Line to enter. Entering the Refraction Railway does not cost any currency or resources."
+    },
+    {
+      "id": "TutoRailway5_P2_T1",
+      "content": "Refraction Railway presents a series of very challenging battles."
+    },
+    {
+      "id": "TutoRailway5_P2_D1",
+      "content": "We recommend that you Uptie your Identities to Tier 4, level them to Level 50, and Threadspin your E.G.Os to Tier 4."
+    },
+    {
+      "id": "TutoRailway5_P2_D2",
+      "content": "We suggest that you enter the Railway after meeting the recommended conditions."
+    },
+    {
+      "id": "TutoRailway5_P3_T1",
+      "content": "Line 5: Stations and Sections"
+    },
+    {
+      "id": "TutoRailway5_P3_D1",
+      "content": "Refraction Railway Line 5 is composed of several Sections that tie several Stations into a single Stage. There are a total of 11 Stations."
+    },
+    {
+      "id": "TutoRailway5_P3_D2",
+      "content": "There are 3 Combat Encounter Stages, each called a 'Section'."
+    },
+    {
+      "id": "TutoRailway5_P4_T1",
+      "content": "Entering Section"
+    },
+    {
+      "id": "TutoRailway5_P4_D1",
+      "content": "Clearing the Section will record your Clear Turn Count.\n\nBelow the Clear Turn Count is the Total Turn Count, which is the sum of all Clear Turn Counts from each Section."
+    },
+    {
+      "id": "TutoRailway5_P4_D2",
+      "content": "Below each Section, you can view the rewards for clearing that Section. Claim them at the Lost & Found."
+    },
+    {
+      "id": "TutoRailway5_P5_T1",
+      "content": "Combat Deployment - Chain Battles"
+    },
+    {
+      "id": "TutoRailway5_P5_D1",
+      "content": "Refraction Railway Line 5 uses the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders."
+    },
+    {
+      "id": "TutoRailway5_P5_D2",
+      "content": "You can enter the Section only when you have selected both your Deployment units and the Backup units, six in each category."
+    },
+    {
+      "id": "TutoRailway5_P6_T1",
+      "content": "Identity Deployment Limits"
+    },
+    {
+      "id": "TutoRailway5_P6_D1",
+      "content": "In Line 5, you cannot use the same team to challenge both Section 1 and Section 2.\nEach Section needs a different team of Identities."
+    },
+    {
+      "id": "TutoRailway5_P6_D2",
+      "content": "This Identity restriction does not apply to Section 3, however, and you can freely select any Identity to be deployed."
+    },
+    {
+      "id": "TutoRailway5_P7_T1",
+      "content": "Creating your Team"
+    },
+    {
+      "id": "TutoRailway5_P7_D1",
+      "content": "Choose a number of Identities and E.G.O to enter the Railway with. "
+    },
+    {
+      "id": "TutoRailway5_P7_D2",
+      "content": "If you level up, Uptie, or Threadspin your Identities or E.G.O outside the Refraction Railway, the changes will be applied to your characters in the Refraction Railway as well."
+    },
+    {
+      "id": "TutoRailway5_P7_D3",
+      "content": "Backup units receive Starting SP buffs, and Backup units further back in the Deployment order receive greater Starting SP buffs.\n\nMinus Coin Identities receive negative Starting SP buffs."
+    },
+    {
+      "id": "TutoRailway5_P8_T1",
+      "content": "Combat"
+    },
+    {
+      "id": "TutoRailway5_P8_D1",
+      "content": "Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills.\nThe highest Turn Count that can be recorded in each Section is 100 Turns. If your Turn Count goes beyond 100 Turns in a single Stage, the Encounter will end in defeat."
+    },
+    {
+      "id": "TutoRailway5_P9_T1",
+      "content": "Observation Logs"
+    },
+    {
+      "id": "TutoRailway5_P9_D1",
+      "content": "Save for the Boss enemy of the final waves of each Section, all enemy info will be unlocked for viewing from the start. Prepare the appropriate strategy, Identity, and E.G.O loadout based on this information."
+    },
+    {
+      "id": "TutoRailway5_P9_D2",
+      "content": "However, the damage bonus based on Observation Levels does not apply in the Refraction Railway."
+    },
+    {
+      "id": "TutoRailway5_P9_D3",
+      "content": "In Line 5, the updated Observation Level will be saved even if you give up or retry mid-Encounter."
+    },
+    {
+      "id": "TutoRailway5_P10_T1",
+      "content": "Combat - Chain Battles"
+    },
+    {
+      "id": "TutoRailway5_P10_D1",
+      "content": "When a Deployed unit is defeated, the Backup units will fill their spot in the Deployment order."
+    },
+    {
+      "id": "TutoRailway5_P10_D2",
+      "content": "When a Backup unit is Deployed into battle, its Combat Passive activates instead of its Support Passive.\n\nWhen a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive."
+    },
+    {
+      "id": "TutoRailway5_P11_T1",
+      "content": "Combat - Lasting Determination"
+    },
+    {
+      "id": "TutoRailway5_P11_D1",
+      "content": "In Line 5, when an Identity is killed, they release E.G.O resources based on the ranks and Affinities of their Base Attack Skills. And just like in Chain Encounters, their deaths will not reduce other allies' SP."
+    },
+    {
+      "id": "TutoRailway5_P12_T1",
+      "content": "Certain enemies in Line 5 will gain certain effects based on their Deployment orders."
+    },
+    {
+      "id": "TutoRailway5_P13_T1",
+      "content": "Combat - Buffs & Trials"
+    },
+    {
+      "id": "TutoRailway5_P13_D1",
+      "content": "Clearing a wave(Station) within a Section will bring you to the Buffs & Trials selection menu."
+    },
+    {
+      "id": "TutoRailway5_P13_D2",
+      "content": "Here, you will be selecting a mix of Buffs and Trials with positive effects for allies and enemies both. Any Buffs and Trials selected here will persist throughout Line 5."
+    },
+    {
+      "id": "TutoRailway5_P14_T1",
+      "content": "Clear Info"
+    },
+    {
+      "id": "TutoRailway5_P14_D1",
+      "content": "After clearing each Section, you can view statistics such as the obtained Buffs, Trials, and participating Identities in the Clear Info menu."
+    },
+    {
+      "id": "TutoRailway5_P15_T1",
+      "content": "The E.G.O resources held after clearing a Section can be carried over to the next Section."
+    },
+    {
+      "id": "TutoRailway5_P16_T1",
+      "content": "If all of your allies are defeated, you can choose between returning to the Team Loadout menu to change your Deployment orders, and immediately retrying the battle."
+    },
+    {
+      "id": "TutoRailway5_P17_T1",
+      "content": "Breaking Records"
+    },
+    {
+      "id": "TutoRailway5_P17_D1",
+      "content": "During an expedition, you can choose to start over from previously cleared Stages."
+    },
+    {
+      "id": "TutoRailway5_P17_D2",
+      "content": "When you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Stage will be reset."
+    },
+    {
+      "id": "TutoRailway5_P18_T1",
+      "content": "Banner Requisites"
+    },
+    {
+      "id": "TutoRailway5_P18_D1",
+      "content": "You can check the requirements for acquiring Refraction Railway Line 5 banners here."
+    },
+    {
+      "id": "TutoRailway5_P18_D2",
+      "content": "Once you obtain a Banner, the Turn Count of your best record for each Section and total turns will be displayed on it.\nMaking a new best record in total turn count will update the Turn Count on your banner. If there are records with the same number of total turns, it will display the more recent record."
+    },
+    {
+      "id": "TutoRailway5_P19_T1",
+      "content": "The Lost & Found"
+    },
+    {
+      "id": "TutoRailway5_P19_D1",
+      "content": "After clearing a Stage in the Line for the first time, the rewards will be sent to the Lost & Found."
+    },
+    {
+      "id": "TutoRailway5_P19_D2",
+      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim rewards you’ve earned at no additional cost."
+    },
+    {
+      "id": "TutoRailway5_P20_T1",
+      "content": "Travel Collection"
+    },
+    {
+      "id": "TutoRailway5_P20_D1",
+      "content": "Upon clearing the final Stage, your Refraction Railway play record will be saved. Up to 20 records can be viewed. "
+    },
+    {
+      "id": "TutoRailway5_P20_D2",
+      "content": "If you have more than 20 records, records with the highest Total Turns will be deleted first."
     }
   ]
 }

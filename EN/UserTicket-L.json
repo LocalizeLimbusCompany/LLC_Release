@@ -204,6 +204,16 @@
       "id": 43,
       "name": "LCB Regular Check-up - Special Ticket",
       "desc": "Obtained from the LCB Regular Check-up event"
+    },
+    {
+      "id": 44,
+      "name": "Line 5",
+      "desc": "Obtained by clearing Refraction Railway Line 5"
+    },
+    {
+      "id": 45,
+      "name": "Line 5: Merry Go Round",
+      "desc": "Obtained by clearing Line 5 with 100 or fewer Total Turns before Season 5: Oblivion ends."
     }
   ]
 }

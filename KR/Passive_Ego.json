@@ -454,6 +454,11 @@
       "id": 2040811,
       "name": "숨",
       "desc": "이 E.G.O 스킬을 사용한 다음 턴 시작 시, [NebulizerInhale] 1 얻음 (턴 당 1회)\n- 이 스킬로 적을 처치하였다면 처치한 대상 수만큼 [NebulizerInhale] 추가로 얻음\n- 이 스킬로 아군을 처치하였다면 (처치한 대상 수 X 2)만큼 [NebulizerInhale] 추가로 얻음\n- 이 수치는 이번 전투 동안 누적됨"
+    },
+    {
+      "id": 2020811,
+      "name": "숨",
+      "desc": "이 E.G.O 스킬을 사용한 다음 턴 시작 시, [NebulizerExhale] 1 얻음 (턴 당 1회)\n- 이 수치는 이번 전투 동안 누적됨\n\n전투 시작 시 [NebulizerExhale]의 효과로 아군에게 [Breath] 횟수를 10 부여할 때마다 [NebulizerExhale] 1 얻음\n\n턴 종료시 아군 (최대 공명 수)명의 체력을 현재 체력 비율이 가장 낮은 순으로 최대 체력의 ([NebulizerExhale] 수치)%만큼 회복 (최대 6명)\n- 회복 대상의 [Breath] 위력이 20 이상이면, 회복 1회 추가 발동"
     }
   ]
 }

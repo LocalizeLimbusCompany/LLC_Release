@@ -943,6 +943,14 @@
     {
       "id": "10712_getCondition_gacksung",
       "content": "흑운회 와카슈 히스클리프 동기화 3단계 달성"
+    },
+    {
+      "id": "10112_getCondition_normal",
+      "content": "남부 리우 협회 3과 이상 획득 시"
+    },
+    {
+      "id": "10112_getCondition_gacksung",
+      "content": "남부 리우 협회 3과 이상 동기화 3단계 달성"
     }
   ]
 }

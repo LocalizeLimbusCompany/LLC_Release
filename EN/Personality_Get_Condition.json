@@ -943,6 +943,14 @@
     {
       "id": "10712_getCondition_gacksung",
       "content": "Uptie Kurokumo Clan Wakashu Heathcliff to Tier 3"
+    },
+    {
+      "id": "10112_getCondition_normal",
+      "content": "Acquire Liu South Section 3 Yi Sang"
+    },
+    {
+      "id": "10112_getCondition_gacksung",
+      "content": "Uptie Liu South Section 3 Yi Sang to Tier 3"
     }
   ]
 }

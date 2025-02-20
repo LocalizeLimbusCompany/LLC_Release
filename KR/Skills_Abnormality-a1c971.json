@@ -174,7 +174,7 @@
                 {
                     "level": 1,
                     "name": "회피",
-                    "desc": "대상의 정신력이 0 미만이면, 코인 위력 +1\n대상의 [Sinking]이 10 이상이면, 기본 위력 +1\n[OnSucceedEvade] 대상의 정신력 5 감소",
+                    "desc": "[OnSucceedEvade] 대상의 정신력 5 감소",
                     "coinlist": [
                         {
                             "coindescs": [

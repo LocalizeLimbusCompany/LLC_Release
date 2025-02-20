@@ -1451,6 +1451,22 @@
     {
       "id": "introduce_sentence_182",
       "content": "당신의 {0} 신청, 받아들이죠."
+    },
+    {
+      "id": "introduce_word_183",
+      "content": "잔불"
+    },
+    {
+      "id": "introduce_sentence_183",
+      "content": "아, {0}에 주의하시오."
+    },
+    {
+      "id": "introduce_word_184",
+      "content": "숨통"
+    },
+    {
+      "id": "introduce_sentence_184",
+      "content": "처음으로 {0}(이/가) 트였던 순간을 기억하나요."
     }
   ]
 }

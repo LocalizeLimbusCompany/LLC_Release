@@ -2363,7 +2363,7 @@
     },
     {
       "id": "HoldingBreath",
-      "name": "Deep Breath",
+      "name": "Deep Inhale",
       "desc": "- Max Stack: 20\n- On Crit, at 15+ Poise Potency and 5+ Poise Count, consume (Poise Potency on self / 5) Poise Potency to deal +(Poise Potency consumed x 4)% more Damage on Critical Hit and lose 1 Stack",
       "summary": "Deal more Damage on Critical Hit"
     },
@@ -2402,6 +2402,16 @@
       "id": "CloudWall",
       "name": "Cumulus Wall",
       "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after the following attack ends: 'Rules of the Backstreets'"
+    },
+    {
+      "id": "NebulizerExhale",
+      "name": "Nebulizer α",
+      "desc": "- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Poise Potency and +1 Poise Count"
+    },
+    {
+      "id": "ReleaseBreath",
+      "name": "Shallow Exhale",
+      "desc": "- Max Value: 1\n- At 20+ Poise Potency, gain +1 Count as well whenever this unit gains Poise Potency with Skill and Coin effects\n- Expires at Turn End"
     }
   ]
 }

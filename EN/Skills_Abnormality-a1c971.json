@@ -174,7 +174,7 @@
                 {
                     "level": 1,
                     "name": "Evade",
-                    "desc": "If the target has less than 0 SP, Coin Power +1\nIf the target has 10+ [Sinking], Base Power +1\n[OnSucceedEvade] Target loses 5 SP",
+                    "desc": "[OnSucceedEvade] Target loses 5 SP",
                     "coinlist": [
                         {
                             "coindescs": [

@@ -533,6 +533,148 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2020811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "胸痛",
+          "abName": "過ぎ去りし日の寝袋",
+          "desc": "[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 4)\n- 傲慢共鳴3以上なら、付与対象の[Breath]回数1増加、付与対象に次のターンにて[ReleaseBreath]1を付与",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "胸痛",
+          "abName": "過ぎ去りし日の寝袋",
+          "desc": "[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴3以上なら、付与対象の[Breath]回数1増加、付与対象に次のターンにて[ReleaseBreath]1を付与",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Breath]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "クリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "胸痛",
+          "abName": "過ぎ去りし日の寝袋",
+          "desc": "[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴3以上なら、付与対象の[Breath]回数1増加、付与対象に次のターンにて[ReleaseBreath]1を付与",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Breath]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "クリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大40%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "胸痛",
+          "abName": "過ぎ去りし日の寝袋",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の[Breath]威力が20未満なら、[Breath]威力を20まで得て体力最大値の(得た[Breath]威力 × 2)%だけ体力を消耗\n- この効果で混乱・死亡しない\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 4)\n- 傲慢共鳴が3以上なら、付与対象の[Breath]回数が1増加、付与対象に次のターンにて[ReleaseBreath]1, [IndigoDamageUp]1を付与",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "胸痛",
+          "abName": "過ぎ去りし日の寝袋",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の[Breath]威力が20未満なら、[Breath]威力を20まで得て体力最大値の(得た[Breath]威力 × 2)%だけ体力を消耗\n- この効果で混乱・死亡しない\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴が3以上なら、付与対象の[Breath]回数が1増加、付与対象に次のターンにて[ReleaseBreath]1, [IndigoDamageUp]1を付与",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Breath]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "クリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "胸痛",
+          "abName": "過ぎ去りし日の寝袋",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の[Breath]威力が20未満なら、[Breath]威力を20まで得て体力最大値の(得た[Breath]威力 × 2)%だけ体力を消耗\n- この効果で混乱・死亡しない\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴が3以上なら、付与対象の[Breath]回数が1増加、付与対象に次のターンにて[ReleaseBreath]1, [IndigoDamageUp]1を付与",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Breath]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "クリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大40%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
