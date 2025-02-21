@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身获得1层[WornHeart]与2层[BloodyHand]"
+                  "desc": "[OnSucceedAttack] 使自身获得2层[WornHeart]与2层[BloodyHand]"
                 }
               ]
             }

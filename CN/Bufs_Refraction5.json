@@ -3,7 +3,7 @@
     {
       "id": "FellBulletMark",
       "name": "标记",
-      "desc": "- 成为凶弹射手的目标\n- 回合结束时解除",
+      "desc": "- 成为凶弹射手的目标\n- 回合结束时解除本效果",
       "summary": "",
       "undefined": "-"
     },
@@ -310,7 +310,7 @@
     },
     {
       "id": "MRR544",
-      "name": "威力轮盘",
+      "name": "威力轮盘赌",
       "desc": "",
       "summary": "",
       "undefined": "-"
@@ -331,7 +331,7 @@
     },
     {
       "id": "MRR547",
-      "name": "威力轮盘",
+      "name": "威力轮盘赌",
       "desc": "",
       "summary": "",
       "undefined": "-"
@@ -373,7 +373,7 @@
     },
     {
       "id": "MRR553",
-      "name": "一息",
+      "name": "一次呼吸",
       "desc": "",
       "summary": "",
       "undefined": "-"
