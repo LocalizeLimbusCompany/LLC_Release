@@ -527,7 +527,7 @@
         {
           "level": 1,
           "name": "轻蔑一切",
-          "desc": "若掌存活，则使本技能的最终威力+5\n[EndBattle] 使全体敌方单位解除视线 ",
+          "desc": "若掌存活，则使本技能的最终威力+5\n[EndBattle] 解除全体敌方单位的视线 ",
           "coinlist": [
             {
               "coindescs": [
