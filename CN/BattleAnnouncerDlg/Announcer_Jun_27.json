@@ -54,11 +54,11 @@
     },
     {
       "id": "announcer_advatk_physical_27_1",
-      "dlg": "这家伙如同魔芋一样柔弱。只是轻轻接触就被斩开了。"
+      "dlg": "这家伙就如同魔芋那样柔弱。只是轻轻接触就被斩开了。"
     },
     {
       "id": "announcer_disadvatk_physical_27_1",
-      "dlg": "你为什么……哈……想用刀去砍木柱……用合适的武器啊。"
+      "dlg": "你为什么……哈……要用刀去斩木桩……倒是用更合适的武器啊。"
     },
     {
       "id": "announcer_advatk_attr_27_1",
@@ -86,7 +86,7 @@
     },
     {
       "id": "announcer_enemy_destroy_27_1",
-      "dlg": "哈！看看那被斩开的样子。现在他还能拿什么攻击？"
+      "dlg": "哈！看看那被斩开的样子。他现在还能拿什么攻击？"
     },
     {
       "id": "announcer_enemy_destroy_27_2",
@@ -98,7 +98,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_27_2",
-      "dlg": "那边好像也带着个大家伙……先重整旗鼓。哈啊……可要动点脑子了。"
+      "dlg": "那边好像也带着个大家伙……先重整旗鼓吧。哈啊……可要动点脑子了。"
     },
     {
       "id": "announcer_round_givebigdmg_27_1",
