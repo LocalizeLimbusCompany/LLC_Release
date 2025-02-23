@@ -181,7 +181,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "本硬币仅对主要目标造成伤害。"
+                  "desc": "本硬币仅对主要目标造成伤害"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 若目标带有[FellBulletMark]，则击杀目标"
