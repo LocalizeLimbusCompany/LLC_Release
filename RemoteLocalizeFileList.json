@@ -84,7 +84,10 @@
         "EventLCBCheckupText",
         "AbEventsResultLog-a1c971",
         "EventLCBCheckupText",
-        "RailwayDungeonUI_5"
+        "RailwayDungeonUI_5",
+        "MirrorDungeonUI_5_InfinityFloor",
+        "UI_Mission_MirrorDungeon5Event",
+        "EventLimbus2ndAnnivText"
     ],
     "character": [
         "Characters"
@@ -665,7 +668,8 @@
         "Announcer_FullStop_25",
         "Announcer_Hohenheim_90001",
         "Announcer_Aengdu_26",
-        "Announcer_Jun_27"
+        "Announcer_Jun_27",
+        "Announcer_Vergilius_28"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",

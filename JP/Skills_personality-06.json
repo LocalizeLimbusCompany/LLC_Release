@@ -353,7 +353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大5%)"
+                  "desc": "[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大5)"
                 }
               ]
             },
@@ -382,7 +382,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大10%)"
+                  "desc": "[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大10)"
                 }
               ]
             },

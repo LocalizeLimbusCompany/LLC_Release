@@ -579,7 +579,7 @@
         {
           "level": 4,
           "name": "整理整頓",
-          "desc": "対象の速度が自分より低ければ、コイン威力 +1\n[WhenUse] [Breath]回数が2増加\n[WinDuel] [Breath]を得る",
+          "desc": "対象の速度が自分より低ければ、コイン威力 +1\n[WhenUse] [Breath]回数が2増加\n[WinDuel] [Breath]2を得る",
           "coinlist": [
             {
               "coindescs": [

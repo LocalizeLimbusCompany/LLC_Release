@@ -3847,7 +3847,7 @@
           ]
         },
         {
-          "level": 2,
+          "level": 4,
           "name": "AEDD",
           "abName": "衝擊ムカデ",
           "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の失った体力10%につき、充電 回数を1増加(最大7)\n次のターンにクイック 2を得る",

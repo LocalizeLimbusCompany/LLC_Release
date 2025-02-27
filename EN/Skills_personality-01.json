@@ -1787,7 +1787,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +<style=\"highlight\">5</style>% more damage for every [Combustion] on the target (max <style=\"highlight\">60</style>%)"
+                  "desc": "Deal +<style=\"highlight\">5</style>% more damage for every [Combustion] on target (max <style=\"highlight\">60</style>%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] If the target has 6+ [Combustion], inflict +2 [Combustion] Count on the target<style=\"highlight\"></style>"

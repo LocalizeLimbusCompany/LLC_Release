@@ -1,0 +1,112 @@
+{
+  "dataList": [
+    {
+      "id": "mission_ui_condition_tags_201001001",
+      "content": "E.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001002",
+      "content": "火傷キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001003",
+      "content": "出血キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001004",
+      "content": "振動キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001005",
+      "content": "破裂キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001006",
+      "content": "沈潜キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001007",
+      "content": "呼吸キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001008",
+      "content": "充電キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001009",
+      "content": "斬撃キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001010",
+      "content": "貫通キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001011",
+      "content": "打撃キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001012",
+      "content": "{0}ティアE.G.Oギフトを{1}個以上保有して、鏡ダンジョンを{2}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001013",
+      "content": "{0}ティアE.G.Oギフトを保有して、鏡ダンジョンを{1}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001014",
+      "content": "特定の調合式による合成にのみ獲得可能な{0}ティアE.G.Oギフトを{1}個以上保有して、鏡ダンジョンを{2}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001015",
+      "content": "E.G.Oギフト記録集の火傷E.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001016",
+      "content": "E.G.Oギフト記録集の出血E.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001017",
+      "content": "E.G.Oギフト記録集の振動E.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001018",
+      "content": "E.G.Oギフト記録集の破裂E.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001019",
+      "content": "E.G.Oギフト記録集の沈潜E.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001020",
+      "content": "E.G.Oギフト記録集の呼吸E.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001021",
+      "content": "E.G.Oギフト記録集の充電E.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001022",
+      "content": "E.G.Oギフト記録集のE.G.Oギフトを{0}個解禁"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001023",
+      "content": "テーマパックを{0}個以上解禁(ノーマル)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001024",
+      "content": "テーマパックを{0}個以上解禁(ハード)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002001",
+      "content": "鏡ダンジョンを{0}階層以上{1}回クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002002",
+      "content": "鏡ダンジョンの全階層をハード難易度で{0}階層以上{1}回クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002003",
+      "content": "鏡ダンジョンを{0}階層クリア"
+    }
+  ]
+}

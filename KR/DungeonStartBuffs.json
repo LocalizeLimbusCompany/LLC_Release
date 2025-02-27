@@ -30,7 +30,7 @@
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
-      "description": "층 클리어 시, <color=#ff6000>인격 레벨</color> +{0}"
+      "description": "층 클리어 시, <color=#ff6000>인격 레벨</color> +{0} (최대 5)"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",

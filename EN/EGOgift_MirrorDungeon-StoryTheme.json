@@ -247,7 +247,7 @@
     {
       "id": 9433,
       "name": "Chief Butler's Secret Arts",
-      "desc": "First Turn Start of a wave: select 1 enemy with the slowest Speed(or a random Abnormality part), and inflict 5 [Binding] for 5 turns starting next turn.\n\nClash Win: If this unit's Speed is faster than the target's, heal SP equal to the Speed difference, and gain 'Offense Level' equal to the half of that Speed difference. (only applies to the Skill used to win the Skill. Max 'Offense Level' gain: 3)",
+      "desc": "First Turn Start of a wave: select 1 enemy with the slowest Speed(or a random Abnormality part), and inflict 5 [Binding] for 5 turns starting next turn.\n\nClash Win: If this unit's Speed is faster than the target's, heal SP equal to the Speed difference, and gain 'Offense Level' equal to the half of that Speed difference. (only applies to the Skill used to win the Clash. Max 'Offense Level' gain: 3)",
       "simpleDesc": [
         {
           "abilityID": 9433,

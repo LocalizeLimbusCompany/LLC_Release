@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "railway_5_must_participate_all",
-      "content": "編成されていない人格癌存在します。\n\n※鏡屈折鉄道5号線では、全囚人が編成に含まれていないと入場できません。"
+      "content": "編成されていない人格が存在します。\n\n※鏡屈折鉄道5号線では、全囚人が編成に含まれていないと入場できません。"
     },
     {
       "id": "mainui_personality_blocked",
@@ -86,7 +86,7 @@
     },
     {
       "id": "railway_5_stage_level_warning",
-      "content": "※現在の人格平均レベル : <color=#990000>{0}</color> (推奨レベル: <color=#990000>{1}</color>)"
+      "content": "※現在の人格平均レベル : {0} (推奨レベル: {1})"
     }
   ]
 }

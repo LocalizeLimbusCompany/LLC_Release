@@ -415,7 +415,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
                 }
               ]
             }
@@ -441,7 +441,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
                 }
               ]
             }
@@ -485,7 +485,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [ScarletTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] [ScarletTakeDamageUp] 2 부여"
                 }
               ]
             },
@@ -511,7 +511,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [ScarletTakeDamageUp] 1 부여"
+                  "desc": "[OnSucceedAttack] [ScarletTakeDamageUp] 2 부여"
                 }
               ]
             },
@@ -551,7 +551,7 @@
         {
           "level": 1,
           "name": "목마른 가시",
-          "desc": "[StartBattle] [AttackDmgUp] 2, [Vulnerable] 2 얻음",
+          "desc": "[StartBattle] [AttackDmgUp] 3, [Vulnerable] 2 얻음",
           "coinlist": [
             {
               "coindescs": [

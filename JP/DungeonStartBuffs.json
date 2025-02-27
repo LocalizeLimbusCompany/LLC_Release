@@ -30,7 +30,7 @@
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
-      "description": "階層クリア時、<color=#ff6000>人格レベル</color> +{0}"
+      "description": "階層クリア時、<color=#ff6000>人格レベル</color> +{0}(最大5)"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",

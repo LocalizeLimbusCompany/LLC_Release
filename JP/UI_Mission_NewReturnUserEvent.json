@@ -53,10 +53,6 @@
       "content": "ウィークリーミッションを{0}個クリア"
     },
     {
-      "id": "mission_ui_condition_tags_103006002",
-      "content": "ウィークリーミッションを{0}個クリア"
-    },
-    {
       "id": "mission_condition_ui_group_2",
       "content": "ストーリーステージ"
     },
@@ -66,7 +62,7 @@
     },
     {
       "id": "mission_condition_ui_group_4",
-      "content": "紐採光 "
+      "content": "紐採光"
     },
     {
       "id": "mission_condition_ui_group_6",

@@ -1,0 +1,112 @@
+{
+  "dataList": [
+    {
+      "id": "mission_ui_condition_tags_201001001",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001002",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Burn E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001003",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Bleed E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001004",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Tremor E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001005",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Rupture E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001006",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Sinking E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001007",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Poise E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001008",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Charge E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001009",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Slash E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001010",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Pierce E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001011",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Blunt E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001012",
+      "content": "Clear Mirror Dungeon at Floor {2} or higher with {1}+ Tier {0} or higher E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001013",
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with Tier {0} E.G.O Gift(s)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001014",
+      "content": "Clear Mirror Dungeon at Floor {2} or higher with {1}+ Fusion Recipe-only Tier {0} E.G.O Gifts"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001015",
+      "content": "Unlock {0} Burn E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001016",
+      "content": "Unlock {0} Bleed E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001017",
+      "content": "Unlock {0} Tremor E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001018",
+      "content": "Unlock {0} Rupture E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001019",
+      "content": "Unlock {0} Sinking E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001020",
+      "content": "Unlock {0} Poise E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001021",
+      "content": "Unlock {0} Charge E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001022",
+      "content": "Unlock {0} E.G.O Gifts in the E.G.O Gift Compendium"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001023",
+      "content": "Unlock {0}+ Theme Packs (NORMAL)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001024",
+      "content": "Unlock {0}+ Theme Packs (HARD)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002001",
+      "content": "Clear Mirror Dungeon at Floor {0} or higher {1} time(s)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002002",
+      "content": "Clear Mirror Dungeon at Floor {0} or higher {1} time(s) - every floor has to be in Hard Difficulty"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002003",
+      "content": "Clear Mirror Dungeon Floor {0}"
+    }
+  ]
+}

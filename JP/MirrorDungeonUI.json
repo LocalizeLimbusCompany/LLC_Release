@@ -163,6 +163,10 @@
     {
       "id": "mirror_dungeon_error_desc",
       "content": "サーバーエラーにより、データが損失しました。"
+    },
+    {
+      "id": "mirrordunge_achievement_history_button_label",
+      "content": "アチーブメント"
     }
   ]
 }

@@ -2690,7 +2690,7 @@
     {
       "id": 9100,
       "name": "T-1 Perpetual Motion Machine",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge')/5 +1) Damage Up. (max 9, rounded up)\n\nEach Identity gains 1 [Charge] every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)\n\nAfter Attack of a Skill that consumed [Charge] Count on self: inflict ([Charge] - 1) [DefenseDown] (5 times for each enemy per turn; can inflict up to 3 [DefenseDown] at a time)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge')/5 +1) Damage Up. (max 9, rounded up)\n\nEach Identity gains (total [Charge] Count consumed by using Attack Skills during this Encounter / 4) Offense Level Up at Turn Start. (maxes out after consuming 40 [Charge] Count)\n\nEach Identity gains 1 [Charge] every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)\n\nAfter Attack of a Skill that consumed [Charge] Count on self: inflict ([Charge] - 1) [DefenseDown] (5 times for each enemy per turn; can inflict up to 3 [DefenseDown] at a time)",
       "simpleDesc": [
         {
           "abilityID": 9100,
@@ -4269,7 +4269,7 @@
     },
     {
       "id": 9152,
-      "name": "Crushed memory",
+      "name": "Crushed Memory",
       "desc": "[Effects apply only to #1 and #2 Deployed Identities]\n\nBlunt Attack Skills(including E.G.O Skills) gain Base Power +2, Plus Coin Power +1, and Minus Coin Power -1\n\nOn Clash Win with a Blunt Attack Skill(except E.G.O Skills), deal +20% more damage with that Skill; On Hit with that Skill, deal +(30 / # of Coins)% more damage (min 10%)",
       "simpleDesc": [
         {

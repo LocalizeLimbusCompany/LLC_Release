@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": "mission_ui_condition_tags_201001001",
+      "content": "E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+
+    
+    {
+      "id": "mission_ui_condition_tags_201001002",
+      "content": "화상 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001003",
+      "content": "출혈 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001004",
+      "content": "진동 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001005",
+      "content": "파열 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001006",
+      "content": "침잠 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001007",
+      "content": "호흡 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001008",
+      "content": "충전 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001009",
+      "content": "참격 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001010",
+      "content": "관통 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001011",
+      "content": "타격 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+    
+    
+    {
+      "id": "mission_ui_condition_tags_201001012",
+      "content": "{0}티어 E.G.O 기프트를 {1}개 이상 보유하고 거울 던전 {2}층 이상 클리어"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001013",
+      "content": "{0}티어 E.G.O 기프트를 보유하고 거울 던전 {1}층 이상 클리어"
+    },
+
+
+    {
+      "id": "mission_ui_condition_tags_201001014",
+      "content": "특정 조합식을 통한 합성으로만 획득 가능한 {0}티어 E.G.O 기프트를 {1}개 이상 보유하고 거울 던전 {2}층 이상 클리어"
+    },
+
+    
+    {
+      "id": "mission_ui_condition_tags_201001015",
+      "content": "E.G.O 기프트 기록집의 화상 E.G.O 기프트 {0}개 해금"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001016",
+      "content": "E.G.O 기프트 기록집의 출혈 E.G.O 기프트 {0}개 해금"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001017",
+      "content": "E.G.O 기프트 기록집의 진동 E.G.O 기프트 {0}개 해금"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001018",
+      "content": "E.G.O 기프트 기록집의 파열 E.G.O 기프트 {0}개 해금"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001019",
+      "content": "E.G.O 기프트 기록집의 침잠 E.G.O 기프트 {0}개 해금"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001020",
+      "content": "E.G.O 기프트 기록집의 호흡 E.G.O 기프트 {0}개 해금"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001021",
+      "content": "E.G.O 기프트 기록집의 충전 E.G.O 기프트 {0}개 해금"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001022",
+      "content": "E.G.O 기프트 기록집의 E.G.O 기프트 {0}개 해금"
+    },
+    
+    
+    {
+      "id": "mission_ui_condition_tags_201001023",
+      "content": "테마팩 {0}개 이상 해금 (노말)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001024",
+      "content": "테마팩 {0}개 이상 해금 (하드)"
+    },
+
+    
+    {
+      "id": "mission_ui_condition_tags_201002001",
+      "content": "거울 던전 {0}층 이상 {1}회 클리어"
+    },
+
+
+    {
+      "id": "mission_ui_condition_tags_201002002",
+      "content": "거울 던전의 모든 층을 하드 난이도로 {0}층 이상 {1}회 클리어"
+    },
+
+    
+    {
+      "id": "mission_ui_condition_tags_201002003",
+      "content": "거울 던전 {0}층 클리어"
+    }
+  ]
+}

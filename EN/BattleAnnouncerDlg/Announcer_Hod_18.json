@@ -62,7 +62,7 @@
     },
     {
       "id": "announcer_advatk_attr_18_1",
-      "dlg": "Perfect, you did just I told you during our counseling session! I knew it... my counseling campaign was a great idea."
+      "dlg": "Perfect, you did just as I told you during our counseling session! I knew it... my counseling campaign was a great idea."
     },
     {
       "id": "announcer_disadvatk_attr_18_1",
@@ -115,17 +115,17 @@
     {
       "id": "announcer_add_18_1",
       "dlg": "Manager, the Qliphoth Meltdown gauge is rising. At this rate, the Ordeal will be here at any minute!",
-      "isHide" : true
+      "isHide": true
     },
     {
       "id": "announcer_add_18_2",
       "dlg": "Manager, there's only one bar left of the Qliphoth Meltdown gauge! Prepare for the Noon of Violet!",
-      "isHide" : true
+      "isHide": true
     },
     {
       "id": "announcer_add_18_3",
       "dlg": "The Physical Intervention Shield protected the employees. I'm so relieved that we managed to restore the Regenerator.",
-      "isHide" : true
+      "isHide": true
     },
     {
       "id": "announcer_equip_18_1",

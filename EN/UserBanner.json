@@ -239,6 +239,26 @@
       "id": 52,
       "name": "Special Refraction Railway Line 5 Banner",
       "desc": "Obtained by clearing Line 5 with 100 or fewer Total Turns before Season 5: Oblivion ends."
+    },
+    {
+      "id": 53,
+      "name": "Limbus Company 2nd Anniversary Banner",
+      "desc": "Obtained from the 2nd Anniversary event"
+    },
+    {
+      "id": 54,
+      "name": "Limbus Company 2nd Anniversary Special Banner",
+      "desc": "Obtained from the 2nd Anniversary event"
+    },
+    {
+      "id": 55,
+      "name": "Season 5: Mirror of the Dreaming Commemorative Banner",
+      "desc": "Obtained as a Mirror of the Dreaming Achievement Reward"
+    },
+    {
+      "id": 56,
+      "name": "Season 5: Mirror of the Dreaming Special Commemorative Banner",
+      "desc": "Obtained as a Mirror of the Dreaming Achievement Reward"
     }
   ]
 }
