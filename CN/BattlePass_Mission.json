@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "CLEAR_STAGE",
-      "content": "通过{0}次任意关卡"
+      "content": "清剿{0}次任意关卡"
     },
     {
       "id": "KILL_ENEMY_ANY",
@@ -22,7 +22,7 @@
     },
     {
       "id": "MIRROR_DUNGEON_CLEAR",
-      "content": "通过镜像迷宫{0}次"
+      "content": "清剿镜像迷宫{0}次"
     },
     {
       "id": "BATTLEPASS_LEVELUP",
@@ -34,7 +34,7 @@
     },
     {
       "id": "USE_ANNOUNCER_2",
-      "content": "让格里高尔进行播报{0}次"
+      "content": "让格里高尔进行{0}次播报"
     },
     {
       "id": "LOGIN_ONCE",
@@ -46,11 +46,11 @@
     },
     {
       "id": "EXPDUNGEON_CLEAR",
-      "content": "通过经验采光{0}次"
+      "content": "清剿经验采光{0}次"
     },
     {
       "id": "THREADDENGEON_CLEAR",
-      "content": "通过纺锤采光{0}次"
+      "content": "清剿纺锤采光{0}次"
     },
     {
       "id": "PURCHASE_ENKEPHALIN_MODULE",

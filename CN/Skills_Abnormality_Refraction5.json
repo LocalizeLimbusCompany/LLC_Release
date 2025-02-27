@@ -415,7 +415,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
                 }
               ]
             }
@@ -441,7 +441,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
                 }
               ]
             }
@@ -485,7 +485,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层色欲易损 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层色欲易损 "
                 }
               ]
             },
@@ -511,7 +511,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层色欲易损 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层色欲易损 "
                 }
               ]
             },
@@ -551,7 +551,7 @@
         {
           "level": 1,
           "name": "饥渴的荆棘",
-          "desc": "[StartBattle] 使自身获得2层伤害强化 并对自身施加2层易损 ",
+          "desc": "[StartBattle] 使自身获得3层伤害强化 并对自身施加2层易损 ",
           "coinlist": [
             {
               "coindescs": [

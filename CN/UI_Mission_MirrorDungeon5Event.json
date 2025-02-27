@@ -1,0 +1,112 @@
+{
+  "dataList": [
+    {
+      "id": "mission_ui_condition_tags_201001001",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001002",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件烧伤E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001003",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件流血E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001004",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件震颤E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001005",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件破裂E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001006",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件沉沦E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001007",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件呼吸法E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001008",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件充能E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001009",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件斩击E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001010",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件突刺E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001011",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有至少{0}件打击E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001012",
+      "content": "清剿第{2}或更高层镜像迷宫时拥有至少{1}件{0}级或更高的E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001013",
+      "content": "清剿第{1}或更高层镜像迷宫时拥有{0}级E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001014",
+      "content": "清剿第{2}或更高层镜像迷宫时拥有至少{1}件仅限特定配方合成的{0}级E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001015",
+      "content": "于E.G.O饰品列表中解锁{0}种烧伤E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001016",
+      "content": "于E.G.O饰品列表中解锁{0}种流血E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001017",
+      "content": "于E.G.O饰品列表中解锁{0}种震颤E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001018",
+      "content": "于E.G.O饰品列表中解锁{0}种破裂E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001019",
+      "content": "于E.G.O饰品列表中解锁{0}种沉沦E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001020",
+      "content": "于E.G.O饰品列表中解锁{0}种呼吸法E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001021",
+      "content": "于E.G.O饰品列表中解锁{0}种充能E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001022",
+      "content": "于E.G.O饰品列表中解锁{0}种E.G.O饰品"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001023",
+      "content": "解锁{0}个主题包 (普通)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201001024",
+      "content": "解锁{0}个主题包 (困难)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002001",
+      "content": "清剿第{0}或更高层镜像迷宫{1}次"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002002",
+      "content": "清剿第{0}或更高层镜像迷宫{1}次，且所有阶层均为困难难度"
+    },
+    {
+      "id": "mission_ui_condition_tags_201002003",
+      "content": "清剿镜像迷宫第{0}层"
+    }
+  ]
+}

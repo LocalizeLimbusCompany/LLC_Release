@@ -30,7 +30,7 @@
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
-      "description": "通过阶层时，<color=#ff6000>人格等级</color> +{0}"
+      "description": "通过阶层时，<color=#ff6000>人格等级</color> +{0}(最多+5)"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",

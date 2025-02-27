@@ -163,6 +163,10 @@
     {
       "id": "mirror_dungeon_error_desc",
       "content": "由于服务器错误，数据丢失。"
+    },
+    {
+      "id": "mirrordunge_achievement_history_button_label",
+      "content": "成就"
     }
   ]
 }
