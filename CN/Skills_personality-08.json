@@ -819,7 +819,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加(自身的震颤 层数/2)级震颤 强度(最多2级)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于10层，则对目标施加1层虚弱 "
+                  "desc": "[OnSucceedAttack] 若自身的防御等级提升 层数不低于10层，则对目标施加1层虚弱 "
                 }
               ]
             }
@@ -850,7 +850,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加(自身的震颤 层数/2)级震颤 强度(最多3级)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于10层，则对目标施加1层虚弱 "
+                  "desc": "[OnSucceedAttack] 若自身的防御等级提升 层数不低于10层，则对目标施加1层虚弱 "
                 }
               ]
             }
@@ -881,7 +881,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加(自身的震颤 层数/2)级震颤 强度(最多4级)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震颤 层数不低于8层，则对目标施加1层虚弱 "
+                  "desc": "[OnSucceedAttack] 若自身的防御等级提升 层数不低于8层，则对目标施加1层虚弱 "
                 }
               ]
             }
