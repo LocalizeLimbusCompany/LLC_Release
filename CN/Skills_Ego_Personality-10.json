@@ -329,7 +329,7 @@
           "level": 1,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若最大共鸣数不低于3，则使本技能的攻击容量+1\n[BeforeAttack] 下回合使本技能对应行动槽的挑衅值 +5",
+          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若最大共鸣数不低于4，则使本技能的攻击容量+1\n[BeforeAttack] 下回合使本技能对应行动槽的挑衅值 +5",
           "coinlist": [
             {
               "coindescs": [

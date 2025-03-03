@@ -228,7 +228,7 @@
     {
       "id": 9440,
       "name": "游行的面具",
-      "desc": "遭遇战中出现新的敌方单位增援时，战斗开始时使其增加3级[Laceration]强度并对其施加2层[Laceration]。\n\n若友方单位中存在<血魔>，则新的敌方单位登场时触发全体敌方单位的[Laceration]1次，并使全体敌方单位的[Laceration]层数减少1层",
+      "desc": "遭遇战中新的敌方单位增援时，战斗开始时使其增加3级[Laceration]强度并对其施加2层[Laceration]。\n\n若友方单位中存在<血魔>，则新的敌方单位增援时触发全体敌方单位的[Laceration]1次，并使全体敌方单位的[Laceration]层数减少1层",
       "simpleDesc": [
         {
           "abilityID": 9440,
@@ -243,7 +243,7 @@
     {
       "id": 19440,
       "name": "游行的面具+",
-      "desc": "遭遇战中出现新的敌方单位增援时，战斗开始时使其增加5级[Laceration]强度并对其施加3层[Laceration]。\n\n若友方单位中存在<血魔>，则新的敌方单位登场时触发全体敌方单位的[Laceration]1次，并使全体敌方单位的[Laceration]层数减少1层",
+      "desc": "遭遇战中新的敌方单位增援时，战斗开始时使其增加5级[Laceration]强度并对其施加3层[Laceration]。\n\n若友方单位中存在<血魔>，则新的敌方单位增援时触发全体敌方单位的[Laceration]1次，并使全体敌方单位的[Laceration]层数减少1层",
       "simpleDesc": [
         {
           "abilityID": 194405,
