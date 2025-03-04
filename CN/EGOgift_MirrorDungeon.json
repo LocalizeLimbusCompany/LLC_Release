@@ -3143,7 +3143,7 @@
     {
       "id": 9117,
       "name": "有烟火药",
-      "desc": "[第1、第2顺位友方单位专属]\n\n回合结束时，若本回合使用过增加破裂 强度或施加破裂 层数的攻击技能，则下回合使自身获得1层迅捷 。\n\n若自身的速度值不低于6，则使增加破裂 强度或施加破裂 层数的攻击技能造成的伤害+12.5%",
+      "desc": "[第1、第2顺位友方单位专属]\n\n回合结束时，若本回合使用过增加破裂 强度或施加破裂 层数的攻击技能，则下回合使自身获得1层迅捷 \n\n若自身的速度值不低于6，则使增加破裂 强度或施加破裂 层数的攻击技能造成的伤害+12.5%",
       "simpleDesc": [
         {
           "abilityID": 9117,
@@ -4337,11 +4337,11 @@
     {
       "id": 19117,
       "name": "有烟火药+",
-      "desc": "[第1、第2、<style=\"upgradeHighlight\">第3</style>顺位友方单位专属]\n\n回合结束时，若本回合使用过增加破裂 强度或施加破裂 层数的攻击技能，则下回合使自身获得1层迅捷 。\n\n若自身的速度值不低于<style=\"upgradeHighlight\">5</style>，则使增加破裂 强度或施加破裂 层数的攻击技能<style=\"upgradeHighlight\">造成的伤害+15%</style>。",
+      "desc": "[第1、第2、<style=\"upgradeHighlight\">第3</style>顺位友方单位专属]\n\n回合结束时，若本回合使用过增加破裂 强度或施加破裂 层数的攻击技能，则下回合使自身获得1层迅捷 \n\n若自身的速度值不低于<style=\"upgradeHighlight\">5</style>，则使增加破裂 强度或施加破裂 层数的攻击技能<style=\"upgradeHighlight\">造成的伤害+15%</style>",
       "simpleDesc": [
         {
           "abilityID": 19117,
-          "simpleDesc": "若符合条件，则下回合使自身获得1层迅捷 "
+          "simpleDesc": "若符合条件，则下回合使自身获得1层迅捷 。"
         },
         {
           "abilityID": 191171,
@@ -4352,7 +4352,7 @@
     {
       "id": 29117,
       "name": "有烟火药++",
-      "desc": "[第1、第2、第3顺位友方单位专属]\n\n回合结束时，若本回合使用过增加破裂 强度或施加破裂 层数的攻击技能，则下回合使自身获得<style=\"upgradeHighlight\">1~2</style>层迅捷 。\n\n若自身的速度值不低于<style=\"upgradeHighlight\">4</style>，则使增加破裂 强度或施加破裂 层数的攻击技能<style=\"upgradeHighlight\">造成的伤害+20%。</style>",
+      "desc": "[第1、第2、第3顺位友方单位专属]\n\n回合结束时，若本回合使用过增加破裂 强度或施加破裂 层数的攻击技能，则下回合使自身获得<style=\"upgradeHighlight\">1~2</style>层迅捷 。\n\n若自身的速度值不低于<style=\"upgradeHighlight\">4</style>，则使增加破裂 强度或施加破裂 层数的攻击技能<style=\"upgradeHighlight\">造成的伤害+20%</style>",
       "simpleDesc": [
         {
           "abilityID": 29117,
