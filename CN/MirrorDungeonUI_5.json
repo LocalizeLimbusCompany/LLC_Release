@@ -491,6 +491,26 @@
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
       "content": "22点以上"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "休息奖励保留对象"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "在休息奖励保留期间，该人格在清剿镜像迷宫后将不会消耗休息奖励。"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "适用对象"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "休息奖励保留对象"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "{0}为止"
     }
   ]
 }

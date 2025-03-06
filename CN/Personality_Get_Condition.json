@@ -951,6 +951,22 @@
     {
       "id": "10112_getCondition_gacksung",
       "content": "六协会 南部3科 李箱 3阶段同步完成"
+    },
+    {
+      "id": "10311_getCondition_normal",
+      "content": "获得Cinq协会 东部3科 堂吉诃德"
+    },
+    {
+      "id": "10311_getCondition_gacksung",
+      "content": "Cinq协会 东部3科 堂吉诃德 3阶段同步完成"
+    },
+    {
+      "id": "11211_getCondition_normal",
+      "content": "获得炎拳事务所 幸存者 格里高尔"
+    },
+    {
+      "id": "11211_getCondition_gacksung",
+      "content": "炎拳事务所 幸存者 格里高尔 3阶段同步完成"
     }
   ]
 }

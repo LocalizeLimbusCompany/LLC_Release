@@ -94,7 +94,7 @@
     },
     {
       "id": "ask_to_use_paid_lunacy_to_level_up_pass",
-      "content": "要消耗 {0} 付费狂气来提升通行证等级吗？"
+      "content": "要消耗 {0} 付费狂气来购买通行证等级吗？"
     },
     {
       "id": "battlepass_purchase_level_up",

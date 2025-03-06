@@ -62,7 +62,7 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_08_desc_01",
-      "content": "通过组合提示的关键字来命名编队。"
+      "content": "通过组合提示的关键词来命名编队。"
     },
     {
       "id": "tutorial_mainui_01_selection_page_08_desc_02",
@@ -1758,7 +1758,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_21_desc_01",
-      "content": "通过最终关卡时将会保存折射轨道的游玩记录，最多可以浏览20个记录。"
+      "content": "通关最终关卡后，折射轨道的游玩记录将被保存，最多可保存20个通关记录。"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_21_desc_02",
@@ -2106,7 +2106,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_14_desc_01",
-      "content": "在探险结束后，能够花费脑啡肽模块来领取奖励。"
+      "content": "清剿镜像迷宫后，能够消耗脑啡肽模块来领取奖励。"
     },
     {
       "id": "tutorial_mirrordungeon03_page_14_desc_02",
@@ -2426,7 +2426,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_16_desc_01",
-      "content": "通关最后关卡后，折射轨道的游玩记录将被保存，记录的最大保存数为20。"
+      "content": "通关最终关卡后，折射轨道的游玩记录将被保存，最多可保存20个通关记录。"
     },
     {
       "id": "tutorial_mainui_railway3_page_16_desc_02",
@@ -3350,7 +3350,7 @@
     },
     {
       "id": "TutoRailway5_P20_D1",
-      "content": "通关最后关卡后，折射轨道的游玩记录将被保存，记录的最大保存数为20。"
+      "content": "通关最终关卡后，折射轨道的游玩记录将被保存，最多可保存20个通关记录。"
     },
     {
       "id": "TutoRailway5_P20_D2",
