@@ -160,7 +160,7 @@
                   "desc": "[OnSucceedAttackHead] 다음 턴에 탐식 취약 2 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여"
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -181,7 +181,7 @@
                   "desc": "[OnSucceedAttack] 다음 턴에 탐식 취약 2 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여"
+                  "desc": "[OnSucceedAttack] 다음 턴에 속박 2 부여<style=\"highlight\"></style>"
                 }
               ]
             }

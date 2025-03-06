@@ -86,7 +86,7 @@
     },
     {
       "id": "railway_5_stage_level_warning",
-      "content": "※現在の人格平均レベル : {0} (推奨レベル: {1})"
+      "content": "※現在の人格平均レベル : <color=#990000>{0}</color> (推奨レベル: <color=#990000>{1}</color>)"
     }
   ]
 }

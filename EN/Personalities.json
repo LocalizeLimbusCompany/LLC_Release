@@ -923,6 +923,20 @@
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 12th Identity"
+    },
+    {
+      "id": 10311,
+      "title": "Cinq Assoc.\nEast Section 3",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote's 11th Identity"
+    },
+    {
+      "id": 11211,
+      "title": "Firefist Office\nSurvivor",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 11th Identity"
     }
   ]
 }

@@ -160,7 +160,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 2 Gluttony Fragility next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -181,7 +181,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Gluttony Fragility next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn<style=\"highlight\"></style>"
                 }
               ]
             }

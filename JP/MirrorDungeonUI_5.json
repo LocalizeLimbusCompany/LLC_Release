@@ -491,6 +491,26 @@
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
       "content": "22点以上"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "休息ボーナス保存対象"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "休息ボーナス保存期間中、該当人格で鏡ダンジョンクリア時に休息ボーナスが消耗されません。"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "適用対象"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "休息ボーナス保存対象"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "{0}まで"
     }
   ]
 }

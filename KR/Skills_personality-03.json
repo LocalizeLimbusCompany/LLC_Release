@@ -1573,6 +1573,274 @@
           ]
         }
       ]
+    },{
+      "id": 1031101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "발경",
+          "desc": "자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "발경",
+          "desc": "자신의 속도가 대상보다 <style=\"highlight\">2</style> 이상 높으면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "발경",
+          "desc": "<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WhenUse] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] [Combustion] 횟수 1 증가</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "id": 1031102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "초염장",
+          "desc": "자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 6당 [DefenseDown] 1 부여 (최대 2, 턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "초염장",
+          "desc": "자신의 속도가 대상보다 <style=\"highlight\">2</style> 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 자신의 [Breath] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 6당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">3</style>, 턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "초염장",
+          "desc": "<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WinDuel] [Breath] 3 얻음\n<style=\"highlight\">- 대상의 [DianxueDonQuixote]만큼 추가로 [Breath] 횟수 증가</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Combustion] 6당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">5</style>, 턴당 1회)\n<style=\"highlight\">- 대상의 [DianxueDonQuixote]만큼 [DefenseDown] 추가로 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "한 수 부탁드리겠네",
+          "desc": "대상의 [DianxueDonQuixote] 1당 피해량 +10% (최대 30%)\n자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 5 얻음\n- 대상에게 [DianxueDonQuixote]가 있으면 추가로 [Breath] 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 30%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "한 수 부탁드리겠네",
+          "desc": "대상의 [DianxueDonQuixote] 1당 피해량 <style=\"highlight\">+15%</style> (최대 <style=\"highlight\">45%</style>)\n<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WinDuel] [Breath] 5 얻음\n- 대상에게 [DianxueDonQuixote]가 있으면 추가로 [Breath] 3 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 <style=\"highlight\">50%</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 대상에게 [DianxueDonQuixote]가 있으면 [DefenseDown] 3 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "밥상머리 예절부터 배우시게!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "밥상머리 예절부터 배우시게!",
+          "desc": "<style=\"highlight\">자신의 속도가 공격자보다 높으면, 속도 차이 2당 코인 위력 +1 (최대 2)</style>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

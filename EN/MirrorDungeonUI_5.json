@@ -491,6 +491,26 @@
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
       "content": "22+ Points"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "Rest Bonus Retention Units"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "For the retention duration, these units' Rest Bonuses will not be spent upon clearing a Mirror Dungeon run."
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "Affected Units"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "Rest Bonus Retention Units"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "Until {0}"
     }
   ]
 }

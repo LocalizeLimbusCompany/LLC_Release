@@ -1144,6 +1144,255 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": 1121101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "화염방사",
+          "desc": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 15 소모하여, [Combustion] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "화염방사",
+          "desc": "대상의 [Combustion]이 <style=\"highlight\">3</style> 이상이면, 코인 위력 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 15 소모하여, [Combustion] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "화염방사",
+          "desc": "대상의 화상 <style=\"highlight\">3 당</style>, 코인 위력 +1 (최대 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 15 소모하여, [Combustion] 횟수 <style=\"highlight\">2</style> 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "더러운 피 한방울조차 남지 않게 전부 태워버리겠어",
+          "desc": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1\n[FirePunchFuelOverheated] 상태면, [FirePunchFuel]를 소모할 때 해당 코인의 피해량 +10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 위력이 가장 낮은 적 2명에게 [Combustion] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 횟수가 가장 낮은 적 1명에게 [Combustion] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "더러운 피 한방울조차 남지 않게 전부 태워버리겠어",
+          "desc": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1\n[FirePunchFuel]를 소모할 때 해당 코인의 피해량 +10%\n<style=\"highlight\">- [FirePunchFuelOverheated] 상태면, 대신 피해량 +20%로 적용</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 위력이 가장 낮은 적 2명에게 [Combustion] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 횟수가 가장 낮은 적 <style=\"highlight\">2</style>명에게 [Combustion] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "더러운 피 한방울조차 남지 않게 전부 태워버리겠어",
+          "desc": "대상의 [Combustion] 6 <style=\"highlight\">당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[[FirePunchFuel]를 소모할 때 해당 코인의 피해량 +<style=\"highlight\">15</style>%\n- [FirePunchFuelOverheated] 상태면, 대신 피해량 +<style=\"highlight\">30</style>%로 적용",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 위력이 가장 낮은 적 2명에게 [Combustion] <style=\"highlight\">2</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 횟수 1 증가"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "불주먹",
+          "desc": "대상의 [Combustion] 횟수 3 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Combustion] 6 당, 기본 위력 +1 (최대 2)\n[WhenUse] [FirePunchFuel]를 최대 25까지 소모하여 소모한 [FirePunchFuel]당 피해량 +1% (최대 25%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +3% (최대 75%)\n[EndSkill] 대상이 사망했거나, 이 스킬에서 [FirePunchFuel]를 소모했다면, 다음 턴에 [HitDamageUp] 1 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] 1 부여, [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] 1 부여, [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 이 스킬에서 소모한 [FirePunchFuel]당, 피해량 +1% (최대 25%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +3% (최대 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "불주먹",
+          "desc": "대상의 [Combustion] 횟수 3 <style=\"highlight\">당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 대상의 [Combustion] 6 당, 기본 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] [FirePunchFuel]를 최대 25까지 소모하여 소모한 [FirePunchFuel]당 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">100</style>%)\n[EndSkill] 대상이 사망했거나, 이 스킬에서[FirePunchFuel]를 소모했다면, 다음 턴에 [HitDamageUp] <style=\"highlight\">2</style> 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] <style=\"highlight\">2</style> 부여, [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] <style=\"highlight\">2</style> 부여, [Combustion] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 이 스킬에서 소모한 [FirePunchFuel]당, 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">100</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "누님의 몫이 아직 남았다",
+          "desc": "[DuelCounter]\n[StartBattle] [FirePunchFuel]를 100 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "누님의 몫이 아직 남았다",
+          "desc": "[DuelCounter]\n[StartBattle] [FirePunchFuel]를 100 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -2003,6 +2003,41 @@
       "id": 1011231,
       "name": "リウ方陣",
       "desc": "精神力が最も低い味方2名がこのターンで精神力が減少した場合、ターン終了時に精神力を5回復\n- 回復対象が[Combustion]威力か回数を付与する基本スキルを保有しているなら、代わりに5～10回復"
+    },
+    {
+      "id": 1121102,
+      "name": "12区産特製工房燃料",
+      "desc": "[FirePunchFuel] 100を持って開始\n- 数値が50を超過しているなら、[FirePunchFuel]になる\n- 数値が50以下なら、[FirePunchFuel]が[FirePunchFuelOverheated]になる"
+    },
+    {
+      "id": 1121101,
+      "name": "俺だけ生き残っちまった…",
+      "desc": "自分がこのターンにて消耗した[FirePunchFuel], [FirePunchFuelOverheated]1につきダメージ量 +0.2% (最大40%)\n- メインターゲットが<血鬼>・<血袋>や、対象の[Combustion]と[Combustion]回数の合計が30以上なら、代わりにダメージ量 +0.3%(最大60%)\n\n[FirePunchFuel], [FirePunchFuelOverheated]が1以上のとき、[Combustion]が付与された敵を混乱状態にするか討伐したなら、[Combustion]が無いか[Combustion]回数が最も低いランダムな敵2名の[Combustion]回数が2増加(1ターンにつき1回)\n- 集中戦闘の場合は部位に付与"
+    },
+    {
+      "id": 1121121,
+      "name": "あれはうちの事務所の制服のはずじゃ…",
+      "desc": "速度が最も高い味方1名が攻撃的中時、対象の[Combustion]威力6につき憤怒ダメージ量 +5%(最大20%)"
+    },
+    {
+      "id": 1031101,
+      "name": "草炎玉球",
+      "desc": "ターン終了時、自分の[Breath]威力5につき次のターンにて[Agility]1を得る(最大2)\n\n基本攻撃スキルで最後に的中した対象(または部位)へ次のターンにて[DianxueDonQuixote]を付与(1ターンにつき1回)\n\nクリティカルダメージ量 +(対象の[Combustion]威力)％ (最大15％)"
+    },
+    {
+      "id": 1031111,
+      "name": "草炎玉球",
+      "desc": "ターン終了時、自分の[Breath]威力<style=\"highlight\">3</style>につき次のターンにて[Agility]1を得る(最大2)\n\n基本攻撃スキルで最後に的中した対象(または部位)へ次のターンにて[DianxueDonQuixote]を付与(1ターンにつき1回)\n\nクリティカルダメージ量 +(対象の[Combustion]威力)％ (最大15％)\n<style=\"highlight\">- 対象の[DianxueDonQuixote]1につき、最大値が5%増加</style>"
+    },
+    {
+      "id": 1031121,
+      "name": "軽身法",
+      "desc": "速度が最も高い味方1名が[Combustion]または特殊火傷を保有した敵にマッチ勝利時、次のターンに[Agility]1を得る(1ターンにつき1回)"
+    },
+    {
+      "id": 1031131,
+      "name": "軽身法",
+      "desc": "速度が最も高い味方1名が[Combustion]または特殊火傷を保有した敵にマッチ勝利時、次のターンに[Agility]1を得る(1ターンにつき1回)\n<style=\"highlight\">- 対象の[Combustion]威力が20以上なら、[Agility]1を追加で得る</style>"
     }
   ]
 }

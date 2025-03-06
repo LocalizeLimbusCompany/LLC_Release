@@ -2003,6 +2003,41 @@
       "id": 1011231,
       "name": "Liu Defensive Square",
       "desc": "For 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End\n- If the said allies have Base Skills that inflict [Combustion] Potency or Count, heal 5~10 SP instead"
+    },
+    {
+      "id": 1121102,
+      "name": "District 12 Special Workshop Fuel",
+      "desc": "Begin Encounters with 100 [FirePunchFuel]\n- At over 50 Stack, become [FirePunchFuel]\n- At 50 or less Stack, any [FirePunchFuel] becomes [FirePunchFuelOverheated]"
+    },
+    {
+      "id": 1121101,
+      "name": "I'm the only survivor...",
+      "desc": "Deal +0.2% more damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if their sum of [Combustion] and [Combustion] Count is 30+, deal +0.3% more damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies with [Combustion], inflict +2 [Combustion] Count against 2 random enemies without [Combustion] or with the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts"
+    },
+    {
+      "id": 1121121,
+      "name": "I hope they're from our Office...",
+      "desc": "1 ally with the fastest Speed: On Hit, deal +5% more Wrath Damage for every 6 [Combustion] on the target (max 20%)"
+    },
+    {
+      "id": 1031101,
+      "name": "Virescent Pyrojade",
+      "desc": "Turn End: gain 1 [Agility] next turn for every 5 [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)"
+    },
+    {
+      "id": 1031111,
+      "name": "Virescent Pyrojade",
+      "desc": "Turn End: gain 1 [Agility] next turn for every <style=\"highlight\">3</style> [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)\n<style=\"highlight\">- Increase max cap by 5% for every 1 [DianxueDonQuixote] on the target</style>"
+    },
+    {
+      "id": 1031121,
+      "name": "Featherstride Technique",
+      "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)"
+    },
+    {
+      "id": 1031131,
+      "name": "Featherstride Technique",
+      "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- If the target has 20+ [Combustion] Potency, gain 1 additional [Agility]</style>"
     }
   ]
 }

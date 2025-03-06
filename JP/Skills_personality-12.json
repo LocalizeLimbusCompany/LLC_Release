@@ -914,22 +914,22 @@
         {
           "level": 2,
           "name": "家族のための献身",
-          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る",
+          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]1を付与"
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]を2得る"
+                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">2</style>を得る"
                 }
               ]
             }
@@ -938,22 +938,22 @@
         {
           "level": 4,
           "name": "家族のための献身",
-          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る",
+          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]<style=\"highlight\">2</style>を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]1を付与"
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">3</style>を得る"
                 }
               ]
             }
@@ -991,22 +991,22 @@
         {
           "level": 2,
           "name": "締め付けてくる罪悪感",
-          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]2を得る",
+          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]2を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                  "desc": "[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]1を付与"
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]を2得る"
+                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">2</style>を得る"
                 }
               ]
             }
@@ -1015,22 +1015,22 @@
         {
           "level": 4,
           "name": "締め付けてくる罪悪感",
-          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]3を得る",
+          "desc": "[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]<style=\"highlight\">3</style>を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst]1を付与"
+                  "desc": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">3</style>を得る"
                 }
               ]
             }
@@ -1078,32 +1078,32 @@
         {
           "level": 4,
           "name": "雪げぬ罪",
-          "desc": "このスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 +1.5%(最大90%)\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n- 消耗した数値が20なら、このスキルの最終コインを再使用\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復",
+          "desc": "このスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 <style=\"highlight\">+1.5%(最大90%)</style>\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n<style=\"highlight\">- 消耗した数値が20なら、このスキルの最終コインを再使用</style>\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+                  "desc": "[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">3</style>を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]回数が2増加"
+                  "desc": "[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst]回数が2増加"
+                  "desc": "[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                  "desc": "[OnSucceedAttack] [Laceration]<style=\"highlight\">2</style>を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Burst]2を付与"
+                  "desc": "[OnSucceedAttack] [Burst]<style=\"highlight\">2</style> を付与"
                 }
               ]
             }
@@ -1131,12 +1131,260 @@
         {
           "level": 4,
           "name": "色褪せた忍耐",
-          "desc": "[StartBattle] 自分の現体力が最大値の40%以上なら、[Laceration]5を得て自分の[Laceration]を最大3回発動(1ターンにつき1回。発動回数だけ[Laceration]回数が減少)\n[StartBattle] 自分の現体力が最大値の40%未満なら、[BloodDinner]を最大20消耗し、消耗した[BloodDinner]だけ自分の体力を回復(1ターンにつき1回)\n[StartBattle] [WornHeartGreg]3を得る(1ターンにつき1回)",
+          "desc": "<style=\"highlight\">[StartBattle] 自分の現体力が最大値の40%以上なら、[Laceration]5を得て自分の[Laceration]を最大3回発動(1ターンにつき1回。発動回数だけ[Laceration]回数が減少)\n[StartBattle] 自分の現体力が最大値の40%未満なら、[BloodDinner]を最大20消耗し、消耗した[BloodDinner]だけ自分の体力を回復(1ターンにつき1回)</style>\n[StartBattle] [WornHeartGreg]3を得る(1ターンにつき1回)",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "火炎放射",
+          "desc": "対象の[Combustion]が6以上ならコイン威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を15消耗し、[Combustion]回数が1増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "火炎放射",
+          "desc": "対象の[Combustion]が<style=\"highlight\">3</style>以上ならコイン威力 +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を15消耗し、[Combustion]回数が1増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "火炎放射",
+          "desc": "対象の火傷<style=\"highlight\">3につき</style>、コイン威力 +1(最大2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style> を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を15消耗し、[Combustion]回数が<style=\"highlight\">2</style>増加"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "汚れた血一滴すら残さず焼き尽くしてやる",
+          "desc": "対象の[Combustion]が6以上なら、コイン威力 +1\n[FirePunchFuelOverheated]状態なら[FirePunchFuel]を消耗するとき、該当コインのダメージ量 +10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]威力が最も低い敵2名へ[Combustion]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]回数が最も低い敵1名の[Combustion]回数が1増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "汚れた血一滴すら残さず焼き尽くしてやる",
+          "desc": "対象の[Combustion]が6以上なら、コイン威力 +1\n[FirePunchFuel]を消耗するとき、該当コインのダメージ量 +10％\n<style=\"highlight\">- [FirePunchFuelOverheated]状態なら、代わりにダメージ量 +20%として適用</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]威力が最も低い敵2名へ[Combustion]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]回数が最も低い敵<style=\"highlight\">2</style>名の[Combustion]回数が1増加"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "汚れた血一滴すら残さず焼き尽くしてやる",
+          "desc": "対象の[Combustion]6<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[FirePunchFuel]を消耗するとき、該当コインのダメージ量 +<style=\"highlight\">15</style>％\n- [FirePunchFuelOverheated]状態なら、代わりにダメージ量 +<style=\"highlight\">30</style>%として適用",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]2を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]威力が最も低い敵2名へ[Combustion]<style=\"highlight\">2</style>を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">2</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]回数が最も低い敵2名の[Combustion]回数が1増加"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "炎拳",
+          "desc": "対象の[Combustion]回数が3以上なら、コイン威力 +1\n[WhenUse] 対象の[Combustion]6につき、基本威力 +1 (最大2)\n[WhenUse] [FirePunchFuel]を最大25まで消耗し、消耗した[FirePunchFuel]1につきダメージ量 +1% (最大25%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ +3% (最大75%)\n[EndSkill] 対象が死亡するか、このスキルで[FirePunchFuel]を消耗したなら次のターンに[HitDamageUp]1を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]1を付与、[Combustion]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]1を付与、[Combustion]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] このスキルで消耗した[FirePunchFuel]1につき、ダメージ量 +1% (最大25%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +3% (最大75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "炎拳",
+          "desc": "対象の[Combustion]回数が3<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 対象の[Combustion]6につき、基本威力 +1 (最大<style=\"highlight\">3</style>)\n[WhenUse] [FirePunchFuel]を最大25まで消耗し、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)\n[EndSkill] 対象が死亡するか、このスキルで[FirePunchFuel]を消耗したなら次のターンに[HitDamageUp]<style=\"highlight\">2</style>を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]<style=\"highlight\">2</style>を付与、[Combustion]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]<style=\"highlight\">2</style>を付与、[Combustion]回数が1増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] このスキルで消耗した[FirePunchFuel1につき、ダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "姐さんの分がまだだ",
+          "desc": "[DuelCounter]\n[StartBattle] [FirePunchFuel]を100得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "姐さんの分がまだだ",
+          "desc": "[DuelCounter]\n[StartBattle] [FirePunchFuel]を100得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
                 }
               ]
             }

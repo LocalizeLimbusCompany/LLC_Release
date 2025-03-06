@@ -329,7 +329,7 @@
           "level": 1,
           "name": "Cavernous Wailing",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {
               "coindescs": [

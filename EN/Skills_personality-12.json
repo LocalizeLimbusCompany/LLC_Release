@@ -914,22 +914,22 @@
         {
           "level": 2,
           "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -938,22 +938,22 @@
         {
           "level": 4,
           "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -991,22 +991,22 @@
         {
           "level": 2,
           "name": "Suffocating Guilt",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1015,22 +1015,22 @@
         {
           "level": 4,
           "name": "Suffocating Guilt",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 3 [BloodyHandGregFirst]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and <style=\"highlight\">3</style> [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1078,32 +1078,32 @@
         {
           "level": 4,
           "name": "The Unforgivable Sin",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1.5% more damage for every 1% missing HP on self (max 90%)\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n- If this unit consumed 20 Stack, Reuse the final Coin\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal <style=\"highlight\">+1.5%</style> more damage for every 1% missing HP on self <style=\"highlight\">(max 90%)</style>\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n<style=\"highlight\">- If this unit consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
                 }
               ]
             }
@@ -1131,12 +1131,260 @@
         {
           "level": 4,
           "name": "Faded Patience",
-          "desc": "[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
+          "desc": "<style=\"highlight\">[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)</style>\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flamethrow",
+          "desc": "If the target has 6+ [Combustion], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +1 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Flamethrow",
+          "desc": "If the target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +1 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Flamethrow",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 3 Burn on target (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +<style=\"highlight\">2</style> [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll burn away every last drop of your filthy blood",
+          "desc": "If the target has 6+ [Combustion], Coin Power +1\nWhen in [FirePunchFuelOverheated] state, deal +10% more damage with Coins that consumed [FirePunchFuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 1 enemy with the least [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "I'll burn away every last drop of your filthy blood",
+          "desc": "If the target has 6+ [Combustion], Coin Power +1\nCoins that consumed [FirePunchFuel] deal +10% more damage\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, deal +20% more damage instead</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against <style=\"highlight\">2 enemies</style> with the least [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I'll burn away every last drop of your filthy blood",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on the target (max 2)</style>\nCoins that consumed [FirePunchFuel] deal +<style=\"highlight\">15</style>% more damage\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">30</style>% more damage instead",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict <style=\"highlight\">2</style> [Combustion] against 2 enemies with the least [Combustion] Potency"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 2 enemies with the least [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Firefist",
+          "desc": "If the target has 3+ [Combustion] Count, Coin Power +1\n[WhenUse] Base Power +1 for every 6 [Combustion] on the target (max 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +1% more damage for every [FirePunchFuel] consumed (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)\n[EndSkill] If the target is defeated, or if this Skill consumed [FirePunchFuel], gain 1 [HitDamageUp] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict 1 [Combustion] and +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict 1 [Combustion] and +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal +1% more damage for every [FirePunchFuel] consumed by this Skill (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Firefist",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] Count on the target (max 2)</style>\n[WhenUse] Base Power +1 for every 6 [Combustion] on the target (max <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">100</style>%)\n[EndSkill] If the target is defeated, or if this Skill consumed [FirePunchFuel], gain <style=\"highlight\">2</style> [HitDamageUp] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict <style=\"highlight\">2</style> [Combustion] and +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict <style=\"highlight\">2</style> [Combustion] and +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed by this Skill (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed instead (max <style=\"highlight\">100</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I have to keep going for big sis",
+          "desc": "[DuelCounter]\n[StartBattle] Gain 100 [FirePunchFuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I have to keep going for big sis",
+          "desc": "[DuelCounter]\n[StartBattle] Gain 100 [FirePunchFuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             }

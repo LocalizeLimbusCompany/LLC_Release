@@ -41,6 +41,14 @@
       "content": "クリア"
     },
     {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_DECK",
+      "content": "編成"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_SHOP",
+      "content": "ショップ"
+    },
+    {
       "id": "mirrordungeon_mission_date",
       "content": "鏡ダンジョン6アップデートまで報酬を受け取ることがで来ます。"
     },

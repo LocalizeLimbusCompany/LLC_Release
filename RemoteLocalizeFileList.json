@@ -638,7 +638,9 @@
         "Voice_Faust_LCE_10211",
         "Voice_Ishmael_Kurokumo_10811",
         "Voice_Heathcliff_Kurokumo_10712",
-        "Voice_Yisang_LiuAssoc_10112"
+        "Voice_Yisang_LiuAssoc_10112",
+        "Voice_DonQuixote_CinqEast_10311",
+        "Voice_Gregor_Firepunch_11211"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",

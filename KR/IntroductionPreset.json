@@ -1467,6 +1467,22 @@
     {
       "id": "introduce_sentence_184",
       "content": "처음으로 {0}(이/가) 트였던 순간을 기억하나요."
+    },
+    {
+      "id": "introduce_word_185",
+      "content": "고수"
+    },
+    {
+      "id": "introduce_sentence_185",
+      "content": "이 넓은 식당 안에 하나쯤은… {0}(이/가) 섞여 있기 마련 아니겠나?"
+    },
+    {
+      "id": "introduce_word_186",
+      "content": "불주먹 사무소"
+    },
+    {
+      "id": "introduce_sentence_186",
+      "content": "이건… 우리 {0}의 복장이군."
     }
   ]
 }

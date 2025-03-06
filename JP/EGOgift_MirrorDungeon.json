@@ -2783,7 +2783,7 @@
     {
       "id": 9103,
       "name": "かんしゃく玉",
-      "desc": "[編成1・2番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]1, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)",
+      "desc": "[編成1・2番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷を付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]1, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)",
       "simpleDesc": [
         {
           "abilityID": 9103,
@@ -2794,7 +2794,7 @@
     {
       "id": 19103,
       "name": "かんしゃく玉+",
-      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて<style=\"upgradeHighlight\">[Agility]2</style>, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)",
+      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷を付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて<style=\"upgradeHighlight\">[Agility]2</style>, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)",
       "simpleDesc": [
         {
           "abilityID": 19103,
@@ -2805,7 +2805,7 @@
     {
       "id": 29103,
       "name": "かんしゃく玉++",
-      "desc": "[編成1・2・3番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]2, [AttackUp]2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style>を得る。(スキルごとに1回、1ターンにつき最大2回)",
+      "desc": "[編成1・2・3番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷を付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]2, [AttackUp]2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style>を得る。(スキルごとに1回、1ターンにつき最大2回)",
       "simpleDesc": [
         {
           "abilityID": 29103,
@@ -4892,7 +4892,7 @@
     {
       "id": 9200,
       "name": "デュエル教本 3巻",
-      "desc": "貫通基本攻撃スキルのマッチ威力 +2. 戦闘開始時、自分を除いてこのターンに貫通基本攻撃スキルを使用する人格の数だけ[AttackUp]を得る(最大3)\n\n保有する全基本攻撃スキルが貫通タイプの味方が、ターン開始時に[PenetrateDamageUp]2を得る(強化されるか特殊発動する場合を除く)\n\n回避スキル威力 +2. 味方人格がこのターンの間、回避を2回成功させるたび次のターンにて[AttackDmgUp]1を得る(最大3)\n\nセンク協会所属人格がターン開始時、[PenetrateResultUp]1, [PenetrateDamageUp]2を得る。 センク所属人格が自分で付与した決闘宣布、または集中攻撃を保有する敵に基本攻撃スキルで攻撃的中時、ダメージを与えたなら次のターンに[PenetrateDamageUp]2, [Agility]1を得る(人格ごとに1ターンにつき1回)",
+      "desc": "貫通基本攻撃スキルのマッチ威力 +2. 戦闘開始時、自分を除いてこのターンに貫通基本攻撃スキルを使用する人格の数だけ[AttackUp]を得る(最大3)\n\n保有する全基本攻撃スキルが貫通タイプの味方が、ターン開始時に[PenetrateDamageUp]2を得る(強化されるか特殊発動する場合を除く)\n\n回避スキル威力 +2. 味方人格がこのターンの間、回避を2回成功させるたび次のターンにて[AttackDmgUp]1を得る(最大3)\n\nセンク協会所属人格がターン開始時、[PenetrateResultUp]1, [PenetrateDamageUp]2を得る。 センク所属人格が自分で付与した決闘宣布、点穴、または集中攻撃を保有する敵に基本攻撃スキルで攻撃的中時、ダメージを与えたなら次のターンに[PenetrateDamageUp]2, [Agility]1を得る(人格ごとに1ターンにつき1回)",
       "simpleDesc": [
         {
           "abilityID": 9200,

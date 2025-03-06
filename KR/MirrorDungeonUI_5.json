@@ -491,6 +491,26 @@
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
       "content": "22점 이상"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "휴식 보너스 보존 대상"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "휴식 보너스 보존 기간 동안 해당 인격으로 거울 던전 클리어 시 휴식 보너스가 소모되지 않습니다."
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "적용 대상"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "휴식 보너스 보존 대상"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "{0}까지"
     }
   ]
 }

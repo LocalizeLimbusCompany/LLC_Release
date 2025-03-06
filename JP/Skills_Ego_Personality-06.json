@@ -160,7 +160,7 @@
                   "desc": "[OnSucceedAttackHead] 次のターンに暴食脆弱 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに束縛 2を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに束縛 2を付与<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -181,7 +181,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに暴食脆弱 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに束縛 2を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに束縛 2を付与<style=\"highlight\"></style>"
                 }
               ]
             }

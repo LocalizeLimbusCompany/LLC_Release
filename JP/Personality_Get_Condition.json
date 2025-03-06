@@ -951,6 +951,22 @@
     {
       "id": "10112_getCondition_gacksung",
       "content": "南部リウ協会3課イサン 同期化3段階達成"
+    },
+    {
+      "id": "10311_getCondition_normal",
+      "content": "東部センク協会3課 ドンキホーテ 獲得時"
+    },
+    {
+      "id": "10311_getCondition_gacksung",
+      "content": "東部センク協会3課 ドンキホーテ 同期化3段階達成"
+    },
+    {
+      "id": "11211_getCondition_normal",
+      "content": "炎拳事務所 生存者 グレゴール 獲得時"
+    },
+    {
+      "id": "11211_getCondition_gacksung",
+      "content": "炎拳事務所 生存者 グレゴール 同期化3段階達成"
     }
   ]
 }

@@ -1677,7 +1677,7 @@
         {
           "level": 4,
           "name": "Flame Hew",
-          "desc": "Coin Power +1 <style=\"highlight\">for every 3</style> [Combustion] on the target <style=\"highlight\">(max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on the target (max 30%)</style>",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] on the target (max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on the target (max 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1842,7 +1842,7 @@
         {
           "level": 4,
           "name": "Flow of the Sword",
-          "desc": "Coin Power +1 <style=\"highlight\">for every</style> 6 [Combustion] on the target <style=\"highlight\">(max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on the target (max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally",
           "coinlist": [
             {
               "coindescs": [

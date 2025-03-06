@@ -194,7 +194,7 @@
         {
           "level": 1,
           "name": "もっと鋭く",
-          "desc": "[WhenUse] [BloodDinner]を最大で20消耗し、消耗した[BloodDinner]10につき[BloodScissor]1を得て精神力を3回復。\n- このスキルで[BloodDinner]を消耗できなければ、[Laceration]30を得る\n[WhenUse] 対象の[Laceration]が6以上なら、マッチ威力 +1\n[WhenUse] 対象の[Laceration]5につき、コイン威力 +1(最大2)",
+          "desc": "[WhenUse] [BloodDinner]を最大で20消耗し、消耗した[BloodDinner]10につき[BloodScissor]1を得て精神力を3回復。\n- このスキルで[BloodDinner]を消耗できなければ、[Laceration]30を得る\n[WhenUse] 対象の[Laceration]が6以上なら、マッチ威力 +1\n[WhenUse] 自分の[Laceration]5につき、コイン威力 +1(最大2)",
           "coinlist": [
             {
               "coindescs": [

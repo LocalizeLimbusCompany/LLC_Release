@@ -41,6 +41,14 @@
       "content": "Clears"
     },
     {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_DECK",
+      "content": "Loadout"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_SHOP",
+      "content": "Shop"
+    },
+    {
       "id": "mirrordungeon_mission_date",
       "content": "The rewards can be claimed until before the Mirror Dungeon #6 Update."
     },

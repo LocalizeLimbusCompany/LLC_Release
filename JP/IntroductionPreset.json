@@ -1467,6 +1467,22 @@
     {
       "id": "introduce_sentence_184",
       "content": "初めて{0}が開けた瞬間を覚えてますか。"
+    },
+    {
+      "id": "introduce_word_185",
+      "content": "達人"
+    },
+    {
+      "id": "introduce_sentence_185",
+      "content": "この広き食堂の中に一人くらいは…{0}が紛れ込んでいるものではなかろうか？"
+    },
+    {
+      "id": "introduce_word_186",
+      "content": "炎拳事務所"
+    },
+    {
+      "id": "introduce_sentence_186",
+      "content": "これは…うちの{0}の服装だな。"
     }
   ]
 }

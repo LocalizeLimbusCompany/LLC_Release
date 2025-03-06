@@ -41,6 +41,14 @@
       "content": "클리어"
     },
     {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_DECK",
+      "content": "편성"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_SHOP",
+      "content": "상점"
+    },
+    {
       "id": "mirrordungeon_mission_date",
       "content": "거울 던전 6 업데이트 전까지 보상을 수령할 수 있습니다."
     },
