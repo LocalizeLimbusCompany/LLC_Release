@@ -1154,7 +1154,7 @@
     },
     {
       "id": "notice_consumption_multiples",
-      "content": "{0}消耗 {1}倍増化"
+      "content": "{0}消耗 {1}倍増加"
     },
     {
       "id": "notice_additional_rewards",

@@ -2012,7 +2012,7 @@
     {
       "id": 1121101,
       "name": "俺だけ生き残っちまった…",
-      "desc": "自分がこのターンにて消耗した[FirePunchFuel], [FirePunchFuelOverheated]1につきダメージ量 +0.2% (最大40%)\n- メインターゲットが<血鬼>・<血袋>や、対象の[Combustion]と[Combustion]回数の合計が30以上なら、代わりにダメージ量 +0.3%(最大60%)\n\n[FirePunchFuel], [FirePunchFuelOverheated]が1以上のとき、[Combustion]が付与された敵を混乱状態にするか討伐したなら、[Combustion]が無いか[Combustion]回数が最も低いランダムな敵2名の[Combustion]回数が2増加(1ターンにつき1回)\n- 集中戦闘の場合は部位に付与"
+      "desc": "自分がこの戦闘にて消耗した[FirePunchFuel], [FirePunchFuelOverheated]1につきダメージ量 +0.2% (最大40%)\n- メインターゲットが<血鬼>・<血袋>や、対象の[Combustion]と[Combustion]回数の合計が30以上なら、代わりにダメージ量 +0.3%(最大60%)\n\n[FirePunchFuel], [FirePunchFuelOverheated]が1以上のとき、[Combustion]が付与された敵を混乱状態にするか討伐したなら、[Combustion]が無いか[Combustion]回数が最も低いランダムな敵2名の[Combustion]回数が2増加(1ターンにつき1回)\n- 集中戦闘の場合は部位に付与"
     },
     {
       "id": 1121121,

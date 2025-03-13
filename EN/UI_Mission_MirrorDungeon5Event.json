@@ -198,11 +198,71 @@
     },
     {
       "id": "mission_ui_condition_tags_201004005",
-      "content": "Enhance 1 Tier {0} or higher E.G.O Gift to Enhancement stage ++; then, clear Mirror Dungeon Floor {1}"
+      "content": "Enhance 1 Tier {0} or higher E.G.O Gift to Enhancement stage ++; then, clear Mirror Dungeon at Floor {1} or higher"
     },
     {
       "id": "mission_ui_condition_tags_201004006",
-      "content": "For 1 ally, replace all of their Skill 1 copies with Skill 3 in the Shop; then, clear Mirror Dungeon Floor {0}"
+      "content": "For 1 ally, replace all of their Skill 1 copies with Skill 3 in the Shop; then, clear Mirror Dungeon at Floor {0} or higher"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005001",
+      "content": "Deal 1000+ damage with a single Skill use\n(damage against Shield HP counts)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005002",
+      "content": "Deal 3000+ damage with a single Skill use\n(damage against Shield HP counts)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005003",
+      "content": "Deal 5000+ damage with a single Skill use\n(damage against Shield HP counts)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005004",
+      "content": "Deal 10000+ damage with a single Skill use\n(damage against Shield HP counts)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005005",
+      "content": "Raise 1 enemy's Burn Potency to 99\n(in Focused Encounters, a Part)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005006",
+      "content": "Raise 1 enemy's Bleed Potency to 99\n(in Focused Encounters, a Part)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005007",
+      "content": "Raise 1 enemy's Tremor Potency to 99\n(in Focused Encounters, a Part)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005008",
+      "content": "Raise 1 enemy's Rupture Potency to 99\n(in Focused Encounters, a Part)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005009",
+      "content": "Raise 1 enemy's Sinking Potency to 99\n(in Focused Encounters, a Part)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005010",
+      "content": "Raise 1 ally's Poise Potency to 80"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005011",
+      "content": "Raise 1 ally's Charge Potency to 10"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005012",
+      "content": "Kill 6+ enemies with a single Attack Skill use in an Encounter (can use E.G.O Skills)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005013",
+      "content": "In a single Encounter, defeat an enemy with 3000+ max HP before the first turn ends"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005014",
+      "content": "In a single turn, make 1 enemy gain 10+ types of negative effects\n(in Focused Encounters, a Part)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005015",
+      "content": "At Floor 6 or higher in the Mirror Dungeon, win an Encounter after every ally except for one is dead (including Backup/Support Identities)"
     }
   ]
 }

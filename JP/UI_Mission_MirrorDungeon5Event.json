@@ -198,11 +198,71 @@
     },
     {
       "id": "mission_ui_condition_tags_201004005",
-      "content": "ランク{0}以上のギフト1つを++段階まで強化して、鏡ダンジョン{1}階層をクリア"
+      "content": "ランク{0}以上のギフト1つを++段階まで強化して、鏡ダンジョンを{1}階層以上クリア"
     },
     {
       "id": "mission_ui_condition_tags_201004006",
-      "content": "味方1名のスキル1をショップで全てスキル3に交換して鏡ダンジョン{0}階層をクリア"
+      "content": "味方1名のスキル1をショップで全てスキル3に交換して鏡ダンジョンを{0}階層以上クリア"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005001",
+      "content": "スキル1回で1000以上のダメージを与える\n(バリアへのダメージを含む)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005002",
+      "content": "スキル1回で3000以上のダメージを与える\n(バリアへのダメージを含む)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005003",
+      "content": "スキル1回で5000以上のダメージを与える\n(バリアへのダメージを含む)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005004",
+      "content": "スキル1回で10000以上のダメージを与える\n(バリアへのダメージを含む)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005005",
+      "content": "敵1名へ付与された火傷威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005006",
+      "content": "敵1名へ付与された出血威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005007",
+      "content": "敵1名へ付与された振動威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005008",
+      "content": "敵1名へ付与された破裂威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005009",
+      "content": "敵1名へ付与された沈潜威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005010",
+      "content": "味方1名に付与した呼吸威力が80を達成"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005011",
+      "content": "味方1名に付与した充電威力が10を達成"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005012",
+      "content": "1回の戦闘にて、攻撃スキル1回の使用で敵を6名以上討伐(E.G.Oスキルを含む)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005013",
+      "content": "1回の戦闘にて最大体力が3000以上の敵を、戦闘の最初のターン終了時まで討伐"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005014",
+      "content": "1ターンに、敵1名へ状態異常バフを10種以上保有させる\n(集中戦闘の場合は部位でチェック)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005015",
+      "content": "鏡ダンジョン6階層以上のステージにて、1名のみ生存した状態で戦闘勝利(待機およびサポート人格を含む)"
     }
   ]
 }

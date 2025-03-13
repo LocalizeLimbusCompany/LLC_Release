@@ -4276,7 +4276,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象のランダムなプラス効果1つを急襲し、次のターンに得る"
+                  "desc": "[OnSucceedAttack] 対象のランダムなプラス効果1つを吸収し、次のターンに得る"
                 }
               ]
             }
@@ -4295,7 +4295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象のランダムなプラス効果1つを急襲し、次のターンに得る"
+                  "desc": "[OnSucceedAttack] 対象のランダムなプラス効果1つを吸収し、次のターンに得る"
                 }
               ]
             },

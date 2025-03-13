@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "火炎放射",
-          "desc": "対象の火傷<style=\"highlight\">3につき</style>、コイン威力 +1(最大2)",
+          "desc": "対象の[Combustion]<style=\"highlight\">3につき</style>、コイン威力 +1(最大2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1351,7 +1351,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] このスキルで消耗した[FirePunchFuel1につき、ダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] このスキルで消耗した[FirePunchFuel]1につき、ダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)"
                 }
               ]
             }

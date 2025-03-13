@@ -222,12 +222,73 @@
 
     {
       "id": "mission_ui_condition_tags_201004005",
-      "content": "{0}등급 이상의 기프트 1개를 ++단계까지 강화하고 거울 던전 {1}층 클리어"
+      "content": "{0}등급 이상의 기프트 1개를 ++단계까지 강화하고 거울 던전 {1}층 이상 클리어"
     },
 
     {
       "id": "mission_ui_condition_tags_201004006",
-      "content": "아군 1명의 스킬 1을 상점에서 전부 스킬 3으로 교환하고 거울 던전 {0}층 클리어"
+      "content": "아군 1명의 스킬 1을 상점에서 전부 스킬 3으로 교환하고 거울 던전 {0}층 이상 클리어"
+    },
+
+    {
+      "id": "mission_ui_condition_tags_201005001",
+      "content": "스킬 1회 사용으로 1000 이상의 피해 가하기\n(보호막 피해 포함)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005002",
+      "content": "스킬 1회 사용으로 3000 이상의 피해 가하기\n(보호막 피해 포함)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005003",
+      "content": "스킬 1회 사용으로 5000 이상의 피해 가하기\n(보호막 피해 포함)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005004",
+      "content": "스킬 1회 사용으로 10000 이상의 피해 가하기\n(보호막 피해 포함)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005005",
+      "content": "적 1명에게 부여된 화상 위력 99 달성\n(집중 전투인 경우 부위로 체크)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005006",
+      "content": "적 1명에게 부여된 출혈 위력 99 달성\n(집중 전투인 경우 부위로 체크)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005007",
+      "content": "적 1명에게 부여된 진동 위력 99 달성\n(집중 전투인 경우 부위로 체크)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005008",
+      "content": "적 1명에게 부여된 파열 위력 99 달성\n(집중 전투인 경우 부위로 체크)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005009",
+      "content": "적 1명에게 부여된 침잠 위력 99 달성\n(집중 전투인 경우 부위로 체크)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005010",
+      "content": "아군 1명에게 부여된 호흡 위력 80 달성"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005011",
+      "content": "아군 1명에게 부여된 충전 위력 10 달성"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005012",
+      "content": "1회 전투에서 공격 스킬 1회 사용으로 적 6명 이상 처치 (E.G.O 스킬 포함)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005013",
+      "content": "1회 전투에서 최대 체력이 3000 이상인 적을 전투의 첫번째 턴 종료시까지 처치"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005014",
+      "content": "한 턴에 적 1명이 부정적인 효과를 10종류 이상 얻기\n(집중 전투인 경우 부위로 체크)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005015",
+      "content": "거울 던전 6층 이상의 스테이지에서 단 한 명의 아군 외에 모두 사망한 상태로 전투 승리 (대기 및 서포트 인격 포함)"
     }
   ]
 }
