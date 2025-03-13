@@ -203,6 +203,66 @@
     {
       "id": "mission_ui_condition_tags_201004006",
       "content": "于商店将一名友方单位的1技能全部替换为3技能，并清剿第{0}或更高层镜像迷宫"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005001",
+      "content": "使用单个技能造成不低于1000点伤害\n（包括对护盾造成的伤害）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005002",
+      "content": "使用单个技能造成不低于3000点伤害\n（包括对护盾造成的伤害）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005003",
+      "content": "使用单个技能造成不低于5000点伤害\n（包括对护盾造成的伤害）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005004",
+      "content": "使用单个技能造成不低于10000点伤害\n（包括对护盾造成的伤害）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005005",
+      "content": "使1名敌方单位的烧伤强度达到99级\n（集中遭遇战以部位判定）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005006",
+      "content": "使1名敌方单位的流血强度达到99级\n（集中遭遇战以部位判定）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005007",
+      "content": "使1名敌方单位的震颤强度达到99级\n（集中遭遇战以部位判定）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005008",
+      "content": "使1名敌方单位的破裂强度达到99级\n（集中遭遇战以部位判定）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005009",
+      "content": "使1名敌方单位的沉沦强度达到99级\n（集中遭遇战以部位判定）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005010",
+      "content": "使1名友方单位的呼吸法强度达到80级"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005011",
+      "content": "使1名友方单位的充能强度达到10级"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005012",
+      "content": "在一场战斗中，使用单个攻击技能击杀不低于6名敌方单位（包括E.G.O技能）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005013",
+      "content": "在一场战斗中，在战斗的首个回合结束前击杀体力上限不低于3000点的敌人"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005014",
+      "content": "在单个回合内，对1名敌方单位施加不低于10种负面状态\n（集中遭遇战以部位判定）"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005015",
+      "content": "于镜像迷宫第6或更高层中，在仅剩1名友方单位存活，其余友方单位全部阵亡的情况下赢得战斗（包括待机与支援的人格）"
     }
   ]
 }

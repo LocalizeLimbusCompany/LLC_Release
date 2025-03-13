@@ -75,6 +75,10 @@
     {
       "id": "IsOFFInfinityMod",
       "content": "OFF"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_BATTLE",
+      "content": "战斗"
     }
   ]
 }
