@@ -1332,7 +1332,7 @@
         {
           "level": 4,
           "name": "炎拳",
-          "desc": "目标每带有3层烧伤 ，使本技能的硬币威力+1(最多+2)\n[WhenUse] 目标每带有6级烧伤 强度，使本技能的基础威力+1(最多+3)\n[WhenUse] 消耗至多25层[FirePunchFuel]，每消耗1层[FirePunchFuel]，使本技能造成的伤害+2%(最多+50%)\n- 若自身处于[FirePunchFuelOverheated]状态，则改为每消耗1层[FirePunchFuel]，使本技能造成的伤害+4%(最多+100%)\n[EndSkill] 若击杀目标，或本技能消耗了[FirePunchFuel]，则下回合使自身获得2层打击伤害强化 。",
+          "desc": "目标每带有3层烧伤 ，使本技能的硬币威力+1（最多+2）\n[WhenUse] 目标每带有6级烧伤 强度，使本技能的基础威力+1（最多+3）\n[WhenUse] 消耗至多25层[FirePunchFuel]，每消耗1层[FirePunchFuel]，使本技能造成的伤害+2%（最多+50%）\n- 若自身处于[FirePunchFuelOverheated]状态，则改为每消耗1层[FirePunchFuel]，使本技能造成的伤害+4%（最多+100%）\n[EndSkill] 若击杀目标，或本技能消耗了[FirePunchFuel]，则下回合使自身获得2层打击伤害强化 ",
           "coinlist": [
             {
               "coindescs": [
