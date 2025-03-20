@@ -967,6 +967,22 @@
     {
       "id": "11211_getCondition_gacksung",
       "content": "불주먹 사무소 생존자 그레고르 동기화 3단계 달성"
+    },
+    {
+      "id": "11112_getCondition_normal",
+      "content": "흑수 - 묘 오티스 획득 시"
+    },
+    {
+      "id": "11112_getCondition_gacksung",
+      "content": "흑수 - 묘 오티스 동기화 3단계 달성"
+    },
+    {
+      "id": "10411_getCondition_normal",
+      "content": "흑수 - 묘 료슈 획득 시"
+    },
+    {
+      "id": "10411_getCondition_gacksung",
+      "content": "흑수 - 묘 료슈 동기화 3단계 달성"
     }
   ]
 }

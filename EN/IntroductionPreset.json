@@ -1483,6 +1483,22 @@
     {
       "id": "introduce_sentence_186",
       "content": "They're... all from our {0}."
+    },
+    {
+      "id": "introduce_word_187",
+      "content": "Hares"
+    },
+    {
+      "id": "introduce_sentence_187",
+      "content": "Didn't you know? {0} are(is) nocturnal."
+    },
+    {
+      "id": "introduce_word_188",
+      "content": "My Lord"
+    },
+    {
+      "id": "introduce_sentence_188",
+      "content": "Focus on your business of the day, {0}."
     }
   ]
 }

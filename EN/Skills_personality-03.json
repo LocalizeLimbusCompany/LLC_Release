@@ -732,8 +732,9 @@
             },
             {
               "coindescs": [
+                {},
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply 2 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply +2 [Breath] Count"
                 },
                 {
                   "desc": "[EndSkill] If the target is defeated, gain 1 [SlashDamageUp] next turn"
@@ -763,11 +764,12 @@
             },
             {
               "coindescs": [
+                {},
                 {
                   "desc": "+30% Damage on Critical Hit"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply 2 [Breath] Count.\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath] Count</style>"
+                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply +2 [Breath] Count.\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath] Count</style>"
                 },
                 {
                   "desc": "[EndSkill] If the target is defeated, <style=\"highlight\">apply 1 [SlashDamageUp] to self and 1 random other ally next turn</style>"

@@ -81,7 +81,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn"
+                  "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp_Weak] next turn"
                 }
               ]
             }
@@ -121,7 +121,7 @@
         {
           "level": 1,
           "name": "Snap At",
-          "desc": "[WhenUse] If target has [Sinking], Base Power +2",
+          "desc": "[WinDuel] If target has [Sinking], Base Power +2",
           "coinlist": [
             {
               "coindescs": [

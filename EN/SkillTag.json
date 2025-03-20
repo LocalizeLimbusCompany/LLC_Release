@@ -247,6 +247,14 @@
     {
       "id": "BeforeHit",
       "name": "[Before Getting Hit]"
+    },
+    {
+      "id": "OnDirectAttack",
+      "name": "[On Unopposed Attack]"
+    },
+    {
+      "id": "ReUseOnSucceedAttack",
+      "name": "[Reuse - On Hit]"
     }
   ]
 }

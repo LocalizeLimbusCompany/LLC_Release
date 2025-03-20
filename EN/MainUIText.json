@@ -1851,6 +1851,10 @@
     {
       "id": "mainui_settings_push_notification",
       "content": "Notification Settings"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "Paid Lunacy"
     }
   ]
 }

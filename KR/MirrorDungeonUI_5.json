@@ -511,6 +511,30 @@
     {
       "id": "mirrordungeon_start_bonus_personality_period",
       "content": "{0}까지"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+      "content": "※ 업적 경험치 {0} 구매 시, 유료 광기 {1} 소모"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+      "content": "유료 광기 {0}개를 소모하여 경험치를 구매하시겠습니까?"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_title",
+      "content": "업적 경험치 구매"
+    },
+    {
+      "id": "mirrordungeon_achievement_progress",
+      "content": "업적 진행도"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+      "content": "구매 가능한 업적 레벨 초과"
+    },
+    {
+      "id": "mirrordungeon_achievement_max_level",
+      "content": "업적 레벨 최대 달성"
     }
   ]
 }

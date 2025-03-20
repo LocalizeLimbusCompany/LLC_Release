@@ -762,7 +762,7 @@
     {
       "id": 1020601,
       "name": "Before The Tea Cools...",
-      "desc": "When attacking a target with a damage type the target is \"Weak\" or \"Fatal\" (Resistance>x1) to, gain 1 <sprite name=\"Breath\"><color=#e30000><u><link=\"Breath\">Poise</color></link></u> for each <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Rupture</color></link></u> on target before the attack (Max 20 per turn)",
+      "desc": "When attacking a target with a damage type the target is \"Weak\" or \"Fatal\" (Resistance>x1) to, gain 1 [Breath] for each [Rupture] on target before the attack (Max 20 per turn)",
       "summary": "When attacking with a damage type the target is Weak or Fatal to, gain 1 Poise for each Rupture on target before the attack"
     },
     {
@@ -2038,6 +2038,31 @@
       "id": 1031131,
       "name": "Featherstride Technique",
       "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- If the target has 20+ [Combustion] Potency, gain 1 additional [Agility]</style>"
+    },
+    {
+      "id": 1041101,
+      "name": "Heishou Mutation [Mao]",
+      "desc": "If this unit has [LegStrength], deal +5% more damage"
+    },
+    {
+      "id": 1041111,
+      "name": "Heishou Mutation [Mao]",
+      "desc": "If this unit has [LegStrength], deal +5% more damage\nIf the target has [BurstAgility], deal +5% more damage"
+    },
+    {
+      "id": 1041121,
+      "name": "Partial Heishou Mutation Training",
+      "desc": "Turn End: 1 ally with the fastest Speed gains 2 [Agility] next turn"
+    },
+    {
+      "id": 1111201,
+      "name": "Heishou Mutation [Mao]",
+      "desc": "If this unit has [LegStrength] and the target has [BurstAgility], deal +5% more damage for every [LegStrength] (max 15%)"
+    },
+    {
+      "id": 1111221,
+      "name": "A Husk of Hares",
+      "desc": "1 ally with the fastest Speed: when attacking targets with [Burst], deal +10% more damage\nGain 1 [Agility] next turn (once per turn)"
     }
   ]
 }

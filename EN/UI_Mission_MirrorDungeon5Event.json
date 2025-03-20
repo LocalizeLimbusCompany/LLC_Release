@@ -206,19 +206,19 @@
     },
     {
       "id": "mission_ui_condition_tags_201005001",
-      "content": "Deal 1000+ damage with a single Skill use\n(damage against Shield HP counts)"
+      "content": "Deal 1000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)"
     },
     {
       "id": "mission_ui_condition_tags_201005002",
-      "content": "Deal 3000+ damage with a single Skill use\n(damage against Shield HP counts)"
+      "content": "Deal 3000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)"
     },
     {
       "id": "mission_ui_condition_tags_201005003",
-      "content": "Deal 5000+ damage with a single Skill use\n(damage against Shield HP counts)"
+      "content": "Deal 5000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)"
     },
     {
       "id": "mission_ui_condition_tags_201005004",
-      "content": "Deal 10000+ damage with a single Skill use\n(damage against Shield HP counts)"
+      "content": "Deal 10000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)"
     },
     {
       "id": "mission_ui_condition_tags_201005005",
@@ -263,6 +263,10 @@
     {
       "id": "mission_ui_condition_tags_201005015",
       "content": "At Floor 6 or higher in the Mirror Dungeon, win an Encounter after every ally except for one is dead (including Backup/Support Identities)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201006001",
+      "content": "Clear all missions"
     }
   ]
 }

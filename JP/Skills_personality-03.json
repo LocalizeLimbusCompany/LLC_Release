@@ -732,11 +732,12 @@
             },
             {
               "coindescs": [
+                {},
                 {
                   "desc": "[CriticalOnSucceedAttack] [Breath]が無いか、[Breath]回数を最も少なく保有している味方2名の[Breath]回数を2増加"
                 },
                 {
-                  "desc": "[EndSkill] 対象が死亡した場合、次のターンに[SlashDamageUp]1を得る"
+                  "desc": "[EndSkill] 対象が死亡したなら、次のターンに[SlashDamageUp]1を得る"
                 }
               ]
             }
@@ -763,6 +764,7 @@
             },
             {
               "coindescs": [
+                {},
                 {
                   "desc": "クリティカルダメージ量 +30%"
                 },

@@ -760,7 +760,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여"
+                                    "desc": "[OnSucceedAttackHead] 다음 턴에 공격 위력 감소 1 부여"
                                 }
                             ]
                         },
@@ -834,7 +834,7 @@
                                     "desc": "[OnSucceedAttack] 20만큼 고정 체력 피해"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] 다음 턴에 마비 3 부여"
+                                    "desc": "[OnSucceedAttackHead] 다음 턴에 마비 3 부여"
                                 }
 
                             ]
@@ -854,7 +854,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 다음 턴에 마비 1 부여"
+                                    "desc": "[OnSucceedAttackHead] 다음 턴에 마비 1 부여"
                                 }
                             ]
                         }
@@ -899,7 +899,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] 다음 턴에 더하기 코인 약화1 부여"
+                                    "desc": "[OnSucceedAttackHead] 다음 턴에 더하기 코인 약화1 부여"
                                 }
                             ]
                         },

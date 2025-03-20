@@ -1483,6 +1483,22 @@
     {
       "id": "introduce_sentence_186",
       "content": "이건… 우리 {0}의 복장이군."
+    },
+    {
+      "id": "introduce_word_187",
+      "content": "토끼"
+    },
+    {
+      "id": "introduce_sentence_187",
+      "content": "몰랐나? {0}(은/는) 원래 야행성이다."
+    },
+    {
+      "id": "introduce_word_188",
+      "content": "주군"
+    },
+    {
+      "id": "introduce_sentence_188",
+      "content": "주군께선 {0}의 집무에 충실하소서."
     }
   ]
 }

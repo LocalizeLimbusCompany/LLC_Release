@@ -967,6 +967,22 @@
     {
       "id": "11211_getCondition_gacksung",
       "content": "炎拳事務所 生存者 グレゴール 同期化3段階達成"
+    },
+    {
+      "id": "11112_getCondition_normal",
+      "content": "黒獣 - 卯 ウーティス獲得時"
+    },
+    {
+      "id": "11112_getCondition_gacksung",
+      "content": "黒獣 - 卯 ウーティス 同期化3段階達成"
+    },
+    {
+      "id": "10411_getCondition_normal",
+      "content": "黒獣 - 卯 良秀獲得時"
+    },
+    {
+      "id": "10411_getCondition_gacksung",
+      "content": "黒獣 - 卯 良秀 同期化3段階達成"
     }
   ]
 }

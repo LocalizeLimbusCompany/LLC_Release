@@ -2690,7 +2690,7 @@
     {
       "id": 9100,
       "name": "T-1 Perpetual Motion Machine",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge')/5 +1) Damage Up. (max 9, rounded up)\n\nEach Identity gains (total [Charge] Count consumed by using Attack Skills during this Encounter / 4) Offense Level Up at Turn Start. (maxes out after consuming 40 [Charge] Count)\n\nEach Identity gains 1 [Charge] every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)\n\nAfter Attack of a Skill that consumed [Charge] Count on self: inflict ([Charge] - 1) [DefenseDown] (5 times for each enemy per turn; can inflict up to 3 [DefenseDown] at a time)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge')/5 +1) Damage Up. (max 9, rounded up)\n\nEach Identity gains (total [Charge] Count consumed by using Attack Skills during this Encounter / 4) Offense Level Up at Turn Start. (maxes out after consuming 40 [Charge] Count)\n\nEach Identity gains 1 [Charge] every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)\n\nAfter Attack of a Skill that consumed [Charge] Count on self: inflict ([Charge] - 1) [DefenseDown] (5 times per enemy per turn; can inflict up to 3 [DefenseDown] at a time)",
       "simpleDesc": [
         {
           "abilityID": 9100,
@@ -4678,7 +4678,7 @@
     {
       "id": 9194,
       "name": "Short Cane Sword",
-      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well\n\nEncounter Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2)",
+      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well\n\nEncounter Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2)",
       "simpleDesc": [
         {
           "abilityID": 9193,
@@ -4693,7 +4693,7 @@
     {
       "id": 19194,
       "name": "Short Cane Sword+",
-      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict Weakness Analyzed as well\n\nOdd-numbered Turn Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2)",
+      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, <style=\"upgradeHighlight\">and inflict Weakness Analyzed as well</style>\n\n<style=\"upgradeHighlight\">Odd-numbered Turn Start</style>: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2)",
       "simpleDesc": [
         {
           "abilityID": 19193,
@@ -4708,7 +4708,7 @@
     {
       "id": 29194,
       "name": "Short Cane Sword++",
-      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict Weakness Analyzed and 1 Clash Power Down as well\n\nTurn Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up. (rounded down; max 2) On Clash Win, deal +20% more damage with the Skill.",
+      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict Weakness Analyzed and 1<style=\"upgradeHighlight\"> Clash Power Down</style> as well\n\n<style=\"upgradeHighlight\">Turn Start</style>: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up. (rounded down; max 2) <style=\"upgradeHighlight\">On Clash Win, deal +20% more damage with the Skill.</style>",
       "simpleDesc": [
         {
           "abilityID": 29193,
@@ -4723,7 +4723,7 @@
     {
       "id": 9195,
       "name": "Cloudpattern Gourd Bottle",
-      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (4 times per turn for each Identity)",
+      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (4 times per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 9195,
@@ -4738,7 +4738,7 @@
     {
       "id": 19195,
       "name": "Cloudpattern Gourd Bottle+",
-      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type or Lust Affinity Skills instead (effect does not stack)\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (6 times per turn for each Identity)",
+      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type <style=\"upgradeHighlight\">or Lust Affinity</style> Base Attack Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (<style=\"upgradeHighlight\">6</style> times per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 19195,
@@ -4753,7 +4753,7 @@
     {
       "id": 29195,
       "name": "Cloudpattern Gourd Bottle++",
-      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Skills instead (effect does not stack)\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1~2 Poise Potency (8 times per turn for each Identity)",
+      "desc": "Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to <style=\"upgradeHighlight\">all</style> Base Attack Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain <style=\"upgradeHighlight\">1~2</style> Poise Potency (<style=\"upgradeHighlight\">8</style> times per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 29195,
@@ -4802,7 +4802,7 @@
     {
       "id": 9198,
       "name": "Plume of Proof",
-      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; does not stack against the same enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Nerve Strike' or 'Focused Attack', gain 2 Poise Potency On Hit (once per turn for each Identity)",
+      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn per Identity; does not stack against the same enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain 2 Poise Potency On Hit (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 9198,
@@ -4817,7 +4817,7 @@
     {
       "id": 19198,
       "name": "Plume of Proof+",
-      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain 4 Poise Potency On Hit (once per turn for each Identity)",
+      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn per Identity; <style=\"upgradeHighlight\">max 2</style> per enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well. (once per turn per Identity)\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain <style=\"upgradeHighlight\">4</style> Poise Potency On Hit (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 19198,
@@ -4832,7 +4832,7 @@
     {
       "id": 29198,
       "name": "Plume of Proof++",
-      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well. (2 times per turn for each Identity)\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Nerve Strike' or 'Focused Attack', gain 4 Poise Potency On Hit (2 times per turn for each Identity)",
+      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn per Identity; max 2 per enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well. (<style=\"upgradeHighlight\">2</style> times per turn per Identity)\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Nerve Strike', or 'Focused Attack', gain 4 Poise Potency On Hit (<style=\"upgradeHighlight\">2</style> times per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 29198,
@@ -4862,7 +4862,7 @@
     {
       "id": 19199,
       "name": "Torn Hems+",
-      "desc": "Pierce Attack Type Skill 2: Offense Level +2; if the Skill has 2 Coins or fewer, Offense Level +2 and Clash Power (2/# of Coins) instead.\n- For Technology Liberation Alliance Identities: above effect applies to all Pierce Attack Type or Gluttony Affinity Base Attack Skills\n\nTurn Start: Technology Liberation Alliance Identities gain (# of negative effects on self + 1) [AttackUp]. (max 4)",
+      "desc": "Pierce Attack Type Skill 2: Offense Level +2; if the Skill has 2 Coins or fewer, Offense Level +2 and Clash Power (2/# of Coins) instead.\n- For Technology Liberation Alliance Identities: above effect applies to all Pierce Attack Type <style=\"upgradeHighlight\">or Gluttony Affinity</style> Base Attack Skills\n\nTurn Start: Technology Liberation Alliance Identities gain <style=\"upgradeHighlight\">(# of negative effects on self + 1)</style> [AttackUp]. (max <style=\"upgradeHighlight\">4</style>)",
       "simpleDesc": [
         {
           "abilityID": 19199,
@@ -4877,7 +4877,7 @@
     {
       "id": 29199,
       "name": "Torn Hems++",
-      "desc": "Pierce Attack Type Skill 2: Offense Level +2; if the Skill has 2 Coins or fewer, Offense Level +2 and Clash Power (2/# of Coins) instead.\n- For Technology Liberation Alliance Identities: above effect applies to all Base Attack Skills\n\nTurn Start: Technology Liberation Alliance Identities gain 1 Clash Power Up and (value of highest Stack among negative effects on self) [AttackUp]. (max 5)",
+      "desc": "Pierce Attack Type Skill 2: Offense Level +2; if the Skill has 2 Coins or fewer, Offense Level +2 and Clash Power (2/# of Coins) instead.\n- For Technology Liberation Alliance Identities: above effect applies to <style=\"upgradeHighlight\">all</style> Base Attack Skills\n\nTurn Start: Technology Liberation Alliance Identities gain <style=\"upgradeHighlight\">1 Clash Power Up</style> and (value of highest Stack among negative effects on self + 1) [AttackUp]. (max <style=\"upgradeHighlight\">5</style>)",
       "simpleDesc": [
         {
           "abilityID": 29199,
@@ -4930,7 +4930,7 @@
     {
       "id": 9202,
       "name": "Pocket Flashcards",
-      "desc": "When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 3)",
+      "desc": "When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 3)",
       "simpleDesc": [
         {
           "abilityID": 9202,
@@ -4945,7 +4945,7 @@
     {
       "id": 19202,
       "name": "Pocket Flashcards+",
-      "desc": "When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill + 1) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 4)",
+      "desc": "When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain <style=\"upgradeHighlight\">(rank of the Discarded Skill + 1)</style> Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max <style=\"upgradeHighlight\">4</style>)",
       "simpleDesc": [
         {
           "abilityID": 19202,
@@ -4960,7 +4960,7 @@
     {
       "id": 29202,
       "name": "Pocket Flashcards++",
-      "desc": "When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill + 2) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 5)",
+      "desc": "When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain <style=\"upgradeHighlight\">(rank of the Discarded Skill + 2)</style> Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max <style=\"upgradeHighlight\">5</style>)",
       "simpleDesc": [
         {
           "abilityID": 29202,
@@ -4975,7 +4975,7 @@
     {
       "id": 9203,
       "name": "Dimensional Perception Modifier",
-      "desc": "Blunt Attack Type Skill 1 & 2: Offense Level +(# of Coins - 1) (max 2)\n- Skills with Discard effects gain Offense Level +(# of Coins) instead (max 4)\n\nIf a unit used a Discard Skill to discard their Skill, gain 1 Damage Up and (rank of the Discarded Skill) Offense Level Up. (once per turn for each Identity; if multiple were discarded, take the highest value; max 3)\n- If a Blunt Attack Type Skill was Discarded, gain 1 Blunt DMG Up as well",
+      "desc": "Blunt Attack Type Skill 1 & 2: Offense Level +(# of Coins - 1) (max 2)\n- Skills with Discard effects gain Offense Level +(# of Coins) instead (max 4)\n\nIf a unit used a Discard Skill to discard their Skill, gain 1 Damage Up and (rank of the Discarded Skill) Offense Level Up. (once per turn per Identity; if multiple were discarded, take the highest value; max 3)\n- If a Blunt Attack Type Skill was Discarded, gain 1 Blunt DMG Up as well",
       "simpleDesc": [
         {
           "abilityID": 9203,

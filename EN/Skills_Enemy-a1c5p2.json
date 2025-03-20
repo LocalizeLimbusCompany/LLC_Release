@@ -760,7 +760,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn"
                                 }
                             ]
                         },
@@ -834,7 +834,7 @@
                                     "desc": "[OnSucceedAttack] Deal 20 fixed HP damage"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                                    "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze next turn"
                                 }
                             ]
                         }
@@ -853,7 +853,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
                                 }
                             ]
                         }
@@ -898,7 +898,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn"
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
                                 }
                             ]
                         },

@@ -937,6 +937,20 @@
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 11th Identity"
+    },
+    {
+      "id": 11112,
+      "title": "Heishou Pack - Mao Branch",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 12th Identity"
+    },
+    {
+      "id": 10411,
+      "title": "Heishou Pack - Mao Branch",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 11th Identity"
     }
   ]
 }

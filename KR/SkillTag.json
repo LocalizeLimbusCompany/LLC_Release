@@ -247,6 +247,14 @@
     {
       "id": "BeforeHit",
       "name": "[피격 직전]"
+    },
+    {
+      "id": "OnDirectAttack",
+      "name": "[일방 공격 시]"
+    },
+    {
+      "id": "ReUseOnSucceedAttack",
+      "name": "[재사용 적중시]"
     }
   ]
 }

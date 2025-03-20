@@ -79,6 +79,10 @@
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_BATTLE",
       "content": "戦闘"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_ALL",
+      "content": "達成度"
     }
   ]
 }

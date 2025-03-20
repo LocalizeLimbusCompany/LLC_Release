@@ -1850,13 +1850,13 @@
     {
       "id": "EchoOfMansion",
       "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
+      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit next turn\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "EchoOfMansion_Main",
       "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Change this unit's Panic Type to Echoes of the Manor.\n- When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Reduce by 1 at Turn End",
+      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Change this unit's Panic Type to Echoes of the Manor.\n- When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {
@@ -2084,7 +2084,7 @@
     {
       "id": "WanderingFootsteps_Sub",
       "name": "Impending Ruin",
-      "desc": "-10% chance to flip Heads\n- Reduced by 1 at Turn End",
+      "desc": "- -10% chance to flip Heads\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {

@@ -87,7 +87,8 @@
         "RailwayDungeonUI_5",
         "MirrorDungeonUI_5_InfinityFloor",
         "UI_Mission_MirrorDungeon5Event",
-        "EventLimbus2ndAnnivText"
+        "EventLimbus2ndAnnivText",
+        "NightCleanUpEvent"
     ],
     "character": [
         "Characters"
@@ -121,7 +122,8 @@
         "Assist-a1c7p2",
         "Enemies-a1c7p3",
         "Enemies-walpu5",
-        "Enemies-a1c971"
+        "Enemies-a1c971",
+        "Enemies-sweep"
     ],
     "ego": [
         "Egos"
@@ -198,7 +200,10 @@
         "Skills_Abnormality-a1c971",
         "Skills_Enemy-a1c971",
         "Skills_Abnormality-a1c9115",
-        "Skills_Enemy-a1c9115"
+        "Skills_Enemy-a1c9115",
+        "Skills_Abnormality-a1c9116",
+        "Skills_Enemy-a1c9116"
+        
     ],
     "passive": [
         "Passives",
@@ -242,7 +247,9 @@
         "Passives_Enemy-a1c7p3",
         "Passives_Abnormality-a1c7p3",
         "Passives_Enemy-walpu5",
-        "Passive-a1c971"
+        "Passive-a1c971",
+        "Passives-a1c9116",
+        "Passives_Abnormality-a1c9116"
     ],
     "buf": [
         "Bufs",
@@ -269,7 +276,8 @@
         "Bufs_Mirror5",
         "Bufs-walpu5",
         "Bufs-a1c971",
-        "Bufs-a1c9114"
+        "Bufs-a1c9114",
+        "Bufs-a1c9116"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -304,7 +312,8 @@
         "BattleKeywords_Mirror5",
         "BattleKeywords-walpu5",
         "BattleKeywords-a1c971",
-        "BattleKeywords-a1c9114"
+        "BattleKeywords-a1c9114",
+        "BattleKeywords-a1c9116"
     ],
     "skillTag": [
         "SkillTag"
@@ -329,7 +338,8 @@
         "AbEvents-walpu4",
         "AbEvents-a1c7p3",
         "AbEvents-walpu5",
-        "AbEvents_lcbcheckup"
+        "AbEvents_lcbcheckup",
+        "AbEvents_night-clean-up"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -390,7 +400,8 @@
         "ActionEvents-a1c7p3",
         "ActionEvents-walpu5",
         "ActionEvents_lcbcheckup",
-        "ActionEvents_a1c971"
+        "ActionEvents_a1c971",
+        "ActionEvents_night-clean-up"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -441,7 +452,8 @@
         "StageNode-a1c7p2",
         "StageNode-a1c7p3",
         "StageNode91-13",
-        "StageNode91-14"
+        "StageNode91-14",
+        "StageNode91-16"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -486,8 +498,7 @@
     ],
     "storyTheater": [
         "StoryTheaterMain",
-        "StoryTheaterOther",
-        "StoryTheaterMain-a1c7p1"
+        "StoryTheaterOther"
     ],
     "announcer": [
         "Announcer"
@@ -640,7 +651,9 @@
         "Voice_Heathcliff_Kurokumo_10712",
         "Voice_Yisang_LiuAssoc_10112",
         "Voice_DonQuixote_CinqEast_10311",
-        "Voice_Gregor_Firepunch_11211"
+        "Voice_Gregor_Firepunch_11211",
+        "Voice_Ryoshu_Blackwater_10411",
+        "Voice_Outis_Blackwater_11112"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -671,7 +684,8 @@
         "Announcer_Hohenheim_90001",
         "Announcer_Aengdu_26",
         "Announcer_Jun_27",
-        "Announcer_Vergilius_28"
+        "Announcer_Vergilius_28",
+        "Announcer_Ricardo_29"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -803,7 +817,8 @@
         "PanicInfo-a1c7p2",
         "PanicInfo-a1c7p3",
         "PanicInfo-walpu5",
-        "PanicInfo-a1c971"
+        "PanicInfo-a1c971",
+        "PanicInfo-a1c9116"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"

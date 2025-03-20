@@ -1851,6 +1851,10 @@
     {
       "id": "mainui_settings_push_notification",
       "content": "알림 설정"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "유료 광기"
     }
   ]
 }

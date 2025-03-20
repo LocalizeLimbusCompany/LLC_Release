@@ -1483,6 +1483,22 @@
     {
       "id": "introduce_sentence_186",
       "content": "これは…うちの{0}の服装だな。"
+    },
+    {
+      "id": "introduce_word_187",
+      "content": "兎"
+    },
+    {
+      "id": "introduce_sentence_187",
+      "content": "…知らなかったのか？ {0}は元々夜行性だ。"
+    },
+    {
+      "id": "introduce_word_188",
+      "content": "主君"
+    },
+    {
+      "id": "introduce_sentence_188",
+      "content": "主君におかれましては、{0}の執務に専心なされませ。"
     }
   ]
 }

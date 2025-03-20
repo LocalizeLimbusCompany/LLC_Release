@@ -1851,6 +1851,14 @@
     {
       "id": "mainui_settings_push_notification",
       "content": "通知設定"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "有償狂気"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "(ダミー)スキップできないストーリーです"
     }
   ]
 }

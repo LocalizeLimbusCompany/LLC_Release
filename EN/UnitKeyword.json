@@ -195,6 +195,14 @@
     {
       "id": "UnitKeyword_LIMBUS_COMPANY_LCB",
       "content": "LCB"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_RABBIT",
+      "content": "Heishou Pack - Mao Branch"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST",
+      "content": "Heishou Pack"
     }
   ]
 }

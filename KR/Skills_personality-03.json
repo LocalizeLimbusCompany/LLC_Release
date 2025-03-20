@@ -732,6 +732,7 @@
             },
             {
               "coindescs": [
+                {},
                 {
                   "desc": "[CriticalOnSucceedAttack] [Breath]이 없거나 [Breath] 횟수를 가장 적게 보유한 아군 2명의 [Breath] 횟수 2 증가"
                 },
@@ -763,6 +764,7 @@
             },
             {
               "coindescs": [
+                {},
                 {
                   "desc": "크리티컬 피해량 +30%"
                 },

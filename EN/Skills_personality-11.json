@@ -1547,6 +1547,263 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1111201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blinkstep",
+          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Blinkstep",
+          "desc": "[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 12+ Speed, Reuse Coin once (once per Skill)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blinkstep",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] At <style=\"highlight\">10</style>+ Speed, Reuse Coin once (once per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perforating Kill",
+          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "At 10+ Speed, deal +10% more damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Perforating Kill",
+          "desc": "[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[OnDirectAttack] Inflict +1 [Burst] Count</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict +1 [Burst] Count</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "At 10+ Speed, deal +<style=\"highlight\">20</style>% more damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Perforating Kill",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1\n[OnDirectAttack] Inflict +1 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain 1 [Agility] next turn (2 times per turn)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "At 10+ Speed, deal +<style=\"highlight\">30</style>% more damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Cursewrit Butcherblade",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain 3 [LegStrength]\n[OnDirectAttack] Inflict +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cursewrit Butcherblade",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[OnDirectAttack] Inflict +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Inflict [BurstAgility]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partial Heishou Mutation",
+          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [LegStrength]\n[WhenUse] If this unit's Speed is faster than the target's by 2 or more, Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Partial Heishou Mutation",
+          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [LegStrength]\n<style=\"highlight\">[WhenUse] If this unit's Speed is faster than the target's, gain Base Power based on Speed difference (Base Power +1 for every 2 Speed difference; max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

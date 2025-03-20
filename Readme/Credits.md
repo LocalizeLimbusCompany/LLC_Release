@@ -9,9 +9,11 @@
   - Pencilblue/铅笔蓝：KR translator/韩译
   - Songautumn/宋清秋：A cow cat/一只奶牛猫
   - Anmmon Plumeria/安默：Miqo'te blackmage
-  - CHEmini/小车：Stupid AI
+  - Refracted Car/小车：Stupid AI
   - Mully/墨式Ink：Succubus
   - Imagine.F./想象力：Refracted Cyber Phantom Cooer/折射的赛博幽灵咕者
+  - WesTower / 西塔：Peccatulum Pigritiae / 怠惰罪种
+  - Shan / 天穹：Someone new wirting Credits? / 我不到啊，他们说可以加我就加了
 - Broadcasting/广播局
   - Yukkri Mantou/馒头：Emergency food reserve
   - JimD/小迪：A little star

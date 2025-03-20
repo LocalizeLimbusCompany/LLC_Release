@@ -79,6 +79,10 @@
     {
       "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_BATTLE",
       "content": "Combat"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_ALL",
+      "content": "Completionist"
     }
   ]
 }

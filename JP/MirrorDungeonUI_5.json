@@ -511,6 +511,30 @@
     {
       "id": "mirrordungeon_start_bonus_personality_period",
       "content": "{0}まで"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+      "content": "※アチーブメント経験時{0}購入時、有償狂気を{1}消耗"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+      "content": "有償狂気{0}を消耗し、経験値を購入しますか？"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_title",
+      "content": "アチーブメント経験値購入"
+    },
+    {
+      "id": "mirrordungeon_achievement_progress",
+      "content": "アチーブメント進行度"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+      "content": "購入可能なアチーブメントレベル超過"
+    },
+    {
+      "id": "mirrordungeon_achievement_max_level",
+      "content": "アチーブメントレベル最大値達成"
     }
   ]
 }
