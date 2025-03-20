@@ -30,14 +30,14 @@
     },
     {
       "id": "RepressedMurderousIntend",
-      "name": "억눌린 살기",
+      "name": "被抑制的杀意",
       "desc": "攻击等级-10，防御等级-10",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WeighedMurderousIntend",
-      "name": "짓눌린 살기",
+      "name": "被摧毁的杀意",
       "desc": "攻击等级-25，防御等级-25",
       "summary": "",
       "undefined": "-"
