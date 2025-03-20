@@ -732,8 +732,9 @@
             },
             {
               "coindescs": [
+                {},
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使未带有呼吸法 或呼吸法 层数最低的2名友方单位获得2层呼吸法 "
+                  "desc": "[CriticalOnSucceedAttack] 使未带有呼吸法 或呼吸法层数最低的2名友方单位获得2层呼吸法 "
                 },
                 {
                   "desc": "[EndSkill] 若击杀目标，则下回合使自身获得1层斩击伤害强化 "
@@ -763,6 +764,7 @@
             },
             {
               "coindescs": [
+                {},
                 {
                   "desc": "使本硬币暴击时造成的伤害+30%"
                 },

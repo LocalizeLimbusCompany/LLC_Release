@@ -1851,6 +1851,10 @@
     {
       "id": "mainui_settings_push_notification",
       "content": "通知设置"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "付费狂气"
     }
   ]
 }

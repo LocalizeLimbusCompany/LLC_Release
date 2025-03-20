@@ -1,0 +1,134 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_29_1",
+      "dlg": "这富有安全感的柔软触感的柔顺……是最棒的。在如此柔顺的日子里，没什么事儿会是不顺的吧。"
+    },
+    {
+      "id": "announcer_cheer_29_2",
+      "dlg": "我实在是没法理解那些被记在账薄上的人。我们中指可既不像拇指那么严厉，也不像食指一样总提些莫名其妙的要求。"
+    },
+    {
+      "id": "announcer_specialcheer_29_1",
+      "dlg": "你们都没事吧？一个两个都半死不活的。"
+    },
+    {
+      "id": "announcer_specialcheer_29_2",
+      "dlg": "要是实在搞不定，就别逞强了，退下吧。剩下的就由我，或者其他大哥大姐来解决。"
+    },
+    {
+      "id": "announcer_enemy_break_29_1",
+      "dlg": "要是以为光是被击倒就足以偿还自己的罪孽，那你们可就大错特错了。"
+    },
+    {
+      "id": "announcer_ally_break_29_1",
+      "dlg": "喂喂……已经晕过去了吗。那就详细地把兄弟的仇恨记在账簿上吧……很快就来找你报仇。"
+    },
+    {
+      "id": "announcer_killenemy_29_1",
+      "dlg": "一条命根本不够抵他们的罪……连同那边发抖的其他同伙一并处刑！"
+    },
+    {
+      "id": "announcer_ally_dead_29_1",
+      "dlg": "竟然敢对中指出手？把他们全部写下来，牢牢铭记，一个不留地全部干掉。"
+    },
+    {
+      "id": "announcer_enemy_adv_29_1",
+      "dlg": "中指永不遗忘。现在他们对我的家人们做的每一件事……我一定都会让他们偿还！"
+    },
+    {
+      "id": "announcer_ally_adv_29_1",
+      "dlg": "……我都要打哈欠了。差不多也觉得无聊了，赶紧结束吧。"
+    },
+    {
+      "id": "announcer_ally_advex_29_1",
+      "dlg": "中指永不遗忘……既然生活在都市里，就该好好把这话听进去。还是说，你觉得这只是句威胁？"
+    },
+    {
+      "id": "announcer_danger_29_1",
+      "dlg": "我本来可以帮你解决……但为了保住位置，我不能违背长姐的要求。但……如果你们死了的话……我一定会为你们报仇的。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_29_1",
+      "dlg": "这事闹得还真够大的……啧。全员集合，先对付那个家伙！"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_29_1",
+      "dlg": "那是什么玩意？之前都没见过那样的技术……居然还有连我都不知道的东西。"
+    },
+    {
+      "id": "announcer_advatk_physical_29_1",
+      "dlg": "很好，刚才那下才像样！"
+    },
+    {
+      "id": "announcer_disadvatk_physical_29_1",
+      "dlg": "真是的……光用拳头打可不行。还得加上用腿去踢。"
+    },
+    {
+      "id": "announcer_advatk_attr_29_1",
+      "dlg": "刚才的攻击。真是丝——滑。就是这样。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_29_1",
+      "dlg": "既不强力，也不利索的一拳……真是一团乱。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_29_1",
+      "dlg": "第72条第3项D行第4列。使用未确认的强化手段威胁中指成员，应处以殴打至死之刑。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_29_1",
+      "dlg": "你以为中指的复仇方式仅限于使用暴力吗？为了报仇雪恨，我们可不择手段。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_29_1",
+      "dlg": "哈……有点意思。难道是因为约好了完事之后要开个烤鲸肉派对，你们才那么有精神？"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_29_1",
+      "dlg": "你……怎么突然拿来了这么个奇怪的玩意？那种东西都要提前丢掉，之前不是说过了吗。"
+    },
+    {
+      "id": "announcer_enemy_destroy_29_1",
+      "dlg": "不错！就这么击溃他们！"
+    },
+    {
+      "id": "announcer_enemy_destroy_29_2",
+      "dlg": "现在明白了吧。要是被中指逮到了，肯定少不了挨揍。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_29_1",
+      "dlg": "哈哈！居然挨了这么猛的一记！你们还真是遇到了个不错的对手啊。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_29_2",
+      "dlg": "这种程度应该不会有人倒下吧。要让他们知道，动了中指的人会是什么下场！"
+    },
+    {
+      "id": "announcer_round_givebigdmg_29_1",
+      "dlg": "好！正好打了个半死！这正是最符合第13条第2项的处罚方式。哼。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_29_2",
+      "dlg": "做得好！结束之后，我会在你们的复仇账簿上贴上限定款的小猫贴纸的！"
+    },
+    {
+      "id": "announcer_multikillenemy_29_1",
+      "dlg": "哈哈！没错。这种程度的招数当然要亮出来给大家看看啊！"
+    },
+    {
+      "id": "announcer_equip_29_1",
+      "dlg": "我不是很喜欢只下命令……但是受长姐的委托我还是来了。我叫里卡多！"
+    },
+    {
+      "id": "announcer_wait_29_1",
+      "dlg": "最近该带你们去见下东部的大哥们。一方面是为了再次见识他们久违的高超技巧，一方面也有必要让你们接受一下实力的评价。",
+      "isHide": true
+    },
+    {
+      "id": "announcer_multikillally_29_1",
+      "dlg": "妈的……我想起那个混蛋了。以前，因为一条疯狗，南部的大哥大姐们被莫名其妙地一扫而光。东南西北的中指都从来没有忘记这一点，一直咬紧牙关将其铭记在心。那份怨恨必将……",
+      "isHide": true
+    }
+  ]
+}

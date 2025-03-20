@@ -1542,6 +1542,272 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "瞬步",
+          "desc": "[WhenUse] 若目标的破裂 强度不低于6级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "瞬步",
+          "desc": "[WhenUse] 若目标的破裂 强度不低于4级，则使本技能的硬币威力+1\n[WinDuel] 对目标施加1层破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低于10，则重复使用本硬币1次(每个技能最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "瞬步",
+          "desc": "若自身的速度值高于目标至少3点，则使本技能的硬币威力+1\n[WhenUse] 若目标的破裂 强度不低于4级，则使本技能的硬币威力+1\n[WinDuel] 对目标施加1层破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低于10，则重复使用本硬币1次(每个技能最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "如镌刻所示",
+          "desc": "若自身的速度值高于目标，则使本技能造成的伤害+(速度值之差×目标的破裂 强度)%(最多+50%)\n[WhenUse] 若目标的破裂 强度不低于6级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的速度值不低于10，则使本硬币造成的伤害+10%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "如镌刻所示",
+          "desc": "若自身的速度值高于目标，则使本技能造成的伤害+(速度值之差×目标的破裂 强度)%(最多+50%)\n[WhenUse] 若目标的破裂 强度不低于4级，则使本技能的硬币威力+1\n[WhenUse] 下回合使自身获得2层迅捷 (每回合最多1次)\n[WinDuel] 对目标施加1层破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低于10，则对目标施加1层破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的速度值不低于10，则使本硬币造成的伤害+20%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "如镌刻所示",
+          "desc": "若自身的速度值高于目标，则使本技能造成的伤害+(速度值之差×目标的破裂 强度)%(最多+50%)\n若自身的速度值高于目标至少3点，则使本技能的硬币威力+1\n[WhenUse] 若目标的破裂 强度不低于4级，则使本技能的硬币威力+1\n[WhenUse] 下回合使自身获得2层迅捷 (每回合最多1次)\n[WinDuel] 对目标施加1层破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低于10，则对目标施加1层破裂 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的速度值不低于10，则使本硬币造成的伤害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "以镌刻诅咒之剑刺穿吧",
+          "desc": "若自身的速度值高于目标，则使本技能造成的伤害+(速度值之差×目标的破裂 强度)%(最多+50%)\n若自身的速度值高于目标至少2点，则使本技能的硬币威力+1\n[WhenUse] 使自身获得3层[LegStrength]\n[WinDuel] 对目标施加2层破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加[BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的速度值不低于10，则使本硬币造成的伤害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低于10，则重复使用本硬币1次(每个技能最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "以镌刻诅咒之剑刺穿吧",
+          "desc": "若自身的速度值高于目标，则使本技能造成的伤害+(速度值之差×目标的破裂 强度)%(最多+50%)\n若自身的速度值高于目标，则每高于目标2点，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若目标的破裂 强度不低于15级，则使本技能的硬币威力+1\n[WhenUse] 使自身获得3层[LegStrength]\n[WinDuel] 对目标施加2层破裂 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加[BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级破裂 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身的速度值不低于10，则使本硬币造成的伤害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级破裂 强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低于10，则重复使用本硬币1次(每个技能最多1次)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 对目标施加[BurstAgility]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脚力。解放。呵",
+          "desc": "[DuelCounter]\n[WhenUse] 使自身获得3层[LegStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "脚力。解放。呵",
+          "desc": "[DuelCounter]\n[WhenUse] 使自身获得3层[LegStrength]\n[WhenUse] 若自身的速度值高于目标，则每高于目标2点，使本技能的基础威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层破裂 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

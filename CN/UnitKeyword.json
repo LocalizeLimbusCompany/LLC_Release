@@ -195,6 +195,14 @@
     {
       "id": "UnitKeyword_LIMBUS_COMPANY_LCB",
       "content": "LCB"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_RABBIT",
+      "content": "黑兽-卯"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST",
+      "content": "黑兽"
     }
   ]
 }

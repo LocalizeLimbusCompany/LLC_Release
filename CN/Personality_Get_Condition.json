@@ -967,6 +967,22 @@
     {
       "id": "11211_getCondition_gacksung",
       "content": "炎拳事务所 幸存者 格里高尔 3阶段同步完成"
+    },
+    {
+      "id": "11112_getCondition_normal",
+      "content": "获得黑兽-卯 奥提斯"
+    },
+    {
+      "id": "11112_getCondition_gacksung",
+      "content": "黑兽-卯 奥提斯 3阶段同步完成"
+    },
+    {
+      "id": "10411_getCondition_normal",
+      "content": "获得黑兽-卯 良秀"
+    },
+    {
+      "id": "10411_getCondition_gacksung",
+      "content": "黑兽-卯 良秀 3阶段同步完成"
     }
   ]
 }

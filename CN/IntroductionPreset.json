@@ -1483,6 +1483,22 @@
     {
       "id": "introduce_sentence_186",
       "content": "那是……我们{0}的制服。"
+    },
+    {
+      "id": "introduce_word_187",
+      "content": "兔子"
+    },
+    {
+      "id": "introduce_sentence_187",
+      "content": "你不知道么？{0}其实是夜行性动物。"
+    },
+    {
+      "id": "introduce_word_188",
+      "content": "主公"
+    },
+    {
+      "id": "introduce_sentence_188",
+      "content": "身为{0}，请专注于您的应尽之务。"
     }
   ]
 }

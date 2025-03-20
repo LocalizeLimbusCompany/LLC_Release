@@ -760,7 +760,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层虚弱 "
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层虚弱 "
                 }
               ]
             },
@@ -834,7 +834,7 @@
                   "desc": "[OnSucceedAttack] 对目标造成20点固定伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加3层麻痹 "
                 }
               ]
             }
@@ -853,7 +853,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层麻痹 "
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层麻痹 "
                 }
               ]
             }
@@ -898,7 +898,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加1层加算硬币弱化 "
+                  "desc": "[OnSucceedAttackHead] 下回合对目标施加1层加算硬币弱化 "
                 }
               ]
             },

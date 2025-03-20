@@ -511,6 +511,30 @@
     {
       "id": "mirrordungeon_start_bonus_personality_period",
       "content": "{0}为止"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+      "content": "※购买 {0} 成就经验需要花费 {1} 付费狂气。"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+      "content": "要消耗 {0} 付费狂气来购买成就经验吗？"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_title",
+      "content": "购买成就经验"
+    },
+    {
+      "id": "mirrordungeon_achievement_progress",
+      "content": "成就进度"
+    },
+    {
+      "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+      "content": "超过可购买的成就等级"
+    },
+    {
+      "id": "mirrordungeon_achievement_max_level",
+      "content": "达到最大成就等级"
     }
   ]
 }

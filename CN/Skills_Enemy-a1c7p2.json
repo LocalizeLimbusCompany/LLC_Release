@@ -741,7 +741,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血下斩",
+          "name": "硬血纵斩",
           "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+1",
           "coinlist": [
             {
