@@ -650,7 +650,7 @@
         {
           "level": 1,
           "name": "准备动作",
-          "desc": "[DuelCounter]\n[WhenUse] 下回合使自身获得3层迅捷 \n若自身的速度值高于目标，则每高于目标2点，使本技能的基础威力+1(最多+3)",
+          "desc": "[DuelCounter]\n[WinDuel] 下回合使自身获得3层迅捷 ",
           "coinlist": [
             {}
           ]
@@ -756,7 +756,7 @@
         {
           "level": 1,
           "name": "准备动作",
-          "desc": "[DuelCounter]\n[WhenUse] 下回合使自身获得3层迅捷 \n若自身的速度值高于目标，则每高于目标2点，使本技能的基础威力+1(最多+3)",
+          "desc": "[DuelCounter]\n[WinDuel] 下回合使自身获得3层迅捷 ",
           "coinlist": [
             {}
           ]

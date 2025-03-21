@@ -122,7 +122,7 @@
         {
           "level": 1,
           "name": "刺杀",
-          "desc": "[WhenUse] 若目标的破裂 强度不低于5级，则使本技能的拼点威力+1\n[WhenUse] 使自身获得3层脚力【卯】 ",
+          "desc": "[WhenUse] 若目标的破裂 强度不低于5级，则使本技能的拼点威力+1\n[WhenUse] 使自身获得3层[LegStrength]",
           "coinlist": [
             {
               "coindescs": [
