@@ -186,7 +186,7 @@
     },
     {
       "id": "102002_action_2_2",
-      "content": "<color=#ff8000>遭遇战斗！</color>"
+      "content": "<color=#ff8000>触发遭遇战！</color>"
     },
     {
       "id": "1020201_success_1_1",
@@ -274,7 +274,7 @@
     },
     {
       "id": "battle_occurrence",
-      "content": "<color=#ebcaa2>遭遇战斗！</color>"
+      "content": "<color=#ebcaa2>触发遭遇战！</color>"
     },
     {
       "id": "nothing_happend",

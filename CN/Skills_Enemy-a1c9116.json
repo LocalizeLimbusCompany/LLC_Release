@@ -98,7 +98,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "扩大伤口",
+          "name": "野蛮劈砍",
           "desc": "",
           "coinlist": [
             {
@@ -389,7 +389,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "斩断筋肉",
+          "name": "斩断肌肉",
           "desc": "[WhenUse] 若自身的速度值高于目标，则使本技能的硬币威力+1\n[WhenUse] 若目标的流血 强度不低于3级，则使本技能的基础威力+1",
           "coinlist": [
             {
@@ -463,7 +463,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "撕裂",
+          "name": "割裂",
           "desc": "",
           "coinlist": [
             {
@@ -576,7 +576,7 @@
         {
           "level": 1,
           "name": "抑制",
-          "desc": "[WhenUse] 若目标的破裂 强度不低于3级，则使本技能的拼点威力+1",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -681,8 +681,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "压倒",
-          "desc": "[WhenUse] 若目标的破裂 强度不低于3级，则使本技能的拼点威力+1",
+          "name": "压制",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -768,7 +768,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "瞄准太阳穴",
+          "name": "瞄准心窝",
           "desc": "",
           "coinlist": [
             {
@@ -787,7 +787,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "直击头部",
+          "name": "直击颅骨",
           "desc": "[WhenUse] 若目标带有[MiddleFingerBook]，则使本技能额外施加2层防御等级降低 ",
           "coinlist": [
             {
@@ -874,7 +874,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "把握时机",
+          "name": "及锋而试",
           "desc": "[BeforeHit] 目标每带有1层[MiddleFingerBook]，使自身获得5点护盾(每回合最多1次，最多50点)\n[WhenUse] 若目标的[MiddleFingerBook]层数不低于5层，则使本技能的基础威力+3并对目标施加4层防御等级降低 ",
           "coinlist": [
             {
