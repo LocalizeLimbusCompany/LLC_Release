@@ -122,7 +122,7 @@
                 {
                     "level": 1,
                     "name": "Perforating Kill",
-                    "desc": "[WhenUse] If the target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 Leg Musculature",
+                    "desc": "[WhenUse] If the target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 [LegStrength]",
                     "coinlist": [
                         {
                             "coindescs": [

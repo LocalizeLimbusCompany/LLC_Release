@@ -590,7 +590,7 @@
         {
           "level": 1,
           "name": "억제",
-          "desc": "[WhenUse] 대상의 [Burst]이 3 이상이면, 합 위력 +1",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -664,7 +664,7 @@
         {
           "level": 1,
           "name": "준비 동작",
-          "desc": "[DuelCounter]\n[WhenUse] 다음 턴에 [Agility]을 3 얻음\n자신의 속도가 대상보다 높을수록 기본 위력 +1 (속도 차이 2 당 기본 위력 +1. 최대 3)",
+          "desc": "[DuelCounter]\n[WinDuel] 다음 턴에 [Agility]을 3 얻음",
           "coinlist": [
             {}
           ]
@@ -696,7 +696,7 @@
         {
           "level": 1,
           "name": "압도",
-          "desc": "[WhenUse] 대상의 [Burst]이 3 이상이면, 합 위력 +1",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -770,7 +770,7 @@
         {
           "level": 1,
           "name": "준비 동작",
-          "desc": "[DuelCounter]\n[WhenUse] 다음 턴에 [Agility]을 3 얻음\n자신의 속도가 대상보다 높을수록 기본 위력 +1 (속도 차이 2 당 기본 위력 +1. 최대 3)",
+          "desc": "[DuelCounter]\n[WinDuel] 다음 턴에 [Agility]을 3 얻음",
           "coinlist": [
             {}
           ]

@@ -650,7 +650,7 @@
         {
           "level": 1,
           "name": "The Windup",
-          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [Agility] next turn\nIf this unit's Speed is faster than the target's, gain Base Power based on Speed difference (Base Power +1 for every 2 Speed difference; max 3)",
+          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [Agility] next turn",
           "coinlist": [
             {}
           ]
@@ -756,7 +756,7 @@
         {
           "level": 1,
           "name": "The Windup",
-          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [Agility] next turn\nIf this unit's Speed is faster than the target's, gain Base Power based on Speed difference (Base Power +1 for every 2 Speed difference; max 3)",
+          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [Agility] next turn",
           "coinlist": [
             {}
           ]

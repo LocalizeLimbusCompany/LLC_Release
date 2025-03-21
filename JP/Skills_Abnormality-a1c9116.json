@@ -122,7 +122,7 @@
                 {
                     "level": 1,
                     "name": "刺殺",
-                    "desc": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] 脚力 3を得る",
+                    "desc": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] [LegStrength] 3を得る",
                     "coinlist": [
                         {
                             "coindescs": [

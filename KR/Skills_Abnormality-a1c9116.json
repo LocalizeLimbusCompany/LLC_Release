@@ -122,7 +122,7 @@
                 {
                     "level": 1,
                     "name": "척살",
-                    "desc": "[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WhenUse] 각력 3 얻음",
+                    "desc": "[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WhenUse] [LegStrength] 3 얻음",
                     "coinlist": [
                         {
                             "coindescs": [
