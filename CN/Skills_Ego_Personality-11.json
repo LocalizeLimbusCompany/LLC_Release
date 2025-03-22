@@ -285,10 +285,10 @@
                   "desc": "[OnSucceedAttackTail] 使目标震颤引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttackTail] 使目标震颤引爆 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标震颤引爆 "
+                  "desc": "[OnSucceedAttack] 使目标震颤引爆 <style=\"highlight\"></style>"
                 }
               ]
             }
