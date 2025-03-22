@@ -25,7 +25,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刻骨铭心的痛",
+          "name": "刻骨铭心之痛",
           "desc": "优先指定[MiddleFingerBook]层数最高的目标\n[WhenUse] 若目标的[MiddleFingerBook]层数不低于3层，则使本技能中的所有硬币转化为[SuperCoin]",
           "coinlist": [
             {
@@ -61,7 +61,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "玩的够久了",
+          "name": "游戏到此为止",
           "desc": "[StartBattle] 使全体友方单位的理智值恢复10\n[EndBattle] 若有陷入恐慌的友方单位，则下回合开始时解除其恐慌并使其的理智值恢复为0点\n[EndBattle] 使全体友方单位获得1层[HitResultUp]",
           "coinlist": [
             {
@@ -172,7 +172,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "刻咒杀剑 - 瞬步",
+          "name": "刻咒杀剑-瞬步",
           "desc": "优先指定带有[BurstAgility]的目标\n自身的速度值与目标每相差2点，使本技能造成的伤害+15%(最多+60%)\n[WhenUse] 目标每带有5级破裂 强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 目标每带有2层破裂 ，使本技能的基础威力+1(最多+3)\n[EndSkill] 若自身的速度值不低于10且击杀目标，则随机对1名目标重复使用本技能(每回合最多1次)",
           "coinlist": [
             {

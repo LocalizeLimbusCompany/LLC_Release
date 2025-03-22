@@ -16,14 +16,14 @@
     },
     {
       "id": "DarkBeast_LowMorale",
-      "name": "暗数",
+      "name": "暗算",
       "desc": "- 士气低落\n- 自身的速度值高于目标或进行单方面攻击时，对目标造成的伤害+10%",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DarkBeast_Panic",
-      "name": "暗数",
+      "name": "暗算",
       "desc": "- 陷入恐慌\n- 自身的速度值高于目标或进行单方面攻击时，对目标造成的伤害+20%；若自身的速度值高于目标，则自身受到的伤害-20%",
       "summary": "",
       "undefined": "-"
