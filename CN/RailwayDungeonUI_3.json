@@ -26,7 +26,7 @@
     },
     {
       "id": "railway_dungeon_before_enter_past_node_change_formation",
-      "content": "编队保存时，选择的休息站以后的编组记录\n将被完全初始化。\n\n要保存编队吗？"
+      "content": "编队保存时，选择的休息站点以后的进度\n将被完全初始化。\n\n要保存编队吗？"
     },
     {
       "id": "railway_dungeon_3_retry_popup_init",

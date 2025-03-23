@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 112601,
-      "name": "授予命令",
+      "name": "授予的命令",
       "desc": "关卡开始时，对自身施加[WeighedMurderousIntend]"
     },
     {
