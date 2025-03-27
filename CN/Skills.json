@@ -10222,7 +10222,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的烧伤 强度不低于6级，则使目标增加2级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 若目标的烧伤 强度不低于6级，则对目标施加2层烧伤 "
                 }
               ]
             }
