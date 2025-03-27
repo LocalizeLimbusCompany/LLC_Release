@@ -98,7 +98,7 @@
     {
       "id": 2080311,
       "name": "Shower of Fire",
-      "desc": "On hit, if the target had Burn, inflict 1 Burn on 3 random enemies."
+      "desc": "On hit, if the target had [Combustion], inflict 1 Burn on 3 random enemies."
     },
     {
       "id": 2090111,
@@ -108,7 +108,7 @@
     {
       "id": 2090211,
       "name": "Spark of Flame",
-      "desc": "After defeating an enemy that has Burn, heal HP by (Wrath A-Reson.)% of Max HP."
+      "desc": "After defeating an enemy that has [Combustion], heal HP by (Wrath A-Reson.)% of Max HP."
     },
     {
       "id": 2090311,
@@ -158,12 +158,12 @@
     {
       "id": 2030311,
       "name": "Haphazard Discharge",
-      "desc": "At the start of the combat phase, a random ally with Charge gains +(Envy A-Reson. / 2) Charge Count."
+      "desc": "At the start of the combat phase, a random ally with [Charge] gains +(Envy A-Reson. / 2) Charge Count."
     },
     {
       "id": 2020411,
       "name": "Adaptive Release",
-      "desc": "While this unit has Charge, deal +2% damage per Charge Count.\nSkills spend -2 Charge Count."
+      "desc": "While this unit has [Charge], deal +2% damage per Charge Count.\nSkills spend -2 Charge Count."
     },
     {
       "id": 2030411,
@@ -228,7 +228,7 @@
     {
       "id": 2040511,
       "name": "Opened Can",
-      "desc": "On hit, if the target has 5+ Sinking, inflict 1 Defense Power Down. (5 times per turn)"
+      "desc": "On hit, if the target has 5+ [Sinking], inflict 1 Defense Power Down. (5 times per turn)"
     },
     {
       "id": 2060411,
@@ -298,7 +298,7 @@
     {
       "id": 2030511,
       "name": "Fallen Stone Pagoda",
-      "desc": "Gain 2 Poise and +2 Poise Count when defeating an enemy with Bleed (3 times per turn)"
+      "desc": "Gain 2 Poise and +2 Poise Count when defeating an enemy with [Laceration] (3 times per turn)"
     },
     {
       "id": 2120511,

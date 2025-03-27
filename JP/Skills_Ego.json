@@ -3318,7 +3318,7 @@
                   "desc": "[OnSucceedAttack] 対象の火傷の数値分、振動を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が3減少。振動爆発で対象が混乱した場合、ランダムな敵5名の火傷 回数を1増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion]時に振動回数が3減少。[VibrationExplosion]によって対象が混乱した場合、ランダムな敵5名の火傷回数が1増加"
                 }
               ]
             }
@@ -3342,7 +3342,7 @@
                   "desc": "[OnSucceedAttack] ランダムな敵5名に火傷 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が2減少。振動爆発で対象が混乱した場合、ランダムな敵5名の火傷 回数を2増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion]時に振動回数が2減少。[VibrationExplosion]によって対象が混乱した場合、ランダムな敵5名の火傷回数が2増加"
                 }
               ]
             }
@@ -3366,7 +3366,7 @@
                   "desc": "[OnSucceedAttack] ランダムな敵5名に火傷 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が2減少。振動爆発で対象が混乱した場合、ランダムな敵5名の火傷 回数を3増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion]時に振動回数が2減少。[VibrationExplosion]によって対象が混乱した場合、ランダムな敵5名の火傷回数が3増加"
                 }
               ]
             }
@@ -3392,7 +3392,7 @@
                   "desc": "[OnSucceedAttack] 対象の火傷の数値分、振動を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が3減少。振動爆発で対象が混乱した場合、ランダムなキャラクター5名の火傷 回数が2増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion]時に振動回数が3減少。[VibrationExplosion]によって対象が混乱した場合、ランダムなキャラクター5名の火傷回数が2増加"
                 }
               ]
             }
@@ -3416,7 +3416,7 @@
                   "desc": "[OnSucceedAttack] ランダムなキャラクター5名に火傷 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が2減少。振動爆発で対象が混乱した場合、ランダムなキャラクター5名の火傷 回数を3増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion]時に振動回数が2減少。[VibrationExplosion]によって対象が混乱した場合、ランダムなキャラクター5名の火傷回数が3増加"
                 }
               ]
             }
@@ -3440,7 +3440,7 @@
                   "desc": "[OnSucceedAttack] ランダムなキャラクター5名に火傷 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が2減少。振動爆発で対象が混乱した場合、ランダムなキャラクター5名の火傷 回数を4増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion]時に振動回数が2減少。[VibrationExplosion]によって対象が混乱した場合、ランダムなキャラクター5名の火傷回数が4増加"
                 }
               ]
             }
@@ -3507,7 +3507,7 @@
                   "desc": "[OnSucceedAttack] 対象へ7精神力ダメージ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が2減少"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]。[VibrationExplosion]時に振動 回数が2減少"
                 }
               ]
             }
@@ -3528,7 +3528,7 @@
                   "desc": "[OnSucceedAttack] 対象へ15精神力ダメージ"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。振動爆発時、振動 回数が2減少。振動爆発で対象が混乱した場合、ランダムなキャラクター3名に火傷 2を付与"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion]時に振動回数が2減少。[VibrationExplosion]によって対象が混乱した場合、ランダムなキャラクター3名へ火傷2を付与"
                 }
               ]
             }
@@ -3847,7 +3847,7 @@
           ]
         },
         {
-          "level": 4,
+          "level": 2,
           "name": "AEDD",
           "abName": "衝擊ムカデ",
           "desc": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の失った体力10%につき、充電 回数を1増加(最大7)\n次のターンにクイック 2を得る",
@@ -3948,7 +3948,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 が3以上あるなら、次のターンに加算コイン弱化 1を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるなら、次のターンに加算コイン弱化 1を付与"
                 }
               ]
             }
@@ -3966,7 +3966,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 が3以上あるなら、次のターンに加算コイン弱化 1を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるなら、次のターンに加算コイン弱化 1を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象の速度が自分より遅いとき、次のターンに斬撃脆弱 2を付与"
@@ -3987,7 +3987,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 が3以上あるなら、次のターンに加算コイン弱化 1を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるなら、次のターンに加算コイン弱化 1を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象の速度が自分より遅いとき、次のターンに斬撃脆弱 2を付与"
@@ -4013,7 +4013,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 が3以上あるなら、次のターンに加算コイン弱化 2を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるなら、次のターンに加算コイン弱化 2を付与"
                 }
               ]
             }
@@ -4031,7 +4031,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 が3以上あるなら、次のターンに加算コイン弱化 2を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるなら、次のターンに加算コイン弱化 2を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象の速度が自分より遅いとき、次のターンに斬撃脆弱 1-3を付与"
@@ -4054,7 +4054,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 3以上があるなら、ダメージ量 +20%"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +20%"
                 }
               ]
             }
@@ -4069,7 +4069,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 3以上があるなら、ダメージ量 +20%"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +20%"
                 },
                 {
                   "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1人と自分の体力を最大値の10%分回復する"
@@ -4087,7 +4087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 3以上があるなら、ダメージ量 +40%"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +40%"
                 },
                 {
                   "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1名の体力と自分の体力が最大値の10%分回復する"
@@ -4110,7 +4110,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 3以上があるなら、ダメージ量 +30%"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +30%"
                 }
               ]
             }
@@ -4125,7 +4125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 3以上があるなら、ダメージ量 +30%"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +30%"
                 },
                 {
                   "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1人と自分の体力を最大値の10%分回復する"
@@ -4143,7 +4143,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に束縛 3以上があるなら、ダメージ量 +50%"
+                  "desc": "[OnSucceedAttack] 対象に[Binding]が3以上あるとき、ダメージ量 +50%"
                 },
                 {
                   "desc": "[OnSucceedAttack] このスキルで対象を混乱状態にするか倒すと、体力が最も低い味方1名の体力と自分の体力が最大値の10%分回復する"

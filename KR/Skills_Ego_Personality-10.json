@@ -136,7 +136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] 화상 4 부여"
@@ -154,7 +154,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] 화상 4 부여"
@@ -172,13 +172,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] 화상 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 공격 위력 감소 1, 수비 위력 감소 1 부여"
+                  "desc": "[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 공격 위력 감소 1, 수비 위력 감소 1 부여"
                 }
               ]
             }
@@ -198,7 +198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] 화상 4 부여"
@@ -216,13 +216,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] 화상 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 색욕 취약 1 부여"
+                  "desc": "[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 색욕 취약 1 부여"
                 }
               ]
             }
@@ -237,13 +237,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여"
+                  "desc": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여"
                 },
                 {
                   "desc": "[OnSucceedAttack] 화상 4 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 색욕 취약 2 부여"
+                  "desc": "[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 색욕 취약 2 부여"
                 }
               ]
             }

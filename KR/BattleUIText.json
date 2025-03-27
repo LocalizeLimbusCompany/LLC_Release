@@ -781,6 +781,10 @@
     {
       "id": "septempeccata_classification",
       "content": "{0}형"
+    },
+    {
+      "id": "run_forBattlePortraitStateText",
+      "content": "후퇴"
     }
   ]
 }

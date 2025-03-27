@@ -70,14 +70,14 @@
       "options": [
         {
           "message": "Find a nearby shelter.",
-          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Rupture E.G.O Gift.",
+          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Keywordless E.G.O Gift.",
           "result": [
             ""
           ]
         },
         {
           "message": "Run for the bus.",
-          "messageDesc": "50% chance to begin a combat encounter. Win to gain an E.G.O Gift.",
+          "messageDesc": "50% chance to begin a combat encounter. Win to gain a Keywordless E.G.O Gift.",
           "result": [
             "Only by sprinting back to Mephistopheles do we make it all inside.\n\nThe relentless wave of Sweepers passes by moments after we close the door behind us.",
             "We sprint back to Mephistopheles, but it seems that we were a second too late.\n\nWe do not even have the time to turn around before the swarm overwhelmed us."

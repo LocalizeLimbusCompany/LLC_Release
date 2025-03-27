@@ -14,7 +14,7 @@
     {
       "id": 19751,
       "name": "Snake Slough+",
-      "desc": "Turn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 3) Offense Level. (max 10)",
+      "desc": "Turn Start: all allies gain <style=\"upgradeHighlight\">4</style> [DefenseUp].\nEach ally gains ([DefenseUp] on self / <style=\"upgradeHighlight\">3</style>) Offense Level. (max 10)",
       "simpleDesc": [
         {
           "abilityID": 19751,
@@ -25,7 +25,7 @@
     {
       "id": 29751,
       "name": "Snake Slough++",
-      "desc": "Turn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 2) Offense Level. (max 10)",
+      "desc": "Turn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / <style=\"upgradeHighlight\">2</style>) Offense Level. (max 10)",
       "simpleDesc": [
         {
           "abilityID": 29751,
@@ -47,7 +47,7 @@
     {
       "id": 19752,
       "name": "False Halo+",
-      "desc": "On Hit, gain 1 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.",
+      "desc": "On Hit, gain 1 [Zazen]. (<style=\"upgradeHighlight\">3</style> times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.",
       "simpleDesc": [
         {
           "abilityID": 19752,
@@ -58,7 +58,7 @@
     {
       "id": 29752,
       "name": "False Halo++",
-      "desc": "On Hit, gain 2 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.",
+      "desc": "On Hit, gain <style=\"upgradeHighlight\">2</style> [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.",
       "simpleDesc": [
         {
           "abilityID": 29752,
@@ -80,7 +80,7 @@
     {
       "id": 19753,
       "name": "Metronome+",
-      "desc": "In odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].",
+      "desc": "In odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection] <style=\"upgradeHighlight\">and 1 [DefenseUp]</style>.",
       "simpleDesc": [
         {
           "abilityID": 19753,
@@ -91,7 +91,7 @@
     {
       "id": 29753,
       "name": "Metronome++",
-      "desc": "In odd-numbered turns, all allies gain 1 [AttackDmgUp] and 1 [AttackUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].",
+      "desc": "In odd-numbered turns, all allies gain 1 [AttackDmgUp] <style=\"upgradeHighlight\">and 1 [AttackUp]</style>. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].",
       "simpleDesc": [
         {
           "abilityID": 29753,
@@ -113,7 +113,7 @@
     {
       "id": 19754,
       "name": "Bridle+",
-      "desc": "Encounter Start: all allies gain (current Floor x 3)% max HP (max 30%)",
+      "desc": "Encounter Start: all allies gain (current Floor x <style=\"upgradeHighlight\">3</style>)% max HP (max <style=\"upgradeHighlight\">30</style>%)",
       "simpleDesc": [
         {
           "abilityID": 19754,
@@ -124,7 +124,7 @@
     {
       "id": 29754,
       "name": "Bridle++",
-      "desc": "Encounter Start: all allies gain (current Floor x 5)% max HP (max 50%)",
+      "desc": "Encounter Start: all allies gain (current Floor x <style=\"upgradeHighlight\">5</style>)% max HP (max <style=\"upgradeHighlight\">50</style>%)",
       "simpleDesc": [
         {
           "abilityID": 29754,
@@ -146,7 +146,7 @@
     {
       "id": 19755,
       "name": "Contempt of the Gaze of Contempt+",
-      "desc": "[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 5; this effect does not hurt allies)",
+      "desc": "[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal <style=\"upgradeHighlight\">(# of Skills targeting this unit x 2)</style> fixed HP & SP damage against all enemies targeting this unit. (max <style=\"upgradeHighlight\">5</style>; this effect does not hurt allies)",
       "simpleDesc": [
         {
           "abilityID": 19755,
@@ -157,7 +157,7 @@
     {
       "id": 29755,
       "name": "Contempt of the Gaze of Contempt++",
-      "desc": "[Effects apply only to #1 and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 30%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 10; this effect does not hurt allies)",
+      "desc": "[Effects apply only to <style=\"upgradeHighlight\">#1</style> and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max <style=\"upgradeHighlight\">30</style>%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max <style=\"upgradeHighlight\">10</style>; this effect does not hurt allies)",
       "simpleDesc": [
         {
           "abilityID": 29755,
@@ -179,7 +179,7 @@
     {
       "id": 19756,
       "name": "Unhatched Embers+",
-      "desc": "When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect)",
+      "desc": "When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\n<style=\"upgradeHighlight\">If the affected unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect)</style>",
       "simpleDesc": [
         {
           "abilityID": 19756,
@@ -190,7 +190,7 @@
     {
       "id": 29756,
       "name": "Unhatched Embers++",
-      "desc": "When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 40% of max HP instead. (once per Encounter for both this and the above effect)",
+      "desc": "When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affected unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal <style=\"upgradeHighlight\">40</style>% of max HP instead. (once per Encounter for both this and the above effect)",
       "simpleDesc": [
         {
           "abilityID": 29756,
@@ -212,7 +212,7 @@
     {
       "id": 19757,
       "name": "Anti-Ovine Grounding Plug+",
-      "desc": "When hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\n\nAt 5+ Envy A-Reson., at Combat Start: inflict 1 [Paralysis] against all enemies.",
+      "desc": "When hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\n\n<style=\"upgradeHighlight\">At 5+ Envy A-Reson., at Combat Start: inflict 1 [Paralysis] against all enemies.</style>",
       "simpleDesc": [
         {
           "abilityID": 19757,
@@ -800,7 +800,7 @@
     {
       "id": 9793,
       "name": "Glyph of Glass Shards",
-      "desc": "Encounter Start: activates when there are 5 or more Identities that inflict [Burst] Potency or [Burst] Count (except E.G.O Skills)\n\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 3 per enemy)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 6 per enemy)\n\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([BurstAgility] on the target / 10) Coin Power instead (max 2)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 2)",
+      "desc": "Encounter Start: activates when there are 5 or more Identities that inflict [Burst] Potency or [Burst] Count (except E.G.O Skills)\n\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 3 per enemy)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 6 per enemy)\n\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([Burst] on the target / 10) Coin Power instead (max 2)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 2)",
       "simpleDesc": [
         {
           "abilityID": 9793,

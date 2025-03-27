@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "Emergency Styptics",
-          "desc": "[StartBattle] Lose 2 [Laceration] Potency on self (3 times per turn. If Bleed Potency drops to 0 or less, the Bleed effect expires)",
+          "desc": "[StartBattle] Lose 2 [Laceration] Potency on self (3 times per turn. If [Laceration] Potency drops to 0 or less, the Bleed effect expires)",
           "coinlist": [
             {
               "coindescs": [

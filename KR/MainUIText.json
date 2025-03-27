@@ -1142,7 +1142,7 @@
     },
     {
       "id": "remote_download_return_title",
-      "content": "새로운 다운로드 항목이 추가되었습니다.\n타이틀로 돌아갑니다."
+      "content": "새로운 다운로드 항목이 추가되었습니다.\n타이틀로 돌아갑니다.\\n\\n※ 타이틀 화면에서 다운로드를 받은 후 게임 진행시 오류가 발생하므로, 게임을 <b><color=#da0000><u><size=110%>완전히 종료 및 재실행</size></u></color></b>하여 다운로드를 진행해주시기 바랍니다."
     },
     {
       "id": "battle_skip",
@@ -1855,6 +1855,14 @@
     {
       "id": "paid_lunacy_ui",
       "content": "유료 광기"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "스킵할 수 없는 스토리입니다."
+    },
+    {
+      "id": "remote_download_quit_game",
+      "content": "새로운 다운로드 항목이 추가되었습니다.\n게임이 종료되며, 재시작을 통해 다운로드 받아주시기 바랍니다."
     }
   ]
 }

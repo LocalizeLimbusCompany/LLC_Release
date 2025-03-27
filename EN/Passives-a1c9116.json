@@ -33,7 +33,7 @@
     {
       "id": 9102001,
       "name": "The Book of Vengeance",
-      "desc": "When hit, inflict 1 [MiddleFingerBook] against the attacker (1 target per turn; max 1)\nOn Skill Use, if the target has [MiddleFingerBook], gain ([MiddleFingerBook] / 4) Clash Power (max 2)\n- If the target has 8+ [MiddleFingerBook], gain ([MiddleFingerBook] / 3) Base Power (Max 3)"
+      "desc": "When hit, inflict 1 [MiddleFingerBook] against the attacker (1 target per turn; max 1)\nOn Skill Use, if the target has [MiddleFingerBook], gain ([MiddleFingerBook] / 4) Clash Power (max 2)\n- If the target has 8+ [MiddleFingerBook], gain ([MiddleFingerBook] / 3) Base Power (max 3)"
     },
     {
       "id": 9102002,

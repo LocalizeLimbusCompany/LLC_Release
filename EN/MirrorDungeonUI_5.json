@@ -535,6 +535,10 @@
     {
       "id": "mirrordungeon_achievement_max_level",
       "content": "Achievement Level maxed out"
+    },
+    {
+      "id": "lack_of_point_for_shop_without_new_line",
+      "content": "Not Enough Cost"
     }
   ]
 }

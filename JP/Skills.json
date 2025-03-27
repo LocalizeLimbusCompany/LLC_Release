@@ -2118,7 +2118,7 @@
                   "desc": "[OnSucceedAttack] 火傷 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 2を付与"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 2を付与"
                 }
               ]
             },
@@ -2142,7 +2142,7 @@
                   "desc": "[OnSucceedAttack] 火傷 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 3を付与"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 3を付与"
                 }
               ]
             },
@@ -2185,7 +2185,7 @@
                   "desc": "[OnSucceedAttack] 火傷 回数が3増加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 3を付与"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 3を付与"
                 }
               ]
             }
@@ -2216,7 +2216,7 @@
                   "desc": "[OnSucceedAttack] 火傷 回数が3増加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 3を付与"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 3を付与"
                 }
               ]
             }
@@ -2889,7 +2889,7 @@
         {
           "level": 4,
           "name": "抉る",
-          "desc": "対象の出血 が7以上のとき、与ダメージ量 +20%",
+          "desc": "対象の[Laceration]が7以上なら、ダメージ量 +20%",
           "coinlist": [
             {
               "coindescs": [
@@ -2953,7 +2953,7 @@
                   "desc": "[ReUseOnSucceedAttackHead] このコインによるスキルダメージ量 +100%"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttackHead] 対象の出血 が10以上なら、与ダメージ量 +50%"
+                  "desc": "[ReUseOnSucceedAttackHead] 対象の[Laceration]が10以上なら、与ダメージ量 +50%"
                 }
               ]
             }
@@ -2975,7 +2975,7 @@
         {
           "level": 4,
           "name": "回避",
-          "desc": "対象の出血が5以上なら、コイン威力 +2\n[OnSucceedEvade] 精神力を3回復",
+          "desc": "対象の[Laceration]が5以上なら、コイン威力 +2\n[OnSucceedEvade] 精神力を3回復",
           "coinlist": [
             {}
           ]
@@ -4312,7 +4312,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の出血 が6以上なら、与ダメージ量 +20%"
+                  "desc": "[OnSucceedAttack] 対象の[Laceration]が6以上なら、ダメージ量 +20%"
                 }
               ]
             }
@@ -4347,7 +4347,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の出血 が6以上なら、与ダメージ量 +20%"
+                  "desc": "[OnSucceedAttack] 対象の[Laceration]が6以上なら、ダメージ量 +20%"
                 }
               ]
             }
@@ -4402,7 +4402,7 @@
         {
           "level": 4,
           "name": "鋭い刃",
-          "desc": "自分の呼吸 が4以上なら、コイン威力 +2",
+          "desc": "自分の[Breath]が4以上ならコイン威力 +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4475,7 +4475,7 @@
         {
           "level": 4,
           "name": "飛び散る剣撃",
-          "desc": "[WhenUse] 自分の呼吸 回数が2増加\n呼吸 が5以上なら、コイン威力 +2",
+          "desc": "[WhenUse] 自分の[Breath]回数が2増加\n[Breath]が5以上なら、コイン威力 +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4507,7 +4507,7 @@
         {
           "level": 3,
           "name": "快刀乱麻",
-          "desc": "対象に出血 が6以上あると、クリティカル発動確率が2倍",
+          "desc": "対象に[Laceration]が6以上あるなら、クリティカル発動確率が2倍",
           "coinlist": [
             {
               "coindescs": [
@@ -4521,7 +4521,7 @@
         {
           "level": 4,
           "name": "快刀乱麻",
-          "desc": "対象に出血 が6以上あるなら、クリティカル発動率が2倍\n呼吸 が10以上なら、クリティカルダメージ量 +100%",
+          "desc": "対象に[Laceration]が6以上あるなら、クリティカル発動率が2倍\n[Breath]が10以上なら、クリティカルダメージ量 +100%",
           "coinlist": [
             {
               "coindescs": [
@@ -4561,7 +4561,7 @@
         {
           "level": 3,
           "name": "快刀乱麻",
-          "desc": "対象に出血 が6以上あると、クリティカル発動確率が2倍",
+          "desc": "対象に[Laceration]が6以上あるなら、クリティカル発動確率が2倍",
           "coinlist": [
             {
               "coindescs": [
@@ -4575,7 +4575,7 @@
         {
           "level": 4,
           "name": "快刀乱麻",
-          "desc": "対象に出血が6 以上あるなら、クリティカル発動率が2倍\n呼吸 が10以上なら、クリティカルダメージ量 +100%",
+          "desc": "対象に[Laceration]が6以上あるなら、クリティカル発動率が2倍\n[Breath]が10以上なら、クリティカルダメージ量 +100%",
           "coinlist": [
             {
               "coindescs": [
@@ -5269,7 +5269,7 @@
         {
           "level": 4,
           "name": "舞い",
-          "desc": "対象の沈潜 が4以上なら、コイン威力 +1",
+          "desc": "対象の[Sinking]が4以上ならコイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5351,7 +5351,7 @@
         {
           "level": 4,
           "name": "激情の踊り",
-          "desc": "対象の沈潜 が6以上なら、コイン威力 +2",
+          "desc": "対象の[Sinking]が6以上ならコイン威力 +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5409,7 +5409,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の50%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の50%混乱区間を後退"
                 }
               ]
             }
@@ -5618,7 +5618,7 @@
         {
           "level": 4,
           "name": "抜剣",
-          "desc": "自分の呼吸 が5以上なら、コイン威力 +1",
+          "desc": "自分の[Breath]が5以上ならコイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5730,7 +5730,7 @@
         {
           "level": 4,
           "name": "回避",
-          "desc": "自分の呼吸 が6以上なら、コイン威力 +3",
+          "desc": "自分の[Breath]が6以上ならコイン威力 +3",
           "coinlist": [
             {}
           ]
@@ -5771,7 +5771,7 @@
         {
           "level": 4,
           "name": "指揮",
-          "desc": "対象の沈潜 が5以上なら、スキル威力 +2",
+          "desc": "対象の[Sinking]が5以上ならスキル威力 +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5986,14 +5986,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 がある場合、ダメージ量 +10%"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]がある場合、ダメージ量 +10%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 がある場合、ダメージ量 +10%"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]がある場合、ダメージ量 +10%"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] ダメージ量の30%分体力を回復"
@@ -6065,7 +6065,7 @@
         {
           "level": 4,
           "name": "一点突き",
-          "desc": "対象の火傷 が6以上なら、コイン威力 +1",
+          "desc": "対象の[Combustion]が6以上ならコイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6135,7 +6135,7 @@
                   "desc": "[OnSucceedAttack] 火傷 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、次のターンに攻撃威力増加 1を得る"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、次のターンに攻撃威力増加 1を得る"
                 }
               ]
             }
@@ -6144,7 +6144,7 @@
         {
           "level": 4,
           "name": "一網打尽",
-          "desc": "対象の火傷 が6以上なら、コイン威力 +1",
+          "desc": "対象の[Combustion]が6以上ならコイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6166,7 +6166,7 @@
                   "desc": "[OnSucceedAttack] 火傷 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、次のターンに攻撃威力増加 1を得る"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、次のターンに攻撃威力増加 1を得る"
                 }
               ]
             }
@@ -6215,7 +6215,7 @@
         {
           "level": 4,
           "name": "練武掌打",
-          "desc": "対象の火傷 が6以上なら、与ダメージ量 +10%",
+          "desc": "対象の[Combustion]が6以上なら、ダメージ量 +10%",
           "coinlist": [
             {
               "coindescs": [
@@ -6298,7 +6298,7 @@
         {
           "level": 4,
           "name": "切り払う",
-          "desc": "[WinDuel] ダメージ量 +40%\n対象の破裂 が5以上なら、コイン威力 +1",
+          "desc": "[WinDuel] ダメージ量 +40%\n対象の[Burst]が5以上なら、コイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6349,7 +6349,7 @@
         {
           "level": 4,
           "name": "四肢切断",
-          "desc": "対象の破裂 が5以上なら、与ダメージ量 +50%",
+          "desc": "対象の[Burst]が5以上なら、ダメージ量 +50%",
           "coinlist": [
             {
               "coindescs": [
@@ -6376,21 +6376,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
@@ -6406,26 +6406,26 @@
         {
           "level": 4,
           "name": "内臓抉り",
-          "desc": "対象の破裂 が5以上なら、コイン威力 +1",
+          "desc": "対象の[Burst]が5以上ならコイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
@@ -7425,7 +7425,7 @@
         {
           "level": 4,
           "name": "隙看破",
-          "desc": "マッチ進行時、対象のマッチ威力 -2\n 対象の破裂 が7以上なら、コイン威力 +2",
+          "desc": "マッチ進行時、対象のマッチ威力 -2\n 対象の[Burst]が7以上なら、コイン威力 +2",
           "coinlist": [
             {
               "coindescs": [
@@ -7508,14 +7508,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 1を付与。対象に火傷 がある場合、追加で1付与"
+                  "desc": "[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら1追加で付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 回数が1増加"
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加"
                 }
               ]
             }
@@ -7529,14 +7529,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 1を付与。対象に火傷 がある場合、追加で1付与"
+                  "desc": "[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら1追加で付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
                 }
               ]
             }
@@ -7545,19 +7545,19 @@
         {
           "level": 4,
           "name": "流れる炎",
-          "desc": "対象の火傷 回数が6以上なら、コイン威力 +2",
+          "desc": "対象の[Combustion]回数が6以上なら、コイン威力 +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 1を付与。対象に火傷がある場合、追加で1付与"
+                  "desc": "[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら1追加で付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
                 }
               ]
             }
@@ -7576,7 +7576,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 1を付与。対象に火傷がある場合、火傷 回数を追加で1付与"
+                  "desc": "[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら[Combustion]回数が1増加"
                 }
               ]
             },
@@ -7586,7 +7586,7 @@
                   "desc": "[OnSucceedAttackHead] 精神力を6回復 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 回数が6以上なら、ダメージ量の30%分混乱区間を前進"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]回数が6以上なら、ダメージ量の30%だけ混乱区間を前進"
                 }
               ]
             }
@@ -7595,12 +7595,12 @@
         {
           "level": 4,
           "name": "紅炎拳",
-          "desc": "対象の火傷 回数が6以上なら、コイン威力 +1",
+          "desc": "対象の[Combustion]回数が6以上なら、コイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷 1を付与。対象に火傷がある場合、火傷 回数を追加で1付与"
+                  "desc": "[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら[Combustion]回数が1増加"
                 }
               ]
             },
@@ -7610,7 +7610,7 @@
                   "desc": "[OnSucceedAttackHead] 精神力を6回復 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 回数が6以上なら、ダメージ量の30%分混乱区間を前進"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]回数が6以上なら、ダメージ量の30%だけ混乱区間を前進"
                 }
               ]
             }
@@ -7867,7 +7867,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 麻痺 1を付与。対象に出血 がある場合、次のターンに麻痺 1を付与"
+                  "desc": "[OnSucceedAttack] 麻痺 1を付与。対象に[Laceration]があるなら、次のターンに麻痺 1を付与"
                 }
               ]
             },
@@ -7883,12 +7883,12 @@
         {
           "level": 4,
           "name": "鮮度維持",
-          "desc": "対象の束縛 が4以上なら、与ダメージ量 +30%",
+          "desc": "対象の[Binding]が4以上なら、ダメージ量 +30%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 麻痺 1を付与。対象に出血 がある場合、次のターンに麻痺 1を付与"
+                  "desc": "[OnSucceedAttack] 麻痺 1を付与。対象に[Laceration]があるなら、次のターンに麻痺 1を付与"
                 }
               ]
             },
@@ -7982,7 +7982,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の出血に比例して体力を回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 対象の[Laceration]に比例して体力を回復(最大20%)"
                 }
               ]
             }
@@ -8017,7 +8017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の出血に比例して体力を回復(最大20%)"
+                  "desc": "[OnSucceedAttack] 対象の[Laceration]に比例して体力を回復(最大20%)"
                 }
               ]
             }
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発\n振動爆発時、振動 回数が3減少。充電 回数を全て消耗して(消耗した充電 回数 × 5)%分、振動爆発の混乱区間前進量が増加(最大50%)",
-                  "summary": "[OnSucceedAttack] 振動爆発。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱ダメージ量が増加(最大50%)",
+                  "summary": "[OnSucceedAttack] [VibrationExplosion]。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
                 }
               ]
             }
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発\n振動爆発時、振動 回数が3減少。充電 回数を全て消耗して(消耗した充電 回数 × 5)%分、振動爆発の混乱区間前進量が増加(最大50%)",
-                  "summary": "[OnSucceedAttack] 振動爆発。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱ダメージ量が増加(最大50%)",
+                  "summary": "[OnSucceedAttack] [VibrationExplosion]。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
                 }
               ]
             }
@@ -9520,7 +9520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の沈潜が6以上なら、沈潜殺到"
+                  "desc": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、沈潜殺到"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分の振動 回数が10以上なら、ダメージ量の30%分追加ダメージ"
@@ -9551,7 +9551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の沈潜が6以上なら、沈潜殺到"
+                  "desc": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、沈潜殺到"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分の振動 回数が10以上なら、ダメージ量の40%分追加ダメージ"
@@ -9756,7 +9756,7 @@
         {
           "level": 1,
           "name": "侵入者遮断",
-          "desc": "対象に破裂 が5以上あるならコイン威力 +1",
+          "desc": "対象に[Burst]が5以上あるなら、コイン威力 +1",
           "coinlist": [
             {}
           ]
@@ -9764,7 +9764,7 @@
         {
           "level": 2,
           "name": "侵入者遮断",
-          "desc": "対象に破裂 が5以上あるならコイン威力 +2",
+          "desc": "対象に[Burst]が5以上あるなら、コイン威力 +2",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "侵入者遮断",
-          "desc": "対象に破裂 が5以上あるなら、コイン威力 +3\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が5増加",
+          "desc": "対象に[Burst]が5以上あるなら、コイン威力 +3\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が5増加",
           "coinlist": [
             {}
           ]
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の20%分体力を回復"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の20%分体力を回復"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の20%分体力を回復"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の20%分体力を回復"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
                 }
               ]
             }
@@ -9943,7 +9943,7 @@
                   "desc": "[OnSucceedAttack] 破裂 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 対象の破裂が5以上なら、お札 1を得る"
+                  "desc": "[OnSucceedAttackHead] 対象の[Burst]が5以上なら、お札 を1得る"
                 }
               ]
             }
@@ -9960,7 +9960,7 @@
                   "desc": "[OnSucceedAttack] 破裂 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の破裂が5以上なら、お札 1を得る"
+                  "desc": "[OnSucceedAttack] 対象の[Burst]が5以上なら、お札 を1得る"
                 }
               ]
             }
@@ -10024,7 +10024,7 @@
                   "desc": "[OnSucceedAttack] お札 1を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の破裂が3以上なら、お札 1を得る"
+                  "desc": "[OnSucceedAttack] 対象の[Burst]が3以上なら、お札 を1得る"
                 }
               ]
             }
@@ -10041,7 +10041,7 @@
                   "desc": "[OnSucceedAttack] お札 1を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂があるなら、お札 1を得る"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、お札 1を得る"
                 }
               ]
             },
@@ -10051,7 +10051,7 @@
                   "desc": "[OnSucceedAttack] お札 1を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂があるなら、お札 1を得る"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、お札 1を得る"
                 }
               ]
             },
@@ -10061,7 +10061,7 @@
                   "desc": "[OnSucceedAttack] お札 1を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂があるなら、お札 1を得る"
+                  "desc": "[OnSucceedAttack] 対象に[Burst]があるなら、お札 1を得る"
                 }
               ]
             }
@@ -10156,7 +10156,7 @@
         {
           "level": 2,
           "name": "丹脚",
-          "desc": "対象の火傷 が3以上なら、コイン威力 +1",
+          "desc": "対象の[Combustion]が3以上ならコイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10222,7 +10222,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、火傷 回数2を付与"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、火傷 回数2を付与"
                 }
               ]
             }
@@ -10231,7 +10231,7 @@
         {
           "level": 2,
           "name": "正面突破",
-          "desc": "対象の火傷 が6以上なら、コイン威力 +1",
+          "desc": "対象の[Combustion]が6以上ならコイン威力 +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10250,7 +10250,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、火傷 回数2を付与"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、火傷 回数2を付与"
                 }
               ]
             }
@@ -10278,7 +10278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上なら、火傷 回数2を付与"
+                  "desc": "[OnSucceedAttack] 対象の[Combustion]が6以上なら、火傷 回数2を付与"
                 }
               ]
             }

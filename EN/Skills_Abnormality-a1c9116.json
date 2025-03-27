@@ -6,7 +6,7 @@
                 {
                     "level": 1,
                     "name": "No More Tests",
-                    "desc": "[WhenUse] Gain 3 [HitDamageUp] next turn\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coins in this Skill to [SuperCoin]s",     
+                    "desc": "[WhenUse] Gain 3 [HitDamageUp] next turn\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s",
                     "coinlist": [
                         {},
                         {
@@ -26,7 +26,7 @@
                 {
                     "level": 1,
                     "name": "Promised Suffering",
-                    "desc": "Prioritizes targets with the highest [MiddleFingerBook]\n[WhenUse] If the target has 3+ [MiddleFingerBook], convert all Coins in this Skill to [SuperCoin]s",     
+                    "desc": "Prioritizes targets with the highest [MiddleFingerBook] Stack\n[WhenUse] If the target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -45,10 +45,10 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Deal ([MiddleFingerBook] on target x 3) Blunt Bonus damage"
+                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 3) Blunt bonus damage"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Remove [MiddleFingerBook] on target"   
+                                    "desc": "[OnSucceedAttack] Remove all [MiddleFingerBook] on the target"
                                 }
                             ]
                         }
@@ -81,7 +81,7 @@
                 {
                     "level": 1,
                     "name": "COMPLETE AND TOTAL EXTERMINATION!!!",
-                    "desc": "Can Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], Final Power +5\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit by this attack",
+                    "desc": "Can Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], Final Power +5\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -89,7 +89,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Deal ([MiddleFingerBook] on target x 10) Blunt Bonus damage"                                
+                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 10) Blunt bonus damage"
                                 }
                             ]
                         }
@@ -102,7 +102,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "First Strike",
+                    "name": "Startling Strike",
                     "desc": "[WhenUse] If the target has 5+ [Burst], Clash Power +1",
                     "coinlist": [
                         {

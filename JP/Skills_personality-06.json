@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "緊急止血",
-          "desc": "[StartBattle] 自分の[Laceration]威力を2減少(1ターンにつき3回。出血が減少し0になると、出血が消滅)",
+          "desc": "[StartBattle] 自分の[Laceration]威力を2減少(1ターンにつき3回。[Laceration]が減少し0になると、[Laceration]が消滅)",
           "coinlist": [
             {
               "coindescs": [

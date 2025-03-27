@@ -2118,7 +2118,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, inflict 2 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn on 2 random enemies"
                 }
               ]
             },
@@ -2142,7 +2142,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
                 }
               ]
             },
@@ -2185,7 +2185,7 @@
                   "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
                 }
               ]
             }
@@ -2216,7 +2216,7 @@
                   "desc": "[OnSucceedAttack] Inflict +3 Burn Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, inflict 3 Burn on 2 random enemies"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies"
                 }
               ]
             }
@@ -2889,7 +2889,7 @@
         {
           "level": 4,
           "name": "Shank",
-          "desc": "If target has 7+ Bleed, deal +20% damage",
+          "desc": "If target has 7+ [Laceration], deal +20% more damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2953,7 +2953,7 @@
                   "desc": "[ReUseOnSucceedAttackHead] +100% damage for this Coin"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttackHead] If target has 10+ Bleed, deal +50% damage"
+                  "desc": "[ReUseOnSucceedAttackHead] If target has 10+ [Laceration], deal +50% damage"
                 }
               ]
             }
@@ -2975,7 +2975,7 @@
         {
           "level": 4,
           "name": "Evade",
-          "desc": "If target has 5+ Bleed, Coin Power +2\n[OnSucceedEvade] Heal 3 SP",
+          "desc": "If target has 5+ [Laceration], Coin Power +2\n[OnSucceedEvade] Heal 3 SP",
           "coinlist": [
             {}
           ]
@@ -4312,7 +4312,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Bleed, deal +20% damage"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Laceration], deal +20% more damage"
                 }
               ]
             }
@@ -4347,7 +4347,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Bleed, deal +20% damage"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Laceration], deal +20% more damage"
                 }
               ]
             }
@@ -4402,7 +4402,7 @@
         {
           "level": 4,
           "name": "Sharp Edge",
-          "desc": "At 4+ Poise, Coin Power +2",
+          "desc": "At 4+ [Breath], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4475,7 +4475,7 @@
         {
           "level": 4,
           "name": "Scattering Slash",
-          "desc": "[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Coin Power +2",
+          "desc": "[WhenUse] Gain +2 Poise Count\nAt 5+ [Breath], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4507,7 +4507,7 @@
         {
           "level": 3,
           "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ Bleed, double the crit chance",
+          "desc": "If target has 6+ [Laceration], double the crit chance",
           "coinlist": [
             {
               "coindescs": [
@@ -4521,7 +4521,7 @@
         {
           "level": 4,
           "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ Bleed, double the crit chance\nAt 10+ Poise, +100% Critical Damage",
+          "desc": "If target has 6+ [Laceration], double the crit chance\nAt 10+ [Breath], +100% Critical Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -4561,7 +4561,7 @@
         {
           "level": 3,
           "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ Bleed, double the crit chance",
+          "desc": "If target has 6+ [Laceration], double the crit chance",
           "coinlist": [
             {
               "coindescs": [
@@ -4575,7 +4575,7 @@
         {
           "level": 4,
           "name": "Sky-clearing Cut",
-          "desc": "If target has 6+ Bleed, double the crit chance\nAt 10+ Poise, +100% Critical Damage",
+          "desc": "If target has 6+ [Laceration], double the crit chance\nAt 10+ [Breath], +100% Critical Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -5269,7 +5269,7 @@
         {
           "level": 4,
           "name": "Baile y Rola",
-          "desc": "If target has 4+ Sinking, Coin Power +1",
+          "desc": "If target has 4+ [Sinking], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5351,7 +5351,7 @@
         {
           "level": 4,
           "name": "Danza de Pasión",
-          "desc": "If target has 6+ Sinking, Coin Power +2",
+          "desc": "If target has 6+ [Sinking], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5618,7 +5618,7 @@
         {
           "level": 4,
           "name": "Draw of the Sword",
-          "desc": "At 5+ Poise, Coin Power +1",
+          "desc": "At 5+ [Breath], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -5730,7 +5730,7 @@
         {
           "level": 4,
           "name": "Evade",
-          "desc": "At 6+ Poise, Coin Power +3",
+          "desc": "At 6+ [Breath], Coin Power +3",
           "coinlist": [
             {}
           ]
@@ -5771,7 +5771,7 @@
         {
           "level": 4,
           "name": "Order",
-          "desc": "If target has 5+ Sinking, Coin Power +2",
+          "desc": "If target has 5+ [Sinking], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5986,14 +5986,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, +10% Damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], +10% Damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, +10% Damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], +10% Damage"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Heal by 30% of damage dealt"
@@ -6065,7 +6065,7 @@
         {
           "level": 4,
           "name": "Single-point Stab",
-          "desc": "If target has 6+ Burn, Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6135,7 +6135,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], gain 1 Attack Power Up next turn"
                 }
               ]
             }
@@ -6144,7 +6144,7 @@
         {
           "level": 4,
           "name": "Rush Down",
-          "desc": "If target has 6+ Burn, Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6166,7 +6166,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], gain 1 Attack Power Up next turn"
                 }
               ]
             }
@@ -6215,7 +6215,7 @@
         {
           "level": 4,
           "name": "Perfected Palm Strike",
-          "desc": "If target has 6+ Burn, deal +10% damage",
+          "desc": "If target has 6+ [Combustion], deal +10% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -6298,7 +6298,7 @@
         {
           "level": 4,
           "name": "Hack",
-          "desc": "[WinDuel] Damage +40%\nIf target has 5+ Rupture, Coin Power +1",
+          "desc": "[WinDuel] Damage +40%\nIf target has 5+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -6349,7 +6349,7 @@
         {
           "level": 4,
           "name": "Dismember",
-          "desc": "If target has 5+ Rupture, deal +50% damage",
+          "desc": "If target has 5+ [Burst], deal +50% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -6376,21 +6376,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage"
                 }
               ]
             },
@@ -6406,26 +6406,26 @@
         {
           "level": 4,
           "name": "Eviscerate",
-          "desc": "If target has 5+ Rupture, Coin Power +1",
+          "desc": "If target has 5+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage"
                 }
               ]
             },
@@ -7425,7 +7425,7 @@
         {
           "level": 4,
           "name": "Exploit the Gap",
-          "desc": "In a clash, opponent has -2 Clash Power\nIf target has 7+ Rupture, Coin Power +2",
+          "desc": "In a clash, opponent has -2 Clash Power\nIf target has 7+ [Burst], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -7508,14 +7508,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict 1 more"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 }
               ]
             }
@@ -7529,14 +7529,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict 1 more"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more"
                 }
               ]
             }
@@ -7545,19 +7545,19 @@
         {
           "level": 4,
           "name": "Flowing Flame",
-          "desc": "If target has 6+ Burn Count, Coin Power +2",
+          "desc": "If target has 6+ [Combustion] Count, Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict 1 more"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more"
                 }
               ]
             }
@@ -7576,7 +7576,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict +1 [Combustion] Count"
                 }
               ]
             },
@@ -7586,7 +7586,7 @@
                   "desc": "[OnSucceedAttackHead] Heal 6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn Count, raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt"
                 }
               ]
             }
@@ -7595,12 +7595,12 @@
         {
           "level": 4,
           "name": "Crimson Blaze Fist",
-          "desc": "If target has 6+ Burn Count, Coin Power +1",
+          "desc": "If target has 6+ [Combustion] Count, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict +1 [Combustion] Count"
                 }
               ]
             },
@@ -7610,7 +7610,7 @@
                   "desc": "[OnSucceedAttackHead] Heal 6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn Count, raise Stagger Threshold by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt"
                 }
               ]
             }
@@ -7867,7 +7867,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze; if target has Bleed, inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze; if target has [Laceration], inflict 1 Paralyze next turn"
                 }
               ]
             },
@@ -7883,12 +7883,12 @@
         {
           "level": 4,
           "name": "Keep It Fresh",
-          "desc": "If target has 4+ Bind, deal +30% damage",
+          "desc": "If target has 4+ [Binding], deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze; if target has Bleed, inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze; if target has [Laceration], inflict 1 Paralyze next turn"
                 }
               ]
             },
@@ -7982,7 +7982,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal HP based on target’s Bleed (Max 20%)"
+                  "desc": "[OnSucceedAttack] Heal HP based on target’s [Laceration] (Max 20%)"
                 }
               ]
             }
@@ -8017,7 +8017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal HP based on target’s Bleed (Max 20%)"
+                  "desc": "[OnSucceedAttack] Heal HP based on target’s [Laceration] (Max 20%)"
                 }
               ]
             }
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nWhen triggering Tremor Burst, reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
                 }
               ]
             }
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nWhen triggering Tremor Burst, reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)",
-                  "summary": "[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)",
+                  "summary": "[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold"
                 }
               ]
             }
@@ -9520,7 +9520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Sinking, cause Sinking Deluge"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge"
                 },
                 {
                   "desc": "[OnSucceedAttack] If user has 10+ Tremor Count, deal 30% of damage dealt as bonus damage"
@@ -9551,7 +9551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Sinking, cause Sinking Deluge"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge"
                 },
                 {
                   "desc": "[OnSucceedAttack] If user has 10+ Tremor Count, deal 40% of damage dealt as bonus damage"
@@ -9756,7 +9756,7 @@
         {
           "level": 1,
           "name": "Impede the Intruder",
-          "desc": "Coin Power +1 to targets with 5+ Rupture",
+          "desc": "If target has 5+ [Burst], Coin Power +1",
           "coinlist": [
             {}
           ]
@@ -9764,7 +9764,7 @@
         {
           "level": 2,
           "name": "Impede the Intruder",
-          "desc": "Coin Power +2 to targets with 5+ Rupture",
+          "desc": "If target has 5+ [Burst], Coin Power +2",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "Impede the Intruder",
-          "desc": "If target has 5+ Rupture, Coin Power +3\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "desc": "If target has 5+ [Burst], Coin Power +3\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
           "coinlist": [
             {}
           ]
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt"
                 }
               ]
             }
@@ -9943,7 +9943,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 5+ Rupture, gain 1 Talisman"
+                  "desc": "[OnSucceedAttackHead] If target has 5+ [Burst], gain 1 Talisman"
                 }
               ]
             }
@@ -9960,7 +9960,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Rupture, gain 1 Talisman"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Burst], gain 1 Talisman"
                 }
               ]
             }
@@ -10024,7 +10024,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 Talisman"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ Rupture, gain 1 Talisman"
+                  "desc": "[OnSucceedAttack] If target has 3+ [Burst], gain 1 Talisman"
                 }
               ]
             }
@@ -10041,7 +10041,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 Talisman"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, gain 1 Talisman"
+                  "desc": "[OnSucceedAttack] If target has [Burst], gain 1 Talisman"
                 }
               ]
             },
@@ -10051,7 +10051,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 Talisman"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, gain 1 Talisman"
+                  "desc": "[OnSucceedAttack] If target has [Burst], gain 1 Talisman"
                 }
               ]
             },
@@ -10061,7 +10061,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 Talisman"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Rupture, gain 1 Talisman"
+                  "desc": "[OnSucceedAttack] If target has [Burst], gain 1 Talisman"
                 }
               ]
             }
@@ -10156,7 +10156,7 @@
         {
           "level": 2,
           "name": "Red Kick",
-          "desc": "If target has 3+ Burn, Coin Power +1",
+          "desc": "If target has 3+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10222,7 +10222,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, inflict +2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
                 }
               ]
             }
@@ -10231,7 +10231,7 @@
         {
           "level": 2,
           "name": "Frontal Assault",
-          "desc": "If target has 6+ Burn, Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -10250,7 +10250,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, inflict +2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
                 }
               ]
             }
@@ -10278,7 +10278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ Burn, inflict +2 Burn Count"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count"
                 }
               ]
             }

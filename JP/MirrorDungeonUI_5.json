@@ -535,6 +535,10 @@
     {
       "id": "mirrordungeon_achievement_max_level",
       "content": "アチーブメントレベル最大値達成"
+    },
+    {
+      "id": "lack_of_point_for_shop_without_new_line",
+      "content": "コスト不足"
     }
   ]
 }

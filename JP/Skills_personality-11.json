@@ -380,7 +380,7 @@
         {
           "level": 3,
           "name": "バレストラフォント",
-          "desc": "自分の[Breath]が7以上なら、最終威力 +2\n[WinDuel] マッチ回数だけ呼吸を得る(最大10)",
+          "desc": "自分の[Breath]が7以上なら、最終威力 +2\n[WinDuel] マッチ回数だけ[Breath]を得る(最大10)",
           "coinlist": [
             {
               "coindescs": [
@@ -400,7 +400,7 @@
         {
           "level": 4,
           "name": "バレストラフォント",
-          "desc": "自分の[Breath]が7以上なら、最終威力 +4\n[WinDuel] マッチ回数だけ呼吸を得る(最大10)",
+          "desc": "自分の[Breath]が7以上なら、最終威力 +4\n[WinDuel] マッチ回数だけ[Breath]を得る(最大10)",
           "coinlist": [
             {
               "coindescs": [

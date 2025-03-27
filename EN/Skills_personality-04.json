@@ -1737,7 +1737,7 @@
         {
           "level": 4,
           "name": "I'll gut you with a curse-engraved blade",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster <style=\"highlight\">than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's, <style=\"highlight\">gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [

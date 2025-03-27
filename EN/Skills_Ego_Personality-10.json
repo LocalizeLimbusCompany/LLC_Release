@@ -136,7 +136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
@@ -154,7 +154,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
@@ -172,13 +172,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, inflict 1 Attack Power Down and 1 Defense Power Down next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Attack Power Down and 1 Defense Power Down next turn"
                 }
               ]
             }
@@ -198,7 +198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
@@ -216,13 +216,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, inflict 1 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] If the target has 10+ [Combustion], inflict 1 Lust Fragility next turn"
                 }
               ]
             }
@@ -237,13 +237,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, inflict 2 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] If the target has 10+ [Combustion], inflict 2 Lust Fragility next turn"
                 }
               ]
             }

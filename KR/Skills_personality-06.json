@@ -1070,7 +1070,7 @@
             {
               "level": 4,
               "name": "긴급 지혈",
-              "desc": "[StartBattle] 자신의 [Laceration] 위력 2 감소 (턴 당 3회. 출혈이 감소하여 0 이하가 되면, 출혈 소멸)",
+              "desc": "[StartBattle] 자신의 [Laceration] 위력 2 감소 (턴 당 3회. [Laceration]이 감소하여 0 이하가 되면, 출혈 소멸)",
               "coinlist": [
                 {
                   "coindescs": [

@@ -303,6 +303,10 @@
     {
       "id": "OtherStoryOpenCondition_9114",
       "content": "Clear 7.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9116",
+      "content": "Clear 7.5-15"
     }
   ]
 }

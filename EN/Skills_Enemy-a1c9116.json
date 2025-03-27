@@ -576,7 +576,7 @@
         {
           "level": 1,
           "name": "Restraint",
-          "desc": "[WhenUse] If the target has 3+ [Burst], Clash Power +1",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -650,7 +650,7 @@
         {
           "level": 1,
           "name": "The Windup",
-          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [Agility] next turn",
+          "desc": "[DuelCounter] \n[WinDuel] Gain 3 [Agility] next turn",
           "coinlist": [
             {}
           ]
@@ -682,7 +682,7 @@
         {
           "level": 1,
           "name": "Overwhelm",
-          "desc": "[WhenUse] If the target has 3+ [Burst], Clash Power +1",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -756,7 +756,7 @@
         {
           "level": 1,
           "name": "The Windup",
-          "desc": "[DuelCounter]\n[WhenUse] Gain 3 [Agility] next turn",
+          "desc": "[DuelCounter] \n[WinDuel] Gain 3 [Agility] next turn",
           "coinlist": [
             {}
           ]

@@ -1142,7 +1142,7 @@
     },
     {
       "id": "remote_download_return_title",
-      "content": "A new download has been added.\nReturning to the title screen."
+      "content": "A new download has been added.\nReturning to the title screen.\n\n※ Playing the game immediately after downloading the update from the title screen will cause an error. Therefore, please <b><color=#da0000><u><size=110%>\"fully close and restart the game\"</size></u></color></b> before downloading the update."
     },
     {
       "id": "battle_skip",
@@ -1855,6 +1855,14 @@
     {
       "id": "paid_lunacy_ui",
       "content": "Paid Lunacy"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "This story cannot be skipped."
+    },
+    {
+      "id": "remote_download_quit_game",
+      "content": "A new download has been added.\nThe game will be closed; please restart the game to download."
     }
   ]
 }

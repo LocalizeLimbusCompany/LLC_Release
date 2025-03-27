@@ -136,7 +136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 火傷 4を付与"
@@ -154,7 +154,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 火傷 4を付与"
@@ -172,13 +172,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 火傷 4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに攻撃威力減少 1, 守備威力減少 1を付与"
+                  "desc": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに攻撃威力減少 1, 守備威力減少 1を付与"
                 }
               ]
             }
@@ -198,7 +198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 火傷 4を付与"
@@ -216,13 +216,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 火傷 4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに色欲脆弱 1を付与"
+                  "desc": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 1を付与"
                 }
               ]
             }
@@ -237,13 +237,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+                  "desc": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与"
                 },
                 {
                   "desc": "[OnSucceedAttack] 火傷 4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに色欲脆弱 2を付与"
+                  "desc": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 2を付与"
                 }
               ]
             }

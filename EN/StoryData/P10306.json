@@ -111,7 +111,6 @@
     },
     {
       "id": 19,
-      "model": "Big Brother",
       "teller": "Big Brother",
       "title": "The Middle",
       "content": "Lookin' lively, boys and girls. Everything good?"
@@ -132,14 +131,12 @@
     },
     {
       "id": 22,
-      "model": "Big Brother",
       "teller": "Big Brother",
       "title": "The Middle",
       "content": "... Khm."
     },
     {
       "id": 23,
-      "model": "Big Brother",
       "teller": "Big Brother",
       "title": "The Middle",
       "content": "Who's this kid?"
@@ -160,14 +157,12 @@
     },
     {
       "id": 26,
-      "model": "Big Brother",
       "teller": "Big Brother",
       "title": "The Middle",
       "content": "Is that so... Yeah, I can see that."
     },
     {
       "id": 27,
-      "model": "Big Brother",
       "teller": "Big Brother",
       "title": "The Middle",
       "content": "Hm. A new Sister, huh? Now this is an occasion deserving of a proper evening party."
@@ -181,7 +176,6 @@
     },
     {
       "id": 29,
-      "model": "Big Brother",
       "teller": "Big Brother",
       "title": "The Middle",
       "content": "Too bad I'm a bit busy this evening. I'll leave it up to you guys to take care of it. Here, take this card. Get whatever you want."
@@ -195,7 +189,6 @@
     },
     {
       "id": 31,
-      "model": "Big Brother",
       "teller": "The Big Brother",
       "title": "The Middle",
       "content": "And good luck to you, new girl. I've got some business to take care of at a different portship, so I'll be gone for a while."

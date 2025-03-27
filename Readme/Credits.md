@@ -1,25 +1,46 @@
 - LocalizeLimbusCompany/L公司
   - Nephthys137/奈芙：CED&Moder/代表&模组作者
   - ZengXiaoPi/曾小皮：Coder/代码作者
+  - BroomStar/茜：Mysterious FontMan/都安静。字体由我来决定。
 - ZeroAsso/零协会
   - N071/北岚：Manager/会长
   - Ny_Su/茕明：Proofreader/校对
-  - Downova/落星：Victim of PM English Translator/EN哥受害者
+  - super-jade/玉佩：Proofreader/校对
+  - Downova/落星：Proofreader/校对
+  - KT：Proofreader/校对
+  - 可乐：Proofreader/校对
   - 5E：Transkiller/技能译者
+  - Karyut/苍之狩人 ： Skill Translator/技能译者
   - Pencilblue/铅笔蓝：KR translator/韩译
   - Songautumn/宋清秋：A cow cat/一只奶牛猫
   - Anmmon Plumeria/安默：Miqo'te blackmage
   - Refracted Car/小车：Stupid AI
   - Mully/墨式Ink：Succubus
   - Imagine.F./想象力：Refracted Cyber Phantom Cooer/折射的赛博幽灵咕者
-  - WesTower / 西塔：Peccatulum Pigritiae / 怠惰罪种
-  - Shan / 天穹：Someone new wirting Credits? / 我不到啊，他们说可以加我就加了
+  - WesTower/西塔：Peccatulum Pigritiae/怠惰罪种
+  - Shan/天穹：Studying something.../学习中...
+  - GZBQ/狗子本犬：KR translator/韩译
+  - Box_Number_19/十九号盒子：KR translator/韩译
+  - Lin/落叶松：EN translator/英译
+  - Gl0w1amp：EN Translator/常回协看看
+  - Wen/射命丸文：JP translator/日译
+  - IBN5100：EN translator/英译
+  - Geranium/拉琴：Inexperienced EN translator/踏入英译
+  - LuciaCarrio/LC：Knight of Arius
+  - VeronicaXlll/艾达：次时代英译
+  - Zjuar044/郑卷儿：KR ITT Grade 1 Fixer
 - Broadcasting/广播局
   - Yukkri Mantou/馒头：Emergency food reserve
   - JimD/小迪：A little star
   - kurisan：Chiganfande
+  - Xiao Langling：小狼灵
+  - Carp：鲤鱼
+  - Cat Box：猫箱
+  - Rainbow chestnut：虹栗
+  - CoCo：CoCo
   - Hodron：Patron Librarian of Literature/文学层指定司书
 - Others/其他
   - shixie2860/士燮：wiki sysop&transkiller/维基管理员&技能翻译 (似了)
   - West 9 o'clock/西九时：Just GAIGAI/只是盖盖
   - Nap/nap：nap
+  - moon-sea-de/月海伦娜：wiki sysop/偶尔出现

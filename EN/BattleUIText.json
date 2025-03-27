@@ -779,6 +779,10 @@
     {
       "id": "septempeccata_classification",
       "content": "Class {0}"
+    },
+    {
+      "id": "run_forBattlePortraitStateText",
+      "content": "FLED"
     }
   ]
 }

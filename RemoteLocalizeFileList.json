@@ -123,6 +123,7 @@
         "Enemies-a1c7p3",
         "Enemies-walpu5",
         "Enemies-a1c971",
+        "Enemies-a1c9116",
         "Enemies-sweep"
     ],
     "ego": [
@@ -203,7 +204,6 @@
         "Skills_Enemy-a1c9115",
         "Skills_Abnormality-a1c9116",
         "Skills_Enemy-a1c9116"
-        
     ],
     "passive": [
         "Passives",
@@ -498,10 +498,12 @@
     ],
     "storyTheater": [
         "StoryTheaterMain",
-        "StoryTheaterOther"
+        "StoryTheaterOther",
+        "StoryTheaterMain-a1c7p1"
     ],
     "announcer": [
-        "Announcer"
+        "Announcer",
+        "Announcer-m4d1"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"

@@ -1737,7 +1737,7 @@
         {
           "level": 4,
           "name": "呪いが刻まれた剣をブッ刺してやろう",
-          "desc": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より<style=\"highlight\">高いほどコイン威力 +1(速度差2につきコイン威力 +1. 最大2)\n[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1</style>\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加",
+          "desc": "自分の速度が対象より高いなら、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より<style=\"highlight\">高いほどコイン威力 +1(速度差2につきコイン威力 +1. 最大2)\n[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1</style>\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加",
           "coinlist": [
             {
               "coindescs": [

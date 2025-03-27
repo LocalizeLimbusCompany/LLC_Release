@@ -1703,7 +1703,7 @@
                   "desc": "[OnSucceedAttack] 出血 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の50%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の50%混乱区間を後退"
                 }
               ]
             },
@@ -1713,7 +1713,7 @@
                   "desc": "[OnSucceedAttack] 出血 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の50%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の50%混乱区間を後退"
                 }
               ]
             },
@@ -1723,7 +1723,7 @@
                   "desc": "[OnSucceedAttack] 出血 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の50%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の50%混乱区間を後退"
                 }
               ]
             }

@@ -380,7 +380,7 @@
         {
           "level": 3,
           "name": "발레스트라 팡트",
-          "desc": "자신의 [Breath]이 7 이상이면 최종 위력 + 2\n[WinDuel] 합 횟수만큼 호흡을 얻음 (최대 10)",
+          "desc": "자신의 [Breath]이 7 이상이면 최종 위력 + 2\n[WinDuel] 합 횟수만큼 [Breath]을 얻음 (최대 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -400,7 +400,7 @@
         {
           "level": 4,
           "name": "발레스트라 팡트",
-          "desc": "자신의 [Breath]이 7 이상이면 최종 위력 + 4\n[WinDuel] 합 횟수만큼 호흡을 얻음 (최대 10)",
+          "desc": "자신의 [Breath]이 7 이상이면 최종 위력 + 4\n[WinDuel] 합 횟수만큼 [Breath]을 얻음 (최대 10)",
           "coinlist": [
             {
               "coindescs": [

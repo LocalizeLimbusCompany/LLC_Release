@@ -535,6 +535,10 @@
     {
       "id": "mirrordungeon_achievement_max_level",
       "content": "업적 레벨 최대 달성"
+    },
+    {
+      "id": "lack_of_point_for_shop_without_new_line",
+      "content": "코스트 부족"
     }
   ]
 }
