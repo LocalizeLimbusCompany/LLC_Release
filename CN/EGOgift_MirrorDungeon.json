@@ -3805,7 +3805,7 @@
     {
       "id": 19140,
       "name": "决意+",
-      "desc": "本场战斗中，拥有不低于2个斩击技能的友方单位首个回合的拼点威力+1，从第2回合起使其获得<style=\"upgradeHighlight\">2层迅捷 </style>并使其拼点威力+1。\n\n属于し协会的友方单位恢复体力至多恢复至体力上限的<style=\"upgradeHighlight\">50</style>%，但受到的伤害与恢复-<style=\"upgradeHighlight\">75</style>%(关卡开始时立即触发)。",
+      "desc": "本场战斗中，拥有不低于2个斩击技能的友方单位首个回合的拼点威力+1，从第2回合起使其获得<style=\"upgradeHighlight\">2层迅捷 </style>并使其拼点威力+1。\n\n属于し协会的友方单位恢复体力至多恢复至体力上限的<style=\"upgradeHighlight\">50</style>%，但受到的伤害与恢复-<style=\"upgradeHighlight\">75</style>%（关卡开始时立即触发）。",
       "simpleDesc": [
         {
           "abilityID": 19140,
@@ -3820,7 +3820,7 @@
     {
       "id": 29140,
       "name": "决意++",
-      "desc": "本场战斗中，拥有不低于2个斩击技能的友方单位首个回合的拼点威力+1，从第2回合起使其获得2层迅捷 并使其<style=\"upgradeHighlight\">最终威力+1。</style>\n\n属于し协会的友方单位恢复体力至多恢复至体力上限的<style=\"upgradeHighlight\">49</style>%，但受到的伤害与恢复-75%(关卡开始时立即触发)。",
+      "desc": "本场战斗中，拥有不低于2个斩击技能的友方单位首个回合的拼点威力+1，从第2回合起使其获得2层迅捷 并使其<style=\"upgradeHighlight\">最终威力+1。</style>\n\n属于し协会的友方单位恢复体力至多恢复至体力上限的<style=\"upgradeHighlight\">49</style>%，但受到的伤害与恢复-75%（关卡开始时立即触发）。",
       "simpleDesc": [
         {
           "abilityID": 29140,
