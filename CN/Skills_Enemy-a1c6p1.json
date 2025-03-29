@@ -1223,7 +1223,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "开始打扫",
+          "name": "扫除起始",
           "desc": "",
           "coinlist": [
             {
@@ -1339,7 +1339,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "开始打扫",
+          "name": "开始扫除",
           "desc": "",
           "coinlist": [
             {
@@ -1487,7 +1487,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "打扫时间！",
+          "name": "扫除时间！",
           "desc": "[WhenUse] 若目标的理智值不高于10点，则对其施加2层攻击等级降低 \n[WinDuel] 对目标施加1层易损 ",
           "coinlist": [
             {
