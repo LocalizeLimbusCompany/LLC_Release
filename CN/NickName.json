@@ -9085,6 +9085,28 @@
       "psbHeadPosX": 0,
       "psbHeadPosY": 0,
       "textSpeed": 1
+    },
+    {
+      "name": "베르너다침",
+      "krname": "维尔纳",
+      "jpname": "",
+      "enname": "",
+      "fileName": "Werner_Hurt",
+      "nickName": "中指",
+      "jpNickName": "中指",
+      "enNickName": "The Middle",
+      "staringSide": "",
+      "headPosX": 0,
+      "headPosY": 0,
+      "bottomYPos": -40,
+      "scale": 0.800000011920929,
+      "portraitSpritePath": "StoryLog_Werner",
+      "nameTagColor": "#a000c4",
+      "nameFontColor": "#f5f4e9",
+      "cropForLog": [],
+      "psbHeadPosX": 0,
+      "psbHeadPosY": 0,
+      "textSpeed": 1
     }
   ]
 }

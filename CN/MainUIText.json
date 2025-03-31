@@ -1855,6 +1855,14 @@
     {
       "id": "paid_lunacy_ui",
       "content": "付费狂气"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "该剧情无法跳过。"
+    },
+    {
+      "id": "remote_download_quit_game",
+      "content": "增加了新的下载项目。\n游戏即将关闭，请重启游戏以下载。"
     }
   ]
 }

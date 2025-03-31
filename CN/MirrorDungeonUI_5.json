@@ -535,6 +535,10 @@
     {
       "id": "mirrordungeon_achievement_max_level",
       "content": "达到最大成就等级"
+    },
+    {
+      "id": "lack_of_point_for_shop_without_new_line",
+      "content": "经费不足"
     }
   ]
 }

@@ -10,37 +10,56 @@
   - KT：Proofreader/校对
   - 可乐：Proofreader/校对
   - 5E：Transkiller/技能译者
-  - Karyut/苍之狩人 ： Skill Translator/技能译者
+  - Karyut/苍之狩人： Skill Translator/技能译者
   - Pencilblue/铅笔蓝：KR translator/韩译
   - Songautumn/宋清秋：A cow cat/一只奶牛猫
   - Anmmon Plumeria/安默：Miqo'te blackmage
   - Refracted Car/小车：Stupid AI
   - Mully/墨式Ink：Succubus
-  - Imagine.F./想象力：Refracted Cyber Phantom Cooer/折射的赛博幽灵咕者
-  - WesTower/西塔：Peccatulum Pigritiae/怠惰罪种
+  - Imagine.F./想象力：Cyber Phantom Cooer/赛博幽灵咕者
+  - Cupcake~/杯糕~：Icing Seeker/糖霜探求者
+  - WesTower/西塔：ZeroAsso Lover/可以组一辈子零协会吗
   - Shan/天穹：Studying something.../学习中...
   - GZBQ/狗子本犬：KR translator/韩译
   - Box_Number_19/十九号盒子：KR translator/韩译
   - Lin/落叶松：EN translator/英译
   - Gl0w1amp：EN Translator/常回协看看
-  - Wen/射命丸文：JP translator/日译
+  - 射命丸文：JP translator/日译
   - IBN5100：EN translator/英译
   - Geranium/拉琴：Inexperienced EN translator/踏入英译
   - LuciaCarrio/LC：Knight of Arius
   - VeronicaXlll/艾达：次时代英译
   - Zjuar044/郑卷儿：KR ITT Grade 1 Fixer
+  - cookie_caramel/焦糖软曲奇：EN translator/英译
+  - Inviliad/10291029：EN translator/英译
+  - qqxgzz/族长：Proofreader/校对
+  - probius/噗噗：EN translator/英译
+  - Aika/和花花：萨雷安魔法大学实习生
+  - 帕伦：EN translator/英译
+  - Artoria-117：EN translator/英译
 - Broadcasting/广播局
   - Yukkri Mantou/馒头：Emergency food reserve
   - JimD/小迪：A little star
   - kurisan：Chiganfande
+  - Cat Box/猫箱：Cat von Boxboldt/猫·冯·箱堡
   - Xiao Langling：小狼灵
   - Carp：鲤鱼
-  - Cat Box：猫箱
   - Rainbow chestnut：虹栗
+  - Remember to Save：记得保存
   - CoCo：CoCo
+  - AToast：AToast
+  - Seliming/十八色黎明：Broadcasting/广播局
+  - printscanf：Photoshopper
+  - Cross：烤肉丝
+  - Purple Fish：紫鬱
+  - 绫椿幻羽/阿绫：偷吃大米的直播姬
+  - The Fool：梦初
   - Hodron：Patron Librarian of Literature/文学层指定司书
 - Others/其他
   - shixie2860/士燮：wiki sysop&transkiller/维基管理员&技能翻译 (似了)
   - West 9 o'clock/西九时：Just GAIGAI/只是盖盖
   - Nap/nap：nap
   - moon-sea-de/月海伦娜：wiki sysop/偶尔出现
+  - sigmicorn/自制：Padorox/塑形-顶点
+  - yanshusu/苏晏殊：WAY/你是谁
+  - JoeYellow/小明：XiaoMing
