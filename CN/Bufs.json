@@ -1310,7 +1310,7 @@
     {
       "id": "EgoAwakenDongrangTree",
       "name": "吸收养分",
-      "desc": "回合结束时，东朗恢复10点体力"
+      "desc": "回合结束时，使东朗恢复10点体力"
     },
     {
       "id": "EgoAwakenDongrangOverHeal",

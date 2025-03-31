@@ -1142,7 +1142,7 @@
     },
     {
       "id": "remote_download_return_title",
-      "content": "需要进行数据更新。\n即将返回至标题界面。\n\n※从标题页面下载后，立刻运行游戏将发生错误。因此，请在下载更新前将游戏<b><color=#da0000><u><size=110%>完全关闭并重新启动</size></u></color></b>。"
+      "content": "需要进行数据更新。\n即将返回至标题界面。"
     },
     {
       "id": "battle_skip",
