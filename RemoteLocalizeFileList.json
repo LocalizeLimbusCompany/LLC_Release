@@ -88,7 +88,8 @@
         "MirrorDungeonUI_5_InfinityFloor",
         "UI_Mission_MirrorDungeon5Event",
         "EventLimbus2ndAnnivText",
-        "NightCleanUpEvent"
+        "NightCleanUpEvent",
+        "Fools2025"
     ],
     "character": [
         "Characters"
@@ -124,7 +125,8 @@
         "Enemies-walpu5",
         "Enemies-a1c971",
         "Enemies-a1c9116",
-        "Enemies-sweep"
+        "Enemies-sweep",
+        "Enemies-fools"
     ],
     "ego": [
         "Egos"
@@ -203,7 +205,8 @@
         "Skills_Abnormality-a1c9115",
         "Skills_Enemy-a1c9115",
         "Skills_Abnormality-a1c9116",
-        "Skills_Enemy-a1c9116"
+        "Skills_Enemy-a1c9116",
+        "Skills_fools"
     ],
     "passive": [
         "Passives",
@@ -249,7 +252,8 @@
         "Passives_Enemy-walpu5",
         "Passive-a1c971",
         "Passives-a1c9116",
-        "Passives_Abnormality-a1c9116"
+        "Passives_Abnormality-a1c9116",
+        "Passives_fools"
     ],
     "buf": [
         "Bufs",
@@ -277,7 +281,8 @@
         "Bufs-walpu5",
         "Bufs-a1c971",
         "Bufs-a1c9114",
-        "Bufs-a1c9116"
+        "Bufs-a1c9116",
+        "Bufs-fools"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -286,7 +291,8 @@
         "Items",
         "Items-a1c6",
         "Items-a1c7p1",
-        "Items-a1c7p3"
+        "Items-a1c7p3",
+        "Items-fools"
     ],
     "keyword": [
         "BattleKeywords",
@@ -313,7 +319,8 @@
         "BattleKeywords-walpu5",
         "BattleKeywords-a1c971",
         "BattleKeywords-a1c9114",
-        "BattleKeywords-a1c9116"
+        "BattleKeywords-a1c9116",
+        "BattleKeywords-fools"
     ],
     "skillTag": [
         "SkillTag"
@@ -687,7 +694,8 @@
         "Announcer_Aengdu_26",
         "Announcer_Jun_27",
         "Announcer_Vergilius_28",
-        "Announcer_Ricardo_29"
+        "Announcer_Ricardo_29",
+        "Announcer_Charon_90002"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -820,7 +828,8 @@
         "PanicInfo-a1c7p3",
         "PanicInfo-walpu5",
         "PanicInfo-a1c971",
-        "PanicInfo-a1c9116"
+        "PanicInfo-a1c9116",
+        "PanicInfo-fools"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"
