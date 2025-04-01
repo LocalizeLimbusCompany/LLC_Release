@@ -73,7 +73,7 @@
     {
       "id": "battle_endcommand_10207_1",
       "desc": "进行攻击",
-      "dlg": "已确认出逃的个体。"
+      "dlg": "已确认出逃个体。"
     },
     {
       "id": "battle_enemy_break_10207_1",

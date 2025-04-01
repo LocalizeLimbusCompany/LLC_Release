@@ -1656,13 +1656,13 @@
     {
       "id": 1091001,
       "name": "高速派送",
-      "desc": "回合开始时，若自身的速度值不低于6或自身带有[Agility]，则使自身获得体力上限(自身的[DevyatDimensionalSack]层数/2)%的护盾(最多15%)\n\n撤退时，下回合使2名友方单位获得1层[ParryingResultUp](优先使待机解除的单位获得，然后按编队顺序获得)",
+      "desc": "回合开始时，若自身的速度值不低于6或自身带有[Agility]，则使自身获得体力上限(自身的[DevyatDimensionalSack]层数/2)%的护盾(最多15%)\n\n撤退时，下回合使2名友方单位获得1层[ParryingResultUp](优先使解除待命的单位获得，然后按编队顺序获得)",
       "summary": "使自身获得体力上限(自身的[DevyatDimensionalSack]层数/2)%的护盾\n撤退时，下回合随机使2名友方单位获得1层[ParryingResultUp]"
     },
     {
       "id": 1091011,
       "name": "高速派送",
-      "desc": "回合开始时，若自身的速度值不低于6或自身带有[Agility]，则使自身获得体力上限<style=\"highlight\">(自身的[DevyatDimensionalSack]层数)%</style>的护盾(最多<style=\"highlight\">20%</style>)\n\n撤退时，下回合使2名友方单位获得1层[ParryingResultUp](优先使待机解除的单位获得，然后按编队顺序获得)\n<style=\"highlight\">- 自身每带有15层[DevyatDimensionalSack]，使其额外持续1回合(最多额外持续2回合)</style>",
+      "desc": "回合开始时，若自身的速度值不低于6或自身带有[Agility]，则使自身获得体力上限<style=\"highlight\">(自身的[DevyatDimensionalSack]层数)%</style>的护盾(最多<style=\"highlight\">20%</style>)\n\n撤退时，下回合使2名友方单位获得1层[ParryingResultUp](优先使解除待命的单位获得，然后按编队顺序获得)\n<style=\"highlight\">- 自身每带有15层[DevyatDimensionalSack]，使其额外持续1回合(最多额外持续2回合)</style>",
       "summary": "使自身获得体力上限(自身的[DevyatDimensionalSack]层数)%的护盾\n撤退时，下回合随机使2名友方单位获得1层[ParryingResultUp]"
     },
     {
@@ -1831,7 +1831,7 @@
     {
       "id": 1101111,
       "name": "请稍等…",
-      "desc": "回合开始时，若自身的速度值不低于6或自身带有[Agility]，则使自身获得体力上限(自身的[DevyatDimensionalSackSinclair]层数)%的护盾(最多20%)\n撤退时，下回合使2名友方单位获得1层[ParryingResultUp](优先使待机解除的单位获得，然后按编队顺序获得)\n- 自身每带有15层[DevyatDimensionalSackSinclair]，使其额外持续1回合(最多额外持续2回合)",
+      "desc": "回合开始时，若自身的速度值不低于6或自身带有[Agility]，则使自身获得体力上限(自身的[DevyatDimensionalSackSinclair]层数)%的护盾(最多20%)\n撤退时，下回合使2名友方单位获得1层[ParryingResultUp](优先使解除待命的单位获得，然后按编队顺序获得)\n- 自身每带有15层[DevyatDimensionalSackSinclair]，使其额外持续1回合(最多额外持续2回合)",
       "summary": ""
     },
     {
@@ -1888,7 +1888,7 @@
     {
       "id": 1071101,
       "name": "远程狙杀",
-      "desc": "关卡开始时，使自身获得3层突刺威力提升 \n\n回合结束时，若自身所有类型的弹药 数均为0，则激活[Retreat_FullStop](每场战斗最多1次)\n\n若自身待机解除，或激活[Retreat_FullStop]后重返战斗，则获得[LogicAtelierAM]至最大值，获得3层突刺威力提升 并使自身[FullReload](不包括[Bullet_LogicAtelier]，每场战斗最多1次)"
+      "desc": "关卡开始时，使自身获得3层突刺威力提升 \n\n回合结束时，若自身所有类型的弹药 数均为0，则激活[Retreat_FullStop](每场战斗最多1次)\n\n若自身解除待命，或激活[Retreat_FullStop]后重返战斗，则获得[LogicAtelierAM]至最大值，获得3层突刺威力提升 并使自身[FullReload](不包括[Bullet_LogicAtelier]，每场战斗最多1次)"
     },
     {
       "id": 1071102,
@@ -1898,7 +1898,7 @@
     {
       "id": 1071103,
       "name": "远程狙杀",
-      "desc": "关卡开始时，使自身获得3层突刺威力提升 \n\n自身在战斗中登场时，使自身获得1发[Bullet_LogicAtelier](每场战斗最多1次)\n\n回合结束时，若自身所有类型的弹药 数均为0，则激活[Retreat_FullStop](每场战斗最多1次)\n\n若自身待机解除，或激活[Retreat_FullStop]后重返战斗，则获得[LogicAtelierAM]至最大值，获得3层突刺威力提升 并使自身[FullReload]\n(不包括[Bullet_LogicAtelier]，每场战斗最多1次)"
+      "desc": "关卡开始时，使自身获得3层突刺威力提升 \n\n<style=\"highlight\">自身在战斗中登场时，使自身获得1发[Bullet_LogicAtelier](每场战斗最多1次)</style>\n\n回合结束时，若自身所有类型的弹药 数均为0，则激活[Retreat_FullStop](每场战斗最多1次)\n\n若自身解除待命，或激活[Retreat_FullStop]后重返战斗，则获得[LogicAtelierAM]至最大值，获得3层突刺威力提升 并使自身[FullReload]\n(不包括[Bullet_LogicAtelier]，每场战斗最多1次)"
     },
     {
       "id": 1071111,
@@ -1933,7 +1933,7 @@
     {
       "id": 1021111,
       "name": "火蛾",
-      "desc": "战斗开始时，若自身已失去体力不低于80%，且自身的烧伤 强度低于30级，则使自身增加至30级烧伤 强度(每场战斗最多1次)\n\n回合结束时，自身每带有6级烧伤 强度，下回合使自身获得1层攻击等级提升 (最多5层)\n\n阵亡时，触发以下效果：\n- 使全体敌方单位增加2级烧伤 强度。使全体敌方单位增加共计(自身的烧伤 强度)级烧伤 强度(每名敌方单位最多3级)\n- 获得持有量最少的2种罪孽碎片各2个\n\n若自身因技能红艳煞 最大感应【劣化侵蚀】而阵亡，则强化效果：\n- 使全体敌方单位增加3级烧伤 强度。使全体敌方单位增加共计(自身的烧伤 强度)级烧伤 强度(每名敌方单位最多5级)\n- 获得持有量最少的2种罪孽碎片各2个\n- 若自身的烧伤 强度不低于30级，则使待机解除的1名友方单位获得3层攻击等级提升 "
+      "desc": "战斗开始时，若自身已失去体力不低于80%，且自身的烧伤 强度低于30级，则使自身增加至30级烧伤 强度(每场战斗最多1次)\n\n回合结束时，自身每带有6级烧伤 强度，下回合使自身获得1层攻击等级提升 (最多5层)\n\n阵亡时，触发以下效果：\n- 使全体敌方单位增加2级烧伤 强度。使全体敌方单位增加共计(自身的烧伤 强度)级烧伤 强度(每名敌方单位最多3级)\n- 获得持有量最少的2种罪孽碎片各2个\n\n若自身因技能红艳煞 最大感应【劣化侵蚀】而阵亡，则强化效果：\n- 使全体敌方单位增加3级烧伤 强度。使全体敌方单位增加共计(自身的烧伤 强度)级烧伤 强度(每名敌方单位最多5级)\n- 获得持有量最少的2种罪孽碎片各2个\n- 若自身的烧伤 强度不低于30级，则使解除待命的1名友方单位获得3层攻击等级提升 "
     },
     {
       "id": 1021121,
