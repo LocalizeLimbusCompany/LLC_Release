@@ -5508,14 +5508,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "If user’s speed is higher than target’s, +10% Damage"
+                  "desc": "If user’s Speed is faster than target’s, +10% Damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If user’s speed is higher than target’s, +10% Damage"
+                  "desc": "If user’s Speed is faster than target’s, +10% Damage"
                 }
               ]
             }
@@ -5529,14 +5529,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "If user’s speed is higher than target’s, +20% Damage"
+                  "desc": "If user’s Speed is faster than target’s, +20% Damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If user’s speed is higher than target’s, +20% Damage"
+                  "desc": "If user’s Speed is faster than target’s, +20% Damage"
                 }
               ]
             }
@@ -7937,7 +7937,7 @@
         {
           "level": 4,
           "name": "You Fresh Enough?",
-          "desc": "If user's speed is higher than target's by 3+, Coin Power +3",
+          "desc": "If user's Speed is faster than target's by 3+, Coin Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -10087,7 +10087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Talisman, inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] If target has [Talisman], inflict +1 [Burst] Count"
                 }
               ]
             }
@@ -10108,7 +10108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Talisman, inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] If target has [Talisman], inflict +3 [Burst] Count"
                 }
               ]
             }

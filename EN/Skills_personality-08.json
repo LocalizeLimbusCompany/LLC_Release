@@ -279,7 +279,7 @@
         {
           "level": 4,
           "name": "To Me!",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(Highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
+          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
           "coinlist": [
             {},
             {
@@ -299,7 +299,7 @@
         {
           "level": 1,
           "name": "Pursue Them to the End!",
-          "desc": "[WhenUse] Every Reson. of the Highest Reson. adds 10% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.",
+          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 10% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.",
           "coinlist": [
             {},
             {
@@ -370,7 +370,7 @@
         {
           "level": 3,
           "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, max +20%)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, max +20%)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times max. Max # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, max +30%)\nCoin Power +1 for every 5 [Laceration] on target (Max 2)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, max +30%)\nCoin Power +1 for every 5 [Laceration] on target (Max 2)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times max. Max # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
@@ -914,7 +914,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume all [Vibration] Count on self, and inflict the value of the Count consumed as [Vibration] on the target. (max 10)\n- Deal +(excess [Vibration] x 1.5)% more damage (max 30%)"
+                  "desc": "[OnSucceedAttack] Consume all [Vibration] Count on self, and inflict the value of the Count consumed as [Vibration] on target. (max 10)\n- Deal +(excess [Vibration] x 1.5)% more damage (max 30%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
@@ -948,7 +948,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume all [Vibration] Count on self, and inflict the value of the Count consumed as [Vibration] on the target. (max <style=\"highlight\">20</style>)\n- Deal +(excess [Vibration] x <style=\"highlight\">5</style>)% more damage (max <style=\"highlight\">50</style>%)"
+                  "desc": "[OnSucceedAttack] Consume all [Vibration] Count on self, and inflict the value of the Count consumed as [Vibration] on target. (max <style=\"highlight\">20</style>)\n- Deal +(excess [Vibration] x <style=\"highlight\">5</style>)% more damage (max <style=\"highlight\">50</style>%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
@@ -1049,7 +1049,7 @@
         {
           "level": 4,
           "name": "Clean Up",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)\nDeal +10% more damage for every type of negative effect on the target (max 30%)</style>",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)\nDeal +10% more damage for every type of negative effect on target (max 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1099,7 +1099,7 @@
         {
           "level": 2,
           "name": "Sharpened Blade",
-          "desc": "<style=\"highlight\">If the target has 6+ [Laceration], Coin Power +1</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply <style=\"highlight\">2</style> [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply <style=\"highlight\">2</style> [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1126,7 +1126,7 @@
         {
           "level": 4,
           "name": "Sharpened Blade",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)\nDeal +10% more damage for every type of negative effect on the target (max 50%)</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply 2 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply 4 [AttackDmgUp] to 5 allies instead",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)\nDeal +10% more damage for every type of negative effect on target (max 50%)</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply 2 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply 4 [AttackDmgUp] to 5 allies instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1180,7 +1180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target 3 times; then, reduce their [Laceration] Count by 3"
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3"
                 }
               ]
             }
@@ -1189,7 +1189,7 @@
         {
           "level": 4,
           "name": "Ink Over",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[EnemyKill] Gain 2 [SlashResultUp] next turn (once per turn)</style>",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)\n[EnemyKill] Gain 2 [SlashResultUp] next turn (once per turn)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1211,7 +1211,7 @@
                   "desc": "<style=\"highlight\">Deal +10% more damage for every type of negative effect on target (max 100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target 3 times; then, reduce their [Laceration] Count by 3<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3<style=\"highlight\"></style>"
                 }
               ]
             }

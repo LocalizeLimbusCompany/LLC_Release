@@ -127,7 +127,7 @@
                   "desc": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +8%(最大56%)"
                 },
                 {
-                  "desc": "[AllyKill] 自分と味方2名へ[Breath]2を付与"
+                  "desc": "[AllyKill] 自分とランダムな味方2名へ[Breath]2を付与"
                 },
                 {
                   "desc": "[AllyKillFail] [Breath]1を得る"
@@ -164,7 +164,7 @@
                   "desc": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+10%(最大70%)</style>"
                 },
                 {
-                  "desc": "[AllyKill] 自分と味方2名へ[Breath]3を付与<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] 自分とランダムな味方2名へ[Breath]3を付与<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1属性のE.G.O資源 +1</style>"
@@ -204,7 +204,7 @@
                   "desc": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+15%(最大105%)</style>"
                 },
                 {
-                  "desc": "[AllyKill] 自分と味方2名へ[Breath]3を付与<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] 自分とランダムな味方2名へ[Breath]3を付与<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1,2属性のE.G.O資源 +1</style>"
@@ -252,7 +252,7 @@
                   "desc": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)"
                 },
                 {
-                  "desc": "[AllyKill] 自分と味方3名へ[Breath]2を付与"
+                  "desc": "[AllyKill] 自分とランダムな味方3名へ[Breath]2を付与"
                 },
                 {
                   "desc": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 +2%(最大14%)"
@@ -298,7 +298,7 @@
                   "desc": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[AllyKill] 自分と味方3名へ[Breath]<style=\"highlight\">3</style>を付与"
+                  "desc": "[AllyKill] 自分とランダムな味方3名へ[Breath]<style=\"highlight\">3</style>を付与"
                 },
                 {
                   "desc": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+5%(最大35%)</style>"
@@ -347,7 +347,7 @@
                   "desc": "<style=\"highlight\">クリティカルダメージ量 +30%</style>"
                 },
                 {
-                  "desc": "[AllyKill] 自分と味方3名へ[Breath]<style=\"highlight\">4</style>を付与"
+                  "desc": "[AllyKill] 自分とランダムな味方3名へ[Breath]<style=\"highlight\">4</style>を付与"
                 },
                 {
                   "desc": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+7%(最大49%)</style>"

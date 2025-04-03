@@ -333,7 +333,7 @@
         {
           "level": 2,
           "name": "Punition",
-          "desc": "If this unit's Speed is higher than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 2 Aggro next turn",
+          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 2 Aggro next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -354,7 +354,7 @@
         {
           "level": 4,
           "name": "Punition",
-          "desc": "If this unit's Speed is higher than the target's, Coin Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 4 Aggro next turn",
+          "desc": "If this unit's Speed is faster than the target's, Coin Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 4 Aggro next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -425,7 +425,7 @@
         {
           "level": 1,
           "name": "Retraite",
-          "desc": "If this unit's Speed is higher than the target's, Coin Power +1\n[OnSucceedEvade] Gain 1 [Breath] (Max 5)",
+          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[OnSucceedEvade] Gain 1 [Breath] (Max 5)",
           "coinlist": [
             {}
           ]
@@ -651,7 +651,7 @@
         {
           "level": 2,
           "name": "Knocking",
-          "desc": "[WhenUse] If the target has 7+ Sinking, Coin Power +1",
+          "desc": "[WhenUse] If target has 7+ Sinking, Coin Power +1",
           "coinlist": [
             {},
             {
@@ -666,7 +666,7 @@
         {
           "level": 4,
           "name": "Knocking",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Coin Power +1",
+          "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1",
           "coinlist": [
             {},
             {
@@ -730,7 +730,7 @@
         {
           "level": 4,
           "name": "Dusting",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Coin Power +1\n[WinDuel] Inflict +2 [Sinking] Count",
+          "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1\n[WinDuel] Inflict +2 [Sinking] Count",
           "coinlist": [
             {},
             {
@@ -768,7 +768,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [EchoOfMansion] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [EchoOfMansion], inflict Gloom Affinity damage equal to half of [Sinking] Potency on target (max 20)"
+                  "desc": "[OnSucceedAttack] If target has [EchoOfMansion], inflict Gloom Affinity damage equal to half of [Sinking] Potency on target (max 20)"
                 }
               ]
             }
@@ -777,7 +777,7 @@
         {
           "level": 4,
           "name": "As Mistress Commands",
-          "desc": "[WhenUse] If the target has 7+ [Sinking], Coin Power +1\n[WinDuel] Inflict +3 [Sinking] Count",
+          "desc": "[WhenUse] If target has 7+ [Sinking], Coin Power +1\n[WinDuel] Inflict +3 [Sinking] Count",
           "coinlist": [
             {},
             {},
@@ -788,7 +788,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [EchoOfMansion] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [EchoOfMansion], inflict Gloom Affinity damage equal to [Sinking] Potency on target (max 30)"
+                  "desc": "[OnSucceedAttack] If target has [EchoOfMansion], inflict Gloom Affinity damage equal to [Sinking] Potency on target (max 30)"
                 }
               ]
             }
@@ -865,7 +865,7 @@
         {
           "level": 4,
           "name": "Dotting",
-          "desc": "If the target has 6+ [Laceration], Clash Power +1\n<style=\"highlight\">If the target has 10+ [Laceration], Coin Power +1 </style>",
+          "desc": "If target has 6+ [Laceration], Clash Power +1\n<style=\"highlight\">If target has 10+ [Laceration], Coin Power +1 </style>",
           "coinlist": [
             {
               "coindescs": [
@@ -897,7 +897,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on the target"
+                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on target"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
@@ -909,13 +909,13 @@
         {
           "level": 2,
           "name": "Sanguine Painting",
-          "desc": "If the target has 6+ [Laceration], Clash Power +1",
+          "desc": "If target has 6+ [Laceration], Clash Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on the target"
+                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on target"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count\nWhen Reusing Coin with this unit's Coin effects, inflict +1 more [Laceration] Count"
@@ -927,13 +927,13 @@
         {
           "level": 4,
           "name": "Sanguine Painting",
-          "desc": "If the target has 6+ [Laceration], Clash Power +2",
+          "desc": "If target has 6+ [Laceration], Clash Power +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse Coin for every type of negative effect on the target (2 times max per Skill)"
+                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse Coin for every type of negative effect on target (2 times max per Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count\nWhen Reusing Coin with this unit's Coin effects, inflict +1 more [Laceration] Count"
@@ -950,7 +950,7 @@
         {
           "level": 3,
           "name": "Artwork Inspection",
-          "desc": "Deal +10% more damage for every type of negative effect on the target (max 30%)\n[WhenUse] Apply 1 [Agility] next turn to 2 allies adjacent to this unit on the Dashboard",
+          "desc": "Deal +10% more damage for every type of negative effect on target (max 30%)\n[WhenUse] Apply 1 [Agility] next turn to 2 allies adjacent to this unit on the Dashboard",
           "coinlist": [
             {},
             {
@@ -962,7 +962,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
                 },
                 {
-                  "desc": "[EndSkill] If the target is Staggered or defeated, apply 1 [PenetrateDamageUp] next turn to 1 other ally with the highest SP"
+                  "desc": "[EndSkill] If target is Staggered or defeated, apply 1 [PenetrateDamageUp] next turn to 1 other ally with the highest SP"
                 }
               ]
             }
@@ -971,7 +971,7 @@
         {
           "level": 4,
           "name": "Artwork Inspection",
-          "desc": "If the target has 6+ [Laceration], Coin Power +1\nDeal +12.5% more damage for every type of negative effect on the target (max 50%)\n[WhenUse] Apply 1 [Agility] next turn to 2 allies adjacent to this unit on the Dashboard",
+          "desc": "If target has 6+ [Laceration], Coin Power +1\nDeal +12.5% more damage for every type of negative effect on target (max 50%)\n[WhenUse] Apply 1 [Agility] next turn to 2 allies adjacent to this unit on the Dashboard",
           "coinlist": [
             {},
             {
@@ -983,7 +983,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
                 },
                 {
-                  "desc": "[EndSkill] If the target is Staggered or defeated, apply 1 [PenetrateDamageUp] next turn to 1 other ally with the highest SP. <style=\"highlight\">If the affected ally is a member of the Ring, apply 1 [PenetrateResultUp] as well</style>"
+                  "desc": "[EndSkill] If target is Staggered or defeated, apply 1 [PenetrateDamageUp] next turn to 1 other ally with the highest SP. <style=\"highlight\">If the affected ally is a member of the Ring, apply 1 [PenetrateResultUp] as well</style>"
                 }
               ]
             }
@@ -997,7 +997,7 @@
         {
           "level": 1,
           "name": "Guard",
-          "desc": "[WhenUse] If the target has 10+ [Laceration], Coin Power +3",
+          "desc": "[WhenUse] If target has 10+ [Laceration], Coin Power +3",
           "coinlist": [
             {}
           ]
@@ -1005,7 +1005,7 @@
         {
           "level": 4,
           "name": "Guard",
-          "desc": "[WhenUse] If the target has 10+ [Laceration], Coin Power +7",
+          "desc": "[WhenUse] If target has 10+ [Laceration], Coin Power +7",
           "coinlist": [
             {}
           ]
@@ -1280,7 +1280,7 @@
         {
           "level": 2,
           "name": "Sewing",
-          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 40 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 8 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain +2 [Laceration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 40 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 8 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain +2 [Laceration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1288,7 +1288,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count</style>"
                 }
               ]
             },
@@ -1298,7 +1298,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count</style>"
                 }
               ]
             }
@@ -1307,7 +1307,7 @@
         {
           "level": 4,
           "name": "Sewing",
-          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 40 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 8 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain +2 [Laceration] Count\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>",
+          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 40 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 8 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain +2 [Laceration] Count\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1315,7 +1315,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1325,7 +1325,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1347,7 +1347,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict 2 [Laceration]"
                 }
               ]
             },
@@ -1357,14 +1357,14 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], inflict 1 [LineCuttingPersonality] on the target next turn"
+                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], inflict 1 [LineCuttingPersonality] on target next turn"
                 }
               ]
             }
@@ -1373,7 +1373,7 @@
         {
           "level": 2,
           "name": "Scission",
-          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1381,7 +1381,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict 2 [Laceration]"
                 }
               ]
             },
@@ -1391,14 +1391,14 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], inflict 1 [LineCuttingPersonality] on the target next turn"
+                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], inflict 1 [LineCuttingPersonality] on target next turn"
                 }
               ]
             }
@@ -1407,7 +1407,7 @@
         {
           "level": 4,
           "name": "Scission",
-          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1<style=\"highlight\"></style>",
+          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1415,7 +1415,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict 2 [Laceration]"
                 }
               ]
             },
@@ -1425,7 +1425,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict 2 [Laceration]"
                 }
               ]
             },
@@ -1446,7 +1446,7 @@
         {
           "level": 3,
           "name": "I'll Make You a New Dress!",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 20)\n[BeforeAttack] At 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every 6 [Laceration] on the target (max 2)\n[EndSkill] Consume 15 [BloodScissorPersonalityFirst] for every Atk Weight gained\n[EndSkill] If the target is killed, increase [BloodDinner] by 10. Regain half of [BloodScissorPersonalityFirst] consumed by this Skill (once per turn)",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 20)\n[BeforeAttack] At 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n[WhenUse] If target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every 6 [Laceration] on target (max 2)\n[EndSkill] Consume 15 [BloodScissorPersonalityFirst] for every Atk Weight gained\n[EndSkill] If target is killed, increase [BloodDinner] by 10. Regain half of [BloodScissorPersonalityFirst] consumed by this Skill (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1481,7 +1481,7 @@
         {
           "level": 4,
           "name": "I'll Make You a New Dress!",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 20)\n[BeforeAttack] At 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n<style=\"highlight\">- At 20+ [BloodScissorPersonalityFirst], replace the above effect with Atk Weight +2 instead</style>\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every 6 [Laceration] on the target (max 2)\n[EndSkill] Consume <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] for every Atk Weight gained\n[EndSkill] If the target is killed, increase [BloodDinner] by <style=\"highlight\">20</style>. Regain half of [BloodScissorPersonalityFirst] consumed by this Skill (once per turn)\n<style=\"highlight\">- If the target is [LineCuttingPersonality], additionally increase [BloodDinner] by 20 more, and gain 5 [BloodScissorPersonalityFirst] (once per turn)</style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 20)\n[BeforeAttack] At 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n<style=\"highlight\">- At 20+ [BloodScissorPersonalityFirst], replace the above effect with Atk Weight +2 instead</style>\n[WhenUse] If target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every 6 [Laceration] on target (max 2)\n[EndSkill] Consume <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] for every Atk Weight gained\n[EndSkill] If target is killed, increase [BloodDinner] by <style=\"highlight\">20</style>. Regain half of [BloodScissorPersonalityFirst] consumed by this Skill (once per turn)\n<style=\"highlight\">- If target is [LineCuttingPersonality], additionally increase [BloodDinner] by 20 more, and gain 5 [BloodScissorPersonalityFirst] (once per turn)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1554,7 +1554,7 @@
         {
           "level": 1,
           "name": "Blinkstep",
-          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1",
+          "desc": "[WhenUse] If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1575,7 +1575,7 @@
         {
           "level": 2,
           "name": "Blinkstep",
-          "desc": "[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1",
+          "desc": "[WhenUse] If target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1599,7 +1599,7 @@
         {
           "level": 4,
           "name": "Blinkstep",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If target has 4+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1628,7 +1628,7 @@
         {
           "level": 1,
           "name": "Perforating Kill",
-          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1",
+          "desc": "[WhenUse] If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {},
             {
@@ -1646,7 +1646,7 @@
         {
           "level": 2,
           "name": "Perforating Kill",
-          "desc": "[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[OnDirectAttack] Inflict +1 [Burst] Count</style>",
+          "desc": "[WhenUse] If target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[OnDirectAttack] Inflict +1 [Burst] Count</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1670,7 +1670,7 @@
         {
           "level": 4,
           "name": "Perforating Kill",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1\n[OnDirectAttack] Inflict +1 [Burst] Count",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[OnDirectAttack] Inflict +1 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1702,7 +1702,7 @@
         {
           "level": 3,
           "name": "Cursewrit Butcherblade",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain 3 [LegStrength]\n[OnDirectAttack] Inflict +2 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain 3 [LegStrength]\n[OnDirectAttack] Inflict +2 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1736,7 +1736,7 @@
         {
           "level": 4,
           "name": "Cursewrit Butcherblade",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[OnDirectAttack] Inflict +2 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[OnDirectAttack] Inflict +2 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [

@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Crimson Strike",
-          "desc": "[WhenUse] If the target has 5+ negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst] on the target (max 2)",
+          "desc": "[WhenUse] If target has 5+ negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "Crimson Phoenix",
-          "desc": "[WhenUse] If the target has 5+ negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on the target (max 2)",
+          "desc": "[WhenUse] If target has 5+ negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -63,10 +63,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Breath] equal to [Burst] on the target (max 5)"
+                  "desc": "[OnSucceedAttack] Gain [Breath] equal to [Burst] on target (max 5)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain [Breath] Count equal to [Burst] Count on the target (max 2)"
+                  "desc": "[OnSucceedAttackHead] Gain [Breath] Count equal to [Burst] Count on target (max 2)"
                 }
               ]
             },
@@ -93,7 +93,7 @@
         {
           "level": 1,
           "name": "Crimson Spring",
-          "desc": "[StartBattle] Gain +1 Atk Weight for every 4 negative effect on the target (max 2)\n[WhenUse] If the target has 5+ negative effects, Base Power +5\n[WhenUse] If the sum of the target's [Burst] and [Burst] Count is at 15+, Coin Power +5\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "[StartBattle] Gain +1 Atk Weight for every 4 negative effect on target (max 2)\n[WhenUse] If target has 5+ negative effects, Base Power +5\n[WhenUse] If the sum of the target's [Burst] and [Burst] Count is at 15+, Coin Power +5\n[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [

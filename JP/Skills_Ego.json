@@ -824,7 +824,7 @@
           "level": 1,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "対象に火傷 がある場合、スキル威力 +2\n[EnemyKill] 次のターンに攻撃威力増加 1を得る",
+          "desc": "対象に[Combustion]があるなら、スキル威力 +2\n[EnemyKill] 次のターンに攻撃威力増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -839,7 +839,7 @@
           "level": 3,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "対象に火傷 がある場合、スキル威力 +2\n[EnemyKill] 次のターンに攻撃威力増加 2を得る",
+          "desc": "対象に[Combustion]があるなら、スキル威力 +2\n[EnemyKill] 次のターンに攻撃威力増加 2を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -854,7 +854,7 @@
           "level": 4,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "対象に火傷 があればスキル威力 +2\n対象の火傷 威力1につき5%分ダメージ量が増加(最大100%)\n[EnemyKill] 次のターンに攻撃威力増加 2を得る",
+          "desc": "対象に[Combustion]があるならスキル威力 +2\n対象の[Combustion]威力1につき5%分ダメージ量が増加(最大100%)\n[EnemyKill] 次のターンに攻撃威力増加 2を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -874,7 +874,7 @@
           "level": 1,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に火傷 があればスキル威力+2\n[EnemyKill] 次のターンに攻撃威力増加 2を得る\n[EnemyKillFail] 次のターンに火傷 10を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力+2\n[EnemyKill] 次のターンに攻撃威力増加 2を得る\n[EnemyKillFail] 次のターンに[Combustion]10を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -889,7 +889,7 @@
           "level": 3,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に火傷 があればスキル威力+4\n[EnemyKill] 次のターンに攻撃威力増加 3を得る\n[EnemyKillFail] 次のターンに攻撃威力増加 3、火傷 10を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力+4\n[EnemyKill] 次のターンに攻撃威力増加 3を得る\n[EnemyKillFail] 次のターンに攻撃威力増加 3、[Combustion]10を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -904,7 +904,7 @@
           "level": 4,
           "name": "4本目のマッチの火",
           "abName": "燃え尽きた少女",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に火傷 があればスキル威力 +4\n対象の火傷 威力1につき5%分ダメージ量が増加(最大100%)\n[EnemyKill] 次のターンに攻撃威力増加 3を得る\n[EnemyKillFail] 次のターンに攻撃威力増加 3、火傷 10を得る",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Combustion]があればスキル威力 +4\n対象の[Combustion]威力1につき5%分ダメージ量が増加(最大100%)\n[EnemyKill] 次のターンに攻撃威力増加 3を得る\n[EnemyKillFail] 次のターンに攻撃威力増加 3、[Combustion]10を得る",
           "coinlist": [
             {
               "coindescs": [

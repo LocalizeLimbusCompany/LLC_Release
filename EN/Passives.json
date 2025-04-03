@@ -628,7 +628,7 @@
     {
       "id": 1100621,
       "name": "Wishing Talisman",
-      "desc": "At the start of the combat phase, give (Highest Reson. * 2) Talisman to the ally with the most HP."
+      "desc": "At the start of the combat phase, give (highest Reson. * 2) Talisman to the ally with the most HP."
     },
     {
       "id": 1080601,
@@ -964,12 +964,12 @@
     {
       "id": 1110621,
       "name": "Mentor's Counsel",
-      "desc": "If the fastest ally's Speed is higher than Speed of all enemies, the fastest ally gains Clash Power +1"
+      "desc": "If the fastest ally's Speed is faster than Speed of all enemies, the fastest ally gains Clash Power +1"
     },
     {
       "id": 1110631,
       "name": "Mentor's Counsel",
-      "desc": "If the fastest ally's Speed is higher than Speed of all enemies, the fastest ally gains Clash Power +1\nIf the said ally is a Cinq Association Fixer, the fastest ally deals +10% Pierce Damage"
+      "desc": "If the fastest ally's Speed is faster than Speed of all enemies, the fastest ally gains Clash Power +1\nIf the said ally is a Cinq Association Fixer, the fastest ally deals +10% Pierce Damage"
     },
     {
       "id": 1100801,
@@ -2063,6 +2063,26 @@
       "id": 1111221,
       "name": "A Husk of Hares",
       "desc": "1 ally with the fastest Speed: when attacking targets with [Burst], deal +10% more damage\nGain 1 [Agility] next turn (once per turn)"
+    },
+    {
+      "id": 1101201,
+      "name": "The Middle Never Forgets",
+      "desc": "When hit by an enemy, inflict 3 [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
+    },
+    {
+      "id": 1101211,
+      "name": "The Middle Never Forgets",
+      "desc": "When hit by an enemy, inflict <style=\"highlight\">5</style> [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n<style=\"highlight\">- If the said ally is from the Middle, inflict 3 additional [VendettaMark]</style>\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
+    },
+    {
+      "id": 1101221,
+      "name": "We've Got Your Back",
+      "desc": "Combat Start: 1 ally with the least current HP percentage gains 2 [DefenseUp]"
+    },
+    {
+      "id": 1101231,
+      "name": "We've Got Your Back",
+      "desc": "Combat Start: 1 ally with the least current HP percentage gains 2 [DefenseUp]\n<style=\"highlight\">- If the said ally is from the Middle, also gain 2 [AttackUp]</style>"
     }
   ]
 }

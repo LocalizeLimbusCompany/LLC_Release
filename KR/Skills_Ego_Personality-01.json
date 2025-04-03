@@ -128,7 +128,7 @@
                   "desc": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 +8% (최대 56%)"
                 },
                 {
-                  "desc": "[AllyKill] 자신과 아군 2명에게 [Breath] 2 부여"
+                  "desc": "[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 2 부여"
                 },
                 {
                   "desc": "[AllyKillFail] [Breath] 1 얻음"
@@ -165,7 +165,7 @@
                   "desc": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style=\"highlight\">+10% (최대 70%)</style>"
                 },
                 {
-                  "desc": "[AllyKill] 자신과 아군 2명에게 [Breath] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 3 부여<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] 처치한 아군의 스킬 1 속성의 E.G.O 자원 +1</style>"
@@ -205,7 +205,7 @@
                   "desc": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style=\"highlight\">+15% (최대 105%)</style>"
                 },
                 {
-                  "desc": "[AllyKill] 자신과 아군 2명에게 [Breath] 3 부여<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 3 부여<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] 처치한 아군의 스킬 1, 2 속성의 E.G.O 자원 +1</style>"
@@ -253,7 +253,7 @@
                   "desc": "메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)"
                 },
                 {
-                  "desc": "[AllyKill] 자신과 아군 3명에게 [Breath] 2 부여"
+                  "desc": "[AllyKill] 자신과 무작위 아군 3명에게 [Breath] 2 부여"
                 },
                 {
                   "desc": "[AllyKill] [BoseProjektil]당 다음 코인의 피해량 +2% (최대 14%)"
@@ -299,7 +299,7 @@
                   "desc": "메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[AllyKill] 자신과 아군 3명에게 [Breath] <style=\"highlight\">3</style> 부여"
+                  "desc": "[AllyKill] 자신과 무작위 아군 3명에게 [Breath] <style=\"highlight\">3</style> 부여"
                 },
                 {
                   "desc": "[AllyKill] [BoseProjektil]당 다음 코인의 피해량 <style=\"highlight\">+5% (최대 35%)</style>"
@@ -348,7 +348,7 @@
                   "desc": "<style=\"highlight\">크리티컬 피해량 +30%</style>"
                 },
                 {
-                  "desc": "[AllyKill] 자신과 아군 3명에게 [Breath] <style=\"highlight\">4</style> 부여"
+                  "desc": "[AllyKill] 자신과 무작위 아군 3명에게 [Breath] <style=\"highlight\">4</style> 부여"
                 },
                 {
                   "desc": "[AllyKill] [BoseProjektil]당 다음 코인의 피해량 <style=\"highlight\">+7% (최대 49%)</style>"

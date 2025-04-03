@@ -299,7 +299,7 @@
         {
           "level": 1,
           "name": "Pallid Trace",
-          "desc": "If user's speed is higher than target's by 5+, Clash Power +5",
+          "desc": "If user's Speed is faster than target's by 5+, Clash Power +5",
           "coinlist": [
             {
               "coindescs": [

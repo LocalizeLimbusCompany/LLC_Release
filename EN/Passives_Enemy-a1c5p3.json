@@ -3,7 +3,7 @@
         {
             "id": 9009801,
             "name": "Suppressed Pallidification",
-            "desc": "At Turn Start, gain 'Offense Level' and 'Defense Level' by the number of surviving allies (not including this unit)",
+            "desc": "At Turn Start, gain Offense Level and Defense Level by the number of surviving allies (not including this unit)",
             "summary": ""
         },
         {

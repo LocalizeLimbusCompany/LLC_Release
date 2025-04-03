@@ -10087,7 +10087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象にお札 がある場合、破裂 回数を1 増加"
+                  "desc": "[OnSucceedAttack] 対象に[Talisman]があれば、破裂 回数が1増加"
                 }
               ]
             }
@@ -10108,7 +10108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象にお札 がある場合、破裂 回数を3 増加"
+                  "desc": "[OnSucceedAttack] 対象に[Talisman]があれば、破裂 回数が3増加"
                 }
               ]
             }

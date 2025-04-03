@@ -82,7 +82,7 @@
         {
           "level": 1,
           "name": "Salut",
-          "desc": "[WhenUse] If this unit's Speed is higher than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)",
+          "desc": "[WhenUse] If this unit's Speed is faster than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)",
           "coinlist": [
             {
               "coindescs": [

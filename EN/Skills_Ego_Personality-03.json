@@ -300,7 +300,7 @@
           "level": 3,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "This unit's HP does not drop below 1 while using this Skill.\n<style=\"highlight\">If the target has 10+ [Laceration], Coin Power +1</style>\nClash Power +1 for every 100 [BloodDinner_Accumulation] by this unit (max <style=\"highlight\">3</style>)\n[BeforeAttack] At less than <style=\"highlight\">75</style> [BloodDinner], inflict 1 [Laceration] with every Hit\n[EndSkill] For 3 turns, lose 10 SP at Turn End.",
+          "desc": "This unit's HP does not drop below 1 while using this Skill.\n<style=\"highlight\">If target has 10+ [Laceration], Coin Power +1</style>\nClash Power +1 for every 100 [BloodDinner_Accumulation] by this unit (max <style=\"highlight\">3</style>)\n[BeforeAttack] At less than <style=\"highlight\">75</style> [BloodDinner], inflict 1 [Laceration] with every Hit\n[EndSkill] For 3 turns, lose 10 SP at Turn End.",
           "coinlist": [
             {
               "coindescs": [
@@ -351,7 +351,7 @@
           "level": 4,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "This unit's HP does not drop below 1 while using this Skill.\n<style=\"highlight\">Coin Power +1 for every 10 [Laceration] on the target (max 2)</style>\nClash Power +1 for every 100 [BloodDinner_Accumulation] by this unit (max <style=\"highlight\">5</style>)\n[BeforeAttack] At less than <style=\"highlight\">100</style> [BloodDinner], inflict 1 [Laceration] with every Hit\n[EndSkill] For 3 turns, lose 10 SP at Turn End.",
+          "desc": "This unit's HP does not drop below 1 while using this Skill.\n<style=\"highlight\">Coin Power +1 for every 10 [Laceration] on target (max 2)</style>\nClash Power +1 for every 100 [BloodDinner_Accumulation] by this unit (max <style=\"highlight\">5</style>)\n[BeforeAttack] At less than <style=\"highlight\">100</style> [BloodDinner], inflict 1 [Laceration] with every Hit\n[EndSkill] For 3 turns, lose 10 SP at Turn End.",
           "coinlist": [
             {
               "coindescs": [
@@ -407,7 +407,7 @@
           "level": 1,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf the target has 10+ [Laceration], Coin Power -1\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count",
+          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf target has 10+ [Laceration], Coin Power -1\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -438,7 +438,7 @@
           "level": 3,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf the target has 10+ [Laceration], Coin Power -1\n<style=\"highlight\">At 200+ [BloodDinner_Accumulation] by this unit, Coin Power -1</style>\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count",
+          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf target has 10+ [Laceration], Coin Power -1\n<style=\"highlight\">At 200+ [BloodDinner_Accumulation] by this unit, Coin Power -1</style>\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -469,7 +469,7 @@
           "level": 4,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf the target has 10+ [Laceration], Coin Power -1\nAt 200+ [BloodDinner_Accumulation] by this unit, Coin Power -1\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf target has 10+ [Laceration], Coin Power -1\nAt 200+ [BloodDinner_Accumulation] by this unit, Coin Power -1\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [

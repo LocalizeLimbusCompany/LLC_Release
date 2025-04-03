@@ -662,7 +662,8 @@
         "Voice_DonQuixote_CinqEast_10311",
         "Voice_Gregor_Firepunch_11211",
         "Voice_Ryoshu_Blackwater_10411",
-        "Voice_Outis_Blackwater_11112"
+        "Voice_Outis_Blackwater_11112",
+        "Voice_Sinclair_MiddleFinger_11012"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -851,5 +852,8 @@
     ],
     "unlockCode": [
         "UnlockCode-1"
+    ],
+    "scenarioModelCodes": [
+        "ScenarioModelCodes-AutoCreated"
     ]
 }

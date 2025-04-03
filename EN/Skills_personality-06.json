@@ -689,7 +689,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 9+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] If target has 9+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -698,7 +698,7 @@
         {
           "level": 2,
           "name": "Morph Cane Technique",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 8+ [Vibration], Clash Power +1</style>\n[WhenUse] Gain +3 [Vibration] Count\n<style=\"highlight\">At 6+ [Vibration] Count, Coin Power +1</style>",
+          "desc": "<style=\"highlight\">[WhenUse] If target has 8+ [Vibration], Clash Power +1</style>\n[WhenUse] Gain +3 [Vibration] Count\n<style=\"highlight\">At 6+ [Vibration] Count, Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -717,7 +717,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has <style=\"highlight\">7</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] If target has <style=\"highlight\">7</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -726,7 +726,7 @@
         {
           "level": 4,
           "name": "Morph Cane Technique",
-          "desc": "[WhenUse] If the target has <style=\"highlight\">6</style>+ [Vibration], Clash Power +1\n[WhenUse] Gain +3 [Vibration] Count\nAt <style=\"highlight\">5</style>+ [Vibration] Count, Coin Power +1",
+          "desc": "[WhenUse] If target has <style=\"highlight\">6</style>+ [Vibration], Clash Power +1\n[WhenUse] Gain +3 [Vibration] Count\nAt <style=\"highlight\">5</style>+ [Vibration] Count, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -745,7 +745,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has <style=\"highlight\">6</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] If target has <style=\"highlight\">6</style>+ [Vibration], trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -759,7 +759,7 @@
         {
           "level": 3,
           "name": "You're the Culprit!",
-          "desc": "[WhenUse] If the target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
+          "desc": "[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -870,7 +870,7 @@
         {
           "level": 2,
           "name": "Slam",
-          "desc": "If the target has 6+ [Burst], Coin Power +1",
+          "desc": "If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -891,7 +891,7 @@
         {
           "level": 4,
           "name": "Slam",
-          "desc": "If the target has 6+ [Burst], Coin Power +1",
+          "desc": "If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -944,7 +944,7 @@
         {
           "level": 2,
           "name": "Bonecrusher",
-          "desc": "[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -968,7 +968,7 @@
         {
           "level": 4,
           "name": "Bonecrusher",
-          "desc": "If the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If the target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "desc": "If target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1000,7 +1000,7 @@
         {
           "level": 3,
           "name": "A Cheerful Hunt's End",
-          "desc": "[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1022,7 +1022,7 @@
         {
           "level": 4,
           "name": "A Cheerful Hunt's End",
-          "desc": "If the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If the target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "If target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1041,7 +1041,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 15+ [Burst], or has less than 30% HP, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] If target has 15+ [Burst], or has less than 30% HP, Reuse this Coin (once per Skill)"
                 }
               ]
             }
@@ -1584,7 +1584,7 @@
                   "desc": "+30% Damage on Critical Hit"
                 },
                 {
-                  "desc": "Deal +(the target's Pierce Res. x 50)% more damage"
+                  "desc": "Deal +(target's Pierce Res. x 50)% more damage"
                 }
               ]
             }
@@ -1643,7 +1643,7 @@
                   "desc": "<style=\"highlight\">+50% Damage on Critical Hit</style>"
                 },
                 {
-                  "desc": "Deal +(the target's Pierce Res. x 50)% more damage<style=\"highlight\"></style>"
+                  "desc": "Deal +(target's Pierce Res. x 50)% more damage<style=\"highlight\"></style>"
                 }
               ]
             }

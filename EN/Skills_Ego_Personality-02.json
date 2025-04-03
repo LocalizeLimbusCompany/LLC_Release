@@ -128,7 +128,7 @@
           "level": 1,
           "name": "Everlasting",
           "abName": "Time Duck",
-          "desc": "If the target's Speed is slower than this unit's, deal +(2.5 x (Speed difference))% more damage (max 25%)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "If target's Speed is slower than this unit's, deal +(2.5 x (Speed difference))% more damage (max 25%)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -170,7 +170,7 @@
           "level": 3,
           "name": "Everlasting",
           "abName": "Time Duck",
-          "desc": "If the target's Speed is slower than this unit's, deal +(<style=\"highlight\">3.5</style> x (Speed difference))% more damage (max <style=\"highlight\">35%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "If target's Speed is slower than this unit's, deal +(<style=\"highlight\">3.5</style> x (Speed difference))% more damage (max <style=\"highlight\">35%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -212,7 +212,7 @@
           "level": 4,
           "name": "Everlasting",
           "abName": "Time Duck",
-          "desc": "If the target's Speed is slower than this unit's, deal +(<style=\"highlight\">5</style> x (Speed difference))% more damage (max <style=\"highlight\">50%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by (<style=\"highlight\">2</style> x (highest Reson.)) (max <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "If target's Speed is slower than this unit's, deal +(<style=\"highlight\">5</style> x (Speed difference))% more damage (max <style=\"highlight\">50%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by (<style=\"highlight\">2</style> x (highest Reson.)) (max <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -351,7 +351,7 @@
           "level": 1,
           "name": "Lasso",
           "abName": "Rose Hunter",
-          "desc": "Coin Power +1 for every 7 [Burst] on the target (max 2)",
+          "desc": "Coin Power +1 for every 7 [Burst] on target (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -380,7 +380,7 @@
           "level": 3,
           "name": "Lasso",
           "abName": "Rose Hunter",
-          "desc": "<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>",
+          "desc": "<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -409,7 +409,7 @@
           "level": 4,
           "name": "Lasso",
           "abName": "Rose Hunter",
-          "desc": "If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>",
+          "desc": "If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -443,7 +443,7 @@
           "level": 1,
           "name": "Lasso",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\nCoin Power +1 for every 7 [Burst] on the target (max 2)",
+          "desc": "[CantIdentify]\nTargets randomly\nCoin Power +1 for every 7 [Burst] on target (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -472,7 +472,7 @@
           "level": 3,
           "name": "Lasso",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn</style>",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -494,7 +494,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst] on the target (max 30%)"
+                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst] on target (max 30%)"
                 }
               ]
             }
@@ -504,7 +504,7 @@
           "level": 4,
           "name": "Lasso",
           "abName": "Rose Hunter",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n<style=\"highlight\">[EndSkill] If the target is Staggered or defeated, gain 1 [ShamrockResultUp] next turn</style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n<style=\"highlight\">[EndSkill] If target is Staggered or defeated, gain 1 [ShamrockResultUp] next turn</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -526,7 +526,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst] on the target (max 60%)"
+                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst] on target (max 60%)"
                 }
               ]
             }

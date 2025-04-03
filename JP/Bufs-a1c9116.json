@@ -44,7 +44,7 @@
     },
     {
       "id": "MiddleFingerBook",
-      "name": "復讐対象",
+      "name": "中指の復讐対象",
       "desc": "最大値: 10\n中指所属に攻撃されるとき、被ダメージ量 +3%(最大30%)",
       "summary": "",
       "undefined": "-"

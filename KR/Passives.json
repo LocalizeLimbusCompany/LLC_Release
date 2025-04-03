@@ -2068,6 +2068,26 @@
       "id": 1111221,
       "name": "무리짓는 토끼",
       "desc": "속도가 가장 빠른 아군 1명이 [Burst]이 있는 대상을 공격할 때, 가하는 피해량 +10%\n다음 턴에 [Agility] 1 얻음 (턴 당 최대 1회)"
+    },
+    {
+      "id": 1101201,
+      "name": "중지는 잊지 않아",
+      "desc": "자신이 적에게 피격당할 때마다, 공격자(또는 부위)에게 [VendettaMark] 3 부여 (턴당 1회)\n\n자신을 제외한 아군이 적에게 피격당할 때마다, 공격자(또는 부위)에게 [VendettaMark] 2 부여 (인격 별로 턴당 1회)\n\n기본 공격 스킬 또는 반격 스킬 공격 종료 시, 대상의 [VendettaMark]을 전부 소모\n- 적의 [VendettaMark]을 소모할 때마다, 그 수치만큼 [VengeanceBookSinclair] 얻음"
+    },
+    {
+      "id": 1101211,
+      "name": "중지는 잊지 않아",
+      "desc": "자신이 적에게 피격당할 때마다, 공격자(또는 부위)에게 [VendettaMark] <style=\"highlight\">5</style> 부여 (턴당 1회)\n\n자신을 제외한 아군이 적에게 피격당할 때마다, 공격자(또는 부위)에게 [VendettaMark] 2 부여 (인격 별로 턴당 1회)\n<style=\"highlight\">- 아군이 중지 소속이면, [VendettaMark] 3 추가로 부여</style>\n\n기본 공격 스킬 또는 반격 스킬 공격 종료 시, 대상의 [VendettaMark]을 전부 소모\n- 적의 [VendettaMark]을 소모할 때마다, 그 수치만큼 [VengeanceBookSinclair] 얻음"
+    },
+    {
+      "id": 1101221,
+      "name": "빽",
+      "desc": "전투 시작 시, 현재 체력 비율이 가장 낮은 아군 1명이 [DefenseUp] 2 얻음"
+    },
+    {
+      "id": 1101231,
+      "name": "빽",
+      "desc": "전투 시작 시, 현재 체력 비율이 가장 낮은 아군 1명이 [DefenseUp] 2 얻음\n<style=\"highlight\">- 대상이 중지 소속이면, [AttackUp] 2 추가로 얻음</style>"
     }
   ]
 }

@@ -1763,7 +1763,7 @@
     {
       "id": "FreishutzOutisEgoBullet_7th",
       "name": "The Seventh Magic Bullet",
-      "desc": "- Deal +200% more damage\n- Deal +2.5% more damage for every 1% missing HP on the target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on the target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
+      "desc": "- Deal +200% more damage\n- Deal +2.5% more damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
@@ -1884,7 +1884,28 @@
     {
       "id": "DianxueDonQuixote",
       "name": "Nerve Strike - Don Quixote",
-      "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on the target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another unit inflicts Nerve Strike",
+      "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another unit inflicts Nerve Strike",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VengeanceBookSinclair",
+      "name": "Book of Vengeance [Sinclair]",
+      "desc": "- Max Stack: 30\n- Deal more damage equal to (Stack)% (max 30%)\n- Gain the following effects next turn based on Stack:\n· At 10+ Stack: gain 1 Blunt DMG Up\n· At 20+ Stack: Max Speed +1, gain 1 Power Up\n· At 30 Stack: gain 2 Blunt DMG Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VendettaMark",
+      "name": "Vendetta Mark",
+      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% more damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RetaliationBookFamily",
+      "name": "Sibling Vengeance Mark",
+      "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their Vengeance Mark",
       "summary": "",
       "undefined": "-"
     }

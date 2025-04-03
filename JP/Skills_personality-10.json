@@ -1204,6 +1204,247 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "お前か！",
+          "desc": "[WhenUse] 次のターンにこのスロットが[Aggro]2を得る\n[WhenUse] 自分の精神力を5回復",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Laceration]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "お前か！",
+          "desc": "<style=\"highlight\">対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 次のターンにこのスロットが[Aggro]<style=\"highlight\">3</style>を得る\n[WhenUse] 自分の精神力を5回復",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> [Laceration]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "お前か！",
+          "desc": "対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] 次のターンにこのスロットが[Aggro]<style=\"highlight\">5</style>を得る\n[WhenUse] 自分の精神力を5回復\n<style=\"highlight\">- 精神力が最大なら、この効果の代わりにマッチ威力 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "倍にして喰らわせてやる",
+          "desc": "[WhenUse] 次のターンにこのスロットが[Aggro]2を得る\n[StartBattle] (最も高い共鳴数 ÷ 3)だけこのスキルの攻撃レベルが増加(最大2, 小数点切り捨て)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "このスキルを含む共鳴が4以上なら、ダメージ量 +10%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "倍にして喰らわせてやる",
+          "desc": "<style=\"highlight\">対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 次のターンにこのスロットが[Aggro]<style=\"highlight\">3</style>を得る\n[StartBattle] (最も高い共鳴数 ÷ <style=\"highlight\">2</style>)だけこのスキルの攻撃レベルが増加(最大<style=\"highlight\">3</style>, 小数点切り捨て)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "このスキルを含む共鳴が4以上なら、ダメージ量 <style=\"highlight\">+15%</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "倍にして喰らわせてやる",
+          "desc": "対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] 次のターンにこのスロットが[Aggro]<style=\"highlight\">5</style>を得る\n[StartBattle] (最も高い共鳴数 ÷ 2)だけこのスキルの攻撃レベルが増加(最大3, 小数点切り捨て)\n<style=\"highlight\">- この共鳴に完全共鳴が含まれているなら、上記の効果で増加した値が2倍で適用</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "このスキルを含む共鳴が<style=\"highlight\">3</style>以上なら、ダメージ量 <style=\"highlight\">+20%</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "きっちり刻み込め",
+          "desc": "[VengeanceBookSinclair]2につきダメージ量 +1% (最大15%)\n対象の[Laceration]が6以上なら、コイン威力 +1\n[StartBattle] (最も高い共鳴数 ÷ 2)だけこのスキルの攻撃レベルが増加(最大3, 小数点切り捨て)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]3を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "このスキルが含まれる共鳴数1につき、ダメージ量 +2.5%(最大15%)"
+                },
+                {
+                  "desc": "[VengeanceBookSinclair]10につき、ダメージ量 +7.5%(最大22.5%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "きっちり刻み込め",
+          "desc": "[VengeanceBookSinclair]<style=\"highlight\">1</style>につき、ダメージ量 +1% (最大<style=\"highlight\">30%</style>)\n<style=\"highlight\">対象の[Laceration]6につき、コイン威力 +1 (最大2)</style>\n[StartBattle] (最も高い共鳴数 ÷ 2)だけこのスキルの攻撃レベルが増加(最大3, 小数点切り捨て)\n<style=\"highlight\">- この共鳴に完全共鳴が含まれているなら、上記の効果で増加した値が2倍で適用</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]<style=\"highlight\">4</style>を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "このスキルが含まれる共鳴数1につき、ダメージ量 <style=\"highlight\">+5%</style>(最大<style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "[VengeanceBookSinclair]10につき、ダメージ量 +<style=\"highlight\">15%</style>(最大<style=\"highlight\">45%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "東部でひと暴れするとしますか",
+          "desc": "[StartBattle] 失った体力の20%だけバリアを得る(1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "東部でひと暴れするとしますか",
+          "desc": "<style=\"highlight\">[StartBattle] 嫉妬完全共鳴数の合計によって効果が変更\n- 4以上なら、反撃時に「倍にして喰らわせてやる」を使用\n- 6以上なら、反撃時に「きっちり刻み込め」を使用\n(操作パネルの左側のスロットスキルから発動、1ターンにつき最大2回発動)</style>\n[StartBattle] 失った体力の<style=\"highlight\">30%</style>だけバリアを得る(1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

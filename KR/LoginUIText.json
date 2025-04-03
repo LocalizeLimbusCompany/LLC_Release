@@ -323,6 +323,18 @@
     {
       "id": "push_notification_message_full_stamina_15_text",
       "content": "메피가 배부르대, 카론. 부릉부릉할 시간이야."
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "커스텀 언어 선택"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "커스텀 언어 선택"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "※ 언어 변경은 게임 재시작 시 정상 적용됩니다."
     }
   ]
 }

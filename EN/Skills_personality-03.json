@@ -74,7 +74,7 @@
         {
           "level": 1,
           "name": "Proof of Loyalty",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (Highest A-Reson./3) (Max 4)",
+          "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -96,7 +96,7 @@
         {
           "level": 2,
           "name": "Proof of Loyalty",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)",
+          "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional Offense Level to the Offense Level gained by the above effect (rounded down)",
           "coinlist": [
             {
               "coindescs": [
@@ -118,7 +118,7 @@
         {
           "level": 4,
           "name": "Proof of Loyalty",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the 'Offense Level' gained by the above effect by 50% (rounded down)\nGain double the 'Offense Level' from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
+          "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the Offense Level gained by the above effect by 50% (rounded down)\nGain double the Offense Level from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
           "coinlist": [
             {
               "coindescs": [
@@ -145,7 +145,7 @@
         {
           "level": 3,
           "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (Highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional ''Offense Level'' to the ''Offense Level'' gained by the above effect (rounded down)",
+          "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)",
           "coinlist": [
             {
               "coindescs": [
@@ -180,7 +180,7 @@
         {
           "level": 4,
           "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the 'Offense Level' gained by the above effect by 50% (rounded down)\nGain double the 'Offense Level' from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
+          "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the Offense Level gained by the above effect by 50% (rounded down)\nGain double the Offense Level from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
           "coinlist": [
             {
               "coindescs": [
@@ -241,7 +241,7 @@
         {
           "level": 4,
           "name": "Multifold Retribution",
-          "desc": "[StartBattle] If at 6+ Envy A-Reson including this Skill, use 'A Just Vengeance' as Counter.\nUpon activating the above effect, the Skill's affinity is changed to Envy.\n(Leftmost 'Multifold Retribution' is activated first. Activates 2 times per turn)",
+          "desc": "[StartBattle] At 6+ sum of Envy A-Reson., use 'A Just Vengeance' as Counter.\nUpon activating the above effect, the Skill's affinity is changed to Envy.\n(Leftmost 'Multifold Retribution' is activated first. Activates 2 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 3,
           "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)",
+          "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional Offense Level to the Offense Level gained by the above effect (rounded down)",
           "coinlist": [
             {
               "coindescs": [
@@ -302,7 +302,7 @@
         {
           "level": 4,
           "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)\nGain double the 'Offense Level' from above effects in encounters with 6 or fewer Participant Limits.",
+          "desc": "[StartBattle] This Skill gains 1 Offense Level by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional Offense Level to the Offense Level gained by the above effect (rounded down)\nGain double the Offense Level from above effects in encounters with 6 or fewer Participant Limits.",
           "coinlist": [
             {
               "coindescs": [
@@ -439,7 +439,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 2 or less [Burst] Count, inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] If target has 2 or less [Burst] Count, inflict +2 [Burst] Count"
                 }
               ]
             }
@@ -470,7 +470,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 2 or less [Burst] Count, inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] If target has 2 or less [Burst] Count, inflict +3 [Burst] Count"
                 }
               ]
             }
@@ -737,7 +737,7 @@
                   "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply +2 [Breath] Count"
                 },
                 {
-                  "desc": "[EndSkill] If the target is defeated, gain 1 [SlashDamageUp] next turn"
+                  "desc": "[EndSkill] If target is defeated, gain 1 [SlashDamageUp] next turn"
                 }
               ]
             }
@@ -772,7 +772,7 @@
                   "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply +2 [Breath] Count.\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath] Count</style>"
                 },
                 {
-                  "desc": "[EndSkill] If the target is defeated, <style=\"highlight\">apply 1 [SlashDamageUp] to self and 1 random other ally next turn</style>"
+                  "desc": "[EndSkill] If target is defeated, <style=\"highlight\">apply 1 [SlashDamageUp] to self and 1 random other ally next turn</style>"
                 }
               ]
             }
@@ -834,7 +834,7 @@
         {
           "level": 2,
           "name": "Let Us Prepare To Collect",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Vibration], Clash Power +1\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn</style>",
+          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn</style>",
           "coinlist": [
             {},
             {
@@ -896,7 +896,7 @@
         {
           "level": 2,
           "name": "T Corp. Accelerated Amputator",
-          "desc": "[WhenUse] Gain +3 [Vibration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Vibration], Clash Power +1</style>",
+          "desc": "[WhenUse] Gain +3 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -957,7 +957,7 @@
         {
           "level": 3,
           "name": "I Command Thee, Halt!",
-          "desc": "[WhenUse] If the target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
+          "desc": "[WhenUse] If target has 6+ [Vibration], Clash Power +1\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
           "coinlist": [
             {},
             {
@@ -971,10 +971,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]"
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]"
                 }
               ]
             }
@@ -983,7 +983,7 @@
         {
           "level": 4,
           "name": "I Command Thee, Halt!",
-          "desc": "[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\n<style=\"highlight\">[WhenUse] If the target has [Binding], gain Clash Power +1</style>\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
+          "desc": "[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\n<style=\"highlight\">[WhenUse] If target has [Binding], gain Clash Power +1</style>\n[WhenUse] Consume 10 [Vibration] Count on self to gain Coin Power +2",
           "coinlist": [
             {},
             {
@@ -1003,13 +1003,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1059,7 +1059,7 @@
         {
           "level": 2,
           "name": "Enough is Enough",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>",
           "coinlist": [
             {},
             {
@@ -1074,7 +1074,7 @@
         {
           "level": 4,
           "name": "Enough is Enough",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1124,7 +1124,7 @@
         {
           "level": 2,
           "name": "Let All Blossom Free",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[BeforeAttack] <style=\"highlight\">Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)</style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[BeforeAttack] <style=\"highlight\">Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1148,7 +1148,7 @@
         {
           "level": 4,
           "name": "Let All Blossom Free",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1177,7 +1177,7 @@
         {
           "level": 3,
           "name": "I Shall Impale",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] If the target has 10+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] on the target (max 50%)\n[WhenUse] Deal +10% more damage for every 100 [BloodDinner_Accumulation] by self (max 50%)\n[EndSkill] If the target is defeated, increase [BloodDinner] by 30; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] If target has 10+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +10% more damage for every 100 [BloodDinner_Accumulation] by self (max 50%)\n[EndSkill] If target is defeated, increase [BloodDinner] by 30; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
           "coinlist": [
             {},
             {},
@@ -1193,7 +1193,7 @@
         {
           "level": 4,
           "name": "I Shall Impale",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on the target (max 2)</style>\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] on the target (max 50%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every 100 [BloodDinner_Accumulation] by self (max <style=\"highlight\">100</style>%)\n[EndSkill] If the target is defeated, increase [BloodDinner] by <style=\"highlight\">60</style>; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 10)\n[WhenUse] Clash Power +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on target (max 2)</style>\n[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every 100 [BloodDinner_Accumulation] by self (max <style=\"highlight\">100</style>%)\n[EndSkill] If target is defeated, increase [BloodDinner] by <style=\"highlight\">60</style>; gain 10 [BloodArmorPersonalityFirst] (once per turn)",
           "coinlist": [
             {},
             {},
@@ -1283,7 +1283,7 @@
         {
           "level": 2,
           "name": "Variant Sancho Hardblood Arts 6 - Whip",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {},
             {
@@ -1311,7 +1311,7 @@
         {
           "level": 4,
           "name": "Variant Sancho Hardblood Arts 6 - Whip",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 20 [Laceration]\n[WhenUse] Inflict +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (max 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {},
             {
@@ -1333,7 +1333,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on the target once (target loses 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
                 }
               ]
             }
@@ -1347,7 +1347,7 @@
         {
           "level": 1,
           "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1\n[EndSkill] If this Skill had an increased Atk Weight, consume 10 [BloodArmorPersonalityFirst]",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1\n[EndSkill] If this Skill had an increased Atk Weight, consume 10 [BloodArmorPersonalityFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1381,7 +1381,7 @@
         {
           "level": 2,
           "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[BeforeAttack] <style=\"highlight\">Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[BeforeAttack] <style=\"highlight\">Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
           "coinlist": [
             {
               "coindescs": [
@@ -1415,7 +1415,7 @@
         {
           "level": 4,
           "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[BeforeAttack] Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[BeforeAttack] Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1454,7 +1454,7 @@
         {
           "level": 3,
           "name": "Ascendant Sancho Hardblood Arts - La Sangre",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)\n[WhenUse] If the target has 10+ [Laceration], Coin Power +1\n[WhenUse] Deal +5% more damage for every [Laceration] on the target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If the target is defeated, increase [BloodDinner] by 50. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max 2)\n[WhenUse] If target has 10+ [Laceration], Coin Power +1\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by 50. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1486,7 +1486,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +4 [Laceration] Count"
                 },
                 {
-                  "desc": "[EndSkill] If the target is defeated, inflict 5 [Laceration] and +1 [Laceration] Count against all enemies"
+                  "desc": "[EndSkill] If target is defeated, inflict 5 [Laceration] and +1 [Laceration] Count against all enemies"
                 }
               ]
             }
@@ -1495,7 +1495,7 @@
         {
           "level": 4,
           "name": "Ascendant Sancho Hardblood Arts - La Sangre",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on the target (max 2)</style>\n[WhenUse] Deal +5% more damage for every [Laceration] on the target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If the target is defeated, increase [BloodDinner] by <style=\"highlight\">100</style>. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (max <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on target (max 2)</style>\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (max 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] If target is defeated, increase [BloodDinner] by <style=\"highlight\">100</style>. Regain half of [BloodArmorPersonalityFirst] consumed by this Skill (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1527,7 +1527,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">8</style> [Laceration] and +4 [Laceration] Count"
                 },
                 {
-                  "desc": "[EndSkill] If the target is defeated, inflict 5 [Laceration] and +1 [Laceration] Count against all enemies"
+                  "desc": "[EndSkill] If target is defeated, inflict 5 [Laceration] and +1 [Laceration] Count against all enemies"
                 }
               ]
             }
@@ -1675,7 +1675,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on the target (max 2, once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max 2, once per turn)"
                 }
               ]
             }
@@ -1706,7 +1706,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on the target (max <style=\"highlight\">3</style>, once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max <style=\"highlight\">3</style>, once per turn)"
                 }
               ]
             }
@@ -1715,7 +1715,7 @@
         {
           "level": 4,
           "name": "Virescent Flame Palm",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 3 [Breath]\n<style=\"highlight\">- Gain additional [Breath] Count equal to [DianxueDonQuixote] on the target</style>",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 3 [Breath]\n<style=\"highlight\">- Gain additional [Breath] Count equal to [DianxueDonQuixote] on target</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1737,7 +1737,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on the target (max <style=\"highlight\">5</style>, once per turn)\n<style=\"highlight\">- Inflict additional [DefenseDown] equal to [DianxueDonQuixote] on the target</style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max <style=\"highlight\">5</style>, once per turn)\n<style=\"highlight\">- Inflict additional [DefenseDown] equal to [DianxueDonQuixote] on target</style>"
                 }
               ]
             }
@@ -1751,7 +1751,7 @@
         {
           "level": 3,
           "name": "Prithee, let this be an enlightening bout",
-          "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote] on the target (max 30%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain 5 [Breath]\n- If the target has [DianxueDonQuixote], gain 3 additional [Breath]",
+          "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote] on target (max 30%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1777,7 +1777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] on self + [Combustion] on the target)% more damage on Critical Hit (max 30%)"
+                  "desc": "Deal +([Breath] on self + [Combustion] on target)% more damage on Critical Hit (max 30%)"
                 }
               ]
             }
@@ -1786,7 +1786,7 @@
         {
           "level": 4,
           "name": "Prithee, let this be an enlightening bout",
-          "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] on the target (max <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 5 [Breath]\n- If the target has [DianxueDonQuixote], gain 3 additional [Breath]",
+          "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] on target (max <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 5 [Breath]\n- If target has [DianxueDonQuixote], gain 3 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1812,10 +1812,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +([Breath] on self + [Combustion] on the target)% more damage on Critical Hit (max <style=\"highlight\">50%</style>)"
+                  "desc": "Deal +([Breath] on self + [Combustion] on target)% more damage on Critical Hit (max <style=\"highlight\">50%</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If the target has [DianxueDonQuixote], inflict 3 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has [DianxueDonQuixote], inflict 3 [DefenseDown]</style>"
                 }
               ]
             }

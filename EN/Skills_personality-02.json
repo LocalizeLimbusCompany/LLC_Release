@@ -599,7 +599,7 @@
                   "desc": "[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] If the target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] If target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
                 }
               ]
             },
@@ -609,7 +609,7 @@
                   "desc": "[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] If the target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] If target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
                 }
               ]
             }
@@ -674,7 +674,7 @@
         {
           "level": 4,
           "name": "Confiscation",
-          "desc": "[WhenUse] If the target has 6+ [Sinking], Coin Power +1",
+          "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +1",
           "coinlist": [
             {},
             {
@@ -709,7 +709,7 @@
         {
           "level": 2,
           "name": "Interloper Reception",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Clash Power +1",
+          "desc": "[WhenUse] If target has 5+ [Sinking], Clash Power +1",
           "coinlist": [
             {},
             {
@@ -724,7 +724,7 @@
         {
           "level": 4,
           "name": "Interloper Reception",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Clash Power +1\n[WhenUse] If the target has 3+ [Sinking] Count, Coin Power +1",
+          "desc": "[WhenUse] If target has 5+ [Sinking], Clash Power +1\n[WhenUse] If target has 3+ [Sinking] Count, Coin Power +1",
           "coinlist": [
             {},
             {
@@ -761,7 +761,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [EchoOfMansion], inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] If target has [EchoOfMansion], inflict +3 [Sinking] Count"
                 }
               ]
             }
@@ -770,7 +770,7 @@
         {
           "level": 4,
           "name": "Reception Arts 4: Heartseal",
-          "desc": "[WhenUse] If the target has 5+ [Sinking] Count, Coin Power +2",
+          "desc": "[WhenUse] If target has 5+ [Sinking] Count, Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -787,7 +787,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [EchoOfMansion], inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] If target has [EchoOfMansion], inflict +3 [Sinking] Count"
                 }
               ]
             }
@@ -801,7 +801,7 @@
         {
           "level": 1,
           "name": "Hunting Plans",
-          "desc": "[WhenUse] If the target has 10+ [Sinking], Coin Power +3",
+          "desc": "[WhenUse] If target has 10+ [Sinking], Coin Power +3",
           "coinlist": [
             {}
           ]
@@ -809,7 +809,7 @@
         {
           "level": 4,
           "name": "Hunting Plans",
-          "desc": "[WhenUse] If the target has 10+ [Sinking], Coin Power +7",
+          "desc": "[WhenUse] If target has 10+ [Sinking], Coin Power +7",
           "coinlist": [
             {}
           ]
@@ -1039,7 +1039,7 @@
         {
           "level": 2,
           "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on the target), Coin Power +1",
+          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "Ignition",
-          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] Coin Power +1 for every 10 ([Combustion] on self + [Combustion] on the target) (max 2)",
+          "desc": "[WhenUse] At 10+ [Combustion], deal +10% more damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] Coin Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1135,7 +1135,7 @@
         {
           "level": 2,
           "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] At 4+ ([Combustion] on self + [Combustion] on the target), Coin Power +1",
+          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] At 4+ ([Combustion] on self + [Combustion] on target), Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1166,7 +1166,7 @@
         {
           "level": 4,
           "name": "E.G.O - A.B.S Activation",
-          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] Coin Power +1 for every 4 ([Combustion] on self + [Combustion] on the target) (max 2)",
+          "desc": "[WhenUse] Deal +10% more damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] Coin Power +1 for every 4 ([Combustion] on self + [Combustion] on target) (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1191,7 +1191,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 15+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] If target has 15+ [Combustion], inflict +2 [Combustion] Count on target"
                 }
               ]
             }
@@ -1205,7 +1205,7 @@
         {
           "level": 3,
           "name": "Drawn by Flame",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on the target), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1",
+          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "Drawn by Flame",
-          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on the target) (max 2)\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1 (max 2)",
+          "desc": "[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1 (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1275,7 +1275,7 @@
         {
           "level": 1,
           "name": "A.B.S Max Attunement 【Degraded Corrosion】",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on the target), Base Power +1\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 2)",
+          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +7.5% more damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1312,7 +1312,7 @@
         {
           "level": 4,
           "name": "A.B.S Max Attunement 【Degraded Corrosion】",
-          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on the target) (max 2)\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 4)",
+          "desc": "After using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +12.5% more damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 4)",
           "coinlist": [
             {
               "coindescs": [

@@ -3,7 +3,7 @@
     {
       "id": "FusionVibration",
       "name": "Amplitude Entanglement",
-      "desc": "- Fuses the effects of the Tremor type added by Amplitude Entanglement and the Tremor type currently on the target together under Tremor - Superposition.\n- Potency and Count values do not change over Entanglement.\n- When triggering Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement instead.\n- Turn End: converted into base Tremor.",
+      "desc": "- Fuses the effects of the Tremor type added by Amplitude Entanglement and the Tremor type currently on target together under Tremor - Superposition.\n- Potency and Count values do not change over Entanglement.\n- When triggering Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement instead.\n- Turn End: converted into base Tremor.",
       "summary": ""
     },
     {

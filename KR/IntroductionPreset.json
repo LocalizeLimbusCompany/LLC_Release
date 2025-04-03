@@ -1499,6 +1499,14 @@
     {
       "id": "introduce_sentence_188",
       "content": "주군께선 {0}의 집무에 충실하소서."
+    },
+    {
+      "id": "introduce_word_189",
+      "content": "장부"
+    },
+    {
+      "id": "introduce_sentence_189",
+      "content": "내가 죽어도… 넌 {0}에 남는다."
     }
   ]
 }

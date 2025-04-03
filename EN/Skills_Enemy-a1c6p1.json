@@ -1130,7 +1130,7 @@
                 {
                     "level": 1,
                     "name": "Interloper Banishment",
-                    "desc": "[WhenUse] If this unit's Speed is higher than target's by 3 or more, reuse this Skill (once)",
+                    "desc": "[WhenUse] If this unit's Speed is faster than target's by 3 or more, reuse this Skill (once)",
                     "coinlist": [
                         {
                             "coindescs": [

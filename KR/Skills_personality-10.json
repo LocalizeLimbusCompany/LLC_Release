@@ -1206,6 +1206,247 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "네 놈이냐!",
+          "desc": "[WhenUse] 다음 턴에 이 슬롯이 [Aggro] 2를 얻음\n[WhenUse] 자신의 정신력 5 회복",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] [Laceration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "네 놈이냐!",
+          "desc": "<style=\"highlight\">대상의 [Laceration]이 6 이상이면 코인 위력 +1</style>\n[WhenUse] 다음 턴에 이 슬롯이 [Aggro] <style=\"highlight\">3</style>을 얻음\n[WhenUse] 자신의 정신력 5 회복",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> [Laceration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "네 놈이냐!",
+          "desc": "대상의 [Laceration]이 6 이상이면 코인 위력 +1\n[WhenUse] 다음 턴에 이 슬롯이 [Aggro] <style=\"highlight\">5</style>를 얻음\n[WhenUse] 자신의 정신력 5 회복\n<style=\"highlight\">- 정신력이 최대일 경우, 이 효과 대신 합 위력 +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "배로 먹여주마",
+          "desc": "[WhenUse] 다음 턴에 이 슬롯이 [Aggro] 2를 얻음\n[StartBattle] (가장 높은 공명 수/3)만큼 이 스킬의 공격 레벨이 증가 (최대 2, 소수점 버림)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "이 스킬을 포함한 공명이 4 이상이면, 피해량 +10%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "배로 먹여주마",
+          "desc": "<style=\"highlight\">대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 다음 턴에 이 슬롯이 [Aggro] <style=\"highlight\">3</style>을 얻음\n[StartBattle] (가장 높은 공명 수/<style=\"highlight\">2</style>)만큼 이 스킬의 공격 레벨이 증가 (최대 <style=\"highlight\">3</style>, 소수점 버림)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "이 스킬을 포함한 공명이 4 이상이면, 피해량 <style=\"highlight\">+15%</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "배로 먹여주마",
+          "desc": "대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] 다음 턴에 이 슬롯이 [Aggro] <style=\"highlight\">5</style>를 얻음\n[StartBattle] (가장 높은 공명 수/2)만큼 이 스킬의 공격 레벨이 증가 (최대 3, 소수점 버림)\n<style=\"highlight\">- 해당 공명에 완전 공명이 포함되어 있으면, 위 효과로 증가한 값이 2배로 적용</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "이 스킬을 포함한 공명이 <style=\"highlight\">3</style> 이상이면, 피해량 <style=\"highlight\">+20%</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "똑똑히 새겨라",
+          "desc": "[VengeanceBookSinclair] 2당 피해량 +1% (최대 15%)\n대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[StartBattle] (가장 높은 공명 수/2)만큼 이 스킬의 공격 레벨이 증가 (최대 3, 소수점 버림)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "이 스킬을 포함한 공명당 피해량 +2.5% (최대 15%)"
+                },
+                {
+                  "desc": "[VengeanceBookSinclair] 10당 피해량 +7.5% (최대 22.5%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "똑똑히 새겨라",
+          "desc": "[VengeanceBookSinclair] <style=\"highlight\">1</style>당 피해량 +1% (최대 <style=\"highlight\">30%</style>)\n<style=\"highlight\">대상의 [Laceration] 6당, 코인 위력 +1 (최대 2)</style>\n[StartBattle] (가장 높은 공명 수/2)만큼 이 스킬의 공격 레벨이 증가 (최대 3, 소수점 버림)\n<style=\"highlight\">- 해당 공명에 완전 공명이 포함되어 있으면, 위 효과로 증가한 값이 2배로 적용</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "이 스킬을 포함한 공명당 피해량 <style=\"highlight\">+5%</style> (최대 <style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "[VengeanceBookSinclair] 10당 피해량 <style=\"highlight\">+15%</style> (최대 <style=\"highlight\">45%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "동부에서 몸 좀 풀어보죠",
+          "desc": "[StartBattle] 잃은 체력의 20%만큼 보호막을 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "동부에서 몸 좀 풀어보죠",
+          "desc": "<style=\"highlight\">[StartBattle] 질투 완전 공명 수의 합에 따라 효과가 변경됨\n- 4 이상이면, 반격 시 '배로 먹여주마'를 사용함\n- 6 이상이면, 반격 시 '똑똑히 새겨라'를 사용함\n(조작 패널의 왼쪽 슬롯 스킬부터 발동, 턴당 최대 2회 발동)</style>\n[StartBattle] 잃은 체력의 <style=\"highlight\">30%</style>만큼 보호막을 얻음 (턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

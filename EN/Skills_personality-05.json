@@ -541,7 +541,7 @@
         {
           "level": 2,
           "name": "Bat Strike",
-          "desc": "If the target has 5+ [Burst], Coin Power +1",
+          "desc": "If target has 5+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -555,7 +555,7 @@
         {
           "level": 4,
           "name": "Bat Strike",
-          "desc": "If the target has 5+ [Burst], Coin Power +<style=\"highlight\">2</style>",
+          "desc": "If target has 5+ [Burst], Coin Power +<style=\"highlight\">2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -583,7 +583,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown]"
                 }
               ]
             }
@@ -601,7 +601,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown]"
                 }
               ]
             }
@@ -610,7 +610,7 @@
         {
           "level": 4,
           "name": "Smackdown",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 6+ [Burst], Coin Power +1</style>\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "<style=\"highlight\">[WhenUse] If target has 6+ [Burst], Coin Power +1</style>\n[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {},
             {
@@ -619,7 +619,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Burst], inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] If target has 4+ [Burst], inflict 2 [AttackDown]"
                 }
               ]
             }
@@ -633,7 +633,7 @@
         {
           "level": 3,
           "name": "Relentless",
-          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]",
+          "desc": "[WhenUse] If target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -644,7 +644,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown] next turn"
                 }
               ]
             }
@@ -653,7 +653,7 @@
         {
           "level": 4,
           "name": "Relentless",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 3+ [Burst], Clash Power +1</style>\n[WhenUse] If the target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]",
+          "desc": "<style=\"highlight\">[WhenUse] If target has 3+ [Burst], Clash Power +1</style>\n[WhenUse] If target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -664,7 +664,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown] next turn"
                 }
               ]
             }
@@ -776,7 +776,7 @@
         {
           "level": 2,
           "name": "Moment of Erudition",
-          "desc": "<style=\"highlight\">Deal +3% more damage for every [KnowledgeExplored] on self (max 9%)</style>\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\"> to a random ally</style> and on self <style=\"highlight\">(prioritizes allies with [Discard] that has the least [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] If the target has 6+ [Sinking], Coin Power +1</style>",
+          "desc": "<style=\"highlight\">Deal +3% more damage for every [KnowledgeExplored] on self (max 9%)</style>\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\"> to a random ally</style> and on self <style=\"highlight\">(prioritizes allies with [Discard] that has the least [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] If target has 6+ [Sinking], Coin Power +1</style>",
           "coinlist": [
             {},
             {
@@ -811,7 +811,7 @@
         {
           "level": 3,
           "name": "Scorch Knowledge",
-          "desc": "Deal +3% more damage for every [KnowledgeExplored] on self (max 18%)\n[WhenUse] If the target has 6+ [Sinking], Coin Power +1\n[BeforeAttack] Consume all [KnowledgeTraining] on self and gain half of that value as additional [KnowledgeExplored] (rounded down)\n[EndSkill] At 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
+          "desc": "Deal +3% more damage for every [KnowledgeExplored] on self (max 18%)\n[WhenUse] If target has 6+ [Sinking], Coin Power +1\n[BeforeAttack] Consume all [KnowledgeTraining] on self and gain half of that value as additional [KnowledgeExplored] (rounded down)\n[EndSkill] At 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
           "coinlist": [
             {},
             {},
@@ -896,7 +896,7 @@
         {
           "level": 2,
           "name": "Allez",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -917,7 +917,7 @@
         {
           "level": 4,
           "name": "Allez",
-          "desc": "If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 3 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 3 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -974,7 +974,7 @@
         {
           "level": 2,
           "name": "Fente",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1005,7 +1005,7 @@
         {
           "level": 4,
           "name": "Fente",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "Salut",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If the target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
+          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1075,7 +1075,7 @@
         {
           "level": 4,
           "name": "Salut",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If the target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,7 +1100,7 @@
                   "desc": "+30% Damage on Critical Hit"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Deal +2% Damage on Critical Hit for every [Burst] on the target (max 30%)</style>"
+                  "desc": "<style=\"highlight\">- Deal +2% Damage on Critical Hit for every [Burst] on target (max 30%)</style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EndSkill] If this Coin defeated the target or destroyed the Part, Reuse this Skill once against a random target (does not activate on Reuse)</style>"

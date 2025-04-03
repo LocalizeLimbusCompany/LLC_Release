@@ -87,7 +87,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target’s HP is below 30%, deal +15% damage"
+                  "desc": "[OnSucceedAttack] If target’s HP is below 30%, deal +15% damage"
                 }
               ]
             }
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target’s HP is below 30%, deal +20% damage"
+                  "desc": "[OnSucceedAttack] If target’s HP is below 30%, deal +20% damage"
                 },
                 {
                   "desc": "[EnemyKill] Gain 1 Haste next turn"
@@ -134,7 +134,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target’s HP is below 30%, deal +30% damage"
+                  "desc": "[OnSucceedAttack] If target’s HP is below 30%, deal +30% damage"
                 },
                 {
                   "desc": "[EnemyKill] Gain 3 Haste next turn"
@@ -503,7 +503,7 @@
         {
           "level": 2,
           "name": "All-out War",
-          "desc": "If the target has 6+ [Combustion], Clash Power +1",
+          "desc": "If target has 6+ [Combustion], Clash Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -524,7 +524,7 @@
         {
           "level": 4,
           "name": "All-out War",
-          "desc": "If the target has 6+ [Combustion], Clash Power +1\n<style=\"highlight\">If the target has 10+ [Combustion], Coin Power +1 </style>",
+          "desc": "If target has 6+ [Combustion], Clash Power +1\n<style=\"highlight\">If target has 10+ [Combustion], Coin Power +1 </style>",
           "coinlist": [
             {
               "coindescs": [
@@ -565,7 +565,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion], deal +20% damage"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], deal +20% damage"
                 }
               ]
             }
@@ -574,7 +574,7 @@
         {
           "level": 2,
           "name": "Fiery Knifehand",
-          "desc": "If the target has 6+ [Combustion], Clash Power +1",
+          "desc": "If target has 6+ [Combustion], Clash Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -586,7 +586,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion], deal +30% damage"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], deal +30% damage"
                 }
               ]
             }
@@ -595,7 +595,7 @@
         {
           "level": 4,
           "name": "Fiery Knifehand",
-          "desc": "If the target has 6+ [Combustion], Clash Power +1\n<style=\"highlight\">If the target has 6+ [Combustion], Coin Power +1</style>",
+          "desc": "If target has 6+ [Combustion], Clash Power +1\n<style=\"highlight\">If target has 6+ [Combustion], Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -607,7 +607,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion], deal +50% damage"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], deal +50% damage"
                 }
               ]
             }
@@ -621,7 +621,7 @@
         {
           "level": 3,
           "name": "Flame Cleave",
-          "desc": "If the target has 6+ [Combustion], Clash Power +1",
+          "desc": "If target has 6+ [Combustion], Clash Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -647,7 +647,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Combustion], deal +20% damage"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], deal +20% damage"
                 }
               ]
             }
@@ -656,7 +656,7 @@
         {
           "level": 4,
           "name": "Flame Cleave",
-          "desc": "If the target has 6+ [Combustion], Clash Power +1\n<style=\"highlight\">If the target has 6+ [Combustion], Coin Power +1 </style>",
+          "desc": "If target has 6+ [Combustion], Clash Power +1\n<style=\"highlight\">If target has 6+ [Combustion], Coin Power +1 </style>",
           "coinlist": [
             {
               "coindescs": [
@@ -682,7 +682,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Combustion], deal +40% damage"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Combustion], deal +40% damage"
                 }
               ]
             }
@@ -868,7 +868,7 @@
         {
           "level": 3,
           "name": "Receiving Arts 2: S.Y.N.C.",
-          "desc": "If the target has [MarkOfButler], Clash Power +1\n[WhenUse] Gain +7 [Breath] Count",
+          "desc": "If target has [MarkOfButler], Clash Power +1\n[WhenUse] Gain +7 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -898,7 +898,7 @@
         {
           "level": 4,
           "name": "Receiving Arts 2: S.Y.N.C.",
-          "desc": "If the target has [MarkOfButler], Clash Power +1\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power +1 for every 2 Speed difference (max 2)</style>\n[WhenUse] Gain +7 [Breath] Count",
+          "desc": "If target has [MarkOfButler], Clash Power +1\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power +1 for every 2 Speed difference (max 2)</style>\n[WhenUse] Gain +7 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1139,7 +1139,7 @@
         {
           "level": 4,
           "name": "Percussive Maintenance",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\nConsume <style=\"highlight\">8</style> [Vibration] Count on self to gain Coin Power +1\n<style=\"highlight\">If the target has 6+ [Vibration], Coin Power +1</style>",
+          "desc": "[WhenUse] Gain +2 [Vibration] Count\nConsume <style=\"highlight\">8</style> [Vibration] Count on self to gain Coin Power +1\n<style=\"highlight\">If target has 6+ [Vibration], Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1292,7 +1292,7 @@
         {
           "level": 2,
           "name": "S.H. / S.F.",
-          "desc": "If the sum of [RedEyeFirst] and [PenanceFirst] is 20 or higher, Coin Power +1\n<style=\"highlight\">If the target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "If the sum of [RedEyeFirst] and [PenanceFirst] is 20 or higher, Coin Power +1\n<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1323,7 +1323,7 @@
         {
           "level": 4,
           "name": "S.H. / S.F.",
-          "desc": "If the sum of [RedEyeFirst] and [PenanceFirst] is <style=\"highlight\">15</style> or higher, Coin Power +1\nIf the target has 6+ [Laceration], Coin Power +1",
+          "desc": "If the sum of [RedEyeFirst] and [PenanceFirst] is <style=\"highlight\">15</style> or higher, Coin Power +1\nIf target has 6+ [Laceration], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1549,7 +1549,7 @@
         {
           "level": 1,
           "name": "Blinkstep",
-          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1",
+          "desc": "[WhenUse] If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1570,7 +1570,7 @@
         {
           "level": 2,
           "name": "Blinkstep",
-          "desc": "[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WinDuel] Inflict +1 [Burst] Count</style>",
+          "desc": "[WhenUse] If target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WinDuel] Inflict +1 [Burst] Count</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1594,7 +1594,7 @@
         {
           "level": 4,
           "name": "Blinkstep",
-          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1623,7 +1623,7 @@
         {
           "level": 1,
           "name": "As Written",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n[WhenUse] If the target has 6+ [Burst], Coin Power +1",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1644,7 +1644,7 @@
         {
           "level": 2,
           "name": "As Written",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count</style>",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\n[WhenUse] If target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1668,7 +1668,7 @@
         {
           "level": 4,
           "name": "As Written",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1\n[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\n<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1700,7 +1700,7 @@
         {
           "level": 3,
           "name": "I'll gut you with a curse-engraved blade",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1737,7 +1737,7 @@
         {
           "level": 4,
           "name": "I'll gut you with a curse-engraved blade",
-          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's, <style=\"highlight\">gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
+          "desc": "If this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's, <style=\"highlight\">gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [

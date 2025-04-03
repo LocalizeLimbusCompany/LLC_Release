@@ -1499,6 +1499,14 @@
     {
       "id": "introduce_sentence_188",
       "content": "主君におかれましては、{0}の執務に専心なされませ。"
+    },
+    {
+      "id": "introduce_word_189",
+      "content": "帳簿"
+    },
+    {
+      "id": "introduce_sentence_189",
+      "content": "僕が死んでも…お前は{0}に残る。"
     }
   ]
 }

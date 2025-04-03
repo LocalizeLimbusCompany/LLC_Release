@@ -33,7 +33,7 @@
                   "desc": "[OnSucceedAttack] Inflict +2 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nIf the target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised"
                 }
               ]
             }
@@ -51,7 +51,7 @@
                   "desc": "[OnSucceedAttack] Inflict +3 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nIf the target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised."
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised."
                 }
               ]
             }
@@ -89,7 +89,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 40% of Tremor on target.\nIf the target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 40% of Tremor on target.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
                 },
                 {
                   "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
@@ -107,7 +107,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 50% of Tremor on target.\nIf the target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 50% of Tremor on target.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
                 },
                 {
                   "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
@@ -269,7 +269,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration] on the target once (target loses 1 [Laceration] Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)"
                 }
               ]
             }
@@ -279,7 +279,7 @@
           "level": 3,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "<style=\"highlight\">If the target has 6+ [Laceration], Coin Power +1</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -287,7 +287,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on the target once (target loses 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on the target once (target loses 1 [Laceration] Count)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
                 }
               ]
             },
@@ -330,7 +330,7 @@
           "level": 4,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on the target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -348,7 +348,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on the target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -417,7 +417,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [RoseWedge] Count"
                 },
                 {
-                  "desc": "- If the target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency"
+                  "desc": "- If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency"
                 }
               ]
             },
@@ -427,7 +427,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate [Laceration] on the target once (target loses 1 [Laceration] Count)"
+                  "desc": "[WinDuelAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)"
                 }
               ]
             }
@@ -465,7 +465,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [RoseWedge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- If the target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
+                  "desc": "- If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -519,7 +519,7 @@
                   "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [RoseWedge] Count"
                 },
                 {
-                  "desc": "- If the target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
+                  "desc": "- If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
                 }
               ]
             },

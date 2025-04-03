@@ -2063,6 +2063,26 @@
       "id": 1111221,
       "name": "群れなす兎",
       "desc": "速度が最も高い味方1名が[Burst]がある対象を攻撃するとき、与ダメージ量 +10%\n次のターンに[Agility]1を得る(1ターンにつき最大1回)"
+    },
+    {
+      "id": 1101201,
+      "name": "中指は忘れない",
+      "desc": "自分が敵にダメージを受ける度に、攻撃者(または部位)に[VendettaMark]3を付与(1ターンにつき1回)\n\n自分を除く味方が敵にダメージを受ける度に、攻撃者(または部位)に[VendettaMark]2を付与(人格別に1ターンにつき1回)\n\n基本攻撃スキルまたは反撃スキル攻撃終了時、対象の[VendettaMark]を全て消耗\n- 敵の[VendettaMark]を消耗する度、その数値だけ[VengeanceBookSinclair]を得る"
+    },
+    {
+      "id": 1101211,
+      "name": "中指は忘れない",
+      "desc": "自分が敵にダメージを受ける度に、攻撃者(または部位)に[VendettaMark]<style=\"highlight\">5</style>を付与(1ターンにつき1回)\n\n自分を除く味方が敵にダメージを受ける度に、攻撃者(または部位)に[VendettaMark]2を付与(人格別に1ターンにつき1回)\n<style=\"highlight\">- 味方が中指所属なら、[VendettaMark]を3追加で付与</style>\n\n基本攻撃スキルまたは反撃スキル攻撃終了時、対象の[VendettaMark]を全て消耗\n- 敵の[VendettaMark]を消耗する度、その数値だけ[VengeanceBookSinclair]を得る"
+    },
+    {
+      "id": 1101221,
+      "name": "バック",
+      "desc": "戦闘開始時、現体力の比率が最も低い味方1名が[DefenseUp]2を得る"
+    },
+    {
+      "id": 1101231,
+      "name": "バック",
+      "desc": "戦闘開始時、現体力の比率が最も低い味方1名が[DefenseUp]2を得る\n<style=\"highlight\">- 対象が中指所属なら、[AttackUp]2を追加で得る</style>"
     }
   ]
 }

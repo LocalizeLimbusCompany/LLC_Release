@@ -222,7 +222,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If the target has 10+ [Combustion], inflict 1 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Lust Fragility next turn"
                 }
               ]
             }
@@ -243,7 +243,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 Burn"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If the target has 10+ [Combustion], inflict 2 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 2 Lust Fragility next turn"
                 }
               ]
             }
@@ -409,7 +409,7 @@
           "level": 1,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
               "coindescs": [
@@ -421,7 +421,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on the target that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]"
@@ -434,7 +434,7 @@
           "level": 3,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "<style=\"highlight\">[BeforeAttack] At 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "<style=\"highlight\">[BeforeAttack] At 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
               "coindescs": [
@@ -446,7 +446,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on the target that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [NailPersonality]"
@@ -462,7 +462,7 @@
           "level": 4,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)</style>\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)</style>\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
               "coindescs": [
@@ -474,7 +474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every <style=\"highlight\">2</style> negative effect on the target that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every <style=\"highlight\">2</style> negative effect on target that aren't [Curse] or [NailPersonality] (max 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]<style=\"highlight\"></style>"
@@ -498,7 +498,7 @@
           "level": 1,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
           "coinlist": [
             {
               "coindescs": [
@@ -523,7 +523,7 @@
           "level": 3,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -551,7 +551,7 @@
           "level": 4,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [

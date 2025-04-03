@@ -279,6 +279,10 @@
     {
       "id": "Choosing",
       "content": "選択中"
+    },
+    {
+      "id": "IntroduceSort_Release",
+      "content": "リリース順"
     }
   ]
 }

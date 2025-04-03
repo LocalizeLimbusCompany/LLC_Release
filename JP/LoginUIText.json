@@ -323,6 +323,18 @@
     {
       "id": "push_notification_message_full_stamina_15_text",
       "content": "メフィがお腹いっぱいだって。カロン、ぶるんぶるんする時間だ。"
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "カスタム言語選択"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "カスタム言語選択"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "※言語変更はゲーム再起動時に適用されます。"
     }
   ]
 }

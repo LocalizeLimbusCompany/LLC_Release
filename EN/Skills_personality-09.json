@@ -274,7 +274,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count."
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count."
                 }
               ]
             }
@@ -305,7 +305,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict +1 [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -336,7 +336,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict +1 [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -350,7 +350,7 @@
         {
           "level": 3,
           "name": "Pinpoint Blitz",
-          "desc": "If the target has 6+ [Combustion] and [Combustion] Count, Deal +30% more Damage",
+          "desc": "If target has 6+ [Combustion] and [Combustion] Count, Deal +30% more Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -385,7 +385,7 @@
         {
           "level": 4,
           "name": "Pinpoint Blitz",
-          "desc": "<style=\"highlight\">If the target has 6+ [Combustion], Coin Power +1</style>\nIf the target has 6+ [Combustion] and [Combustion] Count, deal +30% more Damage",
+          "desc": "<style=\"highlight\">If target has 6+ [Combustion], Coin Power +1</style>\nIf target has 6+ [Combustion] and [Combustion] Count, deal +30% more Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -482,7 +482,7 @@
         {
           "level": 2,
           "name": "Prepare To Collect",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Vibration], Clash Power +1</style>",
+          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -550,7 +550,7 @@
         {
           "level": 2,
           "name": "T Corp. Martial Suppression",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Vibration], Clash Power +1</style>",
+          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If target has 6+ [Vibration], Clash Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -586,7 +586,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If the target has 6+ [Vibration], inflict 1 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 6+ [Vibration], inflict 1 [Binding] next turn</style>"
                 }
               ]
             }
@@ -600,7 +600,7 @@
         {
           "level": 3,
           "name": "Execute Collections",
-          "desc": "[WhenUse] If the target has 8+ [Vibration], Clash Power +1\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1",
+          "desc": "[WhenUse] If target has 8+ [Vibration], Clash Power +1\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -638,7 +638,7 @@
         {
           "level": 4,
           "name": "Execute Collections",
-          "desc": "<style=\"highlight\">Deal +5% more damage for every [Binding] on target (max 20%)</style>\n[WhenUse] If the target has 8+ [Vibration], Clash Power +<style=\"highlight\">2</style>\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1",
+          "desc": "<style=\"highlight\">Deal +5% more damage for every [Binding] on target (max 20%)</style>\n[WhenUse] If target has 8+ [Vibration], Clash Power +<style=\"highlight\">2</style>\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -720,7 +720,7 @@
         {
           "level": 1,
           "name": "Courier Trunk - Decay Knife",
-          "desc": "[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
+          "desc": "[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
           "coinlist": [
             {
               "coindescs": [
@@ -741,7 +741,7 @@
         {
           "level": 2,
           "name": "Courier Trunk - Decay Knife",
-          "desc": "<style=\"highlight\">At 10+ [DevyatDimensionalSack], or if the target has 6+ [Burst], Coin Power +1</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
+          "desc": "<style=\"highlight\">At 10+ [DevyatDimensionalSack], or if target has 6+ [Burst], Coin Power +1</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
           "coinlist": [
             {
               "coindescs": [
@@ -762,7 +762,7 @@
         {
           "level": 4,
           "name": "Courier Trunk - Decay Knife",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on target (max 2)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
           "coinlist": [
             {
               "coindescs": [
@@ -788,7 +788,7 @@
         {
           "level": 1,
           "name": "Courier Trunk - Gadget Reveal",
-          "desc": "At 10+ [DevyatDimensionalSack], or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
+          "desc": "At 10+ [DevyatDimensionalSack], or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -807,7 +807,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 10 [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max 2, once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 10 [DevyatDimensionalSack] on self or for every 5 [Burst] on target (max 2, once per turn)"
                 }
               ]
             }
@@ -816,7 +816,7 @@
         {
           "level": 2,
           "name": "Courier Trunk - Gadget Reveal",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on target (max 2)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -835,7 +835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every <style=\"highlight\">5</style> [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max <style=\"highlight\">4</style>, once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every <style=\"highlight\">5</style> [DevyatDimensionalSack] on self or for every 5 [Burst] on target (max <style=\"highlight\">4</style>, once per turn)"
                 }
               ]
             }
@@ -844,7 +844,7 @@
         {
           "level": 4,
           "name": "Courier Trunk - Gadget Reveal",
-          "desc": "<style=\"highlight\">Deal +2% more damage for every [DevyatDimensionalSack] on self (max 40%)</style>\nCoin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on the target (max 2)\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
+          "desc": "<style=\"highlight\">Deal +2% more damage for every [DevyatDimensionalSack] on self (max 40%)</style>\nCoin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on target (max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -863,7 +863,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 5 [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max <style=\"highlight\">6</style>, once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 5 [DevyatDimensionalSack] on self or for every 5 [Burst] on target (max <style=\"highlight\">6</style>, once per turn)"
                 }
               ]
             }
@@ -877,7 +877,7 @@
         {
           "level": 3,
           "name": "I Trust Ya, Polu!",
-          "desc": "Deal +2% more damage for every [DevyatDimensionalSack] (max 40%)\nAt 10+ [DevyatDimensionalSack] on self, or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
+          "desc": "Deal +2% more damage for every [DevyatDimensionalSack] (max 40%)\nAt 10+ [DevyatDimensionalSack] on self, or if target has 6+ [Burst], Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
           "coinlist": [
             {},
             {
@@ -902,7 +902,7 @@
         {
           "level": 4,
           "name": "I Trust Ya, Polu!",
-          "desc": "Deal <style=\"highlight\">+4%</style> more damage for every [DevyatDimensionalSack] (max <style=\"highlight\">80%</style>)\n<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
+          "desc": "Deal <style=\"highlight\">+4%</style> more damage for every [DevyatDimensionalSack] (max <style=\"highlight\">80%</style>)\n<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on target (max 2)</style>\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
           "coinlist": [
             {},
             {
@@ -992,7 +992,7 @@
         {
           "level": 2,
           "name": "Begone...",
-          "desc": "[StartBattle] On self and 1 ally with the highest max HP: consume up to 20 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies 1 additional [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "[StartBattle] On self and 1 ally with the highest max HP: consume up to 20 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies 1 additional [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>",
           "coinlist": [
             {},
             {
@@ -1010,7 +1010,7 @@
         {
           "level": 4,
           "name": "Begone...",
-          "desc": "[StartBattle] On self and 1 ally with the highest max HP: consume up to 20 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies 1 additional [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>",
+          "desc": "[StartBattle] On self and 1 ally with the highest max HP: consume up to 20 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies 1 additional [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>",
           "coinlist": [
             {},
             {
@@ -1061,7 +1061,7 @@
         {
           "level": 2,
           "name": "In Finely Ground Mistfall",
-          "desc": "[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>",
+          "desc": "[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1089,7 +1089,7 @@
         {
           "level": 4,
           "name": "In Finely Ground Mistfall",
-          "desc": "[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>",
+          "desc": "[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1159,7 +1159,7 @@
         {
           "level": 4,
           "name": "The Festival Will End",
-          "desc": "[BeforeUse] At 25+ [BloomingThornsRodionFirst], activate 'Ascendant Don Quixote Hardblood[TabExplain] Arts - The Finale' instead\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] To self and (highest Reson.) allies: apply (3 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 3 [BloomingThornsRodionFirst]",
+          "desc": "[BeforeUse] At 25+ [BloomingThornsRodionFirst], activate 'Ascendant Don Quixote Hardblood[TabExplain] Arts - The Finale' instead\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] To self and (highest Reson.) allies: apply (3 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 3 [BloomingThornsRodionFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1285,7 +1285,7 @@
         {
           "level": 4,
           "name": "Ascendant Don Quixote Hardblood Arts - The Finale",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] To self and (highest Reson.) allies: apply (5 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 5 [BloomingThornsRodionFirst]\n[WhenUse] Deal +1% more damage for every 5 [BloodDinner_Accumulation] by this unit (max 50%)\n[EndSkill] Consume all [BloomingThornsRodionFirst] on self",
+          "desc": "<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] To self and (highest Reson.) allies: apply (5 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 5 [BloomingThornsRodionFirst]\n[WhenUse] Deal +1% more damage for every 5 [BloodDinner_Accumulation] by this unit (max 50%)\n[EndSkill] Consume all [BloomingThornsRodionFirst] on self",
           "coinlist": [
             {
               "coindescs": [

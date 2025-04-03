@@ -33,7 +33,7 @@
     {
       "id": 2030111,
       "name": "Immoderate Passion",
-      "desc": "On hit, if the target had Bleed, heal 3 HP."
+      "desc": "On Hit, if the target has [Laceration], heal 3 HP"
     },
     {
       "id": 2030211,

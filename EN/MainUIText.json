@@ -1862,7 +1862,7 @@
     },
     {
       "id": "remote_download_quit_game",
-      "content": "A new download has been added.\nThe game will be closed; please restart the game to download."
+      "content": "A new download has been added.\nThe game will be closed; please restart the game to download the update."
     }
   ]
 }

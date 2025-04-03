@@ -883,7 +883,7 @@
         {
           "level": 4,
           "name": "Paint Over",
-          "desc": "If the target has 6+ [Laceration], Clash Power +1",
+          "desc": "If target has 6+ [Laceration], Clash Power +1",
           "coinlist": [
             {},
             {
@@ -915,7 +915,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on the target"
+                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on target"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
@@ -935,7 +935,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on the target"
+                  "desc": "[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on target"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
@@ -950,12 +950,12 @@
         {
           "level": 4,
           "name": "Sanguine Pointillism",
-          "desc": "Clash Power +1 for every 3 [Laceration] on the target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on the target (max 2)",
+          "desc": "Clash Power +1 for every 3 [Laceration] on target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on target (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse Coin for every type of negative effect on the target (2 times max per Skill)"
+                  "desc": "[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse Coin for every type of negative effect on target (2 times max per Skill)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
@@ -975,13 +975,13 @@
         {
           "level": 3,
           "name": "Hematic Coloring",
-          "desc": "If the target has 6+ [Laceration], Clash Power +1",
+          "desc": "If target has 6+ [Laceration], Clash Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count. If the target has 4+ types of negative effects, inflict +2 additional [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count. If target has 4+ types of negative effects, inflict +2 additional [Laceration] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -991,7 +991,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]. If the target has 4+ types of negative effects, inflict 2 additional [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]. If target has 4+ types of negative effects, inflict 2 additional [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -1004,7 +1004,7 @@
                   "desc": "Deal +15% more damage for every type of negative effect on target (max 75%)"
                 },
                 {
-                  "desc": "[EndSkill] If the target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
+                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
                 }
               ]
             }
@@ -1013,13 +1013,13 @@
         {
           "level": 4,
           "name": "Hematic Coloring",
-          "desc": "Clash Power +1 for every 3 [Laceration] on the target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on the target (max 2)",
+          "desc": "Clash Power +1 for every 3 [Laceration] on target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on target (max 2)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count. If the target has 3+ types of negative effects, inflict +2 additional [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count. If target has 3+ types of negative effects, inflict +2 additional [Laceration] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -1029,7 +1029,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]. If the target has 3+ types of negative effects, inflict 2 additional [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]. If target has 3+ types of negative effects, inflict 2 additional [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
@@ -1042,7 +1042,7 @@
                   "desc": "Deal +25% more damage for every type of negative effect on target (max 125%)"
                 },
                 {
-                  "desc": "[EndSkill] If the target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
+                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
                 }
               ]
             }
@@ -1299,7 +1299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on the target\n- \"All\" = the sum of both The Living and The Departed on the target"
+                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on target\n- \"All\" = the sum of both The Living and The Departed on target"
                 }
               ]
             }
@@ -1346,7 +1346,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on the target\n- \"All\" = the sum of both The Living and The Departed on the target"
+                  "desc": "[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on target\n- \"All\" = the sum of both The Living and The Departed on target"
                 }
               ]
             }
@@ -1393,7 +1393,7 @@
         {
           "level": 1,
           "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
-          "desc": "[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects",
+          "desc": "[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects",
           "coinlist": [
             {
               "coindescs": [
@@ -1420,7 +1420,7 @@
         {
           "level": 2,
           "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1",
+          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,7 +1447,7 @@
         {
           "level": 4,
           "name": "Though it must be prefaced that E.G.O gears are standardized equipment,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2",
+          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1479,7 +1479,7 @@
         {
           "level": 1,
           "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
-          "desc": "[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects",
+          "desc": "[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects",
           "coinlist": [
             {
               "coindescs": [
@@ -1496,7 +1496,7 @@
         {
           "level": 2,
           "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
-          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1",
+          "desc": "[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1513,7 +1513,7 @@
         {
           "level": 4,
           "name": "when juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,",
-          "desc": "[StartBattle] <style=\"highlight\">On Clash Lose, gain (# of Skills targeting this unit x 2) Final Power (max 6)</style>\n[WhenUse] Gain +4 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +2",
+          "desc": "[StartBattle] <style=\"highlight\">On Clash Lose, gain (# of Skills targeting this unit x 2) Final Power (max 6)</style>\n[WhenUse] Gain +4 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
         {
           "level": 3,
           "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
-          "desc": "Deal +0.5% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "desc": "Deal +0.5% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1566,7 +1566,7 @@
         {
           "level": 4,
           "name": "the idiosyncrasies of the source may be utilized with greater flexibility",
-          "desc": "Deal +0.8% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
+          "desc": "Deal +0.8% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1602,7 +1602,7 @@
         {
           "level": 1,
           "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
-          "desc": "[StartBattle] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3",
+          "desc": "[StartBattle] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -1616,7 +1616,7 @@
         {
           "level": 4,
           "name": "Yet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured",
-          "desc": "[StartBattle] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3",
+          "desc": "[StartBattle] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3",
           "coinlist": [
             {
               "coindescs": [
@@ -1635,7 +1635,7 @@
         {
           "level": 1,
           "name": "Flame Hew",
-          "desc": "If the target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1656,7 +1656,7 @@
         {
           "level": 2,
           "name": "Flame Hew",
-          "desc": "If the target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
+          "desc": "If target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1677,7 +1677,7 @@
         {
           "level": 4,
           "name": "Flame Hew",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] on the target (max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on the target (max 30%)</style>",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] on target (max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on target (max 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1709,7 +1709,7 @@
         {
           "level": 1,
           "name": "Frontal Assault",
-          "desc": "If the target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1728,7 +1728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target"
                 }
               ]
             }
@@ -1737,7 +1737,7 @@
         {
           "level": 2,
           "name": "Frontal Assault",
-          "desc": "Coin Power +1 for every 6 [Combustion] on the target (max 2)",
+          "desc": "Coin Power +1 for every 6 [Combustion] on target (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,10 +1756,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every [Combustion] on the target (max 30%)"
+                  "desc": "Deal +2.5% more damage for every [Combustion] on target (max 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion], inflict +2 [Combustion] Count on the target<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1768,7 +1768,7 @@
         {
           "level": 4,
           "name": "Frontal Assault",
-          "desc": "Coin Power +1 for every 6 [Combustion] on the target (max 2)",
+          "desc": "Coin Power +1 for every 6 [Combustion] on target (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1790,7 +1790,7 @@
                   "desc": "Deal +<style=\"highlight\">5</style>% more damage for every [Combustion] on target (max <style=\"highlight\">60</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Combustion], inflict +2 [Combustion] Count on the target<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 3,
           "name": "Flow of the Sword",
-          "desc": "If the target has 6+ [Combustion], Coin Power +1\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal 10 SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally",
+          "desc": "If target has 6+ [Combustion], Coin Power +1\nDeal +10% more damage for every 6 [Combustion] on target (max 30%)\n[EndSkill] Heal 10 SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1830,7 +1830,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2% more damage for every [Combustion] on the target (max 60%)"
+                  "desc": "Deal +2% more damage for every [Combustion] on target (max 60%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2"
@@ -1842,7 +1842,7 @@
         {
           "level": 4,
           "name": "Flow of the Sword",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on the target (max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on target (max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if target had 10+ [Combustion], heal 1 more ally",
           "coinlist": [
             {
               "coindescs": [
@@ -1868,7 +1868,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2% more damage for every [Combustion] on the target (max 60%)"
+                  "desc": "Deal +2% more damage for every [Combustion] on target (max 60%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2"
@@ -1885,7 +1885,7 @@
         {
           "level": 1,
           "name": "Flame Counter",
-          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on the target (max 10, once per turn)",
+          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (max 10, once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1906,7 +1906,7 @@
         {
           "level": 4,
           "name": "Flame Counter",
-          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on the target (max 15, once per turn)\n[WhenUse] If the target has 10+ [Combustion], deal +10% more damage",
+          "desc": "[BeforeHit] Gain Shield equal to [Combustion] on target (max 15, once per turn)\n[WhenUse] If target has 10+ [Combustion], deal +10% more damage",
           "coinlist": [
             {
               "coindescs": [

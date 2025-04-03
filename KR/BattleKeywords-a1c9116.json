@@ -44,7 +44,7 @@
     },
     {
       "id": "MiddleFingerBook",
-      "name": "복수 대상",
+      "name": "중지의 복수 대상",
       "desc": "최댓값 : 10\n중지 소속에게 공격당할 때, 받는 피해량 +3% (최대 30%)",
       "summary": "",
       "undefined": "-"

@@ -458,7 +458,7 @@
         {
           "level": 2,
           "name": "Lenticular Rend",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 7+ [Laceration], Clash Power +1</style>\n[WinDuel] Inflict 1 [Laceration]",
+          "desc": "<style=\"highlight\">[WhenUse] If target has 7+ [Laceration], Clash Power +1</style>\n[WinDuel] Inflict 1 [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -472,7 +472,7 @@
         {
           "level": 3,
           "name": "Lenticular Rend",
-          "desc": "[WhenUse_Force] <color=#EBCAA2>If the target has 7+ [Laceration], Clash Power +1</color>\n[WinDuel] Inflict 1 [Laceration]",
+          "desc": "[WhenUse_Force] <color=#EBCAA2>If target has 7+ [Laceration], Clash Power +1</color>\n[WinDuel] Inflict 1 [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -486,7 +486,7 @@
         {
           "level": 4,
           "name": "Lenticular Rend",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +<style=\"highlight\">2</style>\n[WinDuel] Inflict 1 [Laceration]",
+          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +<style=\"highlight\">2</style>\n[WinDuel] Inflict 1 [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -520,7 +520,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -544,7 +544,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -553,7 +553,7 @@
         {
           "level": 4,
           "name": "Shadow Cloud",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +2",
+          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -568,7 +568,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -582,7 +582,7 @@
         {
           "level": 3,
           "name": "Shadowcloud Shattercleave",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +1",
+          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -590,7 +590,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
                 }
               ]
             },
@@ -600,14 +600,14 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Laceration], inflict 1 Plus Coin Drop next turn"
                 }
               ]
             }
@@ -616,7 +616,7 @@
         {
           "level": 4,
           "name": "Shadowcloud Shattercleave",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +1\n[WhenUse] If the target has 10+ [Laceration], Coin Power +1",
+          "desc": "[WhenUse] If target has 7+ [Laceration], Clash Power +1\n[WhenUse] If target has 10+ [Laceration], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -624,7 +624,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
                 }
               ]
             },
@@ -634,7 +634,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], inflict 1 Offense Level Down next turn"
                 }
               ]
             },
@@ -644,7 +644,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has <style=\"highlight\">7</style>+ [Laceration], inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] If target has <style=\"highlight\">7</style>+ [Laceration], inflict 1 Plus Coin Drop next turn"
                 }
               ]
             }
@@ -693,7 +693,7 @@
         {
           "level": 2,
           "name": "Sabre Slash",
-          "desc": "[WhenUse] If the target has 6+ [Sinking], Coin Power +2",
+          "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -731,7 +731,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Sinking], gain 1 [Agility] next turn"
                 }
               ]
             },
@@ -752,7 +752,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Sinking], gain 1 [Agility] next turn"
                 }
               ]
             },
@@ -768,12 +768,12 @@
         {
           "level": 4,
           "name": "Remise",
-          "desc": "[WhenUse] If the target has 6+ [Sinking], Coin Power +1\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +2 [Sinking] Count",
+          "desc": "[WhenUse] If target has 6+ [Sinking], Coin Power +1\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +2 [Sinking] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Sinking], gain 1 [Agility] next turn"
                 }
               ]
             },
@@ -794,7 +794,7 @@
         {
           "level": 3,
           "name": "Nightmare Hunt",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[EndSkill] If the target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If the target is defeated, inflict +3 [Sinking] Count on 1 random enemy",
+          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[EndSkill] If target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If target is defeated, inflict +3 [Sinking] Count on 1 random enemy",
           "coinlist": [
             {
               "coindescs": [
@@ -829,7 +829,7 @@
         {
           "level": 4,
           "name": "Nightmare Hunt",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 3)\n[EndSkill] If the target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If the target is defeated, inflict +3 [Sinking] Count on 2 random enemies",
+          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 3)\n[EndSkill] If target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If target is defeated, inflict +3 [Sinking] Count on 2 random enemies",
           "coinlist": [
             {
               "coindescs": [
@@ -869,7 +869,7 @@
         {
           "level": 1,
           "name": "Do You Wish to Weep?",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Coin Power +1",
+          "desc": "[WhenUse] If target has 5+ [Sinking], Coin Power +1",
           "coinlist": [
             {}
           ]
@@ -914,7 +914,7 @@
         {
           "level": 2,
           "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -938,7 +938,7 @@
         {
           "level": 4,
           "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -991,7 +991,7 @@
         {
           "level": 2,
           "name": "Suffocating Guilt",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1015,7 +1015,7 @@
         {
           "level": 4,
           "name": "Suffocating Guilt",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and <style=\"highlight\">3</style> [BloodyHandGregFirst]",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and <style=\"highlight\">3</style> [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "The Unforgivable Sin",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1% more damage for every 1% missing HP on self (max 60%)\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1% more damage for every 1% missing HP on self (max 60%)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 4,
           "name": "The Unforgivable Sin",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal <style=\"highlight\">+1.5%</style> more damage for every 1% missing HP on self <style=\"highlight\">(max 90%)</style>\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n<style=\"highlight\">- If this unit consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal <style=\"highlight\">+1.5%</style> more damage for every 1% missing HP on self <style=\"highlight\">(max 90%)</style>\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n<style=\"highlight\">- If this unit consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
           "coinlist": [
             {
               "coindescs": [
@@ -1150,7 +1150,7 @@
         {
           "level": 1,
           "name": "Flamethrow",
-          "desc": "If the target has 6+ [Combustion], Coin Power +1",
+          "desc": "If target has 6+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1171,7 +1171,7 @@
         {
           "level": 2,
           "name": "Flamethrow",
-          "desc": "If the target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
+          "desc": "If target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1218,7 +1218,7 @@
         {
           "level": 1,
           "name": "I'll burn away every last drop of your filthy blood",
-          "desc": "If the target has 6+ [Combustion], Coin Power +1\nWhen in [FirePunchFuelOverheated] state, deal +10% more damage with Coins that consumed [FirePunchFuel]",
+          "desc": "If target has 6+ [Combustion], Coin Power +1\nWhen in [FirePunchFuelOverheated] state, deal +10% more damage with Coins that consumed [FirePunchFuel]",
           "coinlist": [
             {
               "coindescs": [
@@ -1245,7 +1245,7 @@
         {
           "level": 2,
           "name": "I'll burn away every last drop of your filthy blood",
-          "desc": "If the target has 6+ [Combustion], Coin Power +1\nCoins that consumed [FirePunchFuel] deal +10% more damage\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, deal +20% more damage instead</style>",
+          "desc": "If target has 6+ [Combustion], Coin Power +1\nCoins that consumed [FirePunchFuel] deal +10% more damage\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, deal +20% more damage instead</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1272,7 +1272,7 @@
         {
           "level": 4,
           "name": "I'll burn away every last drop of your filthy blood",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on the target (max 2)</style>\nCoins that consumed [FirePunchFuel] deal +<style=\"highlight\">15</style>% more damage\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">30</style>% more damage instead",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on target (max 2)</style>\nCoins that consumed [FirePunchFuel] deal +<style=\"highlight\">15</style>% more damage\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">30</style>% more damage instead",
           "coinlist": [
             {
               "coindescs": [
@@ -1304,7 +1304,7 @@
         {
           "level": 3,
           "name": "Firefist",
-          "desc": "If the target has 3+ [Combustion] Count, Coin Power +1\n[WhenUse] Base Power +1 for every 6 [Combustion] on the target (max 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +1% more damage for every [FirePunchFuel] consumed (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)\n[EndSkill] If the target is defeated, or if this Skill consumed [FirePunchFuel], gain 1 [HitDamageUp] next turn",
+          "desc": "If target has 3+ [Combustion] Count, Coin Power +1\n[WhenUse] Base Power +1 for every 6 [Combustion] on target (max 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +1% more damage for every [FirePunchFuel] consumed (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], gain 1 [HitDamageUp] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -1332,7 +1332,7 @@
         {
           "level": 4,
           "name": "Firefist",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] Count on the target (max 2)</style>\n[WhenUse] Base Power +1 for every 6 [Combustion] on the target (max <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">100</style>%)\n[EndSkill] If the target is defeated, or if this Skill consumed [FirePunchFuel], gain <style=\"highlight\">2</style> [HitDamageUp] next turn",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 3 [Combustion] Count on target (max 2)</style>\n[WhenUse] Base Power +1 for every 6 [Combustion] on target (max <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">100</style>%)\n[EndSkill] If target is defeated, or if this Skill consumed [FirePunchFuel], gain <style=\"highlight\">2</style> [HitDamageUp] next turn",
           "coinlist": [
             {
               "coindescs": [

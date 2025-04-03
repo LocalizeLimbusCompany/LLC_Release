@@ -279,6 +279,10 @@
     {
       "id": "Choosing",
       "content": "선택 중"
+    },
+    {
+      "id": "IntroduceSort_Release",
+      "content": "출시 순"
     }
   ]
 }

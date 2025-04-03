@@ -1499,6 +1499,14 @@
     {
       "id": "introduce_sentence_188",
       "content": "Focus on your business of the day, {0}."
+    },
+    {
+      "id": "introduce_word_189",
+      "content": "Book"
+    },
+    {
+      "id": "introduce_sentence_189",
+      "content": "Killing me won't clear your name off (the) {0}."
     }
   ]
 }

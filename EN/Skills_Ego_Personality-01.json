@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -27,7 +27,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -42,7 +42,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -65,7 +65,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -83,7 +83,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -101,7 +101,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -127,7 +127,7 @@
                   "desc": "If the main target is an ally, deal +8% more damage for every [BoseProjektil] (max 56%)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 2 [Breath] to self and 2 allies"
+                  "desc": "[AllyKill] Apply 2 [Breath] to self and 2 random allies"
                 },
                 {
                   "desc": "[AllyKillFail] Gain 1 [Breath]"
@@ -164,7 +164,7 @@
                   "desc": "If the main target is an ally, deal <style=\"highlight\">+10%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">70%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 allies<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 Affinity</style>"
@@ -204,7 +204,7 @@
                   "desc": "If the main target is an ally, deal <style=\"highlight\">+15%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">105%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 allies<style=\"highlight\"></style>"
+                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities</style>"
@@ -252,7 +252,7 @@
                   "desc": "If the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 2 [Breath] to self and 3 allies"
+                  "desc": "[AllyKill] Apply 2 [Breath] to self and 3 random allies"
                 },
                 {
                   "desc": "[AllyKill] The next Coin deals +2% more damage for every [BoseProjektil] (max 14%)"
@@ -298,7 +298,7 @@
                   "desc": "If the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">3</style> allies"
+                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">3</style> random allies"
                 },
                 {
                   "desc": "[AllyKill] The next Coin deals <style=\"highlight\">+5%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
@@ -347,7 +347,7 @@
                   "desc": "<style=\"highlight\">+30% Damage on Critical Hit</style>"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">4</style> allies"
+                  "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">4</style> random allies"
                 },
                 {
                   "desc": "[AllyKill] The next Coin deals <style=\"highlight\">+7%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">49%</style>)"
