@@ -1204,6 +1204,247 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "是你！",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +2\n[WhenUse] 使自身恢复5点理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 使目标增加1级流血 强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "是你！",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[WhenUse] 使自身恢复5点理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "是你！",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +5\n[WhenUse] 使自身恢复5点理智值\n- 若自身理智值为最大值，则改为使本技能的拼点威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加倍奉还吧",
+          "desc": "[WhenUse] 下回合使本技能对应行动槽的挑衅值 +2\n[StartBattle] 使本技能增加(最大共鸣数/3)级攻击等级(最多2级，向下取整)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若包括本技能在内共鸣数不低于4，则使本硬币造成的伤害+10%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "加倍奉还吧",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +3\n[StartBattle] 使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若包括本技能在内共鸣数不低于4，则使本硬币造成的伤害+15%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "加倍奉还吧",
+          "desc": "若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 下回合使本技能对应行动槽的挑衅值 +5\n[StartBattle] 使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)\n- 若该共鸣包括完全共鸣，则使以上效果增加的攻击等级变为2倍",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若包括本技能在内共鸣数不低于3，则使本硬币造成的伤害+20%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "铭刻于心",
+          "desc": "自身每带有2层[VengeanceBookSinclair]，使本技能造成的伤害+1%(最多+15%)\n若目标的流血 强度不低于6级，则使本技能的硬币威力+1\n[StartBattle] 使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "包括本技能在内共鸣数每有1点，使本硬币造成的伤害+2.5%(最多+15%)"
+                },
+                {
+                  "desc": "自身每带有10层[VengeanceBookSinclair]，使本硬币造成的伤害+7.5%(最多+22.5%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "铭刻于心",
+          "desc": "自身每带有1层[VengeanceBookSinclair]，使本技能造成的伤害+1%(最多+30%)\n目标每带有6级流血 强度，使本技能的硬币威力+1(最多+2)\n[StartBattle] 使本技能增加(最大共鸣数/2)级攻击等级(最多3级，向下取整)\n- 若该共鸣包括完全共鸣，则使以上效果增加的攻击等级变为2倍 ",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "包括本技能在内共鸣数每有1点，使本硬币造成的伤害+5%(最多+30%)"
+                },
+                {
+                  "desc": "自身每带有10层[VengeanceBookSinclair]，使本硬币造成的伤害+15%(最多+45%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "在东部大闹一场吧",
+          "desc": "[StartBattle] 使自身获得已失去体力20%的护盾(每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "在东部大闹一场吧",
+          "desc": "[StartBattle] 根据总计嫉妒共鸣数相应改变本技能效果\n- 总计不低于4时，反击时改为使用“加倍奉还吧”进行反击\n- 总计不低于6时，反击时改为使用“铭刻于心”进行反击\n(位于仪表盘左侧的技能优先触发，每回合最多触发2次)\n[StartBattle] 使自身获得已失去体力30%的护盾(每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级流血 强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -2119,7 +2119,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度."
+                  "desc": "[OnSucceedAttack] 下回合使目标增加2级流血 强度"
                 }
               ]
             }
@@ -2337,7 +2337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 ."
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层束缚 "
                 }
               ]
             }

@@ -323,6 +323,18 @@
     {
       "id": "push_notification_message_full_stamina_15_text",
       "content": "梅菲吃饱了。卡戎，可以布隆布隆了。"
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "选择自定义语言"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "选择自定义语言"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "※更改语言需要重启游戏来使改变生效。"
     }
   ]
 }

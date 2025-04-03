@@ -279,6 +279,10 @@
     {
       "id": "Choosing",
       "content": "选择中"
+    },
+    {
+      "id": "IntroduceSort_Release",
+      "content": "发行日期"
     }
   ]
 }

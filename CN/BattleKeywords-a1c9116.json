@@ -44,7 +44,7 @@
     },
     {
       "id": "MiddleFingerBook",
-      "name": "复仇对象",
+      "name": "中指的复仇对象",
       "desc": "最大值：10\n受到中指攻击时，使自身受到的伤害+3%(最多+30%)",
       "summary": "",
       "undefined": "-"

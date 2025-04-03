@@ -1499,6 +1499,14 @@
     {
       "id": "introduce_sentence_188",
       "content": "身为{0}，请专注于您的应尽之务。"
+    },
+    {
+      "id": "introduce_word_189",
+      "content": "账簿"
+    },
+    {
+      "id": "introduce_sentence_189",
+      "content": "就算我死了……你的名字也会留在{0}里。"
     }
   ]
 }
